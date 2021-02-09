@@ -1,0 +1,2 @@
+#+title: thermodynamic limit
+#+ROAM_TAGS: thermodynamics idealizations

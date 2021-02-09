@@ -1,0 +1,13 @@
+#+TITLE: Norton2012: Approximation and idealization: Why the difference matters
+#+ROAM_KEY: cite:Norton2012
+- tags ::
+- keywords :: reading,worthRevisiting
+
+* Approximation and idealization: Why the difference matters
+  :PROPERTIES:
+  :Custom_ID: Norton2012
+  :URL:
+  :AUTHOR: Norton, J. D.
+  :NOTER_DOCUMENT: /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/General/Explanation_Idealization/NortonJ_2012_Approximation_and_idealization_Why_the_difference_matters.pdf
+  :NOTER_PAGE:
+  :END:

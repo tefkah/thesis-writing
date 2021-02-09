@@ -1,0 +1,16 @@
+#+title: Big notes
+#+ROAM_TAGS: thesis
+
+* Big thoughts, small brain
+:PROPERTIES:
+:NOTER_DOCUMENT: /home/thomas/OneDrive/HPS/Thesis/notes.pdf
+:END:
+
+* eer
+** ererer
+*** erererere
+**** erereer
+
+**** * Gmm, it doesn't change the thing at all, feel liek that shouldnt be the bedoeling
+
+Sickkkkkkkk

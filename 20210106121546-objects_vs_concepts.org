@@ -1,0 +1,2 @@
+#+title: objects vs concepts
+#+ROAM_TAGS: vagueness
