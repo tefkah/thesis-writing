@@ -1,0 +1,17 @@
+#+title: Fractional quantum hall effect (meta)
+#+roam_tags: FQHE idealizations thesis
+
+* Papers
+
+** Philosophy
+
+- cite:Shech2019
+- cite:Shech2015a
+- cite:Bain2016
+- cite:saundersExplanationQuantumStatistics2006a
+
+cite:Shech2019
+
+** Science
+
+- cite:Tong2016

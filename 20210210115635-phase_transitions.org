@@ -1,0 +1,15 @@
+#+title: phase transitions
+#+roam_tags: meta thermodynamics thesis
+
+* Bibliography note on phase transitions
+
+** Philosophy
+- cite:Shech2013
+- cite:Menon2011
+- cite:Callender2001
+- cite:callenderReducingThermodynamicsStatistical1999a
+- cite:Norton2012
+
+** Science
+- cite:Sklar1999
+- cite:Kadanoff2009

@@ -1,0 +1,7 @@
+#+title: reconstruction of Shech 2019s argument
+#+roam_tags: meta EIA FQHE
+
+* Context
+
+For later reference, it will be useful to have a nice reconstruction of
+cite:Shech2019

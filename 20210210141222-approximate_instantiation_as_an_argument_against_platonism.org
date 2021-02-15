@@ -1,0 +1,5 @@
+#+title: approximate instantiation as an argument against Platonism
+#+roam_tags: approximation platonism
+
+* Context
+cite:Leng2012
