@@ -1,57 +1,18 @@
 #+title: inbox
 #+STARTUP: overview logrefile content showstars indent
-#+FILETAGS: inbox esn thesis jote
-#+TODO: NEXT TODO WAIT | DONE CANCELED TRASH
+#+FILETAGS: inbox esn thesis jote emacs home adhd notes
+#+TODO: NEXT TODO PROJ WAIT | DONE CANCELED TRASH
 
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-* TODO the difference between learning a language and acquiring a language is like the difference between getting a joke and having someone explain it to you
-/Entered on/ [2021-02-18 Thu 19:37]
-* TODO watching with subtitles is better than without
-/Entered on/ [2021-02-18 Thu 19:57]
-* TODO sign up for duolingo teacher
-/Entered on/ [2021-02-18 Thu 22:57]
-* TODO crazy 88 student motivation
-/Entered on/ [2021-02-18 Thu 22:57]
-* TODO in teacher manual: opzet les, specfieke vragen die misschien voorbij komen, tips voor opzoeken info, ervaring delen, valkuilen
-/Entered on/ [2021-02-18 Thu 22:58]
-* TODO get into chess a bit
-/Entered on/ [2021-02-19 Fri 09:29]
-* TODO ask zettelkasten reddit whether its useful to "preplan" notes with links in the note your writing
-/Entered on/ [2021-02-19 Fri 09:46]
-* TODO go through your notes and label them as good/bad/evergreen and/or original/non-original
-/Entered on/ [2021-02-19 Fri 12:19]
-* TODO create capture templates for original and non-original notes, and maybe for definitions or something
-/Entered on/ [2021-02-19 Fri 12:19]
-* TODO write a note on willpower being a finite resource
-/Entered on/ [2021-02-19 Fri 12:35]
-* TODO literature notes should have automatic space to write down a summary: this is the most important point of them
-/Entered on/ [2021-02-19 Fri 13:12]
-* TODO contribute to org roam server: one color, color by tag, straight edges
-/Entered on/ [2021-02-19 Fri 13:22]
-* TODO to get straightlines, turn off smoothness org roam server
-/Entered on/ [2021-02-19 Fri 13:28]
-* TODO  https://visjs.github.io/vis-network/examples/network/exampleApplications/lesMiserables.html
-/Entered on/ [2021-02-19 Fri 13:40]
-* TODO https://visjs.github.io/vis-network/examples/network/physics/physicsConfiguration.html
-/Entered on/ [2021-02-19 Fri 13:40]
-* TODO write up method of working out fqhe
-/Entered on/ [2021-02-19 Fri 14:04]
-* TODO obsidian features
-- stabilizes extremely quickly
-- strong link force
-- centers strongly
-- labels dissapear on when far out
-- different color based on link type (grey for annotations)
-- only color for the selected node
-- when moving, nodes dim
-/Entered on/ [2021-02-19 Fri 14:29]
-* TODO argument type: X is like Y. people dent like X but like Y. they cant do that, either both bad or none bad
-/Entered on/ [2021-02-19 Fri 15:18]
-* TODO  http://philsci-archive.pitt.edu/18631/?utm_source=dlvr.it&utm_medium=twitter check if useful
-/Entered on/ [2021-02-19 Fri 17:50]
-* TODO check if useful http://philsci-archive.pitt.edu/18709/?utm_source=dlvr.it&utm_medium=twitter
-/Entered on/ [2021-02-19 Fri 17:51]
-* TODO check if usefulhttp://philsci-archive.pitt.edu/18713/?utm_source=dlvr.it&utm_medium=twitter
-/Entered on/ [2021-02-19 Fri 17:51]
+* TODO find more concrete actions to take for QHE notes
+/Entered on/ [2021-03-01 Mon 10:35]
+* TODO tip phd: mail en bel met de commissie met vragen over het project
+/Entered on/ [2021-03-02 Tue 11:20]
+* TODO add the people from the dulaco mail to the teams
+/Entered on/ [2021-03-02 Tue 15:25]
+* TODO order meds
+/Entered on/ [2021-03-02 Tue 15:34]
+* Call doctor about ears being windy, eyes being fucky and medication being sucky
+[2021-03-08 Mon 13:34]

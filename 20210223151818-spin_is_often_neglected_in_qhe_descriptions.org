@@ -1,0 +1,8 @@
+#+title: spin is often neglected in QHE descriptions
+#+roam_tags: FQHE
+
+In [[file:20210218151906-descripion_of_qhe.org][descripion of QHE]],[[file:20210223152109-spin.org][spin]] is often completely left out of the picture, which one might think cause concern about the legitamicy of such issues.
+
+The reason this is done is because under the influence of a strong magnetic field, [[file:20210223152032-zeeman_splitting.org][Zeeman splitting]] occurs.
+This means that the energy levels of the up and down spin states differ by $\Delta=2\mu_BB= (2e\hbar/2m)B$.
+Since the magnetic fields in the Hall effects are very large, $\Delta$ will be very large as well. Furtermore, the energy of the particles under study are not that large, so almost all of them will stay in the lower spin state, which means that there is only one spin state to worry about, so we can somewhat justifiably neglect spin.

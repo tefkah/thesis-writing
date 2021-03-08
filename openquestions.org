@@ -1,0 +1,17 @@
+#+title: open questions for my thesis
+#+roam_tags: thesis
+#+TODO: OPEN(o) | CLOSED (c)
+
+* Context
+
+Whilst working on my thesis I occasionally come across things I cannot quite seem to answer. I want to keep track of those here, and possibly incorporate these into my agenda/actionables through a shortcut.
+
+
+* Questions
+** OPEN Is localized vs extended a sensible dichotomy? :IQHE:
+See [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_localized.org][impurities turn many quantum states from extended to localized]]
+/Asked On/ [2021-03-02 Tue 16:34]
+** OPEN Why do [[file:20210302164341-extended_states_conduct_more_when_less_populated.org][extended states conduct more when less populated]] :IQHE:
+/Asked On/ [2021-03-02 Tue 16:44]
+** OPEN Why iqhe so weird :IQHE:
+/Asked On/ [2021-03-02 Tue 16:59]

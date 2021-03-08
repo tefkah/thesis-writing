@@ -1,0 +1,10 @@
+#+title: universality
+#+roam_tags: universality
+
+* Context
+
+Universality is usually thought of in relation to physical systems exhibiting the same behavior regardless of microscopic makeup.
+
+
+* Bib
+cite:Batterman2001

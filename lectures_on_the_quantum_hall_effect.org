@@ -1,0 +1,21 @@
+#+TITLE: Tong2016: Lectures on the Quantum Hall Effect
+#+ROAM_KEY: cite:Tong2016
+- tags ::
+- keywords :: ⛔ No DOI found
+
+* Lectures on the Quantum Hall Effect
+  :PROPERTIES:
+  :Custom_ID: Tong2016
+  :URL: http://arxiv.org/abs/1606.06687
+  :AUTHOR: Tong, D.
+  :NOTER_DOCUMENT: /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf
+  :NOTER_PAGE:
+  :END:
+** ρ xy = 2π~ 1 e 2 ν ν ∈ Z
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00;;annot-13-7]]
+:ID:       /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf-annot-13-7
+:END:
+
+
+*

@@ -1,0 +1,24 @@
+#+title: impurities cause IQHE plateaux
+#+roam_tags: FQHE
+
+* Context
+
+In [[file:20210219125447-the_integer_quantum_hall_effect_iqhe.org][the Integer quantum hall effect (IQHE)]], plateaux in the transversal resistance are observed at integer multiples of the [[file:20210223141818-filling_factor.org][filling factor]], the number of particles in the Landau level over the total space in the [[file:20210223154027-landau_levels.org][Landau levels]]. While [[file:20210302154810-edge_modes_determine_the_values_of_the_iqhe_plateaux.org][edge modes determine the values of the IQHE plateaux]], they do not explain why these plateaux persist over a range of magnetic fields.
+
+* Body
+
+The short explanation goes as follows:
+
+#+transclude: t
+[[file:20210302155202-impurities_break_the_degeneracy_of_the_landau_levels.org][impurities break the degeneracy of the landau levels]]
+
+
+#+transclude: t
+[[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_localized.org][impurities turn many quantum states from extended to localized]]
+
+
+Then, when all the extended states get filled and the magnetic field gets turned down, there is less space in the Landau level for the extended state. However, instead of jumping to the next extended state, they jump to the localized ones. These localized states do not conduct and thus do not change the conductivity.
+
+The weird thing is that one would expect the resistivity to go down anyway, since the Landau level still holds fewer states. Strangely enough however
+#+transclude: t
+[[file:20210302164341-extended_states_conduct_more_when_less_populated.org][extended states conduct more when less]]

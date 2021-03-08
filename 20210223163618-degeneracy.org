@@ -1,0 +1,2 @@
+#+title: degeneracy
+#+roam_tags: definition physics

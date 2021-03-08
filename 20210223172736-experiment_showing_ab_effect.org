@@ -1,0 +1,7 @@
+#+title: Experiment showing AB effect
+#+roam_tags: AB
+
+An experiment which shows the AB effect goes as follows:
+
+Double slit experiment, but with an infinite solenoid behind the screen. Since the solenoid is infinite, the partimles never experience the magnetic field that goes through it, but still picks up a [[file:20210223170728-berry_phase.org][Berry phase]] difference depending on whether it goes through the top or bottom slit, which changes the interference pattern in a noticable way.
+But only when the flux is /not/ an integer multiple of $\phi_0$, the [[file:20210223164301-quantum_of_flux.org][quantum of flux]] .

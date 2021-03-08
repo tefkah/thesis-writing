@@ -1,0 +1,2 @@
+#+title: configuration space framework for identical particles
+#+roam_tags: topology
