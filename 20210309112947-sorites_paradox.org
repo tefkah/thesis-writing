@@ -1,0 +1,2 @@
+#+title: sorites paradox
+#+roam_tags: thesis vagueness

@@ -1,1 +1,6 @@
 #+title: quantum of resistance
+#+roam_tags: definition
+
+* Quantum of Resistance
+
+\[R_q=e^2\hbar/2\pi\]
