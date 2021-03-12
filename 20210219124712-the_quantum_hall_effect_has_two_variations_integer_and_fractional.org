@@ -11,8 +11,14 @@ The QHE has two variations, which occur for very different reasons.
 
 * [[file:20210219125447-the_integer_quantum_hall_effect_iqhe.org][the Integer quantum hall effect (IQHE)]]
 
-The integer quantum hall effect is the observation of plateaux and valleys at integer multiples of the quantum of resitance.
+The integer quantum hall effect is the observation of plateaux and valleys at integer multiples of the quantum of resistance.
 
 * [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]]
 
-The fractional quantum hall effect is the observation of similar, but usually more subtle plateaux and valleys at (simple) fractional multiples of the quantum of resitance.
+The fractional quantum hall effect is the observation of similar, but usually more subtle plateaux and valleys at (simple) fractional multiples of the quantum of resistance.
+
+* Differences
+
+[[file:20210309161230-iqhe_has_no_electron_interactions_fqhe_does.org][IQHE has no electron interactions, FQHE does]]
+
+[[file:20210309161322-reasoning_of_fqhe_is_less_rigorous_than_iqhe.org][reasoning of FQHE is less rigorous than IQHE]]

@@ -9,7 +9,7 @@
   :URL: http://arxiv.org/abs/1606.06687
   :AUTHOR: Tong, D.
   :NOTER_DOCUMENT: /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf
-  :NOTER_PAGE:
+  :NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00]]
   :END:
 ** ρ xy = 2π~ 1 e 2 ν ν ∈ Z
 :PROPERTIES:
@@ -17,5 +17,8 @@
 :ID:       /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf-annot-13-7
 :END:
 
-
+** The Laughlin wavefunction for the FQHE might not have a lot of overlap, but we can treat it as being in the same [[file:20210218172455-universality.org][universality]] class as the true ground state!
+:PROPERTIES:
+page 79
+:END:
 *

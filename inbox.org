@@ -6,13 +6,5 @@
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-* TODO find more concrete actions to take for QHE notes
-/Entered on/ [2021-03-01 Mon 10:35]
-* TODO tip phd: mail en bel met de commissie met vragen over het project
-/Entered on/ [2021-03-02 Tue 11:20]
-* TODO add the people from the dulaco mail to the teams
-/Entered on/ [2021-03-02 Tue 15:25]
-* TODO order meds
-/Entered on/ [2021-03-02 Tue 15:34]
-* Call doctor about ears being windy, eyes being fucky and medication being sucky
-[2021-03-08 Mon 13:34]
+* maak factuur JOTE
+[2021-03-12 Fri 16:19]

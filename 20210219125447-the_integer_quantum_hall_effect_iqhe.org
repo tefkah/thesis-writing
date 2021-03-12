@@ -14,7 +14,7 @@ These plateaux ccur at the integer multiples of the quantum of resistance
 
 :NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00;;annot-13-7]]
 
-In fact, these plateaux are so flat, and their associated $\nu$, called the [[file:20210223141818-filling_factor.org][filling factor]], is measured so accurately, that the IQHE is used to /determine/ the quantum of resitance, therefore the $\nu$ s are by definition integers (or at least the first one). (Interesting enough to warrant its own note, see [[file:20210223142404-the_filling_factor_is_integer_by_definition.org][the filling factor is integer by definition]] )
+In fact, these plateaux are so flat, and their associated $\nu$, called the [[file:20210223141818-filling_factor.org][filling factor]], is measured so accurately, that the IQHE is used to /determine/ the quantum of resitance, therefore the $\nu$ s are by definition integers (or at least the first one). (Interesting enough to warrant its own note, see [[file:20210223142404-the_filling_factor_is_integer_by_definition_because_quantum_of_resistance_is_defined_by_qh_experiments.org][The Filling Factor Is Integer by Definition Because Quantum of Resistance is Defined by QH experiments]] )
 
 
 One interesting feature of the IQHE is that [[file:20210223142953-disordered_systems_exhibit_iqhe_more_strongly.org][disordered systems exhibit IQHE MORE strongly]], thus it seems plausible that the mechanism behind the IQHE will somehow require a certain degree of disorder in its description.

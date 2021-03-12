@@ -1,2 +1,0 @@
-#+title: fractional quantum statistics
-#+roam_tags: FQHE definition

@@ -19,5 +19,5 @@ The longitudinal resistance turns out to vanish when the Hall resistance is a mu
 
 $\nu$ is called the filling factor, its the ratio between the filled and empty electron states, and has both fractional and integer values, shockingly called the integer and fractional quantum hall effect respectively.
 
-The FQHE is said to be explained by using quasiparticles interacting with impurities. These quasiparticles have[[file:20210218152830-fractional_quantum_statistics.org][fractional quantum statistics]]  and are thus [[file:20210218152909-anyons.org][anyons]].
+The FQHE is said to be explained by using quasiparticles interacting with impurities. These quasiparticles have[[file:20210218152830-fractional_quantum_statistics_is_the_study_of_anyons.org][fractional quantum statistics is the study of anyons]]  and are thus [[file:20210218152909-anyons.org][anyons]].
 

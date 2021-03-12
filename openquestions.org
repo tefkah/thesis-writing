@@ -15,3 +15,13 @@ See [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_l
 /Asked On/ [2021-03-02 Tue 16:44]
 ** OPEN Why iqhe so weird :IQHE:
 /Asked On/ [2021-03-02 Tue 16:59]
+** OPEN  [[file:20210309161743-is_the_neglection_of_electron_interactions_in_iqhe_justified.org][is the neglection of electron interactions in IQHE justified?]]
+ [2021-03-09 Tue 16:20]
+** OPEN why is $R_i R_{i+1} R_i = R_{i+1} R_i R_{i+1}$ ?
+ [2021-03-11 Thu 14:46]
+** OPEN Is "the worldlines not getting entangled" not enough of an explanation for anyons? Do particles need to be 2D in order for there worldlines to get tangly?
+ [2021-03-11 Thu 14:46]
+** OPEN Do anyons /always/ occur at partially filled Landau levels?
+ [2021-03-12 Fri 12:24]
+** OPEN [[file:20210312123438-where_does_the_hole_wf_come_from.org][where does the hole WF come from?]]
+ [2021-03-12 Fri 12:34]

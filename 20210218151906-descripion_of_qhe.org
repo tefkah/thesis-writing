@@ -20,13 +20,15 @@ The longitudinal resistance turns out to vanish when the Hall resistance is a mu
 
 $\nu$ is called the filling factor, its the ratio between the filled and empty electron states, and has both fractional and integer values, shockingly called the integer and fractional quantum hall effect respectively.
 
-The FQHE is said to be explained by using quasiparticles interacting with impurities. These quasiparticles have[[file:20210218152830-fractional_quantum_statistics.org][fractional quantum statistics]]  and are thus [[file:20210218152909-anyons.org][anyons]].
+The FQHE is said to be explained by using quasiparticles interacting with impurities. These quasiparticles have[[file:20210218152830-fractional_quantum_statistics_is_the_study_of_anyons.org][fractional quantum statistics is the study of anyons]]  and are thus [[file:20210218152909-anyons.org][anyons]].
 
 The precision of the quantized Hall effect is particularly surprising because the hall resistance is normally very sensitive to small changes.
 
 Apparently doesnt care about specifics -->[[file:20210218172455-universality.org][universality]]
 
 **[[file:20210219124712-the_quantum_hall_effect_has_two_variations_integer_and_fractional.org][ the quantum hall effect has two variations, integer and fractional]]
+
+[[file:20210311101513-the_value_of_the_qhe_plateaux_are_independent_of_the_sample.org][the value of the QHE plateaux are independent of the sample]]
 
 * Bib
 
