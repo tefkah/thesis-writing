@@ -1,0 +1,6 @@
+#+title: magnetic length
+#+roam_tags: definition physics
+
+\[l_B=\sqrt{\hbar/eB}=25,7\text{nm}/\sqrt{B[T]} \]
+
+The magnetic lenght is such that the flux which threads a surface equal to $2\pil_B^2$ is the [[file:20210223164301-quantum_of_flux.org][quantum of flux]]

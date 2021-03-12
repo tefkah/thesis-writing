@@ -1,0 +1,26 @@
+#+title: stuck in my thesis hub
+#+roam_tags: meta thesis
+
+
+This meta note is here in order to get me back on track when I forget what my thesis is about and what the hell I'm doing even.
+
+* This is what you are interested in:
+
+#+transclude: t
+[[file:20201221125304-transitions_from_continuity_to_the_discrete_are_not_possible.org][Transitions from continuity to the discrete are not possible]]
+
+
+* These are good points you made you keep forgetting
+#+transclude: t
+[[file:20210309112810-inf_id_are_similar_to_sorites_because_both_have_disc_trans.org][inf id are similar to sorites because both have disc trans]]
+
+* This is good advice you or someone else gave you that is worth recapping
+
+#+transclude: t
+[[file:20210204155921-if_you_cant_loop_back_to_your_introduction_make_shit_up_in_your_conclusion.org][if you cant loop back to your introduction, make shit up in your conclusion]]
+
+#+transclud_ t
+[[file:20210309145524-writing_sucks_that_s_why_you_should_do_it.org][writing sucks, that's why you should do it]]
+
+#+transclude t
+[[file:20210219115500-a_good_note_should_be_concise_future_text_oriented_and_your_own_words.org][a good note should be concise, future text oriented, and your own words]]

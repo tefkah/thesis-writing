@@ -1,0 +1,4 @@
+#+title: Is "Braids are not Getting Untangled" a Good Enough FQHE Explanation?
+#+roam_tags: central FQHE
+
+* Is the fact that anyonic worldlines /do/ not disentangle, as opposed to "not being able to disentangle" (in 2D) good enough to explain anyons?

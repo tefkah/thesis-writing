@@ -1,0 +1,10 @@
+#+title: the Aharonov Bohm effect (AB)
+#+roam_tags: definition FQHE
+
+* The Aharonov Bohm effect
+
+The Aharonov Bohm effect is the phenomenon in which particles ONLY sense a [[file:20210223161622-gauge_potential.org][gauge potential]] field and because of this pick up a [[file:20210223170728-berry_phase.org][Berry phase]], which then leads to interference.
+
+The classical example has two particles go through the double slit experiment, but behind the slits there's an infinite solenoid through which a magnetic field is pushed, leading to a potential field $\textbf{A}$ and a flux $\phi$ which are experienced by the particles, unlike the magnetic field $\mathbf{B}$, which leads to them picking up a phase and changing the interference pattern in a measurable way.
+
+The main conclusion of this is that the potential field has physical effects.

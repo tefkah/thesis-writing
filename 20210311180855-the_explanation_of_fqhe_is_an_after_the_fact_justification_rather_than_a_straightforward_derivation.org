@@ -1,0 +1,10 @@
+#+title: The Explanation of FQHE is an After the Fact Justification Rather Than a Straightforward Derivation
+#+roam_tags: FQHE
+
+* The Explanation of FQHE is an After the Fact Justification Rather Than a Straightforward Derivation
+
+Contrary to what Shech's account of the FQHE ([[file:20210216120554-notes_on_shechs_description_of_fqhe.org][notes on Shechs description of FQHE]]) might suggest, the common explanation of said effect is not at all like a prediction or theoretic framework built upon one solid idealization, namely that of the 2D nature of the system. Rather it is a combination of approximations, handwave-y analogies and downright questionable assumptions which allow us to /intuit/, not derive, what could perhaps happen at the plateaux of the FQHE.
+
+This is in contrast to the explanations offered for the IQHE.
+
+One example of this is that not only [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed.org][the wavefunction of the FQHE is GUESSED]], but that the [[file:20210311182119-the_laughlin_wf_only_applies_to_v_1_m.org][the Laughlin WF only applies to v=1/m]]

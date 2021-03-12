@@ -1,0 +1,9 @@
+#+title: the value of the QHE plateaux are independent of the sample
+#+roam_tags: FQHE
+
+* The value of the plateaux of the quantum hall effect are independent of the makeup of the sample
+
+This is a good argument for [[file:20210218172455-universality.org][universality]]
+
+* Source
+cite:Stern2008a

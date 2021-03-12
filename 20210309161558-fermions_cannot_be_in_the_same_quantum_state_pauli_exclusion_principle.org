@@ -1,0 +1,2 @@
+#+title: fermions cannot be in the same quantum state (Pauli Exclusion Principle)
+#+roam_tags: theorem physics

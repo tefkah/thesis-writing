@@ -1,0 +1,45 @@
+#+title: Quasi-things Have Charge e/m
+#+roam_tags: anyons FQHE
+
+* Quasi-holes/particles carry charge e/m
+
+** Intuition
+This can be "intuited" by looking at the WF of the hole ([[file:20210312123438-where_does_the_hole_wf_come_from.org][where does the hole WF come from?]])
+\begin{equation}
+    \psi_{hole}(z_i) = \prod_{i=1}(z_i-\eta)\prod_{k<l}(z_k-z_l)^m e^{\sum_{i=1}^n \abs{z_i}^2/4l_B^2}
+    \label{eq:holeLWF}
+\end{equation}
+
+
+ or, more generally, the WF of many holes
+\begin{equation}
+    \psi_{M-hole}(z_i) = \prod_{j=1}^M \prod_{i=1}^N(z_i-\eta)\prod_{k<l}(z_k-z_l)^m e^{\sum_{i=1}^n \abs{z_i}^2/4l_B^2}
+    \label{eq:manyholeLWF}
+\end{equation}
+
+We note that if $M=m$, the WF will simply look like
+
+\begin{equation}
+    \psi_{m-hole}(z; \eta) = \prod_{i=1}^N (z_i-\eta)^m \prod_{k<l} (z_k-z_l)^m e^{\sum_{i=1}^n \abs{z_i}^2/4l_B^2}
+    \label{eq:holeiselectronLWF}
+\end{equation}
+
+If we squint our eyes and look at \eta as another electron, then this would simply be the N+1 LWF. But it's not, \eta is the absence of an electron. Since $m$ $\eta$s make one 'electron', it's reasonable to assume that one \eta has charge $q=e\m$.
+
+** Berry Connection
+The above "proof" is rather shoddy. However, we can make a more educated guess by looking using the [[file:20210312130104-berry_connection.org][Berry Connection]]
+
+However, this is too difficult to calculate, so we need to
+#+transclusion: t
+[[file:20210312122144-screening_allows_us_to_calculate_the_berry_connection.org][Screening Allows us to Calculate the Berry Connection]]
+
+which ends up being
+\begin{align}
+    \mathcal{A}_{\eta_i} =& -\frac{i}{2m}\sum_{j\neq i} \frac{1}{\eta_i-\eta_j}+\frac{i\bar{\eta}_i}{4ml_B^2}//
+    \mathcal{A}_{\bar{\eta}_i} =& ++\frac{i}{2m}\sum_{j\neq i} \frac{1}{\bar{\eta}_i-\bar{\eta}_j}-+\frac{i\eta_i}{4ml_B^2}
+    \label{eq:berryconnection}
+\end{align}
+
+...
+
+Tada we get the right answer
