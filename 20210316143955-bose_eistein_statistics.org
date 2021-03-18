@@ -1,0 +1,4 @@
+#+title: Bose-Eistein Statistics
+#+roam_tags: definition
+
+$\Psi_{21}=\Psi_{12}

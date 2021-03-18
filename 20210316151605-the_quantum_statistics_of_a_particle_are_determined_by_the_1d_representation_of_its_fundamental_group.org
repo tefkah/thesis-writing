@@ -1,0 +1,6 @@
+#+title: The Quantum Statistics of a Particle are Determined by the 1D representation of its Fundamental Group
+#+roam_tags: source_missing theorem
+
+* The QS of the exchange of two identical particles are determined by the 1D rep of the fundamental group of that exchange
+
+The [[file:20210316143742-quantum_statistics.org][Quantum Statistics]] of the exchange of two identical particles are determined by the [[file:20210316151908-1d_representation_of_a_group.org][1D Representation of a Group]]  of the [[file:20210218153905-fundamental_group.org][fundamental group]] of said exchange.

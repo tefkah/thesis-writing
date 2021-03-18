@@ -1,10 +1,22 @@
 #+title: inbox
 #+STARTUP: overview logrefile content showstars indent
-#+FILETAGS: inbox esn thesis jote emacs home adhd notes
+#+FILETAGS: inbox esn thesis jote emacs home adhd notes customization
 #+TODO: NEXT TODO PROJ WAIT | DONE CANCELED TRASH
 
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-* maak factuur JOTE
-[2021-03-12 Fri 16:19]
+* fix drive notifications so the dont get spammed
+[2021-03-15 Mon 12:39]
+* society for the metaphysics of science
+[2021-03-15 Mon 18:53]
+* 5 april 4 uur TTTT
+[2021-03-15 Mon 19:02]
+* make thumbnails for YT ESN
+[2021-03-16 Tue 12:16]
+* GPL for academic research
+[2021-03-16 Tue 16:15]
+* Create ToC for Tong's Lecture Notes
+[2021-03-17 Wed 11:55]
+* Writing down your thoughts not only makes you more likely to remember them or be able to find them back, it also deepens your understanding by forcing you to rephrase things in a manner you understand
+[2021-03-17 Wed 11:56]

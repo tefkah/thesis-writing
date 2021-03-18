@@ -1,0 +1,11 @@
+#+title: Fractional Quantum Statistics
+#+roam_tags: physics definition anyons
+
+* Fractional quantum statistics is gaining a phase \neq \pm 1 after exchanging two identical particles
+
+FQS is a specific form of [[file:20210316143742-quantum_statistics.org][Quantum Statistics]], the phase factor identical particles pick up after exchange, which give rise to a new type of particle called [[file:20210218152909-anyons.org][anyons]]. Anyons differ from particles with[[file:20210316143955-bose_eistein_statistics.org][ Bose-Eistein Statistics]] or [[file:20210316144058-fermi_dirac_statistics.org][Fermi-Dirac Statistics]] , i.e. [[file:20210218153456-bosons.org][bosons]] and [[file:20210218153430-fermions.org][fermions]], as the phase factor they pick up after exchange is
+
+\begin{equation}
+\Psi_{21}=e^{i2\pi\alpha}\Psi{12}\quad \alpha\in(0,1)
+    \label{eq:FQS}
+\end{equation}

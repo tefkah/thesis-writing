@@ -12,7 +12,7 @@ This meta note is here in order to get me back on track when I forget what my th
 
 * These are good points you made you keep forgetting
 #+transclude: t
-[[file:20210309112810-inf_id_are_similar_to_sorites_because_both_have_disc_trans.org][inf id are similar to sorites because both have disc trans]]
+[[file:20210309112810-infinite_idealizations_resemble_sorites_because_both_have_discontinuous_transitions.org][inf id are similar to sorites because both have disc trans]]
 
 * This is good advice you or someone else gave you that is worth recapping
 

@@ -1,0 +1,4 @@
+#+title: Fermi-Dirac Statistics
+#+roam_tags: definition physics
+
+$\Psi_{21}=-\Psi{12}$
