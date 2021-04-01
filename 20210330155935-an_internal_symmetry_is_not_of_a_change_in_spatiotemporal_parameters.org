@@ -1,0 +1,2 @@
+#+title: An internal symmetry is not of a change in spatiotemporal parameters
+#+roam_tags: design symmetry

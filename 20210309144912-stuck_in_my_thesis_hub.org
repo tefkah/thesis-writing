@@ -14,6 +14,9 @@ This meta note is here in order to get me back on track when I forget what my th
 #+transclude: t
 [[file:20210309112810-infinite_idealizations_resemble_sorites_because_both_have_discontinuous_transitions.org][inf id are similar to sorites because both have disc trans]]
 
+[[file:20210319114828-the_discretization_of_quantum_states_is_the_biggest_discontinuity_in_physics.org][The Discretization of Quantum States is the biggest discontinuity in physics]]
+
+
 * This is good advice you or someone else gave you that is worth recapping
 
 #+transclude: t

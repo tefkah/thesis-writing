@@ -1,0 +1,2 @@
+#+title: Global symmetries are invariant over spacetime
+#+roam_tags: symmetry

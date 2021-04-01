@@ -7,4 +7,4 @@ Contrary to what Shech's account of the FQHE ([[file:20210216120554-notes_on_she
 
 This is in contrast to the explanations offered for the IQHE.
 
-One example of this is that not only [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed.org][the wavefunction of the FQHE is GUESSED]], but that the [[file:20210311182119-the_laughlin_wf_only_applies_to_v_1_m.org][the Laughlin WF only applies to v=1/m]]
+One example of this is that not only [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed_from_general_grounds.org][the wavefunction of the FQHE is GUESSED]], but that the [[file:20210311182119-the_laughlin_wf_only_applies_to_v_1_m.org][the Laughlin WF only applies to v=1/m]]

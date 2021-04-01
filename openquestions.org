@@ -29,3 +29,9 @@ See [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_l
  [2021-03-16 Tue 14:49]
 ** OPEN (difficult) How can a states go from unquantized to quantized under the influence of an magnetic field at all? This is the more fundamental difficulty
  [2021-03-17 Wed 12:00]
+** OPEN Is the FQHE Toy Hamiltonian derived from the LWF or the other way around, like Ronnie suggested? The latter seems more plausible but I think it is actually the former
+ [2021-03-19 Fri 10:05]
+** OPEN Why does being able to continuously connect the spacetime path to the situation where the paricles dont moce at all imply that the state is  "the same" as not rotating at all?
+ [2021-03-22 Mon 14:56]
+** OPEN there seems to be an argument against my take on 3D fractional stats being possible. However, this relies on spin, which we are neglecting? Otherwise i think quasiholes have fractional spin anyway. https://en.wikipedia.org/wiki/Spin%E2%80%93statistics_theorem
+ [2021-03-22 Mon 15:26]

@@ -1,0 +1,4 @@
+#+title: internal symmetry
+#+roam_tags: definition physics
+
+[[file:20210330155935-an_internal_symmetry_is_not_of_a_change_in_spatiotemporal_parameters.org][An internal symmetry is not of a change in spatiotemporal parameters]]

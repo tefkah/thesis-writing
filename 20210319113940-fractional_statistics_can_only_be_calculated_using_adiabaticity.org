@@ -1,0 +1,10 @@
+#+TITLE: Fractional statistics can only be calculated using adiabaticity
+#+roam_tags: anyons FQHE
+
+* Fractional statistics can only be calculated using the assumption of adiabaticity
+
+[[file:20210316143612-fractional_quantum_statistics.org][Fractional Quantum Statistics]] that appear in the quantum hall effect are calculated with the [[file:20210312130104-berry_connection.org][Berry Connection]]  using the assumption of [[file:20210223171329-adiabatic_theorem_quantum.org][adiabatic theorem (quantum)]], which says that a things won't move out of the ground state if you move it very slowly.
+
+This might be a problem as [[file:infinite_idealizations.org][Norton2014: Infinite Idealizations]] because [[file:20210319114314-adiabaticity_is_an_infinite_idealization.org][Adiabaticity is an infinite idealization]]. Since I am examining infinite idealiziatons and Shech is arguing for an infinite idealization using this assumption, he might be once again spinning in circles.
+
+However, [[file:20210319114521-the_adiabatic_theorem_might_not_be_an_inf_id_because_it_only_guarantees_something_that_might_happen_anyway.org][The Adiabatic Theorem might not be an Inf Id because it only guarantees something that might happen anyway]]

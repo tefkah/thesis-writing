@@ -1,0 +1,14 @@
+#+title: Attack Shech's CF approach  by showing his commitments, or by defending my premise
+#+roam_tags: anyons
+
+* I can either attack cite:Shech2019   [[file:20210327154504-the_configuration_space_explanation_of_anyons.org][The configuration space explanation of anyons]] by showing that he has a certain commitment that he's not saying, or by convincing the reader that my way of viewing the problem is better
+
+#+transclude: t
+[[file:20210330145048-the_configuration_space_explanation_approach_requires_a_certain_stance_on_the_ontology_of_symmetries.org][The configuration space explanation approach requires a certain stance on the ontology of symmetries]]
+
+If this is so, I can attack Shech's argument in two ways
+
+1. I can show that he presupposes that symmetries are ontological in some way.
+   From here I can either show that this begs the question, as whether or not things such as mathematical structures can be ontological is the very thing under discussion, or
+2. I can show that this leads to undesirable commitments.
+   This might be more difficult however, as one of the most obvious undesirable commitments would be a rampant realism, but that is not so undesirable as that is, again, the thing in question.

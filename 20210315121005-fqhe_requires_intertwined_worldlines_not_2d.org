@@ -7,15 +7,18 @@ cite:Shech2019 claims the following:
 
 
 However, this is interpreting
-
+#+transclude: t
 [[file:20210316150917-interwined_worldlines_lead_to_fractional_statistics.org][Interwined Worldlines Lead to Fractional Statistics]]
 
 only in the first way, which I do not believe is necessary. If we look at it like the second way, we see that there is no need for us to assume that the configuration space is /exactly/ 2D: what is needed is that the worldlines DO NOT disentangle, not the claim that they are not able to disentangle in principle.
 
 It seems plausible to me that
+#+transclude: t
 [[file:20210316153041-thin_conducting_slab_and_strong_magnetic_field_cause_undisentangalable_worldlines.org][Thin Conducting Slab and Strong Magnetic Field Cause Undisentangalable Worldlines]]
 
 If this is true, then there exists no conflict between the seemingly 2D behavior of the particles in FQHE and the actual 3D configuration space of the electrons, and no wild conclusions have to be drawn.
 
 I belief mixing this up is due to a fallacy I will dub
+
+#+transclude: t
 [[file:20210316153501-the_fallacy_of_mathematics_wip.org][The Fallacy of Mathematics (WIP)]]

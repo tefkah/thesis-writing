@@ -1,0 +1,4 @@
+#+title: Global symmetry
+#+roam_tags: definition symmetry
+
+[[file:20210330160547-global_symmetries_are_invariant_over_spacetime.org][Global symmetries are invariant over spacetime]]

@@ -1,0 +1,7 @@
+#+title: Problems with the DN model
+#+roam_tags: explanation
+
+* Common problems with the [[file:20210330165010-the_deductive_nomological_model_of_explanation.org][The deductive-nomological model of explanation]]
+
+1. It's symmetric, but [[file:20210330165733-explanation_is_asymmetric.org][Explanation is asymmetric]]
+2. It cannot identify false explanations.

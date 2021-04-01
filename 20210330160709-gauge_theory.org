@@ -1,0 +1,4 @@
+#+title: Gauge theory
+#+roam_tags: definition physics
+
+A gauge theory is any theory with a [[file:20210330155645-gauge_symmetry.org][Gauge symmetry]].

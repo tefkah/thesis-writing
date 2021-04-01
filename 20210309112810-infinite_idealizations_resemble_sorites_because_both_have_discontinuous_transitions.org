@@ -1,4 +1,4 @@
-#+title: Infinite Idealizations Resemble Sorites Because Both Have Discontinuous Transitions
+#+title: Infinite idealizations resemble Sorites because both have discontinuous transitions
 #+roam_tags: vagueness central thesis
 
 

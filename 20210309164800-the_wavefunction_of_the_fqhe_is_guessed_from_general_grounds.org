@@ -1,0 +1,13 @@
+#+title: The wavefunction of the FQHE is GUESSED from general grounds
+#+roam_tags: FQHE
+
+[[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]] is just guessed for the FQHE $\approx10^{11}$ and was pretty close.
+
+However, the guess, is not "just a guess", it is based on the following considerations:
+
+- [[file:20210311183548-every_qh_wf_must_have_the_form_f_z_z1_zn_exp_sum_zi_2.org][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
+- [[file:20210311183858-every_qh_wf_must_be_antisymmetric.org][Every QH WF must be antisymmetric]]
+- It has to fit a specific toy model
+
+
+What's more, the LWF is not even that good of an approximation, instead it is the WF of a fake Hamiltonian.

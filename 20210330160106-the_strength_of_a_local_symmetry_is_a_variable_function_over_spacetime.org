@@ -1,0 +1,2 @@
+#+title: The strength of a local symmetry is a variable function over spacetime
+#+roam_tags: symmetry

@@ -1,0 +1,9 @@
+#+title: Physical theories must be globally symmetric and can be locally symmetric
+#+roam_tags: physics symmetry
+
+* Physical theories /must/ be [[file:20210330160455-global_symmetry.org][Globally]] symmetric, and /can/ be [[file:20210330160020-local_symmetry.org][Locally]] symmetric
+
+This is because we cannot directly observe local symmetries and have to add a dynamical priciple which takes them into account.
+
+* Ref
+cite:Kosso2000
