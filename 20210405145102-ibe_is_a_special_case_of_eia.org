@@ -1,0 +1,9 @@
+#+title: IBE is a special case of EIA
+#+roam_tags: IBE explanation EIA
+
+* Inference to the best explanation is a special case of the indispensability argument
+
+
+* Ref
+cite:Colyvan2019 and
+cite:Field1989 11-20

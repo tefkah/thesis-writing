@@ -1,0 +1,4 @@
+#+title: A knot is a braid connected back to itself
+#+roam_tags: topology definition braid
+
+A knot is a braid connected back to itself, the strand on the left at the top connected to the strand at the bottom left.

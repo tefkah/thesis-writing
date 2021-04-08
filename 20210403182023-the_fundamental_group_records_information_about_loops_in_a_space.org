@@ -1,0 +1,2 @@
+#+title: The fundamental group records information about loops in a space
+#+roam_tags: topology

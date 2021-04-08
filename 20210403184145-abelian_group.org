@@ -1,0 +1,6 @@
+#+title: Abelian group
+#+roam_tags: definition "group theory"
+
+An *Abelian group* is a [[file:20210403175539-group.org][Group]]  $G={f_1,...,f_i,...; \ocircle}$ whose multiplication operation is [[file:20210403184255-commutation.org][Commutative]], i.e.
+
+\[\forall i,j \quad f_i \ocircle f_j = f_j \ocircle f_i\]

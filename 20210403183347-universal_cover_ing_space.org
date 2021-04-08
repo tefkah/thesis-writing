@@ -1,0 +1,6 @@
+#+title: Universal cover(ing space)
+#+roam_tags: definition topology
+
+A [[file:20210403183001-covering_space.org][Covering space]] is called a *universal covering space* if it is [[file:20210403183452-simply_connected.org][Simply connected]].
+
+It's called that way because the universal cover covers any connected cover.

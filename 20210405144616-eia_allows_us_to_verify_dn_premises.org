@@ -1,0 +1,13 @@
+#+title: EIA allows us to verify DN premises
+#+roam_tags: EIA explanation
+
+* The EIA allows uh to verify DN premises
+
+[[file:20210330165010-the_deductive_nomological_model_of_explanation.org][The deductive-nomological model of explanation]] is like
+1. True events
+2. True law of nature
+C. Prediction of event.
+
+Thus, C is explained by 1 \and 2.
+
+What EIA does is look at DN and make up a story that allows us to predict C, then says "1 and 2 are true because they explain C". This is weird.

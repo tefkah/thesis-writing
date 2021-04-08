@@ -1,0 +1,7 @@
+#+title: Commutation
+#+roam_tags: definition
+
+*Commutation* is a property of functions and a multiplication states.
+
+Two functions $A$ and $B$ *commute* under an operation $\ocircle$ iff
+\[A \ocircle B = B \ocircle A\]
