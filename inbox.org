@@ -6,6 +6,7 @@
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-* respond to Jeff
-
-[2021-03-30 Tue 11:04]
+* read Open Source v. Open Scholarship
+[2021-04-06 Tue 09:56]
+* diagnose slow emacs startup time
+[2021-04-06 Tue 09:57]
