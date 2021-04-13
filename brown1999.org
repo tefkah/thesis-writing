@@ -1,0 +1,18 @@
+#+TITLE: Brown1999: Remarks on identical particles in de Broglie-Bohm theory
+#+ROAM_KEY: cite:Brown1999
+
+- tags ::
+- keywords :: anyon, fqhe, guido
+
+
+* Interesting
+They provide a reason for why to get rid of the points $\Delta$ using de Broglie Bohm theory.
+
+* Remarks on identical particles in de Broglie-Bohm theory
+  :PROPERTIES:
+  :Custom_ID: Brown1999
+  :URL:
+  :AUTHOR: Brown, Sjoqvist, Bacciagaluppi
+  :NOTER_DOCUMENT:
+  :NOTER_PAGE:
+  :END:
