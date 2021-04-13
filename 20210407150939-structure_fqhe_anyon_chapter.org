@@ -1,2 +1,300 @@
 #+title: Structure FQHE/anyon chapter
 #+roam_tags: chapter anyons FQHE
+
+
+
+* The Fractional quantum hall effect and its discontents
+
+** 1.1. What is the Fractional Quantum Hall Effect
+
+IN 1982 some physicists did an experiment that gave a rather surprising result, weird plateaux.
+
+** 1.2. Why is it useful to look at
+
+The FQHE has some interesting features which we should examine, specifically the way it is explained.
+
+Its explanation has a number of interesting features. For one, it is fairly nonrigorous. Secondly, it purportedly shows the existance of new kinds of particles, called anyons. Anyons will be the real focus in what is to follow.
+
+** 1.3 What are anyons
+
+Anyons are particles which have different statistics than fermions and bosons, which roughly corresponds with saying that they can have any kind of spin. As such they behave very differently, and might prove promising for a number of applications such as stable quantum computing.
+
+What makes them interesting as a case study here is that the commonly accepted explanation for anyons states that they are not able to exist in 3 dimensions, only being possible in 2 dimensions. This is very intersting, because the world we know is 3D, how can it possibly be that these particles are 2D?
+
+The reason this is especially interesting is that were this to be so, we would have a very clearly observable case of a discontinuous change of a very continuous parameter: the crossing of the boundary between 2D and 3D. This boundary crossing has a couple of different qualities that make it an excellent case study
+
+1. The change is rather dramatic: getting rid of a whole dimension is no easy feat.
+2. The explanation for anyons is somewhat controversial, meaning that there is a lot of different viewpoints
+3. The difficulty of this problem is usually waved away by physicists by saying that the problem is actually just /effectively 2D/, meaning that the system is 3D but just behaves in a 2D fashion. This is usually not onderbouwd however.
+
+Remember the main trilemma we find ourselves in when discussing such a boundary. If we have a binary property dependent on a continuously varying parameter, we (or so I wish to show) have one of three choices for drawing a line
+1. The parameter $x$ is not a continuous but a discrete parameter. This allows us to draw the line with arbitrary precision somewhere
+2. The  parameter $x$ is continuous, and either $\not P$ or $P$ is true $\forall x$
+3. The parameter $x$ is continuous and we do not really care about whether $P \or \not P$ is /really/ true, nor care about where the line is really drawn, we just have cases where the line is definitely drawn and once where it is unclear. We give up the binary nature of $P$.
+
+The case of the anyon presents itself as either 2/3 (The system is not 2D but 3D and effectively 2D) or as one which falls outside of these categorizations, that is: it's interesting. The former is what physicists usually argue but do not practice (they do not provide an adequate characterization, as I shall show) while the latter is the argument made by  cite:Shech2019, which I will examine in great detail in the rest of this chapter.
+
+** 1.4 Sorry, what was this about the quantum hall effect again?
+
+The astute reader may have noticed that the characterization of anyons given above does not refer to the quantum hall effect at all! This is true: anyons were independently theorized by .... in 1978. However, as we know from the LHC experiments looking for supersymmetry, theorizing is fun but we do need some experimental confirmation.
+
+The FQHE does not per se rely on anyons for its explanation, rather it shows that the mechanism which gives rise to the effect are anyonic interactions.
+
+I argue that we cannot look at the way anyons are theorized through constructing configuration spaces without looking at how this might physically manifest itself in the lab.
+
+One objection to this reasoning is that it would bias the investigation in "my" favor, namely that I would think the explanation to be unsatisfactory regardless because we cannot manifest (such) a 2D system in a 3D world. This is a fair concern, so I propose a "bet" of sorts: if I am not able to find and alternative characterization of how effective 2D systems would give rise to anyons, I will accept that the system is exactly and not approximately 2D.
+Having 2D systems, while not fitting in our current worldview as snugly as I would like, would open the door to a lot of interesting new physics.
+
+On the other hand, if I do succeed in providing an agreeable characterization of effective 2D, then this would deepen our understanding of such effects much more (wow great sentence), open up that black box so to say, and perhaps allow us to more easily construct such systems later due to our deepened understanding.
+
+To do so does require us to look at the FQHE in depth however, which we will do now.
+=Why do we need to look at this=
+
+
+*  The quantum hall effect
+
+** Once again, what is it
+
+*** Classical Hall effect
+
+[[file:20210218152105-classical_hall_effect.org][classical hall effect]]
+
+*** Preliminaries
+
+**** What do we want!? "Quantization!" When do we want it!? "After gaining a thorough understanding of why it is necessary!"
+ To understand the QHE, we must first grasp the fundamental mechanism through which it can arise in the first place, namely the quantization of energy states of electrons when subject to a constant magnetic field. These specific energy eigenstates are called /[[file:20210223154027-landau_levels.org][Landau levels]]/, and deriving and gaining a general understanding of them will be our first task.
+
+ Note that the existence of these energy levels is neither trivial nor unsurprising: a free particle (such as (roughly) one normally found in a strip of metal) is not quantized.
+
+**** Getting an idea of things
+
+ Before doing so, it is useful to describe the CHE in more detail, as while the description given earlier about the potential difference arising from a Lorentz force makes intuitive sense, it is not nearly rigorous enough to allow us to derive the QHE. What we want at this stage is an expression for the transversal and longitudinal conductance, from which we can plot the expected classical potential difference vs the strenght of the magnetic field.
+#+transclude: t hlevel: 5
+[[file:20210218152105-classical_hall_effect.org][classical hall effect]]
+
+
+**** Quantization
+
+ The (literal) textbook approach we will follow here is describing the classical system first and then quantizing it. The rough steps required are to first compute the [[file:20210223154511-lagrangian.org][Lagrangian]] of the classical system, use that to compute its [[file:20210317122727-hamiltonian.org][Hamiltonian]], from which we can derive the [[file:20210317122807-poisson_brackets.org][Poisson Brackets]]. Then, we treat the Hamiltonian as if it were quantum, use the Poisson Brackets as the [[file:20210317122922-canonical_commutation_relation.org][Canonical Commutation Relation,]] rewrite the Hamiltonian in a form we understand (as always, the [[file:20210317123047-harmonic_oscillator.org][Harmonic Oscillator]]), and use that Hamiltonian to construct the [[file:20210317123126-hilbert_space.org][Hilbert Space]] from which we can read the energy levels. Sounds simple enough, right?
+
+
+ First, let us recap the Lagrangian of a particle in a magnetic field.
+$L = T - V$
+$T=1/2 m\dot{x}^2$
+$V = e \dot{x}\cdot \textbf{A}$
+
+\begin{equation}
+    L=\frac{1}{2}m \dot{\textbf{x}}^{2}-e \dot{\textbf{x}}\cdot \textbf{A}
+    \label{eq:lagrmag}
+\end{equation}
+
+
+ From here we can derive the Hamiltonian
+\[H= \dot{\textbf{x}} \cdot \textbf{P} -L = \dot{\textbf{x}} \frac{\partial L}{\partial \dot{\textbf{x}}} - L = .....    \]
+\begin{equation}
+   H = \frac{1}{2m} (\textbf{p} + e \textbf{A})^{2}
+    \label{eq:classHamMag}
+\end{equation}
+
+ Using the Hamiltonian it is easy to derive the Poisson Bracket structure.
+Little sidenote about why that is important.
+\begin{equation}
+    \{F(x,y),G(x,y)\}=\frac{\partial F}{\partial x}\frac{\partial G}{\partial y} - \frac{\partial F}{\partial y}\frac{\partial G}{\partial x}
+    \label{eq:poissonbrackets}
+\end{equation}
+
+
+\begin{equation}
+    \{x_i, p_j\}=\delta_{ij} \text{   with    } \{x_i,x_j\}=\{p_i,p_j\}=0
+    \label{eq:poissonmag}
+\end{equation}
+
+Coool
+
+
+  Now we can move on to the quantum side, which means we can take over \ref{eq:magham} and substitute the functions for quantum operators.
+\begin{equation}
+    H=\frac{1}{2m}(\hat{\textbf{p}} + e \hat{\textbf{A}} )^{2}
+    \label{eq:quantumMagHam}
+\end{equation}
+
+We take Gauge $\nabla \times \hat{\textbf{A}}= B \hat{z}$
+
+And get canonical commutation relations
+
+\begin{equation}
+    [x_i, p_j]=i\hbar\delta_{ij} \text{   with   } [x_i, x_j]=[p_i,p_j]=0
+    \label{eq:ccr}
+\end{equation}
+
+Then we do raising lowering, find the hamiltonian and then
+
+\begin{equation}
+    E_n=\hbar\omega_B \Big(n+\frac{1}{2} )\quad n \in \mathbb{N}
+    \label{eq:landaulevels}
+\end{equation}
+
+Astute readers might have noticed that, suprisingly, the spin of the particles has not been mentioned once so far! This is because we can relatively safely neglect it as a good approximation, as the effect of spin on the energy states smoothly becomes less and less prominent the higher the strength of the magnetic field is.
+
+An additionally seemingly important detail is the fact that the Hall System is taken to be in 2D from the start.
+
+
+
+**** Dawdling
+Now that we have developed a base-level understandig of the (quantum) mechanics at play in the effect in general, it is time to turn our attention to the matter at hand: understanding the Quantum Hall system.
+
+
+***  Integer vs Fractional
+
+Integer is somewhat interesting but only insofar as it allows us to sort of get why the plateuax are there, although this explanation does not really work for the FQHE as it does not take electron interactions into account which are crucial
+#BEGIN_COMMENT
+[[file:20210219124712-the_quantum_hall_effect_has_two_variations_integer_and_fractional.org][the quantum hall effect has two variations, integer and fractional]]
+#+END_COMMENT
+**  IQHE
+
+
+***  Landaus
+
+#+transclude: t :hlevel 4
+[[file:20210223154027-landau_levels.org][Landau levels]]
+
+#+transclude: t :hlevel 4
+[[file:20210223165225-landau_levels_in_an_electric_field.org][Landau levels in an electric field]]
+#+transclude: t :hlevel 4
+[[file:20210223163548-landau_states_have_a_large_degeneracy.org][Landau states have a large degeneracy]]
+
+#+transclude: t :hlevel 4
+[[file:20210223160810-derivation_of_landau_levels_for_qhe.org][derivation of Landau levels for QHE]]
+
+
+***  Why are the plateaux at those levels?
+
+Edge modes
+#+transclude: t :hlevel 5
+[[file:20210302154810-edge_modes_determine_the_values_of_the_iqhe_plateaux.org][edge modes determine the values of the IQHE plateaux]]
+
+***  Wait... why are there plateaux anyways?
+Impurities
+#+transclude: t :hlevel 5
+[[file:20210223142953-disordered_systems_exhibit_iqhe_more_strongly.org][disordered systems exhibit IQHE MORE strongly]]
+#+transclude: t :hlevel 5
+ [[file:20210302155202-impurities_break_the_degeneracy_of_the_landau_levels.org][impurities break the degeneracy of the landau levels]]
+
+#+transclude: t :hlevel 5
+ [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_localized.org][impurities turn many quantum states from extended to localized]]
+
+
+ However, some of the lessons learned from the effect do prove useful, such as why the plateaux a) have the value they have and b) why the plateaux persist over a wideish range of magnetic field strengths.
+
+    There are two difficulties however with using lessons from the IQHE in the fqhe effect
+The Integer explanation relies on the fact that there are (small) impurities in the sample. However, we know that the FQHE only occurs when the sample is /very/ pure, so the explanation in both cases will likely be different
+ The explanation of the IQHE purposefully neglects the interactions electrons have with each other, which is a) unrealistic and b) unneglectable when talking about the FQHE, as it plays a key role in lifting the degeneracy of the Landau states.
+
+***** For those reasons we will be skipping a thorough examination of the Integer Quantum Hall Effect and jump straight into the FQHE
+
+
+** FQHE in depts
+
+*** Adding electron interaction
+#+transclude: t :hlevel 5
+[[file:20210309161322-reasoning_of_fqhe_is_less_rigorous_than_iqhe.org][reasoning of FQHE is less rigorous than IQHE]]
+#+transclude: t :hlevel 5
+[[file:20210311180855-the_explanation_of_fqhe_is_an_after_the_fact_justification_rather_than_a_straightforward_derivation.org][The Explanation of FQHE is an After the Fact Justification Rather Than a Straightforward Derivation]]
+#+transclude: t :hlevel 5
+[[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]]
+#+transclude: t :hlevel 5
+[[file:20210309161230-iqhe_has_no_electron_interactions_fqhe_does.org][IQHE has no electron interactions, FQHE does]]
+
+*** The Ugly: Idealizations, Idealizations Everywhere
+
+ Perhaps the most striking difference in the derivation of the FQHE as opposed to the IQHE is the rigour of reasoning used in the former. Unlike its Integer Counterpart, the "explanation" much less resembles, well, a derivation, and is better characterized as a "motivation" instead, using a combination of handwaving, squinting at equations and plain stubbornness to finally get a result which is in the same ~ballpark~ solar system as what we would imagine an proper explanation to be.
+
+ It would do us well to list the most egregious ones first, so they are not able to sneak up on us in the end.
+#+transclude: t hlevel: 5
+[[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed_from_general_grounds.org][The wavefunction of the FQHE is GUESSED from general grounds]]
+
+#+transclude: t
+[[file:20210311184105-the_fqh_state_is_interpreted_as_a_plasma_to_allow_for_intuitions.org][The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation]]
+
+  The LWF is not even an actual ground state of the FQH Hamiltonian, instead from it we derive a Toy Hamiltonian of which the LWF is the ground state, bringing us even further from our goal.
+
+#+transclude: t
+[[file:20210319113940-fractional_statistics_can_only_be_calculated_using_adiabaticity.org][Fractional Statistics can Only be Calculated Using Adiabaticity]]
+
+Using these assumptions/idealizations however, we can make it plausible that FQ statistics are happening, I don't think we will use much more.
+
+ The wavefunction under consideration is called the Laughlin Wave Function, thought up by >>Laughlin in 1983 after the experimental observation of the FQHE in 1982 by ...
+
+ Wavefunction is not derived analytically, because hard, and not through perturbation theory because with 10^11 particles perturbations are not small. Instead it is guessed and shown to be similar enough to the actual WF to be useful.
+$N=\frac{AB}{\phi_0}e^-$
+$\hbar\omega_B >> E_{cont}>>V_{disorder}$
+The Laughlin WF only applies to the filling fractions of $\nu=\frac{1}{m}$
+
+ How is it guessed? We need to start with a simplyfying toy model in order to make sense of this, the ol' magnetic annulus.
+
+If we use [[file:20210223170018-symmetry_gauge.org][symmetry gauge]] we get that
+\[\hat{\textbf{A}}=-\frac{1}{2} \hat{\textbf{r}}\times \textbf{B} = -\frac{yB}{2}\hat{x}+\frac{xB}{2}\hat{y}
+\]
+
+Using these assumptions, if we /insist/ that we are in the lowest Landau Level (LLL), we are able to write down the WFs for /any/ 2 particle wavefunction, regardless of the potential
+
+\begin{equation}
+    \Psi(z_1, z_2)= (z_1-z_2)^m e^{-\sum_{i=1}^N |z_i|^2/4l_B^2}
+    \label{eq:2pLWF}
+\end{equation}
+where $m$ is the proportion of the denominator of the filling factor.
+Isn't that neat.
+
+ From here Laughlin guessed his WF from two general points of reference:
+#+transclude: t :hlevel 7
+[[file:20210311183858-every_qh_wf_must_be_antisymmetric.org][Every QH WF must be antisymmetric]]
+
+#+transclude: t :hlevel 7
+[[file:20210311183548-every_qh_wf_must_have_the_form_f_z_z1_zn_exp_sum_zi_2.org][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
+
+ From this we arrive at...
+#+transclude: t :hlevel 7
+[[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]]
+
+We see that it fulfills both requirements, but is that enough?
+
+
+
+
+*** Excitations
+
+Excitations
+#+transclude: t :hlevel 5
+[[file:20210312122743-excitations_of_the_lwf_ground_state_give_rise_to_quasi_holes_particles.org][Excitations of the LWF Ground State Give Rise to Quasi-holes/particles]]
+
+#+transclude: t :hlevel 5
+Something about the holes
+
+#+transclude: t :hlevel 5
+Something about the ground state of the hamiltanian being different
+
+#+transclude: t :hlevel 5
+[[file:20210311184105-the_fqh_state_is_interpreted_as_a_plasma_to_allow_for_intuitions.org][The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation]]
+
+#+transclude: t :hlevel 5
+[[file:20210312121728-the_fqh_plasma_is_liquid_for_m_70_and_solid_above.org][The FQH "Plasma" Is Liquid for m<70 and Solid Above]]
+
+
+*** Anyons and fractional charge, finally
+
+#+transclude: t
+These holes have fractional charge
+
+#+transclude: t
+Handwavey fractional charge explanation
+
+**** Berry phase etc
+#+transclude: t :hlevel 5
+[[file:20210312130104-berry_connection.org][Berry Connection]]
+
+
+
+* The explanation of anyons
+
+#+transclude: t :hlevel 2
+[[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]

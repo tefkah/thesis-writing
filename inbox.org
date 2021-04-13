@@ -6,7 +6,15 @@
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-* read Open Source v. Open Scholarship
-[2021-04-06 Tue 09:56]
-* diagnose slow emacs startup time
-[2021-04-06 Tue 09:57]
+* clean desk
+[2021-04-12 Mon 19:13]
+* message violet
+[2021-04-12 Mon 19:13]
+* water plants
+[2021-04-12 Mon 19:13]
+* make presentation jote publishers
+[2021-04-12 Mon 19:13]
+* find out how to express the wavefunction in the z direction for the quantum hall effect
+[2021-04-13 Tue 18:28]
+* it's very important to have an image in your head about what something could look like if you want to change it
+[2021-04-13 Tue 18:38]
