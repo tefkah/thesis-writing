@@ -1,0 +1,13 @@
+#+title: Complement
+#+roam_tags: definition
+
+* Complement of a set
+
+Given a set $X$, we can define the *complement* of the subset $A \subseteq X$, denoted $A^c$, as
+\begin{equation}
+A^c = {x \in X | x \notin A}
+    \label{eq:complement}
+\end{equation}
+all the points in the set $X$ that are not in $A$.
+
+If $A=X$, then $A^c=\emptyset$

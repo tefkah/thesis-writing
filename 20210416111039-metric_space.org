@@ -1,0 +1,15 @@
+#+title: Metric Space
+#+roam_tags: "functional analysis" topology definition
+
+* Metric Space
+
+A *metric space* $M$ is a tuple containing a set $X$ and a *metric* $d$ which measures distances. The metric is defined as
+\begin{equation}
+d: X\times X \rightarrow [0,\infty)
+    \label{eq:metric}
+\end{equation}
+which has to fulfill the following criteria
+1) *Positive Definiteness* $d(x,y)=0\quad\leftrightarrow\quad x=y$
+    The distance between $x$ and $y$ is $0$ if and only if $x$ is equal to $y$
+2) *Symmetry* $d(x,y)=d(y,x)$
+3) *Triangle Inequality* $d(x,y) \leq d(x,z) + d(z,y)$

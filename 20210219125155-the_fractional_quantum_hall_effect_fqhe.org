@@ -1,6 +1,7 @@
 #+title: the Fractional quantum hall effect (FQHE)
 #+roam_tags: definition FQHE
 
+* The Fractional Quantum Hall Effect
 
 The fractional quantum hall effect is the surprising observation of peaks and valleys at (simple) fractional multiples of the quantum of resistance in the transversal and longitudinal resistance of a thin piece of conducting material subject to a strong magnetic force in perpendicular to the direction of current.
 

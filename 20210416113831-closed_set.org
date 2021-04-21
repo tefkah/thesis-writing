@@ -1,0 +1,4 @@
+#+title: Closed set
+#+roam_tags: "functional analysis" topology definition
+
+Given a [[file:20210416111039-metric_space.org][Metric Space]] $(X,d)$, a subset $A\subseteq X$ is called *closed* if its [[file:20210416113423-complement.org][Complement]] $A^c$ is an [[file:20210416112309-open_set.org][Open set]].

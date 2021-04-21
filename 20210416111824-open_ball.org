@@ -1,0 +1,10 @@
+#+title: Open ball
+#+roam_tags: "functional analysis" topology definition
+
+* Open ball
+
+Given a [[file:20210416111039-metric_space.org][Metric Space]] $r(X,d)$, an *open ball* $B_\epsilon(x)$ is the set of all points for which are "within" a certain distance of $x$, such that
+\begin{equation}
+B_\epsilon(x):=\{y\in X | d(x,y)<\epsilon\}
+    \label{eq:openball}
+\end{equation}

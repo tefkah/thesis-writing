@@ -1,6 +1,8 @@
 #+title: Landau levels
 #+roam_tags: definition
 
+* Landau Levels
+
 Landau levels are the energy levels which arise when an otherwise free particle is subjected to a (strong?) magnetic field.
 
 Landau levels are derived from the [[file:20210223154859-general_lagrangian_for_free_particles_in_a_magnetic_field.org][general Lagrangian for free particles in a magnetic field.]] For a particle with charge $-e$ and mass $m$ moving in a background magnetic field  $\mathbf{B}=\nabla\times A$ the Lagrangian is

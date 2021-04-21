@@ -1,0 +1,14 @@
+#+title: Open set
+#+roam_tags: "functional analysis" topology definition
+
+* Open set
+
+Given a [[file:20210416111039-metric_space.org][Metric Space]] $(X,d)$, a set $A\subseteq X$ is called an *open set* if
+\begin{equation}
+\forall x \in A, \exists B_\epsilon(x) \subseteq A
+    \label{eq:openset}
+\end{equation}
+if for each point in $A$ there exists an [[file:20210416111824-open_ball.org][Open ball]] which is a subset of $A$.
+
+Another way of phrasing this is that $A$ is open if it doesn't have a [[file:20210416114103-boundary.org][Boundary]], or more specifically if its boundary does not lie within itself, such that
+$$A \cap \partial A = \emptyset$$

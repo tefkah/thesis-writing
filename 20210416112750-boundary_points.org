@@ -1,0 +1,13 @@
+#+title: Boundary points
+#+roam_tags: "functional analysis" topology definition
+
+* Boundary points
+
+Given a [[file:20210416111039-metric_space.org][Metric Space]] $(X,d)$ and a subset $A \subseteq X$, we say that a point $x \in X$ is called a *boundary point for $A$* if
+\begin{align}
+\forall \epsilon > 0 : & B_\epsilon(x) \cap A \neq \emptyset &  \text{ and}\\
+          & B_\epsilon(x) \cap A^c \neq \emptyset &
+    \label{eq:boundarypoint}
+\end{align}
+
+If all [[file:20210416111824-open_ball.org][Open ball]]s around $x$ contain points from $A$ and its [[file:20210416113423-complement.org][Complement]]

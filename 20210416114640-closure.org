@@ -1,0 +1,12 @@
+#+title: Closure (set)
+#+roam_tags: "functional analysis" topology definition
+
+* Closure (set)
+
+The *closure* $\bar{A}$ of a subset $A$ of a [[file:20210416111039-metric_space.org][Metric Space]] $(X,d)$ is the smallest [[file:20210416113831-closed_set.org][Closed set]] containing $A$, which is the union of $A$ and its [[file:20210416114103-boundary.org][Boundary]].
+\begin{equation}
+\bar{A}:=A\cup\partial A
+    \label{eq:closure}
+\end{equation}
+
+Example: The closure of $(0,1)\in \mathbb{R}  $ is $[0,1]$

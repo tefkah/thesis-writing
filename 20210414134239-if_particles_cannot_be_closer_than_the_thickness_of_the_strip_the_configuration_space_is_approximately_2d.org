@@ -1,0 +1,34 @@
+#+title: If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D
+#+roam_tags: FQHE anyons
+
+* If particles cannot come closer than the width of the strip in the FQHE, the system can be said to be approximately 2D
+
+One possibility for arguing for the approximate instantiation of the Braid group would be to show that the configuration space can still be 3D but that the "worldlines" (paths) still get intertwined, that way giving rise to the Braid group structure anyway. The property to be exploited to give this result is the non-0D nature of the particles under question, thus giving rise to a non-1D worldline.
+
+While according to all our best scientific theories electrons (and probably also the proposed anyons under question) are understood as point-particles under second quantization. Thus, /prima facie/, it does not seem likely to treat them as something else. However, two factors work in our favor here:
+1. The Pauli exclusion principle in combination with the inherent uncertainty in position
+2. The fact that the particles under question have like charge and would thus not be able to move arbitrarily close to one another.
+
+Both of these will be argued for in more detail below, but for now I claim that /if/ $\exists a\geq \beta\in \mathbb{R} \quad \Psi(r\leq a)=0$, where \beta is the then it's possible to see the system as being approximately two-dimensional.
+
+The reasoning underlying this is that if the minimum distance between the particles is greater then the "height" of the configuration space, the 3d configuration space becomes multiply connected as well.
+
+Imagine a box with a billiard ball in the middle which pokes out of the top and bottom, this is a reasonable model for now for the possible configurations of the particles. We need three conditions
+1. $\Psi(r_i\geq b_i)=0$ where $b_i \quad i=x,y,z$ are the dimensions of the quantum hall system. This basically says: the probability of finding the particle outside the quantum hall system is $0$, which is not exactly true but for now works as a useful assumption, modeling the boundaries of the system as an infinite potential well
+2. $\Psi(|r|\leq a)=0$, where $a$ is some real number
+3. $b_x, b_y\geq a \geq b_z$ (or really any of the dimensions, it just needs to be )
+
+This creates a sphere of forbidden particle positions around the origion (where the particles are near one another), which we can model as subtracting those points  $\sigma$ from the configuration space. Since \sigma encompasses the points \Delta, we can leave out \Delta. Furthermore, since we are excising the points outside of the QH system, we need to replace $\mathbb{R}^{3}$ with $\mathbb{B}^3$, which are the points ranging from $[-\frac{b_i}{2},+\frac{b_i}{2}] \quad i=x,y,z$ being the limits of the system. It's /2 in order to have the origin be set at zero. Thus creating our new configuration space
+\begin{equation}
+\tilde{Q}'= \frac{\mathbb{B}^{3} -\sigma   }{S_N}
+    \label{eq:goodconf}
+\end{equation}
+
+=Not entirely accurate yet, as this allows for some positions outside the system=
+
+[[./media/ballspace.png]]
+#+caption: Exaggerated representation of $\tilde{Q}'$
+#+attr_latex: scale=0.75
+#+label: fig:ballspace
+
+$\tilde{Q}'$ is clearly non-simply connected, as there are loops that can be formed around the center of the space which cannot possibly be deformed into a point.
