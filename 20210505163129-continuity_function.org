@@ -1,0 +1,10 @@
+#+title: Continuity (function)
+#+roam_tags: continuity functions definition mathematics
+
+* Continuity (function)
+
+** Topological definition (Munkres)
+
+Let $X$ and $Y$ be [[file:20210403182645-topological_space.org][Topological space]]s. A function $f: X \rightarrow Y$ is said to be *continuous* if for each [[file:20210416112309-open_set.org][open subset]] $V\subseteq Y$, the [[file:20210505162715-preimage.org][Preimage]] $f^{-1}(V)$ of $V$ is an open subset of $X$.
+
+So a function is continuous is open sets map onto open sets (roughly, technically it's that open sets are mapped to by open sets, you could have open sets which map onto closed sets, just as long you don't have closed sets which map onto open sets. Why is that? What does this have to do with continuity as you would normally define it?)

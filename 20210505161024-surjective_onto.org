@@ -1,0 +1,14 @@
+#+title: Surjective / Onto
+#+roam_tags: functions definition mathematics
+
+* Surjective / Onto
+
+A [[file:20210505155407-function_mapping.org][function/mapping]] $f:A \rightarrow B$ is called *surjective* or *onto* if every element in $B$ is the [[file:20210505155223-image.org][Image]] of some element in $A$.
+
+\[
+\forall b\in B \quad \exists a \in A:\quad b=f(a)
+\]
+
+Note that this does not mean that each $a$ uniquely maps to an $f(a)$, for instance the function $f: \mathbb{R} \rightarrow \mathbb{R} = x^2$ maps both $1$ and $-1$ $\in A$ to $1$ $\in B$.
+
+This happens if the function is both surjective and [[file:20210505160649-injective.org][Injective / one-to-one]], and it is then called [[file:20210505161103-bijective_one_to_one_correspondence.org][Bijective / One-to-one-correspondence]].

@@ -1,0 +1,7 @@
+#+title: Regions are a vague concept
+#+roam_tags: AB anyons idealization vagueness
+
+* What a "spacetime region" is is vague
+
+This is relevant for cite:Dougherty2020b 's claim that the topological explanation of the AB effect just requires a "region" of non-multiply connectedness, not a whole configuration space.
+This seems kind of suspicious, as what a region is is kind of vague, so I don't think we can definitely say whether a path goes through it or not.

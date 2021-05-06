@@ -1,0 +1,6 @@
+#+title: singular limit
+#+roam_tags: definition idealizations
+
+* Singular Limits
+
+When the sequence of system does not smoothly approach the infinite limit system.

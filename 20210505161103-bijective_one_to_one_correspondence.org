@@ -1,0 +1,9 @@
+#+title: Bijective / One-to-one-correspondence
+#+roam_tags: mathematics definition functions
+
+* Bijective
+
+A function $f: A \rightarrow B$ is called *bijective* iff it is both [[file:20210505160649-injective.org][Injective / one-to-one]] and [[file:20210505161024-surjective_onto.org][Surjective / Onto]].
+
+When this happens, all elements of $B$ have a unique element in $A$ which corresponds to it.
+This allows us to define the [[file:20210505161914-inverse_function.org][Inverse function]]

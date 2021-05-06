@@ -1,0 +1,8 @@
+#+title: Equivalence Classes are either disjoint or equal
+#+roam_tags: theorem mathematics
+
+
+* Equivalence classes are either disjoint or equal
+
+[[file:20210505153349-equivalence_class.org][Equivalence Class]]
+[[file:20210505153840-disjoint.org][Disjoint]]

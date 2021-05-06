@@ -1,0 +1,6 @@
+#+title: Empty set
+#+roam_tags: mathematics definition
+
+* Empty set
+
+The empty set $\emptyset$ is the set with no elements, $\{\}$

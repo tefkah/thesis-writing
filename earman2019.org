@@ -1,0 +1,22 @@
+#+TITLE: Earman2019: The role of idealizations in the AharonovBohm effect
+#+ROAM_KEY: cite:Earman2019
+
+#+ROAM_TAGS: reference explanation anyons idealization abeffect
+
+
+* The role of idealizations in the AharonovBohm effect
+  :PROPERTIES:
+  :Custom_ID: Earman2019
+  :DOI:  http://dx.doi.org/10.1007/s11229-017-1522-9
+  :AUTHOR: Earman, J.
+  :NOTER_DOCUMENT:
+  :NOTER_PAGE:
+  :END:
+
+
+
+* Summary
+
+
+
+* Rough note space

@@ -1,0 +1,26 @@
+#+title: Naming and Infinity
+#+author: Thomas F. K. Jorna
+#+ROAM_TAGS: thesis
+#+startup: latexpreview
+
+#+latex_header: \documentclass{tufte-book}
+#+latex_header: \usepackage{glossaries}
+#+latex_header: \makeglossaries
+#+latex_header:
+
+#+latex_header_extra: \newglossaryentry{gloss}{name={ary},description={This is a glossary link}}
+
+\maketitle
+
+Blah blah blah let me seeeeeeeeee
+
+[[gls:gloss][ary]]
+
+gls:gloss
+
+#+latex: \newpage
+#+latex: \printglossaries
+
+#+include: "./proselikeintrobackup.org"
+#+include: "./20210120112816-small_sample_on_infinite_vs_normal_idealization.org"
+#+include: "./20210407150939-structure_fqhe_anyon_chapter.org"

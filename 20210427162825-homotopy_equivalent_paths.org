@@ -1,0 +1,4 @@
+#+title: Homotopy equivalent paths
+#+roam_tags: definition topology
+
+* Homotopy equivalence

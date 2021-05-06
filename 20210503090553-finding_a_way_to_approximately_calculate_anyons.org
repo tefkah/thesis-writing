@@ -1,0 +1,14 @@
+#+title: Finding a way to approximately calculate anyons
+#+roam_tags: meta anyons
+
+* Finding a way to approximately calculate anyons
+
+For the next part of my thesis (as of 03-05-21) I am looking into how to approximately calculate the anyonic phase in the Fractional Quantum hall effect. For this, I want to look at explanations etc of the [[file:20210223170728-berry_phase.org][Berry phase]] in the [[file:20210223172322-aharonov_bohm_effect.org][Aharonov Bohm Effect]], and I have a couple of differenent resoureces to do this.
+
+** Phil phys
+
+cite:Dougherty2020b, which responds to cite:Shech2015b  and cite:Earman2019
+
+** Phys
+
+Primarily cite:Tong2016. but also cite:Rao2001 and cite:Stern2008a

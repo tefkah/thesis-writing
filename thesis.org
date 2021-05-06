@@ -1,0 +1,56 @@
+#+title: Naming and Infinity
+#+author: Thomas F. K. Jorna
+#+ROAM_TAGS: thesis
+#+startup: latexpreview
+#+OPTIONS: H:6 title:nil
+
+#+latex_class: memoir
+#+latex_header: \usepackage{glossaries}
+#+latex_header: \makeglossaries
+#+latex_header: \usepackage[style=apa, backend=biber ]{biblatex}
+#+latex_header: \addbibresource{bib/Library.bib}
+
+#+latex_header_extra: \newglossaryentry{gloss}{name={ary},description={This is a glossary link}}
+
+\maketitle
+
+
+[[gls:gloss][# ary]]
+
+# gls:gloss
+
+#+latex: \newpage
+#+latex: \printglossaries
+
+* Setting things up
+
+** Introduction
+#+include: "./Introduction.org" :minlevel 3
+[[file:Introduction.org][Introduction Chapter]]
+
+** Infinite Idealization
+#+include: "./infinite_idealizations_chapter.org" :minlevel 3
+[[file:infinite_idealizations_chapter.org][What is an infinite idealization (Chapter)]]
+
+* The case studies
+
+** The Fractional Quantum Hall Effects and Anyons
+#+latex: \chaptermark{FQHE and Anyons}
+#+include: "./20210407150939-structure_fqhe_anyon_chapter.org" :minlevel 3
+[[file:20210407150939-structure_fqhe_anyon_chapter.org][Structure FQHE/anyon chapter]]
+
+** Phase Transitions
+#+include: "./20210503100219-chapter_phase_transistions.org" :minlevel 3
+[[file:20210210115635-phase_transitions.org][phase transitions]]
+
+* End
+
+** Thing left to address
+#+transclude: t [[file:openquestions.org][open questions for my thesis]]
+# [[file:openquestions.org][open questions for my thesis]]
+#+BEGIN_COMMENT
+[[file:openquestions.org][open questions for my thesis]]
+#+END_COMMENT
+
+
+#+latex: \printbibliography

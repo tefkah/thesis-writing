@@ -1,0 +1,13 @@
+#+title: Image
+#+roam_tags: definition mathematics
+
+* Image
+
+Let  $f: A \rightarrow B$ be a [[file:20210505155407-function_mapping.org][function/mapping]]. Given a subset $A_0 \subseteq A$, the *image* of $A_0$ is the set of all values $f(a)$ with $a\in A_0$.
+
+Formally
+\[
+f(A_0)=\{b|\exists a\in A_0: b=f(a)\}
+\]
+
+The inverse of the image is called the [[file:20210505162715-preimage.org][Preimage]]

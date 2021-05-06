@@ -1,0 +1,8 @@
+#+title: Inverse function
+#+roam_tags: functions definition mathematics
+
+* Inverse
+
+If a function $f: A \rightarrow B$ is [[file:20210505161103-bijective_one_to_one_correspondence.org][Bijective / One-to-one-correspondence]], there exists a function $f^{-1} : B \rightarrow A$ called the *inverse* of $f$, defined by letting $f^{-1}(b)$ be the unique element $a \in A$ that maps onto $b$.
+
+If $f$ is bijective, $f^{-1}$ is also bijective.

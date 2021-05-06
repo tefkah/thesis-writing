@@ -1,0 +1,8 @@
+#+title: Topological explanation merely requires multiply-connected regions, not configurations spaces
+#+roam_tags: idealization FQHE anyons
+
+* Topological explanation merely requires multiply-connected /spacetime regions/, not multiply connected configuration spaces
+
+cite:Dougherty2020b claims this, and if true it might throw a wrench in my explanations. However, there are a couple of things that might prevent this.
+
+[[file:20210503132021-regions_are_a_vague_concept.org][Regions are a vague concept]]

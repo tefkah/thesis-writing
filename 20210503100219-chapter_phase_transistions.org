@@ -1,0 +1,14 @@
+#+title: Chapter Phase Transitions
+#+roam_tags: chapter, thermodynamics
+
+
+* Phase Transitions
+
+
+** Who's who
+#+transclude: t [[file:20210503100035-proponents_and_opponents_of_thermodynamic_limit.org][Proponents and opponents of thermodynamic limit]]
+[[file:20210503100035-proponents_and_opponents_of_thermodynamic_limit.org][Proponents and opponents of thermodynamic limit]]
+
+cite:Butterfield2011,Callender2001,Menon2011  and  Palacios 2018 argue that the thermodynamic limit is fake, while Bangu 2009, cite:Batterman2005 Batterman2011 and Morrisson 2012 say that it is essential.
+
+See also cite:Shech2018a for good lists.

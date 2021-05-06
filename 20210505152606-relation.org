@@ -1,0 +1,10 @@
+#+title: Relation
+#+roam_tags: mathematics definition
+
+* Relation
+
+** Munkres
+
+A *relation* on a set $A$ is a subset $C$ of the [[file:20210505152706-cartesian_product.org][Cartesian Product]] $A \times A$.
+
+So if $A$ is one dimensional, $C$ looks like $(a_1, a_2)$
