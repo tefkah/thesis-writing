@@ -2,6 +2,7 @@
 #+roam_tags: chapter anyons FQHE
 # #+startup: latexpreview
 
+# #+latex_header: \documentclass{tufte-book}
 #+latex_header: \usepackage{braket}
 
 * The Fractional quantum hall effect and its discontents
@@ -22,13 +23,9 @@ However, even disregarding Norton's disclaimer, it does not quite feel in the sp
 
 ** Anyons
 
-Anyons are a theorized and alledgedly observed new type of particles. Up until their theorizing/observation, physics squarely placed particles in two types: [[file:20210218153430-fermions.org][fermions]] such as electrons, neutrinos and quarks, and [[file:20210218153456-bosons.org][bosons]] such as photons, protons and the Higgs particle. What unites all these particles is that if you have two of them, they are /indistinguishable/ from one another, which determines their exchange factor and, by the spin-statistics theorem, to their spin. "Thus" we have fermions with spin of integer multiples of $\frac{1}{2}$, and bosons with integer spin.
+Anyons are a theorized and alledgedly observed new type of particles. Up until their theorizing/observation, physics squarely placed particles in two types: [[file:20210218153430-fermions.org][fermions]] such as electrons, neutrinos and quarks, and [[file:20210218153456-bosons.org][bosons]] such as photons, protons and the Higgs particle. What unites all these particles is that if you have two of them, they are /indistinguishable/ from one another, meaning that when you find yourself in the unenviable position of calculating with more than one particle, you have to account for the fact that it is /impossible/ to keep the two apart. We call this "accounting for" /phase/, which we multiply with the state of the system anytime we exchange the two particles.  By the spin-statistics theorem, the phase of a particle also tells us something about their [[file:20210223152109-spin.org][spin]].[fn:3]  "Thus" we have fermions with spin of integer multiples of $\frac{1}{2}$, and bosons with integer spin.
 
 We will see why this is the case in a second, but the important disclaimer to the above result is that it only holds in $3D$ and higher. There exists a way to get around the inevitability of two types of particles in $2D$, such that we can show that there could be particles which have different statistics and could take on /any/ spin, aptly named [[file:20210218152909-anyons.org][anyons]].
-
-
-
-particles which have different statistics than fermions and bosons, which roughly corresponds with saying that they can have any kind of spin. As such they behave very differently, and might prove promising for a number of applications such as stable quantum computing.
 
 What makes them interesting as a case study here is that the commonly accepted explanation for anyons states that they are not able to exist in 3 dimensions, only being possible in 2 dimensions. This is very intersting, because the world we know is 3D, how can it possibly be that these particles are 2D?
 
@@ -36,7 +33,7 @@ The reason this is especially interesting is that were this to be so, we would h
 
 1. The change is rather dramatic: getting rid of a whole dimension is no easy feat.
 2. The explanation for anyons is somewhat controversial, meaning that there is a lot of different viewpoints
-3. The difficulty of this problem is usually waved away by physicists by saying that the problem is actually just /effectively 2D/, meaning that the system is 3D but just behaves in a 2D fashion. This is usually not onderbouwd however.
+3. The difficulty of this problem is usually waved away by physicists by saying that the problem is actually just /effectively 2D/, meaning that the system is 3D but just behaves in a 2D fashion. This is usually not substantiated much, however.
 
 Remember the main trilemma we find ourselves in when discussing such a boundary. If we have a binary property dependent on a continuously varying parameter, we (or so I wish to show) have one of three choices for drawing a line
 1. The parameter $x$ is not a continuous but a discrete parameter. This allows us to draw the line with arbitrary precision somewhere
@@ -52,17 +49,13 @@ This might still annoy some but I don't care this is enough warmup.
 That's whats at stake in the qhe, between 2d and 3d
 
 
-** 1.2. Why is it useful to look at
-
-The FQHE has some interesting features which we should examine, specifically the way it is explained.
-
-Its explanation has a number of interesting features. For one, it is fairly nonrigorous. Secondly, it purportedly shows the existance of new kinds of particles, called anyons. Anyons will be the real focus in what is to follow.
-
-** 1.3 What are anyons
-
 ** 1.4 Sorry, what was this about the quantum hall effect again?
 
-The astute reader may have noticed that the characterization of anyons given above does not refer to the quantum hall effect at all! This is true: anyons were independently theorized by .... in 1978. However, as we know from the LHC experiments looking for supersymmetry, theorizing is fun but we do need some experimental confirmation.
+The astute reader may have noticed that we have not yet referred to the title of this chapter at all! What is this quantum hall effect?
+
+This is true: anyons were independently theorized by .... in 1978, and their existence in 2D can be predicted using merely topological
+
+I will argue in the
 
 The FQHE does not per se rely on anyons for its explanation, rather it shows that the mechanism which gives rise to the effect are anyonic interactions.
 
@@ -71,10 +64,10 @@ I argue that we cannot look at the way anyons are theorized through constructing
 One objection to this reasoning is that it would bias the investigation in "my" favor, namely that I would think the explanation to be unsatisfactory regardless because we cannot manifest (such) a 2D system in a 3D world. This is a fair concern, so I propose a "bet" of sorts: if I am not able to find and alternative characterization of how effective 2D systems would give rise to anyons, I will accept that the system is exactly and not approximately 2D.
 Having 2D systems, while not fitting in our current worldview as snugly as I would like, would open the door to a lot of interesting new physics.
 
-On the other hand, if I do succeed in providing an agreeable characterization of effective 2D, then this would deepen our understanding of such effects much more (wow great sentence), open up that black box so to say, and perhaps allow us to more easily construct such systems later due to our deepened understanding.
+On the other hand, if I do succeed in providing an agreeable characterization of effective 2D, then this would deepen our understanding of such effects much more, open up that black box so to say, and perhaps allow us to more easily construct such systems later due to our deepened understanding.
 
-To do so does require us to look at the FQHE in depth however, which we will do now.
-=Why do we need to look at this=
+=JUSTIFY BETTER=
+Finally, I wish to address the quantum hall effect itself /first/, before diving into the purported explanation of anyons. If we were to examine the anyons first .....
 
 
 *  The quantum hall effect
@@ -164,6 +157,7 @@ An additionally seemingly important detail is the fact that the Hall System is t
 
 
 
+
 **** Dawdling
 Now that we have developed a base-level understandig of the (quantum) mechanics at play in the effect in general, it is time to turn our attention to the matter at hand: understanding the Quantum Hall system.
 
@@ -213,44 +207,59 @@ The Integer explanation relies on the fact that there are (small) impurities in 
  For those reasons we will be skipping a thorough examination of the Integer Quantum Hall Effect and jump straight into the FQHE
 
 
-** FQHE in depts
+* FQHE in depts
 
-*** Adding electron interaction
+** Adding electron interaction
 
-#+transclude: t :hlevel 5
-[[file:20210309161322-reasoning_of_fqhe_is_less_rigorous_than_iqhe.org][reasoning of FQHE is less rigorous than IQHE]]
 
 
 #+transclude: t :hlevel 5
 [[file:20210309161230-iqhe_has_no_electron_interactions_fqhe_does.org][IQHE has no electron interactions, FQHE does]]
 
-*** The Ugly: Idealizations, Idealizations Everywhere
+#+transclude: t :hlevel 5
+[[file:20210309161322-reasoning_of_fqhe_is_less_rigorous_than_iqhe.org][reasoning of FQHE is less rigorous than IQHE]]
 
- Perhaps the most striking difference in the derivation of the FQHE as opposed to the IQHE is the rigour of reasoning used in the former. Unlike its Integer Counterpart, the "explanation" much less resembles, well, a derivation, and is better characterized as a "motivation" instead, using a combination of handwaving, squinting at equations and plain stubbornness to finally get a result which is in the same ~ballpark~ solar system as what we would imagine an proper explanation to be.
+** The Ugly: Idealizations, Idealizations Everywhere
 
- It would do us well to list the most egregious ones first, so they are not able to sneak up on us in the end.
+Perhaps the most striking difference in the derivation of the FQHE as opposed to the IQHE is the rigour of reasoning used in the former. Unlike its Integer counterpart, the "explanation" much less resembles, well, a derivation, and is better characterized as a "motivation" instead, using a combination of handwaving, squinting at equations and plain stubbornness to finally get a result which is in the same ~ballpark~ solar system as what we would imagine an proper explanation to be.
+
+It would do us well to list the most egregious ones first, so they are not able to sneak up on us in the end.
+
+** Finding the wavefunction
 
 #+transclude: t hlevel: 5
 [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed_from_general_grounds.org][The wavefunction of the FQHE is GUESSED from general grounds]]
 
+While you might think that quantum mechanics is easy[fn:2], it is actually rather difficult to solve the equations of systems barely larger than a Helium atom. In fact, for most systems we cannot even write down the wavefunction, much less show how it will evolve. The standard solution to these problems is to use  [[file:20210309164701-perturbation_theory.org][perturbation theory]] to find something reasonably close to the actual wavefunction. This works by guessing some test-wavefunction, have it interact with the Hamiltonian plus some slight perturbation, and then ....
+Do this a couple of times and we get reasonably close to the actual wavefunction of the system: a true approximation in the Nortonian sense.
 
-  The LWF is not even an actual ground state of the FQH Hamiltonian, instead from it we derive a Toy Hamiltonian of which the LWF is the ground state, bringing us even further from our goal.
+"Alright", you say, dumbfounded "I guess that's alright. Kind of dissapointing that we don't have the 'actual wavefunction', but I can live with it." Luckily for us, we will not have to settle for the perturbed wavefunction, as we cannot even use perturbation theory here! Recall the insidious italics above: perturbation theory has us treat the disturbance as a /small/ disruption. If we poke the system slightly, we expect it to go relax back to the same state again, which is what allows the above equality \eqref{eq:perturbation} to hold.
 
+Ideally we would want to use the Hamiltonian of the IQHE and perturb it a little in order to account for the effects of "turning on" the electron interactions. But the electron interaction cannot be modeled as a small perturbation, *as it's too big*: remember that the Landau levels are /wildly/ degenerate, so any additional term is going to multilply considerably, $10^{23}$ considerably. So what now?
 
-Using these assumptions/idealizations however, we can make it plausible that FQ statistics are happening, I don't think we will use much more.
+** Writing down the LWF
 
- The wavefunction under consideration is called the Laughlin Wave Function, thought up by >>Laughlin in 1983 after the experimental observation of the FQHE in 1982 by ...
+This problem was 'solved' by Laughlin in 1982, by instead of even attempting to do the tedious mathematics, he simply wrote down "the" wavefunction of the system. The scare-quotes are not for show this time, as the Laughlin Wavefunction cannot by any measure be said to be the actual one describing the system. Instead, the argument goes, it describes a system which is in the same /equivalence class/ of the actual system. *HOW DO WE KNOW THAT*
+
+While this may sound silly, Laughlin did not just pull it out of thin air, instead it is more of an educated guess, one which makes some sense.
+
 
  Wavefunction is not derived analytically, because hard, and not through perturbation theory because with 10^11 particles perturbations are not small. Instead it is guessed and shown to be similar enough to the actual WF to be useful.
 $N=\frac{AB}{\phi_0}e^-$
 $\hbar\omega_B >> E_{cont}>>V_{disorder}$
 The Laughlin WF only applies to the filling fractions of $\nu=\frac{1}{m}$
 
- How is it guessed? We need to start with a simplyfying toy model in order to make sense of this, the ol' magnetic annulus.
+*** Step one is admitting you have a problem
+
+ How is it guessed? We need to start with a simplyfying toy model in order to make sense of this, the ol' magnetic annulus. It looks like ...
 
 If we use [[file:20210223170018-symmetry_gauge.org][symmetry gauge]] we get that
 \[\hat{\textbf{A}}=-\frac{1}{2} \hat{\textbf{r}}\times \textbf{B} = -\frac{yB}{2}\hat{x}+\frac{xB}{2}\hat{y}
 \]
+
+.
+.
+.
 
 Using these assumptions, if we /insist/ that we are in the lowest Landau Level (LLL), we are able to write down the WFs for /any/ 2 particle wavefunction, regardless of the potential
 
@@ -263,51 +272,117 @@ Isn't that neat.
 
  From here Laughlin guessed his WF from two general points of reference:
 
+[[file:20210311183548-every_qh_wf_must_have_the_form_f_z_z1_zn_exp_sum_zi_2.org][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
+
+\begin{equation}
+\psi(z_i...z_n)=f(z_i...z_n)e^{-\sum_{i=1}^n\abs{z_i}^2/4l_B^2}
+    \label{eq:QHWF}
+\end{equation}
+
+with $f(z_i...z_n)$ an analytic function of $z_i$ s, as we do not want our wavefunctions to be nonanalytic.
+
+[[file:20210311183858-every_qh_wf_must_be_antisymmetric.org][
+Every QH WF must be antisymmetric]]
+
+The state is describing fermions, so it better be anti-symmetric.
+
+Using this, he wrote down what is now known as the [[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]]
+\begin{equation}
+    \psi(z_i)=\prod_{i<q}(z_i-z_j)^m e^{\sum_{i=1}^n \abs{z_i}/4l_B^2}
+    \label{eq:LWF}
+\end{equation}
+
+Cool.
+
+
+*** Addional LWF problems
+
+  The LWF is not even an actual ground state of the FQH Hamiltonian, instead from it we derive a Toy Hamiltonian of which the LWF is the ground state, bringing us even further from our goal.
+
+
+
+Using these assumptions/idealizations however, we can make it plausible that FQ statistics are happening, I don't think we will use much more.
+
+
 
  From this we arrive at...
+\begin{equation}
+    \psi(z_i)=\prod_{i<q}(z_i-z_j)^m e^{\sum_{i=1}^n \abs{z_i}/4l_B^2}
+    \label{eq:LWF}
+\end{equation}
+
 
 We see that it fulfills both requirements, but is that enough?
 
 
 
 
-*** Excitations
+** Excitations
 
 Excitations
 
 #+transclude: t :hlevel 5
 Something about the holes
 
+[[file:20210312122743-excitations_of_the_lwf_ground_state_give_rise_to_quasi_holes_particles.org][Excitations of the LWF Ground State Give Rise to Quasi-holes/particles]]
 #+transclude: t :hlevel 5
 Something about the ground state of the hamiltanian being different
 
-#+transclude: t :hlevel 5
-[[file:20210311184105-the_fqh_state_is_interpreted_as_a_plasma_to_allow_for_intuitions.org][The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation]]
-
-#+transclude: t :hlevel 5
-[[file:20210312121728-the_fqh_plasma_is_liquid_for_m_70_and_solid_above.org][The FQH "Plasma" Is Liquid for m<70 and Solid Above]]
 
 
-*** Anyons and fractional charge, finally
 
-#+transclude: t
-These holes have fractional charge
+** Anyons and fractional charge, finally
 
-#+transclude: t
-Handwavey fractional charge explanation
+At last we are close to discussing anyons again. The key insight that leads to the connection between the two is demonstrating that the quasi-holes and quasi-particles have /fractional charge/ and, finally, fractional statistics. To actually prove that we need to introduce something else entirely, the Berry Phase, but before doing so it is worth it to go through a less technical explanation for why these holes would have fractional charge.
 
-**** Berry phase etc
-#+transclude: t :hlevel 5
-[[file:20210312130104-berry_connection.org][Berry Connection]]
+To see this, let us return to the hole wavefunction
+
+\begin{equation}
+\Psi_{hole}^\eta(z)=\prod_{i=1}(z_i-\eta)\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
+    \label{eq:holeLWF}
+\end{equation}
+where, once again, $m$ is the inverse of the [[file:20210223141818-filling_factor.org][filling factor]]  $\nu=1/m$ and $\eta$ the position of the hole. We can generalize this a wavefunction with $M$ holes, as
+
+\begin{equation}
+\Psi_{M-holes}^\eta(z)=\prod_{j=1}^M\prod_{i=1}^N(z_i-\eta_j)^m\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
+    \label{eq:mholeLWF}
+\end{equation}
+(note the added exponent after the $z_i-\eta_i$ term)
+
+The handwavey explanation goes as follows. Say we ignore the Pauli-exclusion principle for as second (as we do not yet know if that even holds for these holes) and we place all of the holes $M$ at one position $\eta$. The wavefunction for this system would look identical to \ref{eq:LWFhole}, except for the added exponent (which you of course noted), like so
+
+\[
+\Psi_{holes-in-one-spot}^\eta(z)=\prod_{i=1}^N(z_i-\eta)^m\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
+\]
+If we squint our eyes a bit, the parameter $\eta$ could look like a variable instead, describing a particle rather than simply a position of the hole(s). If that is the case, however, $\eta$ would just work like another $z_l$ , an electron of charge $-e$
+. However, since it's not, we can infer that it's simply the normal Laughlin WF minus one electron. Then, since there are $m$ electrons, we say that a hole has charge $+e/m$.
+
+Now, there are a lot of holes in this argument, most prominently us conveniently discarding the Pauli-exclusion principle. This could however be forgiven by pointing at the plasma analogy again (as we shall see in a bit) and say that they will act like a single particle if close together. Furthermore, the argument does not work perfectly, as while $m$ holes look like the absence of one electron, this does not mean that every hole has the same charge.
+
+To get a more satisfactory and concrete answer we will have to calculate the fractional charge the hard way, using the Berry Connection. While we need to introduce some more *things*, this will also allow us to /finally/ calculate the statistics of the particle, and, as a bonus, it also helps us make sense of the [[file:20210223172322-aharonov_bohm_effect.org][Aharonov Bohm Effect]].
+
+*** Berry phase
+# #+transclude: t :hlevel 5
+# [[file:20210312130104-berry_connection.org][Berry Connection]]
+
+The Berry phase is the phase that a particle picks up when it is "around" in one of its eigenstates by varying the /parameters/ of the hamiltonian from and back to the eigenstate again. The parameters are usually not the first thing we consider when writing down the Hamiltonian, but could be thought of as, for instance, the specific settings used to prepare the system. Varying these settings slightly (such as the temperature or something) might still keep the system in the same eigenstate, loosely similar to how many statistical mechanical micro-states could give rise to the same macrostate.
+
+Continuing that analogy, if we do this slow enough, the [[file:20210223171329-adiabatic_theorem_quantum.org][adiabatic theorem (quantum)]] guarantees that the system will stay in its eigenstate.[fn:1]
+
+If we do this, after moving the Berry phase back the system will have incurred a phase, the [[file:20210223170728-berry_phase.org][Berry phase]]
+
+*** Berry Connection
+
 
 
 
 * The explanation of anyons
 
-#+transclude: t :hlevel 2
+  #+include: "./20210402123014-the_configuration_space_explanation_chapter.org" :minlevel 4
+
 [[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]
 
-#+transclude: t :hlevel 2
+#+include: "./20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org" :minlevel 4
 [[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
 
 ** TODO
@@ -319,3 +394,10 @@ Handwavey fractional charge explanation
 
 #+transclude: t
 [[file:20210414155618-how_to_justify_particles_not_being_able_to_escape.org][How to justify particles not being able to escape]]
+
+* Footnotes
+
+[fn:3] The spin-statistics theorem is only provable in relativistic quantum mechanics. In this thesis we will almost exclusively work in non-relativistic quantum mechanics, which means that this relation is an assumption.
+[fn:2] You probably did not think this.
+
+[fn:1] Catch is that the varying of the parameters should not induce a degeneracy in the specific eigenstate.

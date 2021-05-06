@@ -5,7 +5,7 @@
 
 In cite:Shech2019, Shech proposes a "condition of adequacy" for something to count as an approximate instantiation in cite:Leng2012 's sense, see [[file:20210210141222-approximate_instantiation_as_an_argument_against_platonism.org][approximate instantiation as an argument against Platonism]]
 
-It is very similar to my proposed distinction between problematic and unproblematic idealizations, see [[file:20210120112816-small_sample_on_infinite_vs_normal_idealization.org][small sample on infinite vs normal idealization]]
+It is very similar to my proposed distinction between problematic and unproblematic idealizations, see [[file:infinite_idealizations_chapter.org][small sample on infinite vs normal idealization]]
 
 * Body
 

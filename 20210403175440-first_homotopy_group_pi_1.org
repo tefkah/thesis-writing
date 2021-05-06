@@ -1,5 +1,8 @@
 #+title: First homotopy group pi_1
 #+roam_tags: topology definition
 
+* First homotopy group
+
 The first homotopy group $\pi_1$ of a configuration space is the [[file:20210403175539-group.org][Group]] formed by inequivalent paths passing through a  given point in the configuration space.
 The elements are the groups are paths (or more precisely, their traversal), with multiplication being defined as traversing two paths succesively, and the inverse being the traversal of the path backwards (identity being the point path).
+

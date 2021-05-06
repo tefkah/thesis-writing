@@ -13,3 +13,6 @@
 ** Science
 - cite:Sklar1999
 - cite:Kadanoff2009
+
+
+[[file:20210503100035-proponents_and_opponents_of_thermodynamic_limit.org][Proponents and opponents of thermodynamic limit]]

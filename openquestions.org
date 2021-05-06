@@ -35,3 +35,7 @@ See [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_l
  [2021-03-22 Mon 14:56]
 ** CLOSED there seems to be an argument against my take on 3D fractional stats being possible. However, this relies on spin, which we are neglecting? Otherwise i think quasiholes have fractional spin anyway. https://en.wikipedia.org/wiki/Spin%E2%80%93statistics_theorem
  [2021-03-22 Mon 15:26]
+
+* Unadressed issues
+
+** OPEN Is "universality" something important? How do I deal with that "loss" of explanation?
