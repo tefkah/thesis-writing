@@ -5,4 +5,4 @@
 
 Two [[file:20210505153858-set.org][Set]]s are *disjoint* if they share no elements, i.e. their [[file:20210505153946-intersecton.org][Intersection]] is the [[file:20210505154117-empty_set.org][Empty set]].
 
-$A\cap A'=\emptyset$
+ \[A\cap A'=\emptyset\]

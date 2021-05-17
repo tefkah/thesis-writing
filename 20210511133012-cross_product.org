@@ -1,0 +1,6 @@
+#+title: Cross-product
+#+roam_tags: definition vectors mathematics
+
+* Cross product
+
+The cross product of two vectors $x\times y$ is the [[file:20210511133056-determinant.org][Determinant]] of the vector product of those vectors, giving rise to a new vector $z$ which is perpendicular to both.

@@ -11,3 +11,4 @@ An *equivalence relation* on a set $A$ is a [[file:20210505152606-relation.org][
 3. (Transitivity) $C(x,y) \land C(y,z) \rightarrow C(x,z)$
 
 Equivalence relations are often noted as $\~$, such that $x\~y$
+

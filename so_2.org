@@ -1,0 +1,27 @@
+#+title: SO(2)
+#+roam_tags: symmetry group_theory physics definition
+
+* SO(2)
+
+The special orthogonal group *SO(2)* is the [[file:20210403175539-group.org][Group]] of all [[file:orthogonal.org][Orthogonal]]  $2x2$  matrices with [[file:20210511133056-determinant.org][Determinant]] $1$ under matrix multiplications.
+
+The group composes all matrices which are orthogonal, i.e. $O^T O =1$, and $\det(O)=+!$
+
+A common [[file:representation.org][Representation]] of this group are matrices of the form
+\begin{equation}
+R_\phi=
+\begin{pmatrix}
+    \cos(\theta)&-\sin(\theta)\\
+    \sin(\theta)&\cos(\theta)
+\end{pmatrix}
+    \label{eq:so2rep}
+\end{equation}
+
+$SO(2)$ is relevant for physics, because it describes rotations in the $2D$ plane.
+
+It is a subgroup of the general orthogonal group [[file:o_2.org][O(2)]], which does not have the $\det=1$ restriction, and describes rotations and /reflections/ in the $2D$ plane.
+
+$SO(2)$ is [[file:isomorphism.org][isomorphic]] to the scalar unitary group [[file:u_1.org][U(1)]]
+
+* Examples
+

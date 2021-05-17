@@ -1,0 +1,2 @@
+#+title: Bra ket notation
+#+roam_tags: quantum definition physics dontunderstand

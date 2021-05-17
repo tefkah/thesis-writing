@@ -1,0 +1,8 @@
+#+title: Countable infinity
+#+roam_tags: definition
+
+* Countable infinity
+
+A set is said to be *countably infinite* if it can be brought into one-to-one correspondence with the $\mathbb{N}$
+
+* Examples

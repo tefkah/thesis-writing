@@ -1,0 +1,23 @@
+#+title: Four-vector
+#+roam_tags: relativity physics definition
+
+* Four-vector
+A *four-vector* is vector-form often used in [[file:special_relativity.org][relativistic]] physics, defined as
+\begin{equation}
+x_\mu=\begin{pmatrix}x_0\\x_1\\x_2\\x_3\end{pmatrix}
+    \label{eq:fourvector}
+\end{equation}
+
+where $x_0$ is often time or a time-relevant quantity such as energy.
+
+The lenght of a four vector is
+\begin{equation}
+x^2=x\cdot x\equiv x_\mu x_\nu  \eta^{\mu\nu}
+    \label{eq:lenghtfourvector}
+\end{equation}
+where $\eta$ is the [[file:minkowski_metric.org][Minkowski Metric]].
+
+The most common four vector is the proper time $\tau$, whose length is the invariant quantity in special relativity.
+
+
+* Examples

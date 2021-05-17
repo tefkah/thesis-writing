@@ -1,0 +1,21 @@
+#+title: Minkowski Metric
+#+roam_tags: relativity definition
+
+* Minkowski Metric
+
+The *Minkowski Metric* $\eta$ is a [[file:metric.org][Metric]]   describing how to measure distances in [[file:minkowski_spacetime.org][Minkowski Spacetime]], which is the standard spacetime [[file:special_relativity.org][Special Relativity]] is set in. It is defined as
+\begin{equation}
+\eta=\begin{pmatrix}1 & 0 & 0 & 0 \\
+0 & -1 & 0 &0 \\
+0 & 0 & -1 & 0\\
+0 & 0 &0 &-1
+\end{pmatrix}
+    \label{eq:minkowskimetric}
+\end{equation}
+
+Or with the sign of the diagonal entries inversed, depending on the convention chosen by the author (very field dependent).
+
+
+Another way to define the Minkowski metric is as the object left invariant under transformations of the [[file:lorentz_group.org][Lorentz Group]] on [[file:minkowski_spacetime.org][Minkowski Spacetime]]
+
+* Examples

@@ -2,18 +2,12 @@
 #+STARTUP: overview logrefile content showstars indent
 #+FILETAGS: inbox esn thesis jote emacs home adhd notes customization
 #+TODO: NEXT TODO PROJ WAIT | DONE CANCELED TRASH
+#+roam_tags: JOTE_Publishers
 
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-* PROJ Do bibliography shit TiU
-DEADLINE: <2021-05-09 Sun>
-[2021-04-30 Fri 12:57]
-** NEXT Import all of the bibs into JabRef
-** TODO Clean them up a bit
-** TODO Export to Zotero
-** TODO Clean them up more with doi checks etc
-** TODO Maybe implement ISBN pull to also clean up books
-** TODO ...
-* [[file:20210501111956-org_roam_server_todos.org][org-roam-server todos]]
 [2021-05-01 Sat 11:21]
+*
+[2021-05-10 Mon 17:11]
+

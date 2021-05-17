@@ -1,0 +1,8 @@
+#+title: Path
+#+roam_tags: mathematics definition
+
+* Path
+
+** Munkres
+
+Given two points $x, y$ in the space $X$, a *path* in $X$ from $x$ to $y$ is a [[file:20210505163129-continuity_function.org][Continuous function]] $f: [a, b] \rightarrow X$ of some closed interval in $\mathbb{R}$ to $X$  such that $f(a)=x$ and $f(b)=y$

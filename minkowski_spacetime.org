@@ -1,0 +1,11 @@
+#+title: Minkowski Spacetime
+#+roam_tags: relativity definition
+
+* Minkowski Spacetime
+
+*Minkowski spacetime* is a $4D$ [[file:20210416111039-metric_space.org][Metric Space,]] using the [[file:minkowski_metric.org][Minkowski Metric]] together with [[file:proper_time.org][Proper time]] as a metric function. It behaves much like $\mathbb{R}^4$, except that the metric is slightly different.
+
+It is the general stage upon which [[file:special_relativity.org][Special Relativity]] is set, and does not account for gravity.
+
+* Examples
+

@@ -1,0 +1,41 @@
+#+TITLE: Arovas1984: Fractional Statistics and the Quantum Hall Effect
+#+ROAM_KEY: cite:Arovas1984
+
+#+ROAM_TAGS: reference anyons fqhe phase
+
+
+* Fractional Statistics and the Quantum Hall Effect
+  :PROPERTIES:
+  :Custom_ID: Arovas1984
+  :DOI:  http://dx.doi.org/10.1103/PhysRevLett.53.722
+  :AUTHOR: Arovas, D., Schrieffer, J. R., & Wilczek, F.
+  :END:
+
+
+
+* Summary
+
+The original paper which deduces the [[file:20210218152830-fractional_quantum_statistics.org][fractional quantum statistics]] of the /quasiparticles/ which enter in to the [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]]
+
+
+* Rough note space
+
+It's nice and short
+
+Charge is somewhat straightforward, statistics is not.
+
+
+They note that we can "account" for the statistics by adding another fake vector potential $\mathbf{A}_\phi$ to the Lagrangian, which can be written as
+
+\begin{equation}
+\mathbf{A}_\phi(\mathbf{r-r_b})=\frac{\phi_0 \hat{z}\times(\mathbf{r-r_b)}}{2\pi|\mathbf{r-r_b}|^2}
+    \label{eq:fakevecpot}
+\end{equation}
+
+for bosons, and as
+\begin{equation}
+\mathbf{A}_\phi(\mathbf{r-r_b})=\frac{\phi_0(1-1/\nu) \hat{z}\times(\mathbf{r-r_b)}}{2\pi|\mathbf{r-r_b}|^2}
+    \label{eq:fakevecpotferm}
+\end{equation}
+
+for fermions

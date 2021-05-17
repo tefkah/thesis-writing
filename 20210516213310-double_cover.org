@@ -1,0 +1,6 @@
+#+title: Double cover
+#+roam_tags: topology definition
+
+* Double cover
+
+A *double cover* $C$ of a space $X$ is a [[file:20210516212245-cover.org][Cover]] which identifies two points in $C$ with one in $X$.

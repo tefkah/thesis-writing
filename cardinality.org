@@ -1,0 +1,21 @@
+#+title: Cardinality
+#+roam_tags: set-theory mathematics definition
+
+* Cardinality
+
+The *cardinality* of a [[file:20210505153858-set.org][Set]] describes the size of said set.
+
+
+* Examples
+
+** Discrete
+The caridinality of the set  $\{1,2,3\}$ is $3$, as it has 3 elements.
+
+** Countable
+
+The cardinality of the set of all natural numbers $\mathbb{N}$ is $\aleph_0$.
+All sets which can be brought in one-to-one correspondence with $\mathbb{N}$ are said to be [[file:countable_infinity.org][Countably infinite]].
+
+** Uncountable
+
+The cardinality of the set of all real numbers $\mathbb{R}$ is $\aleph_1$.

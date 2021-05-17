@@ -1,0 +1,10 @@
+#+title: Monodromy is an infinite idealization of holonomy
+#+roam_tags: topology anyons infinite_idealization
+
+* Monodromy is an infinite idealization of holonomy
+
+[[file:20210513123625-monodromy.org][Monodromy]], the thing that happens when 'something' (like a vector) travels around a singularity, can be seen as an [[file:20201219152020-infinite_idealizations.org][infinite idealization]] of what happens to the [[file:20210511110305-holonomy.org][Holonomy]] of that things traveling the same path when the curvature of a surface gets flatter (into a singularity)
+
+The main example I have here is that of [[file:20210513124828-limit_of_the_cone_holonomy.org][Limit of the cone holonomy]]
+
+Sort of relevant question: https://math.stackexchange.com/questions/878487/flat-connection-with-non-trivial-holonomy-i-cannot-get-it?rq=1

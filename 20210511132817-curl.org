@@ -1,0 +1,6 @@
+#+title: Curl
+#+roam_tags: vectors definition mathematics
+
+* Curl
+
+The *curl*  $\nabla \times\mathbf{x}$ of a vector $\mathbf{x}$ (or more likely a [[file:20210507133134-vector_space.org][Vector space]]) is the [[file:20210511133012-cross_product.org][Cross-product]] of the vector (vector) with the [[file:20210511134437-nabla.org][Nabla operator]]. In a crude way it  represents the amount of "rotation" going on in a certain vector space.

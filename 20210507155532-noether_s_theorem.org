@@ -1,0 +1,2 @@
+#+title: Noether's Theorem
+#+roam_tags: dontunderstand definition physics symmetry

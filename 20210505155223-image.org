@@ -10,4 +10,6 @@ Formally
 f(A_0)=\{b|\exists a\in A_0: b=f(a)\}
 \]
 
+
 The inverse of the image is called the [[file:20210505162715-preimage.org][Preimage]]
+

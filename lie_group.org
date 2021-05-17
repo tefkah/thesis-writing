@@ -1,0 +1,10 @@
+#+title: Lie Group
+#+roam_tags: definition
+
+* Lie Group
+
+A *Lie Group* is a [[file:20210403175539-group.org][Group]] describing continuous rather than discrete symmetries, roughly meaning that the [[file:cardinality.org][Cardinality]] of the group is $\aleph_1$ i.e. it has uncountably many elements.
+
+* Examples
+
+The most basic example of such a group would be the rotations of a circle in the $2D$ plane.

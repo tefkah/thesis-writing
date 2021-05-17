@@ -1,4 +1,5 @@
 #+title: Covering map
 #+roam_tags: definition topology
 
-A *_covering map_* is a continuous function $p$ from a [[file:20210403182645-topological_space.org][Topological space]] C to another topological space $X$ such that each point in $X$ has an [[file:20210403182734-open_neighbourhood.org][Open neighbourhood]] [[file:20210403182843-even_cover.org][Even cover]] by $p$.
+* Covering map
+A *covering map* is a continuous function $p$ from a [[file:20210403182645-topological_space.org][Topological space]] C to another topological space $X$ such that each point in $X$ has an [[file:20210403182734-open_neighbourhood.org][Open neighbourhood]] [[file:20210403182843-even_cover.org][Even cover]] by $p$.

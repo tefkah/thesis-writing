@@ -1,0 +1,6 @@
+#+title: Vector Bundle
+#+roam_tags: topology "functional analysis"
+
+* Vector bundle
+
+A *vector* bundle is a 'family' of [[file:20210507133134-vector_space.org][Vector spaces]]

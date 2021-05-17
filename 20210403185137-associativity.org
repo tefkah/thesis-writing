@@ -3,3 +3,4 @@
 
 An operation $\cdot$ is said to be *associative* for the elements $a, b, c$ under consideration iff
 \[a \cdot ( b \cdot c ) =(a \cdot b) \cdot c\]
+

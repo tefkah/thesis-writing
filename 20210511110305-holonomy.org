@@ -1,0 +1,8 @@
+#+title: Holonomy
+#+roam_tags: topology definition physics
+
+* Holonomy
+
+A kind of generalization of the notion of [[file:20210511110338-phase_quantum.org][Phase (quantum)]]
+
+In general, a holonomy is the "failure of [[file:20210511111338-parallel_transport.org][Parallel transport]] around closed cycles to preserve the geometrical information being transported" cite:Cohen2019.

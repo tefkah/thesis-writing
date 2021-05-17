@@ -1,0 +1,21 @@
+#+title: Proper time
+#+roam_tags: relativity physics definition
+
+* Proper time
+
+*Proper time* $\Delta\tau=\Delta t-\Delta x-\Delta y -\Delta z$[fn:1] is the invariant quantity in [[file:special_relativity.org][Special Relativity]] and the way distance is measured in [[file:minkowski_spacetime.org][Minkowski Spacetime]].
+
+Using the [[file:einstein_summation_notation.org][Einstein summation notation]], we can cleverly write this as
+\begin{equation}
+(d\tau)^2=dx_\mu \eta^{\mu\nu} dx_\nu
+    \label{eq:propertime}
+\end{equation}
+where $\eta$ is the [[file:minkowski_metric.org][Minkowski Metric]] and $x_\mu$ and $x_\nu$ are [[file:four_vector.org][Four-vectors.]]
+
+* Examples
+
+
+* Footnotes
+
+[fn:1] Let's just set $c=1$ shall we, otherwise this is annoying.
+

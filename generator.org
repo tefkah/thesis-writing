@@ -1,0 +1,7 @@
+#+title: Generator
+#+roam_tags: definition
+
+* Generator
+
+
+* Examples

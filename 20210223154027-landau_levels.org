@@ -8,6 +8,7 @@ Landau levels are the energy levels which arise when an otherwise free particle 
 Landau levels are derived from the [[file:20210223154859-general_lagrangian_for_free_particles_in_a_magnetic_field.org][general Lagrangian for free particles in a magnetic field.]] For a particle with charge $-e$ and mass $m$ moving in a background magnetic field  $\mathbf{B}=\nabla\times A$ the Lagrangian is
 \[L=1/2m\dot{\mathbf{x}}^2-e\dot{\mathbf{x}}\cdot \mathbf{A}\]
 
+
 They are roughly
 \[E_n=\hbar\omega_B(n+1/2)\quad n\in\mathbb{N} \quad \omega_B=eB/m\]
 

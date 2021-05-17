@@ -1,0 +1,8 @@
+#+title: Monodromy
+#+roam_tags: definition mathematics topology
+
+* Monodromy
+
+Monodromy is about how things behave as they run around a singularity.
+
+Somewhat related to [[file:20210511110305-holonomy.org][Holonomy]], but whereas holonomy is about the geometry/curvature of the manifold, monodromy is more of a topological notion (I think).

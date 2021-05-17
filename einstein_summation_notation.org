@@ -1,0 +1,7 @@
+#+title: Einstein summation notation
+#+roam_tags: notation physics definition
+
+* Einstein summation notation
+
+
+* Examples

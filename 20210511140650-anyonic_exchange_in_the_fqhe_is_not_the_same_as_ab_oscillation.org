@@ -1,0 +1,6 @@
+#+title: Anyonic exchange in the FQHE is not the same as AB oscillation
+#+roam_tags: AB FQHE anyons
+
+* Anyonic exchange in the FQHE is not the same as AB oscillation
+
+I thought that maybe I could explain the occurence of [[file:20210218152909-anyons.org][anyons]] in [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]] by noting that they are the same as what happens in the  [[file:20210311113613-the_aharonov_bohm_effect_ab.org][the Aharonov Bohm effect (AB)]], but this turns out not to be the case I see, as cite:Cohen2019 456 mentions that this can occur at the same time as exchange. Need to follow up on this.

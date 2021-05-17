@@ -1,0 +1,20 @@
+#+TITLE: Thouless1982: Quantized Hall Conductance in a Two-Dimensional Periodic Potential
+#+ROAM_KEY: cite:Thouless1982
+
+#+ROAM_TAGS: reference anyons fqhe physics,watershed
+
+
+* Quantized Hall Conductance in a Two-Dimensional Periodic Potential
+  :PROPERTIES:
+  :Custom_ID: Thouless1982
+  :DOI:  http://dx.doi.org/10.1103/PhysRevLett.49.405
+  :AUTHOR: Thouless, D. J., Kohmoto, M., Nightingale, M. P., & den Nijs, M.
+  :END:
+
+
+
+* Summary
+
+
+
+* Rough note space

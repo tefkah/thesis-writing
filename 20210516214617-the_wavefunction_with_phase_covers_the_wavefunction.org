@@ -1,0 +1,10 @@
+#+title: The wavefunction with phase covers the wavefunction squared
+#+roam_tags: anyons geometric_phase
+
+* The wavefunction with phase covers the wavefunction squared
+
+The space of the wavefunction multiplied with some  [[file:20210511130045-geometric_phase.org][Phase]]  $e^{i\theta}\ket{\psi}$, say $X$, [[file:20210516212245-cover.org][Cover]]s the space of the probabilty density of the wavefunction, the wavefunction modulo-squared $|\psi|^2$, say $Y$.
+
+There are an uncountably infinite number of points in $X$ which map unto a single point in $Y$. This is why the phase is not considered to be physical, because it does not matter.
+
+However, this statement is perhaps slightly misleading, because it often wavefunctions with different phases are combined, leading to [[file:20210511115231-interference.org][Interference]].
