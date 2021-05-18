@@ -1,4 +1,5 @@
-#+title: U(1)
+# +title: U(1)
+
 #+roam_tags: group physics group_theory definition
 
 * U(1)
@@ -10,4 +11,3 @@ The elements of a group $U(x)$ have to be [[file:unitarity.org][Unitary]], that 
 This group is [[file:isomorphism.org][Isomorphic]] to [[file:so_2.org][SO(2)]] and thus describes rotations in the 2D plane.
 
 * Examples
-
