@@ -1,0 +1,20 @@
+#+TITLE: Katanaev2011: On geometric interpretation of the AharonovBohm effect
+#+ROAM_KEY: cite:Katanaev2011
+
+#+ROAM_TAGS: reference anyons FQHE ab_effect archived
+
+
+* On geometric interpretation of the AharonovBohm effect
+  :PROPERTIES:
+  :Custom_ID: Katanaev2011
+  :DOI:  http://dx.doi.org/10.1007/s11182-011-9646-8
+  :AUTHOR: Katanaev, M. O.
+  :END:
+
+
+
+* Summary
+
+
+
+* Rough note space

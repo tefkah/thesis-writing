@@ -1,0 +1,8 @@
+#+title: Phase factor
+#+roam_tags: quantum phase physics definition
+
+* Phase factor
+
+In QM, the *phase factor* is ....
+
+* Examples

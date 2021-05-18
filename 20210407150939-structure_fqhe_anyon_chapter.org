@@ -1,6 +1,7 @@
 #+title: Structure FQHE/anyon chapter
 #+roam_tags: chapter anyons FQHE
 # #+startup: latexpreview
+#+OPTIONS: H:6 title:nil
 
 # #+latex_header: \documentclass{tufte-book}
 #+latex_header: \usepackage{braket}
@@ -42,14 +43,14 @@ Remember the main trilemma we find ourselves in when discussing such a boundary.
 
 The case of the anyon presents itself as either 2/3 (The system is not 2D but 3D and effectively 2D) or as one which falls outside of these categorizations, that is: it's interesting. The former is what physicists usually argue but do not practice (they do not provide an adequate characterization, as I shall show) while the latter is the argument made by  cite:Shech2019, which I will examine in great detail in the rest of this chapter.
 
-This might still annoy some but I don't care this is enough warmup.
+# This might still annoy some but I don't care this is enough warmup.
 
 
 
 That's whats at stake in the qhe, between 2d and 3d
 
 
-** 1.4 Sorry, what was this about the quantum hall effect again?
+** Sorry, what was this about the quantum hall effect again?
 
 The astute reader may have noticed that we have not yet referred to the title of this chapter at all! What is this quantum hall effect?
 
@@ -70,13 +71,78 @@ On the other hand, if I do succeed in providing an agreeable characterization of
 Finally, I wish to address the quantum hall effect itself /first/, before diving into the purported explanation of anyons. If we were to examine the anyons first .....
 
 
-*  The quantum hall effect
+* The explanation of anyons
+
+  #+include: "./20210402123014-the_configuration_space_explanation_chapter.org" :minlevel 4
+
+[[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]
+#+transclude: t [[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]
+
+#+include: "./20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org" :minlevel 4
+[[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
+#+transclude: t [[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
+
+#+begin_comment
+#+transclude: t
+[[file:20210414155705-proof_ballspace_is_not_simply_connected.org][Proof ballspace is not simply connected]]
+
+#+transclude: t :level 2
+[[file:20210414155524-how_does_qm_work_in_non_simply_connected_space.org][How does QM work in non-simply connected space?]]
+
+#+transclude: t
+[[file:20210414155618-how_to_justify_particles_not_being_able_to_escape.org][How to justify particles not being able to escape]]
+#+end_comment
+
+#+begin_comment
+whitespace between sections
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#+end_comment
+
+*  The Quantum Hall Effect
+
+Now that we have gained some high level understanding of the interesting difficulties concerning anyons, we now turn to the actually important part: examining the actual effect.
 
 ** Once again, what is it
 
 *** Classical Hall effect
 
 [[file:20210218152105-classical_hall_effect.org][classical hall effect]]
+
+
 
 *** Preliminaries
 
@@ -206,8 +272,7 @@ The Integer explanation relies on the fact that there are (small) impurities in 
 
  For those reasons we will be skipping a thorough examination of the Integer Quantum Hall Effect and jump straight into the FQHE
 
-
-* FQHE in depts
+* FQHE in depth
 
 ** Adding electron interaction
 
@@ -376,28 +441,98 @@ If we do this, after moving the Berry phase back the system will have incurred a
 
 
 
-* The explanation of anyons
 
-  #+include: "./20210402123014-the_configuration_space_explanation_chapter.org" :minlevel 4
 
-[[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]
+* Geometric Anyon phase
 
-#+include: "./20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org" :minlevel 4
-[[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
+ Above we have seen the /topological/ explanation for the anyon phase, but, clearly, it leaves something to be desired: the idealization of 2D space/simply connectedness is too strong, demanding us to change the way we look at the world completely. Furthermore, it is not exactly satisfying, as while it does provide some base level explanation for the effect, it introduces another mystery similar to the Aharonov-Bohm Effect: either we have a real experiment instantiatiating a fictitious system, or we have no explanation for when exactly anyons would show up.
 
-** TODO
-#+transclude: t
-[[file:20210414155705-proof_ballspace_is_not_simply_connected.org][Proof ballspace is not simply connected]]
+That is why we have been looking at the FQHE up until now, as this is one of the areas where the anyonic phase is said to show up. Moreover, the FQHE gives us the physical tools to calculate the phase in a different way: geometrically.
 
-#+transclude: t :level 2
-[[file:20210414155524-how_does_qm_work_in_non_simply_connected_space.org][How does QM work in non-simply connected space?]]
+** Geometric phase explanation
 
-#+transclude: t
-[[file:20210414155618-how_to_justify_particles_not_being_able_to_escape.org][How to justify particles not being able to escape]]
+   Although not everyone agrees, the AB effect can for instance be explained geometrically rather than topologically. With this I mean that the phase arises because of /geometric features/ such as curvature rather than out of /topological features/ such as the connectedness. Topological explanation discard all features with are not topologically invariant, which are the features of a space that remain the same under homeomorphisms. This is partially what leads to the mystery of the anyonic phase, as topological explanations, dealing only with objects that "can be continuously deformed into each other" are rather "all or nothing": ALL loops can either be deformed to a point or not.
+
+   Luckily there is a possibility to calculate the phase geometrically, through the aptly named [[file:20210511130045-geometric_phase.org][Geometric Phase]]. The geometric phase is based on the geometry ("curvature") rather than the topology ("connectedness") of the space we will be able to calculate a phase with a continuous dependence on some parameters, rather than the discrete dependence on the connectedness in the topological explanation.
+
+*** Brief history
+
+Theoretical phases have studied geometric phases since around the 1950s, most prominently by  Parachtnam and Kato who showed that ... something with light.
+
+    Howeventually cite:Berry1984.
+
+*** What is phase
+
+    A quantum system, being represented by a wave function, can just like regular ol' sinus waves be described in terms of its amplitude, period, and /phase/, which is, crudely put, the offset with respect to the origin. In quantum mechanics this is almost always described using the [[file:phase_factor.org][Phase factor]] $e^{i\theta}$.
+
+    A simple illustration will help.
+
+    Say our fictional quantum mechanical system is described as $\psi(x,t)=\sin(x-t2\pi)$. After evolving for $t=0.25$, it will always acquire a /dynamical/ phase factor related to time.
+
+    # Normally this is related to the energy but for now it isn't because we haven't defined.
+
+    At $x=0$, $\psi(t=0)=0$, while at $\psi(t=0.25)=1$. We can express this using the phase factor $e^{i\theta}$, with $\theta=1/4\pi$, which we can write as
+    \[\psi(t=0.25)=e^{i\pi/2}\psi(t=0)=e^{i\pi/4}sin(x)=.......\]
+
+    The point is that we can generally do this, that the phase factor is dependent on time alone.
+
+*** Geometrical phase
+
+    Berry (and others) discovered that, under certain conditions, this dynamical phase factor is not the /only/ contribution to the total phase, but the state also acquires a /geometrical phase factor/, which, as the name suggests, is due to the geometry of something. The most straightforward "thing" whose geometry would influence phase would be the geometry of spacetime itself, but actually it's much more general than that.
+
+    In general, we say that a quantum state picks up a geometrical phase factor when it is transported /adiabatically/ from one point in parameter space to another. This means that we do things very slowly such as not to make the state go into a different eigenstate. With /parameter space/ we mean the space of all possible values some parameter of the Hamiltonian can take. This can be many different things, we just have to make sure to move everything slowly so the system remains in the same eigenstate.
+
+    Some examples for these parameters include position, the strength of an external magnetic field, the specific settings for a Stern-Gerlach measuring apparatus, the direction of an electric field, etc. The easiest to visualize and most important for our purposed is the physical position of the particles, as the path in parameter space then simply is the path the particles take in physical space, and since the phase we are studying is the phase particles pick up under exchange, which happens in real space.
+
+*** How does geometrical phase get there
+
+As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical"cite:Berry1984. However, as cite:Simon1983 soon thereafter elucidated, the Berry phase becomes a whole lot less mysterious once we link it to a more general geometric property: [[file:20210511110305-holonomy.org][Holonomy.]]
+
+Holonomy is the phenomenon of a vector (or more generally any mathematical object) not remaining completely invariant after being [[file:20210511111338-parallel_transport.org][Parallel transport]]ed along some curved surface. An example is in order.
+
+Say you are at the northpole, looking "south" (every direction is south) along the Greenwhich meridian line. Your field of vision (let's just take the center of it for simplicity) is our vector which we will be parallel transporting. It has a length of approximately 5km (this does not really matter) and is facing wherever you are looking, originating wherever you are standing. We will now only change one of these variables gradually, your position. You start to bravely swim along this meridian, eventually reaching the equator. Since you are already making a fool's journey, you figure you might as well lean into it and add an extra condition: you will never turn during your journey. Meaning that once you reach the equator, instead of turning 90 degrees to face East, you shuffle Eastword across Africa like some sort of stray crab. Once you reach the international date line in the Pacific ocean, you do not stop acting the fool and begin imitating the jellyfish you meet there, swimming backwards on your back in a straight line back to your starting point.
+
+Once you have been certain you returned back to the same spot again, the question now is: which direction are you facing? Given that you never turned around, you might have expected to face England once again. However, to your utter dismay you are still staring down that boring international date line, ocean as far you could see. Despite never turning around, you have ended up turning $180^\circ$ nonetheless! Curse you, geometry!
+
+This extra angle that you picked up on your Oddyssey is a/has something to do with *holonomy*. Holonomy is a rather general property, but in general indicated the failure of parallel transport along a certain manifold, in this case the 2-Sphere (in normal people talk: the surface of a sphere). While this may be shocking to our foolhardy protogonist, there is something deeply intuitive about not ending up facing the same direction here. But being intuitive does not mean easy to explain: all we know for now  that this has something to do with the curvature of the space we are traversing, but .[fn:4]
+
+
+
+These two questions and answers are rather handy, and they cite the following two papers as useful
+https://physics.stackexchange.com/questions/383281/when-is-the-berry-phase-only-dependent-on-path-topology
+
+https://physics.stackexchange.com/questions/235503/why-is-the-phase-picked-up-during-identical-particle-exchange-a-topological-inva?rq=1
+
+cite:Leinaas1977
+cite:Knapp2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * Footnotes
+[fn:4] Instead imagine taking this same journey in your backyard: walking 5 steps foward, then walking 5 steps with a ninety degree angle to your left, then walking 5 steps back. While you will not end up in the same place (instead unsurprisingly ending up 5 steps to your left), you will still be facing the same direction.
 
 [fn:3] The spin-statistics theorem is only provable in relativistic quantum mechanics. In this thesis we will almost exclusively work in non-relativistic quantum mechanics, which means that this relation is an assumption.
 [fn:2] You probably did not think this.
 
 [fn:1] Catch is that the varying of the parameters should not induce a degeneracy in the specific eigenstate.
+

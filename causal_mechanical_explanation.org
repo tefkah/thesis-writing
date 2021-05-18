@@ -1,0 +1,10 @@
+#+title: Causal-mechanical explanation
+#+roam_tags: explanation definition
+
+* Causal-mechanical explanation
+
+The *causal-mechanical* model of explanation says that a good explanation is a causal story from some fundamental thing to the phenomena in question.
+
+It is very granular and local.
+
+* Examples

@@ -1,5 +1,6 @@
 #+TITLE: Norton2012: Approximation and idealization: Why the difference matters
 #+ROAM_KEY: cite:Norton2012
+#+roam_tags: idealization infinite_idealization explanation reference
 - tags ::
 - keywords :: reading,worthRevisiting
 
@@ -11,3 +12,4 @@
   :NOTER_DOCUMENT: /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/General/Explanation_Idealization/NortonJ_2012_Approximation_and_idealization_Why_the_difference_matters.pdf
   :NOTER_PAGE:
   :END:
+

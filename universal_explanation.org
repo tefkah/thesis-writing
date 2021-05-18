@@ -1,0 +1,11 @@
+#+title: Universal Explanation
+#+roam_tags: infinite_idealization explanation definition
+
+* Universal Explanation
+
+Coined by cite:Batterman2001, a *universal explanation* is an explanation which does not depend on the physics or specific (often microscopic) make-up of the system in which the phenomena takes place. The universal explanation, rather than a local [[file:causal_mechanical_explanation.org][Causal-mechanical explanation]] , either discards all the microscopic details or at least many of them.
+
+It shares some similarities with [[file:unification_model_of_explanation.org][Unification model of explanation]]
+
+* Examples
+

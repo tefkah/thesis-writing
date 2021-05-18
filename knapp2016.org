@@ -1,0 +1,20 @@
+#+TITLE: Knapp2016: How quickly can anyons be braided? Or: How I learned to stop worrying about diabatic errors and love the anyon
+#+ROAM_KEY: cite:Knapp2016
+
+#+ROAM_TAGS: reference anyons fqhe phase Quantum Physics
+
+
+* How quickly can anyons be braided? Or: How I learned to stop worrying about diabatic errors and love the anyon
+  :PROPERTIES:
+  :Custom_ID: Knapp2016
+  :DOI:  http://dx.doi.org/10.1103/PhysRevX.6.041003
+  :AUTHOR: Knapp, C., Zaletel, M., Liu, D. E., Cheng, M., Bonderson, P., & Nayak, C.
+  :END:
+
+
+
+* Summary
+
+
+
+* Rough note space

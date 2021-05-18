@@ -1,0 +1,23 @@
+#+TITLE: Batterman2001: The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence
+#+ROAM_KEY: cite:Batterman2001
+
+#+ROAM_TAGS: reference explanation idealization
+
+
+* The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence
+  :PROPERTIES:
+  :Custom_ID: Batterman2001
+  :DOI:  http://dx.doi.org/10.1093/0195146476.001
+  :AUTHOR: Batterman, R. W.
+  :END:
+
+
+
+* Summary
+
+Infinite/asymptotic idealizations are good, actually.
+
+We need them in order to make [[file:universal_explanation.org][Universal Explanation]] , explanations which are not local to a single situation but more global.
+
+* Rough note space
+

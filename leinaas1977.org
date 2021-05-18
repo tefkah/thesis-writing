@@ -1,0 +1,20 @@
+#+TITLE: Leinaas1977: On the theory of identical particles
+#+ROAM_KEY: cite:Leinaas1977
+
+#+ROAM_TAGS: reference anyons fqhe
+
+
+* On the theory of identical particles
+  :PROPERTIES:
+  :Custom_ID: Leinaas1977
+  :DOI:  http://dx.doi.org/10.1007/BF02727953
+  :AUTHOR: Leinaas, J. M., & Myrheim, J.
+  :END:
+
+
+
+* Summary
+
+
+
+* Rough note space
