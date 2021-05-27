@@ -1,6 +1,8 @@
 #+title: derivation of Landau levels for QHE
 #+roam_tags: "different derivation of landau levels" FQHE
 
+* Derivation of Landau Levels for QHE
+
 The [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]] and the [[file:20210219125447-the_integer_quantum_hall_effect_iqhe.org][the Integer quantum hall effect (IQHE)]]'s energy levels are derived as follows (roughly)
 
 Start with the [[file:20210223155459-general_hamiltonian_for_a_free_particle_in_a_magnetic_field.org][general Hamiltonian for a free particle in a magnetic field]]
@@ -17,3 +19,4 @@ From this we derive the [[file:20210223160541-canonical_commutation_relation.org
 
 
 [[file:20210223161425-purely_algebraic_derivation_of_landau_levels.org][purely algebraic derivation of Landau levels]]
+

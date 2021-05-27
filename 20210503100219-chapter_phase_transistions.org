@@ -4,6 +4,8 @@
 
 * Phase Transitions
 
+#+latex: \epigraph{It all works because Avogadro's number is closer to infinity than to 10. - Ralphe Baierlein, \textit{American Journal of Physics} \textbf{46}, 1045 (1978).}
+
 
 ** Who's who
 #+transclude: t [[file:20210503100035-proponents_and_opponents_of_thermodynamic_limit.org][Proponents and opponents of thermodynamic limit]]

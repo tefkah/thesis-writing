@@ -1,6 +1,8 @@
 #+title: Landau states have a large degeneracy
 #+roam_tags: eigenstate FQHE
 
+* Landau states have a large degeneracy
+
 Landau states have a large [[file:20210223163618-degeneracy.org][degeneracy]] i.e. lots of states with different quantum numbers share the same energy [[file:20210223163730-eigenstate.org][eigenstate]].
 
 We can quantify this as
@@ -10,4 +12,5 @@ We can quantify this as
 \label{eq:degen_landau}
 \end{equation}
 
-$phi_0$ is the [[file:20210223164301-quantum_of_flux.org][quantum of flux]]
+$\phi_0$ is the [[file:20210223164301-quantum_of_flux.org][quantum of flux]]
+

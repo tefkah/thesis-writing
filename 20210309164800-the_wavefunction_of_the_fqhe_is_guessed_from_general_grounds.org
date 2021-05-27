@@ -1,6 +1,8 @@
 #+title: The wavefunction of the FQHE is GUESSED from general grounds
 #+roam_tags: FQHE
 
+* The Laughlin Wavefunction is guessed from general grounds
+
 [[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]] is just guessed for the FQHE $\approx10^{11}$ and was pretty close.
 
 However, the guess, is not "just a guess", it is based on the following considerations:
@@ -11,3 +13,4 @@ However, the guess, is not "just a guess", it is based on the following consider
 
 
 What's more, the LWF is not even that good of an approximation, instead it is the WF of a fake Hamiltonian.
+

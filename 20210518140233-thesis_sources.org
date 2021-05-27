@@ -57,6 +57,14 @@ cite:Cohen2019
 
 Pretty good review of what a geometric phase is and where it has been fruitfully applied.
 
+*** Ong 2006: Geometry and the Anomolous Quantum Hall Effect in Ferromagnets
+
+I think it will give a good explanation of how things work with geometric phase etc, it even gives explicit analogies with the cone!
+
+Important: this looks at the /anomolous/ hall effect, which is the Hall Effect applied to a ferromagnet. What happens here is not per se that you get anyons, but you get electrons which pick up a different phase because of the magnetic field, similar to the AB Effect.
+
+   cite:Ong2006
+
 * Backlinks :noexport:
 ** No linked reference
 

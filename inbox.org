@@ -2,7 +2,6 @@
 #+STARTUP: overview logrefile content showstars indent
 #+FILETAGS: inbox esn thesis jote emacs home adhd notes customization
 #+TODO: NEXT TODO PROJ WAIT | DONE CANCELED TRASH
-#+roam_tags: JOTE_Publishers
 
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
@@ -10,4 +9,5 @@ This is the inbox. Everything goes in here when you capture it.
 [2021-05-01 Sat 11:21]
 *
 [2021-05-10 Mon 17:11]
-
+* contact Mor about seconds thoughts book
+[2021-05-25 Tue 16:27]

@@ -37,7 +37,7 @@
 ** The Fractional Quantum Hall Effects and Anyons
 #+latex: \chaptermark{FQHE and Anyons}
 #+include: "./20210407150939-structure_fqhe_anyon_chapter.org" :minlevel 3
-[[file:20210407150939-structure_fqhe_anyon_chapter.org][Structure FQHE/anyon chapter]]
+[[file:chapter-anyons.org][Structure FQHE/anyon chapter]]
 
 ** Phase Transitions
 #+include: "./20210503100219-chapter_phase_transistions.org" :minlevel 3
