@@ -7,3 +7,5 @@ A group $G$ is any set of functions $f_1 ...$ and a multiplacation operator $\oc
 2) [[file:20210403185137-associativity.org][Associativity]]  $\forall i,j,k \quad (f_i\ocircle f_j)\ocircle f_k=f_i \ocircle (f_j \ocircle f_j)$
 3) Identity element: $\exists e : \forall i \quad e \ocircle f_i=f_i$
 4) Inverse element: $\forall i \exists f_i^-1\quad f_i\ocircle f_i^-1=e$
+
+   astasthas
