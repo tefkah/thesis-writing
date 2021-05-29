@@ -65,15 +65,25 @@ Important: this looks at the /anomolous/ hall effect, which is the Hall Effect a
 
    cite:Ong2006
 
-* Backlinks :noexport:
-** No linked reference
+** Physics papers
 
-** Unlinked references
-[Show unlinked references]
+*** Bartolomei et al 2020: Fractional Statistics in Anyon Collisions
 
-* Backlinks :noexport:
-** No linked reference
+    cite:Bartolomei2020
 
-** Unlinked references
-[Show unlinked references]
+    "Milestone" paper in which anyons are claimed to be observed directly. I'd be a fool if I didn't examine this in detail in the chapter.
 
+    Thank fuck, this still uses the fractional quantum hall effect, I can rest easy.
+*** Rosenow et al 2016: Current Correlations from a Mesoscopic Anyon Collider
+
+    cite:Rosenow2016
+
+    Paper which describes the experimental setup of Bartolomei more clearly.
+
+**  Popular
+
+*** 2020 'Milestone Evidence for Anyons', Quanta
+
+    cite:Najjar2020
+
+    Quanta article about Bartolomei et al, useful as a referecne for how people talk about these things.

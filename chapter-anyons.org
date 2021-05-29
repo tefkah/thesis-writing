@@ -1,4 +1,4 @@
-#+title: Structure FQHE/anyon chapter
+#+title: FQHE/anyon chapter
 #+roam_tags: chapter anyons FQHE
 # #+startup: latexpreview
 #+OPTIONS: H:6 title:nil
