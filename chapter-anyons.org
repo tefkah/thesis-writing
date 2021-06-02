@@ -1,9 +1,6 @@
 #+title: FQHE/anyon chapter
 #+roam_tags: chapter anyons FQHE
-# #+startup: latexpreview
 #+OPTIONS: H:6 title:nil
-
-# #+latex_header: \documentclass{tufte-book}
 #+latex_header: \usepackage{braket}
 
 * The Fractional quantum hall effect and its discontents

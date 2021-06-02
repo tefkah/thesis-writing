@@ -1,6 +1,5 @@
 #+title: Chapter FQHE
 #+roam_tags: chapter FQHE
-
 * Meta thoughts
 
 ** How to think about this document
@@ -21,6 +20,7 @@ What I want to avoid here is writing everything from scratch again: I already ha
 
 ** Theme
 
+   roam
 Explanations are not as rigid as you think
 
 ** Open Issues [0/3]

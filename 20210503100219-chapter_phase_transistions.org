@@ -1,5 +1,5 @@
 #+title: Chapter Phase Transitions
-#+roam_tags: chapter, thermodynamics
+#+roam_tags: chapter thermodynamics
 
 
 * Phase Transitions

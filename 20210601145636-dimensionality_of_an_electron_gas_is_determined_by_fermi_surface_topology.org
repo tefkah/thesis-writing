@@ -1,0 +1,10 @@
+#+title: Dimensionality of an electron gas is determined by Fermi Surface topology
+#+roam_tags: anyons 2DEG FQHE 3DQHE
+
+* Dimensionality of an electron gas is determined by Fermi Surface topology
+
+After looking into the [[file:20210601145016-3d_quantum_hall_effect.org][3D Quantum Hall Effect]] a little bit, it seems that physicists determine the dimensionality of an electron gas by looking at the topology of its [[file:fermi_surface.org][Fermi Surface]] (what that is I don't yet know.)
+
+Specifically, cite:Tang2019 claims "quasi-2D and 3D systems are distinguished by their Fermi surface topology: whereas for quasi-2D systems the Fermi surface is open along the stacking direction, it is closed for 3D systems" when discussing whether two 2D QHE systems stacked on top of each other is the same as a 3D one.
+
+  cite:Pavlosiuk2017 talks about the surface topology.
