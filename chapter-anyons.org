@@ -26,6 +26,7 @@ Anyons are a theorized and alledgedly observed new type of particles. Up until t
 
 We will see why this is the case in a second, but the important disclaimer to the above result is that it only holds in $3D$ and higher. There exists a way to get around the inevitability of two types of particles in $2D$, such that we can show that there could be particles which have different statistics and could take on /any/ spin, aptly named [[file:20210218152909-anyons.org][anyons]].
 
+
 What makes them interesting as a case study here is that the commonly accepted explanation for anyons states that they are not able to exist in 3 dimensions, only being possible in 2 dimensions. This is very intersting, because the world we know is 3D, how can it possibly be that these particles are 2D?
 
 The reason this is especially interesting is that were this to be so, we would have a very clearly observable case of a discontinuous change of a very continuous parameter: the crossing of the boundary between 2D and 3D. This boundary crossing has a couple of different qualities that make it an excellent case study
@@ -36,7 +37,7 @@ The reason this is especially interesting is that were this to be so, we would h
 
 Remember the main trilemma we find ourselves in when discussing such a boundary. If we have a binary property dependent on a continuously varying parameter, we (or so I wish to show) have one of three choices for drawing a line
 1. The parameter $x$ is not a continuous but a discrete parameter. This allows us to draw the line with arbitrary precision somewhere
-2. The  parameter $x$ is continuous, and either $\not P$ or $P$ is true $\forall x$
+2. The  parameter $x$ is continuous, and either $\neg P$ or $P$ is true $\forall x$
 3. The parameter $x$ is continuous and we do not really care about whether $P \lor \not P$ is /really/ true, nor care about where the line is really drawn, we just have cases where the line is definitely drawn and once where it is unclear. We give up the binary nature of $P$.
 
 The case of the anyon presents itself as either 2/3 (The system is not 2D but 3D and effectively 2D) or as one which falls outside of these categorizations, that is: it's interesting. The former is what physicists usually argue but do not practice (they do not provide an adequate characterization, as I shall show) while the latter is the argument made by  cite:Shech2019, which I will examine in great detail in the rest of this chapter.
