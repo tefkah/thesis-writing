@@ -223,7 +223,7 @@ For $d=2$ the fundamental group is the Braid group.
 The 1D rep of the braid group is $e^{i\theta} \quad \theta\in[0,2\pi]$
 
 
-* Critique
+* COMMENT Critique
 
 The main crux of my critique lies in the (in my eyes) unnecessary assumption that the quantum statistics of a particle can /only/ be determined by the first homotopy group of its configuration space. While this might work as a prediction, i.e. if we can figure out the configuration space and then the fundamental group, we might reasonably expect to find particles with such and such quantum statistics there.
 
@@ -259,7 +259,7 @@ The problem with treating this a DN explanation is that that requires that the L
 [[file:20210405144616-eia_allows_us_to_verify_dn_premises.org][EIA allows us to verify DN premises]]
 
 
-* Brief critique summary
+* COMMENT Brief critique summary
 
 ** Leng says: "Platonism is not real, because we can just say that physical space approximately instantiates mathematical structures, so we don't need that exactness"
 
@@ -306,7 +306,7 @@ The most promising candidate for such an intervention is centered around the fun
 
 We see the Quantum Hall Effect manifest
 
-* Checklist
+* COMMENT Checklist
 
 To show it can be approximated, I need to show that there are /some/ paths which are nondeformable into one another/non collapsible to a point. In order to do that I need to let go of another idealization that is made which prevents that somehow. *I need to make plausible that some paths in 3+1D get intertwined!!*
 
@@ -330,7 +330,7 @@ The main thing I want to claim is that you can approximate some kind of winding 
 
 
 
-* Junk
+* COMMENT Junk
 
 Startingfrom the position that the configuration space is 2D, and then all the other points deductively follow Looked at in this way I would agree with Shech: 3D cannot approximately be 2D space in the relevant sense, namely in the sense of the space being connected or not.
 
