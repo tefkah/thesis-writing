@@ -36,7 +36,7 @@ The reason this is especially interesting is that were this to be so, we would h
 Remember the main trilemma we find ourselves in when discussing such a boundary. If we have a binary property dependent on a continuously varying parameter, we (or so I wish to show) have one of three choices for drawing a line
 1. The parameter $x$ is not a continuous but a discrete parameter. This allows us to draw the line with arbitrary precision somewhere
 2. The  parameter $x$ is continuous, and either $\not P$ or $P$ is true $\forall x$
-3. The parameter $x$ is continuous and we do not really care about whether $P \or \not P$ is /really/ true, nor care about where the line is really drawn, we just have cases where the line is definitely drawn and once where it is unclear. We give up the binary nature of $P$.
+3. The parameter $x$ is continuous and we do not really care about whether $P \lor \not P$ is /really/ true, nor care about where the line is really drawn, we just have cases where the line is definitely drawn and once where it is unclear. We give up the binary nature of $P$.
 
 The case of the anyon presents itself as either 2/3 (The system is not 2D but 3D and effectively 2D) or as one which falls outside of these categorizations, that is: it's interesting. The former is what physicists usually argue but do not practice (they do not provide an adequate characterization, as I shall show) while the latter is the argument made by  cite:Shech2019, which I will examine in great detail in the rest of this chapter.
 
