@@ -45,11 +45,12 @@ The main subject of discussion here will be a new class of (quasi-)particles: an
 
 
 Another reason why anyons present such an interesting case, is that their explanation explicitly requires /topological/ arguments. Topological arguments, as I will show, show up in unexpected places and allow problematic idealizations to sneak in, as they smooth out many of the difficult to solve geometry. By tackling such an explicit use of topology in an infinite idealization, we will be able to use the argumentative structure in our general analysis of infinite idealizations. =The opposite of topology is geometry=
-***************
-*************** TODO Introduce this distinction between topology and geometry more clearly
+
+*************** TODO this is a new task tallyho
+*************** END
+
 
 [fn:4] Or an infinite number of new particle types, depending on one's preference.
-
 
 
 
