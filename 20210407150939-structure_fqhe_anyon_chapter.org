@@ -224,9 +224,6 @@ Do this a couple of times and we get reasonably close to the actual wavefunction
 Ideally we would want to use the Hamiltonian of the IQHE and perturb it a little in order to account for the effects of "turning on" the electron interactions. But the electron interaction cannot be modeled as a small perturbation, *as it's too big*: remember that the Landau levels are /wildly/ degenerate, so any additional term is going to multilply considerably, $10^{23}$ considerably. So what now?
 
 ** Writing down the LWF
-   :LOGBOOK:
-   CLOCK: [2021-06-11 Fri 12:38]
-   :END:
 
 This problem was 'solved' by Laughlin in 1982, by instead of even attempting to do the tedious mathematics, he simply wrote down "the" wavefunction of the system. The scare-quotes are not for show this time, as the Laughlin Wavefunction cannot by any measure be said to be the actual one describing the system. Instead, the argument goes, it describes a system which is in the same /equivalence class/ of the actual system. *HOW DO WE KNOW THAT*
 
