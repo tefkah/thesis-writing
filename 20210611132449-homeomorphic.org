@@ -1,0 +1,11 @@
+#+title: Homeomorphic
+#+roam_tags: definition topology
+
+* Homeomorphic
+
+*Homeomorphic* means "topologically-equivalent". It is an [[file:20210611132541-isomporphism.org][Isomporphism]] for [[file:20210403182645-topological_space.org][Topological spaces]], meaning that two spaces which are homeomorphic to one another have all the same topological qualities such as connectedness and orientability.
+
+More formally, two topological spaces $X$ and $Y$ are *homeomorphic* iff there exists a *homeomorphism* $f: X\rightarrow Y$ such that
+1. $f$ is [[file:20210505161103-bijective_one_to_one_correspondence.org][Bijective / One-to-one-correspondence]]
+2. $f$ is [[file:20210505163129-continuity_function.org][continuous]]
+3. The [[file:20210505161914-inverse_function.org][Inverse function]] $f^{-1}$ exists and is continuous.
