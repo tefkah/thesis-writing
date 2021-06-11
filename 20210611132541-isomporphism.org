@@ -1,0 +1,6 @@
+#+title: Isomporphism
+#+roam_tags: definition mathematics
+
+* Isomporphism
+
+Like, equivalence, but mathematically.
