@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       0f439030-4c44-4c62-88a1-eca8e027a3da
+:END:
 #+title: Underdescription = gauge = cover(ing space)
-#+roam_tags: physics mathematics gauge philosophy
+#+filetags: physics mathematics gauge philosophy
 
 * Underdescription = gauge = cover(ing space)
 

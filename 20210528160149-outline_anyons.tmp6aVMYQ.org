@@ -1,7 +1,10 @@
 # Created 2021-06-07 Mon 22:59
+:PROPERTIES:
+:ID:       273c7d2a-e23c-4991-b680-6af3cb1d9162
+:END:
 #+TITLE: Outline Anyons bad
 #+AUTHOR: Thomas F. K. Jorna
-#+roam_tags: anyons
+#+filetags: anyons
 
 #+latex_header: \usepackage[style=apa, backend=biber]{biblatex}
 #+latex_header_extra: \addbibresource{bib/Library.bib}

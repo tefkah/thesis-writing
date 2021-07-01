@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       981201fc-c29a-4120-bf30-105110cd4a29
+:END:
 #+title: Monodromy is an infinite idealization of holonomy
-#+roam_tags: topology anyons infinite_idealization
+#+filetags: topology anyons infinite_idealization
 
 * Monodromy is an infinite idealization of holonomy
 
