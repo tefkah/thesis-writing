@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       dc6b1689-a488-4d8a-82b6-9ecff5087d16
+:END:
 #+title: Regions are a vague concept
-#+roam_tags: AB anyons idealization vagueness
+#+filetags: AB anyons idealization vagueness
 
 * What a "spacetime region" is is vague
 
