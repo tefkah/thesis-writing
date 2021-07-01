@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       278147a3-6fff-4c0d-9ac4-4c9591a9fb16
+:END:
 #+title: Stokes theorem
-#+roam_tags: dontunderstand em definition mathematics physics
+#+filetags: dontunderstand em definition mathematics physics

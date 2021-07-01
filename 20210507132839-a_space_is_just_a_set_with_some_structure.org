@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2f08dfa3-61e2-4648-b45e-963ab852f688
+:END:
 #+title: A space is just a set with some structure
-#+roam_tags: set-theory mathematics
+#+filetags: set-theory mathematics
 
 * A space is just a set with some structure
 
