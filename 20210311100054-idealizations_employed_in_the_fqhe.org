@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       48bc42ba-ca1a-4614-b735-74ab0609a33d
+:END:
 #+title: idealizations employed in the FQHE
-#+roam_tags: FQHE idealizations
+#+filetags: FQHE idealizations
 
 
 

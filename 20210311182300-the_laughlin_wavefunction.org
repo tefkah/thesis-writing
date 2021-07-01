@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       fff6c214-ce92-4f4f-be7f-71eb21efff79
+:END:
 #+title: The Laughlin Wavefunction
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 * The Laughlin Wavefunction
 

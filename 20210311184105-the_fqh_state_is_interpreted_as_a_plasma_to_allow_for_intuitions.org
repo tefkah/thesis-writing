@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       39621947-ed87-43ad-86d6-14a5e4f2b8c2
+:END:
 #+title: The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 
 * The FQH State Is Interpreted as a Plasma to Allow for Intuitions

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c3f7a16c-62fa-4b2d-bf47-8ec1832bd118
+:END:
 #+title: Experiment showing AB effect
-#+roam_tags: AB
+#+filetags: AB
 
 An experiment which shows[[file:20210311113613-the_aharonov_bohm_effect_ab.org][the Aharonov Bohm effect (AB)]]  goes as follows:
 

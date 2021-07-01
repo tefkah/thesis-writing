@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       588f9022-aa97-4f1c-8117-48cc32569afa
+:END:
 #+title: stuck in my thesis hub
-#+roam_tags: meta thesis
+#+filetags: meta thesis
 
 
 This meta note is here in order to get me back on track when I forget what my thesis is about and what the hell I'm doing even.

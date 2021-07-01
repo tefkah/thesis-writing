@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       37bfaecb-92e6-4cd7-9735-2b6c940c0e03
+:END:
 #+title: Infinite idealizations resemble Sorites because both have discontinuous transitions
-#+roam_tags: vagueness central thesis
+#+filetags: vagueness central thesis
 
 
 * Context

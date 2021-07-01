@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2edc0c8e-4b45-438f-9b9f-288e2079925f
+:END:
 #+title: The Explanation of FQHE is an After the Fact Justification Rather Than a Straightforward Derivation
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 * The Explanation of FQHE is an After the Fact Justification Rather Than a Straightforward Derivation
 

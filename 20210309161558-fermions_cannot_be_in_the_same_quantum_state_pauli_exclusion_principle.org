@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       51fff562-fc33-4090-95ea-538bb57fbdda
+:END:
 #+title: fermions cannot be in the same quantum state (Pauli Exclusion Principle)
-#+roam_tags: theorem physics
+#+filetags: theorem physics

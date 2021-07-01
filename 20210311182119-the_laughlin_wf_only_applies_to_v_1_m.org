@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       313b3f11-4c94-43af-a5fc-5712f3c02e10
+:END:
 #+title: the Laughlin WF only applies to v=1/m
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 * The Laughlin Wavefunction only applies to FQH states with $\nu=1/m$
 

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       cab6efcd-b205-45e7-8873-31026d149490
+:END:
 #+title: degeneracy
-#+roam_tags: definition physics
+#+filetags: definition physics

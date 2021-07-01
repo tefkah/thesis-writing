@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b99e36c9-b494-4c8a-a0b9-3573e7caf4d7
+:END:
 #+title: magnetic length
-#+roam_tags: definition physics
+#+filetags: definition physics
 
 \[l_B=\sqrt{\hbar/eB}=25,7\text{nm}/\sqrt{B[T]} \]
 

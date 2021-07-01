@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       edfca3ee-eb93-46ff-8e10-25794e4cd67e
+:END:
 #+title: FQHE Intro to show Ronnie and Guido
-#+roam_tags: draft thesis FQHE
+#+filetags: draft thesis FQHE
 
 
 Goal: write a ROUGH ass introduction to the fractional quantum hall effect, meaning write down why it is interesting to look at in the context of your general structure.

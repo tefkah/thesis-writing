@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       8f85f6a3-da87-421d-9b71-7b0f2c4c9ea8
+:END:
 #+title: edge modes
-#+roam_tags: definition FQHE
+#+filetags: definition FQHE
 
 Edge modes are the ways systems behave at their boundaries.

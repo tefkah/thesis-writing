@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2517c712-c625-4cd3-9d8e-93b37baeeac6
+:END:
 #+title: The wavefunction of the FQHE is GUESSED from general grounds
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 * The Laughlin Wavefunction is guessed from general grounds
 

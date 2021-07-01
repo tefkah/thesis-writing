@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       207301aa-718d-417a-b3c0-103264d7a88f
+:END:
 #+title: sorites paradox
-#+roam_tags: thesis vagueness
+#+filetags: thesis vagueness
