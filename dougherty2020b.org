@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       a3694051-3129-4f3b-873d-3fdb385bcdab
+:ROAM_REFS: cite:Dougherty2020b
+:END:
 #+TITLE: Dougherty2020b: The non-ideal theory of the AharonovBohm effect
-#+ROAM_KEY: cite:Dougherty2020b
-
-#+ROAM_TAGS: reference explanation anyons idealization
+#+ROAM_KEY:
+#+FILETAGS: reference explanation anyons idealization
 
 
 * The non-ideal theory of the AharonovBohm effect
