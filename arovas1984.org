@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       c7854060-7add-4349-a045-6a63292bc255
+:ROAM_REFS: cite:Arovas1984
+:END:
 #+TITLE: Arovas1984: Fractional Statistics and the Quantum Hall Effect
-#+ROAM_KEY: cite:Arovas1984
-
-#+ROAM_TAGS: reference anyons fqhe phase
+#+ROAM_KEY:
+#+FILETAGS: reference anyons fqhe phase
 
 
 * Fractional Statistics and the Quantum Hall Effect

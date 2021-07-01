@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       fe87fdb4-b86b-48db-8a2d-eb402b095ad2
+:END:
 #+title: Cardinality
-#+roam_tags: set-theory mathematics definition
+#+filetags: set-theory mathematics definition
 
 * Cardinality
 

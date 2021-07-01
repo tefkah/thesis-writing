@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       8a158cbe-ee2b-4f4c-bd76-9730967267bd
+:ROAM_REFS: cite:Butterfield2011
+:END:
 #+TITLE: Butterfield2011: Less is Different: Emergence and Reduction Reconciled
-#+ROAM_KEY: cite:Butterfield2011
-
-#+ROAM_TAGS: phase_transitions infinite_idealization thermodynamics reference reference, idealizations, emergence
+#+ROAM_KEY:
+#+FILETAGS: phase_transitions infinite_idealization thermodynamics reference reference, idealizations, emergence
 
 
 * Less is Different: Emergence and Reduction Reconciled
