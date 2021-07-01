@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1b978913-f923-48e8-b1e7-d0a42527dd5b
+:END:
 #+title: Bijective / One-to-one-correspondence
-#+roam_tags: mathematics definition functions
+#+filetags: mathematics definition functions
 
 * Bijective
 
