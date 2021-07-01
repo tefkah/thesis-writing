@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       ca415422-1727-4863-ac9c-da7f6a588331
+:END:
 #+title: Four-vector
-#+roam_tags: relativity physics definition
+#+filetags: relativity physics definition
 
 * Four-vector
 A *four-vector* is vector-form often used in [[file:special_relativity.org][relativistic]] physics, defined as

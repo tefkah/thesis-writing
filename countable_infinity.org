@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b476726a-277a-49aa-88e3-afe48b85fc14
+:END:
 #+title: Countable infinity
-#+roam_tags: definition
+#+filetags: definition
 
 * Countable infinity
 

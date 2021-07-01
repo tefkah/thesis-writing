@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4fdd20bf-6aca-49c2-add5-1308648d96ae
+:END:
 #+title: inbox
 #+STARTUP: overview logrefile content showstars indent
 #+FILETAGS: inbox esn thesis jote emacs home adhd notes customization

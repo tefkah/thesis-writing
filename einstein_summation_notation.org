@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       55aac369-0acc-401e-95d4-0c41e32a7abb
+:END:
 #+title: Einstein summation notation
-#+roam_tags: notation physics definition
+#+filetags: notation physics definition
 
 * Einstein summation notation
 
