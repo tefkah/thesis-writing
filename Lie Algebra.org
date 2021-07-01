@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c1494ece-2b4c-4ae2-b37e-a53c0527a921
+:END:
 #+title: Lie Algebra
-#+roam_tags: definition mathematics group_theory
+#+filetags: definition mathematics group_theory
 
 * Lie Algebra
 

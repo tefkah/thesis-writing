@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       44cde2dc-fca6-4c00-a775-e3720b3daaa7
+:ROAM_REFS: cite:Norton2012
+:END:
 #+TITLE: Norton2012: Approximation and idealization: Why the difference matters
-#+ROAM_KEY: cite:Norton2012
-#+roam_tags: idealization infinite_idealization explanation reference
+#+ROAM_KEY:#+filetags: idealization infinite_idealization explanation reference
 - tags ::
 - keywords :: reading,worthRevisiting
 
