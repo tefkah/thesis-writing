@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       479d3088-01ee-4224-86e8-e7ada158f9fe
+:END:
 #+title: fractional quantum statistics
-#+roam_tags: FQHE definition
+#+filetags: FQHE definition
 
