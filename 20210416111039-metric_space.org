@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       e997346e-b3dd-48da-8597-93acac415fa1
+:END:
 #+title: Metric Space
-#+roam_tags: "functional analysis" topology definition
+#+filetags: "functional analysis" topology definition
 
 * Metric Space
 
