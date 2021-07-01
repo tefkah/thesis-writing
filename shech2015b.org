@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       ebd64168-2b8a-48bf-a3fb-812a6ffadb2e
+:ROAM_REFS: cite:Shech2015b
+:END:
 #+TITLE: Shech2015b: Two Approaches to Fractional Statistics in the Quantum Hall Effect: Idealizations and the Curious Case of the Anyon
-#+ROAM_KEY: cite:Shech2015b
-
-#+ROAM_TAGS: reference explanation idealization anyons abeffect
+#+ROAM_KEY:
+#+FILETAGS: reference explanation idealization anyons abeffect
 
 
 * Two Approaches to Fractional Statistics in the Quantum Hall Effect: Idealizations and the Curious Case of the Anyon

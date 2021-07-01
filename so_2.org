@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       5a40714c-32b5-4277-b737-6a7c3a18e612
+:END:
 #+title: SO(2)
-#+roam_tags: symmetry group_theory physics definition
+#+filetags: symmetry group_theory physics definition
 
 * SO(2)
 

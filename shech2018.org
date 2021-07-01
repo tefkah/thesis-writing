@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       c689d55b-6049-4452-9e85-4f04307e5be0
+:ROAM_REFS: cite:Shech2018
+:END:
 #+TITLE: Shech2018: Idealizations, essential self-adjointness, and minimal model explanation in the AharonovBohm effect
-#+ROAM_KEY: cite:Shech2018
-
-#+ROAM_TAGS: reference explanation idealization anyons abeffect
+#+ROAM_KEY:
+#+FILETAGS: reference explanation idealization anyons abeffect
 
 
 * Idealizations, essential self-adjointness, and minimal model explanation in the AharonovBohm effect
