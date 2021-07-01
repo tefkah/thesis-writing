@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       9bf1101b-fbba-4740-b101-7c98e9b0df41
+:END:
 #+title: Preimage
-#+roam_tags: mathematics definition functions
+#+filetags: mathematics definition functions
 
 * Preimage
 
