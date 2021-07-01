@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       761df6b4-1623-47aa-a996-6e6d50ac0e8e
+:END:
 #+title: Boundary points
-#+roam_tags: "functional analysis" topology definition
+#+filetags: "functional analysis" topology definition
 
 * Boundary points
 

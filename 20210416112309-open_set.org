@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8d93c68e-6297-4ec0-b026-90fde4b43c53
+:END:
 #+title: Open set
-#+roam_tags: "functional analysis" topology definition
+#+filetags: "functional analysis" topology definition
 
 * Open set
 
