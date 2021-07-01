@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       d699b056-c2f8-4f13-8549-2fd38d636eba
+:END:
 #+title: A knot is a braid connected back to itself
-#+roam_tags: topology definition braid
+#+filetags: topology definition braid
 
 A knot is a braid connected back to itself, the strand on the left at the top connected to the strand at the bottom left.

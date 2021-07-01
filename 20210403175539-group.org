@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       0bbb9ce7-191f-4fde-8924-cad8a3886e2e
+:END:
 
 
 
 #+title: Group
-#+roam_tags: topology definition
+#+filetags: topology definition
 
 * Group
 A group $G$ is any set of functions $f_1 ...$ and a multiplication operator $\ocircle$ for which holds
