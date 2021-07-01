@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1d2d3aac-4dcf-4533-9358-f099a69878af
+:END:
 #+title: spin is often neglected in QHE descriptions
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 In [[file:20210218151906-descripion_of_qhe.org][descripion of QHE]],[[file:20210223152109-spin.org][spin]] is often completely left out of the picture, which one might think cause concern about the legitamicy of such issues.
 

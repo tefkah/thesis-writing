@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       96aec7c9-c31b-48da-9872-2690b057e7ca
+:END:
 #+title: quantum of resistance
-#+roam_tags: definition
+#+filetags: definition
 
 * Quantum of Resistance
 
