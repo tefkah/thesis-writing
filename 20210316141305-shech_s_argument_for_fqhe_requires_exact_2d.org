@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       02efc391-fd46-4d2e-84e2-e191e90cc0c7
+:END:
 #+title: Shech's argument for FQHE Requires EXACT 2D
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 * Shech's argument (as I see it) for why the FQHE (or more specifically the observation of FQ stats) requires the configuration space of electrons to be exactly 2D
 
