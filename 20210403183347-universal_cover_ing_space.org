@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       05563633-dadc-49d6-a290-b4fe2ab83ec4
+:END:
 #+title: Universal cover(ing space)
-#+roam_tags: definition topology
+#+filetags: definition topology
 
 A [[file:20210403183001-covering_space.org][Covering space]] is called a *universal covering space* if it is [[file:20210403183452-simply_connected.org][Simply connected]].
 

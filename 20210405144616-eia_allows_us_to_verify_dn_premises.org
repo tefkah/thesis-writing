@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       76a2711e-8e05-4058-9808-3cefeffce717
+:END:
 #+title: EIA allows us to verify DN premises
-#+roam_tags: EIA explanation
+#+filetags: EIA explanation
 
 * The EIA allows uh to verify DN premises
 

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       dbe6233d-e0e1-4f89-9f93-ae30a1664cb4
+:END:
 #+title: Abelian group
-#+roam_tags: definition "group theory"
+#+filetags: definition "group theory"
 
 An *Abelian group* is a [[file:20210403175539-group.org][Group]]  $G={f_1,...,f_i,...; \ocircle}$ whose multiplication operation is [[file:20210403184255-commutation.org][Commutative]], i.e.
 

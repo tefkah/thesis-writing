@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       e543bfb1-89c4-4bb8-916e-f46d5107ac6c
+:END:
 #+title: Fireship but for philosophy (of science)
-#+roam_tags: youtube fireship philosophy
+#+filetags: youtube fireship philosophy

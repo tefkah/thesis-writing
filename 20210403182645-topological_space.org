@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       5061d36d-a542-45d3-b76a-b6744c0df01a
+:END:
 #+title: Topological space
-#+roam_tags: definition topology
+#+filetags: definition topology
 
 * Topological Space
 

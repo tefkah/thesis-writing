@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3f765d0a-12aa-4c1c-b7b0-6e633a7ebbfe
+:END:
 #+title: Closure (group)
-#+roam_tags: definition
+#+filetags: definition
 
 A group is closed iff
 
