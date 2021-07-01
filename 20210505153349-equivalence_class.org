@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       66fc979f-2e21-4469-8518-88a4aa19be9a
+:END:
 #+title: Equivalence Class
-#+roam_tags: definition mathematics
+#+filetags: definition mathematics
 
 * Equivalence Class
 
