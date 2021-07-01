@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       b10edb04-99eb-46cd-af12-4fde2a7aff6a
+:END:
 #+title: Bose-Eistein Statistics
-#+roam_tags: definition
+#+filetags: definition
 
 $\Psi_{21}=\Psi_{12}
