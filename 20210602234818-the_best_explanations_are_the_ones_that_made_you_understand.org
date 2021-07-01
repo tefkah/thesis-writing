@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       50dd38aa-c38e-4cb8-88e7-24046c3d906d
+:END:
 #+title: The best explanations are the ones that made you understand
-#+roam_tags: teaching explanation
+#+filetags: teaching explanation
 
 * The best explanations are the ones that made you understand
 
