@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b671608b-4efc-4c3a-afea-5e392abaa86c
+:END:
 #+title: Isomporphism
-#+roam_tags: definition mathematics
+#+filetags: definition mathematics
 
 * Isomporphism
 
