@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       de0d2a39-720a-4a73-a533-2e197b0c3de9
+:END:
 #+title: thermodynamic limit
-#+ROAM_TAGS: thermodynamics idealizations
+#+FILETAGS: thermodynamics idealizations

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       481293d6-42ea-484a-975b-1cc5ba1708fa
+:END:
 #+title: Condition of adequacy for approximate instantiation
-#+roam_tags: approximation
+#+filetags: approximation
 
 * Context
 

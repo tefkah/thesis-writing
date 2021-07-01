@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       b2456910-ad44-434b-8f6f-29cc32352b66
+:END:
 #+title: Naming and Infinity
 #+author: Thomas F. K. Jorna
-#+ROAM_TAGS: thesis
+#+FILETAGS: thesis
 #+startup: latexpreview
 
 #+latex_header: \documentclass{tufte-book}

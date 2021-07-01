@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       d06eff85-7065-41af-b0e4-bb0720f7d4ec
+:END:
 #+title: you can only generalize if you have sufficient data
-#+roam_tags: writing explanation thesis
+#+filetags: writing explanation thesis
 
 * Context
 

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8d8aa787-6796-410f-82d8-965c44698794
+:END:
 #+title: Fractional quantum hall effect (meta)
-#+roam_tags: FQHE idealizations thesis
+#+filetags: FQHE idealizations thesis
 
 * Papers
 

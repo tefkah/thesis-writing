@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c45736b9-4f0e-43ef-a8e5-4dcfc632b9f8
+:END:
 #+title: enhanced indispensability argument (EIA)
-#+roam_tags: idealizations explanation EIA
+#+filetags: idealizations explanation EIA
 
 1. We ought rationally to believe in the existence of any entity that plays an indispensable /explanatory/ role in our best scientific theories.
 2. Mathematical objects play an indispensable explanatory role in science.

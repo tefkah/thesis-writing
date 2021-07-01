@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       af1ae4be-bc8b-4d6c-b87b-7add8711b6d6
+:END:
 #+title: notes on Shechs description of FQHE
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 
 * Context

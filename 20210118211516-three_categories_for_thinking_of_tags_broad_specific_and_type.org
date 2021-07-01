@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b92ab975-c5e1-44e4-b0dd-bf9a9d92d218
+:END:
 #+title: three categories for thinking of tags, broad, specific, and type
-#+roam_tags: rules categories on_notes
+#+filetags: rules categories on_notes
 
 * Context
 

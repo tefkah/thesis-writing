@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       e6409aab-f55e-42d2-b09f-6388903442a4
+:END:
 #+title: You can only generalize from specific case studies if you have sufficient data from said case studies
-#+roam_tags: writing explanation thesis
+#+filetags: writing explanation thesis
 
 * Context
 

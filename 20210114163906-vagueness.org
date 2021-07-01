@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       2bd50b77-d226-4853-8bf2-d0e69b570a53
+:END:
 #+title: vagueness
-#+roam_tags: vagueness
+#+filetags: vagueness

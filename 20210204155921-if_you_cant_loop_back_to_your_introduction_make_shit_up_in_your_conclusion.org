@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       f5e4542f-0c24-4f50-bdfc-5e6d39ab8001
+:END:
 #+title: if you cant loop back to your introduction, make shit up in your conclusion
-#+roam_tags: writing thesis
+#+filetags: writing thesis
 
 * Context
 

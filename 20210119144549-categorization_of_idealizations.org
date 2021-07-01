@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3c3b33a1-b8db-4be9-8acc-244cc7230172
+:END:
 #+title: Categorization of idealizations
-#+roam_tags: thesis distinction idealizations
+#+filetags: thesis distinction idealizations
 
 Nicer version [[file:infinite_idealizations_chapter.org][small sample on infinite vs normal idealization]]
 * Good distinciton

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8e6fb4f6-eff9-449f-9ffb-9461e9598125
+:END:
 #+title: Big notes
-#+ROAM_TAGS: thesis
+#+FILETAGS: thesis
 
 * Big thoughts, small brain
 :PROPERTIES:

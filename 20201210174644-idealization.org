@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1d38ec3e-d67d-458a-9399-fc044373e549
+:END:
 #+title: Idealization
-#+ROAM_TAGS: thesis
+#+FILETAGS: thesis
 
 What is an idealization, you know?
 
