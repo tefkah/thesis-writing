@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       78f5434e-ad00-4cc8-819f-7f9616ca7589
+:END:
 #+title: Braided Worldlines Cannot be Disentangled in 2D
-#+roam_tags: FQHE anyons
+#+filetags: FQHE anyons
 
 * Anyons appear because of intertwined worldlines
 In two dimensions, [[file:20210218152909-anyons.org][anyons,]] particles which exhibit [[file:20210316143612-fractional_quantum_statistics.org][Fractional Quantum Statistics]] are possible because in 2D the [[file:20210316144720-worldlines.org][Worldlines]] of identical particles get "intertwined" and cannot get (smoothly) untangled, unlike in 3D.

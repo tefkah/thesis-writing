@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       313f0a05-b6e3-43f8-8f2f-f004790dc798
+:END:
 #+title: Fractional Quantum Statistics
-#+roam_tags: physics definition anyons
+#+filetags: physics definition anyons
 
 * Fractional quantum statistics is gaining a phase \neq \pm 1 after exchanging two identical particles
 

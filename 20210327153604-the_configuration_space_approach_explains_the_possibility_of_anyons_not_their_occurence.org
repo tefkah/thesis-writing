@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       e94cf4f9-71a7-4717-a9b7-5881c3679461
+:END:
 #+title: The configuration space approach explains the possibility of anyons, not their occurence
-#+roam_tags: anyons FQHE
+#+filetags: anyons FQHE
 
 * The configuration space approach to quantum statistics does not (aim) to explain /when/ anyons /will/ occur, just that they can/have to occur in two dimensions.
 
