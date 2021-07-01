@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       28fea2f6-4d0f-4e52-9301-dfc37b49d46d
+:ROAM_REFS: cite:Thouless1982
+:END:
 #+TITLE: Thouless1982: Quantized Hall Conductance in a Two-Dimensional Periodic Potential
-#+ROAM_KEY: cite:Thouless1982
-
-#+ROAM_TAGS: reference anyons fqhe physics,watershed
+#+ROAM_KEY:
+#+FILETAGS: reference anyons fqhe physics,watershed
 
 
 * Quantized Hall Conductance in a Two-Dimensional Periodic Potential

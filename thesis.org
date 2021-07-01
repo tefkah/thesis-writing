@@ -1,7 +1,10 @@
 # +title: Naming and Infinity
+:PROPERTIES:
+:ID:       e56af431-8894-47e5-a752-97ae1e1a2848
+:END:
 
 #+author: Thomas F. K. Jorna
-#+ROAM_TAGS: thesis
+#+FILETAGS: thesis
 #+startup: latexpreview
 #+OPTIONS: H:6 title:nil
 
