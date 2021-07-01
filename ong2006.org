@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       1c51c234-9537-44fe-a4b1-38340b6beef7
+:ROAM_REFS: cite:Ong2006
+:END:
 #+TITLE: Ong2006: Geometry and the anomalous Hall effet in ferromagnets
-#+ROAM_KEY: cite:Ong2006
-
-#+ROAM_TAGS: reference anyon geometric_phase FQHE,archived,Condensed Matter - Other Condensed Matter,Condensed Matter - Strongly Correlated Electrons
+#+ROAM_KEY:
+#+FILETAGS: reference anyon geometric_phase FQHE,archived,Condensed Matter - Other Condensed Matter,Condensed Matter - Strongly Correlated Electrons
 
 
 * Geometry and the anomalous Hall effet in ferromagnets

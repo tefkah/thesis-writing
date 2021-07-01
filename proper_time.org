@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       025d3c91-e52f-4ccd-876f-3b5f8749c77d
+:END:
 #+title: Proper time
-#+roam_tags: relativity physics definition
+#+filetags: relativity physics definition
 
 * Proper time
 

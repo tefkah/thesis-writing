@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b0c5254c-045f-4194-bb5c-022772f85a7a
+:END:
 #+title: O(2)
-#+roam_tags: definition
+#+filetags: definition
 
 * O(2)
 
