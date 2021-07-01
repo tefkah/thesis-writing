@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c78555dd-6890-476f-b478-93191bd74bf3
+:END:
 #+title: Minkowski Metric
-#+roam_tags: relativity definition
+#+filetags: relativity definition
 
 * Minkowski Metric
 

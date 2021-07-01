@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       86c3b2eb-2152-4dbf-a20b-3f032ec4fa93
+:ROAM_REFS: cite:Leinaas1977
+:END:
 #+TITLE: Leinaas1977: On the theory of identical particles
-#+ROAM_KEY: cite:Leinaas1977
-
-#+ROAM_TAGS: reference anyons fqhe
+#+ROAM_KEY:
+#+FILETAGS: reference anyons fqhe
 
 
 * On the theory of identical particles

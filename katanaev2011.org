@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       362afd2b-79d9-4c46-8651-ea3cbf2cc444
+:ROAM_REFS: cite:Katanaev2011
+:END:
 #+TITLE: Katanaev2011: On geometric interpretation of the AharonovBohm effect
-#+ROAM_KEY: cite:Katanaev2011
-
-#+ROAM_TAGS: reference anyons FQHE ab_effect archived
+#+ROAM_KEY:
+#+FILETAGS: reference anyons FQHE ab_effect archived
 
 
 * On geometric interpretation of the AharonovBohm effect

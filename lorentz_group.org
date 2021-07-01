@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3eb352c4-cbc7-47be-8c0f-98cd9168e850
+:END:
 #+title: Lorentz Group
-#+roam_tags: relativity group_theory definition
+#+filetags: relativity group_theory definition
 
 * Lorentz Group
 

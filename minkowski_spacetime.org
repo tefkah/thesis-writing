@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       6695b04e-7e0f-44b9-8402-266e5cc6ab02
+:END:
 #+title: Minkowski Spacetime
-#+roam_tags: relativity definition
+#+filetags: relativity definition
 
 * Minkowski Spacetime
 

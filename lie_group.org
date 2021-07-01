@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       a5590aa3-2d53-45d4-b7a7-f28f8c32ecbc
+:END:
 #+title: Lie Group
-#+roam_tags: definition
+#+filetags: definition
 
 * Lie Group
 

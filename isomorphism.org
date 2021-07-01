@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       79410b7f-6634-4010-96cd-9d2c81a4cd6c
+:END:
 #+title: Isomorphism
-#+roam_tags: mathematics definition
+#+filetags: mathematics definition
 
 * Isomporhism
 
