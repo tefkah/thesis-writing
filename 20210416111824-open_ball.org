@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       913ee774-c9c9-4476-a619-b62d0f351378
+:END:
 #+title: Open ball
-#+roam_tags: "functional analysis" topology definition
+#+filetags: "functional analysis" topology definition
 
 * Open ball
 
