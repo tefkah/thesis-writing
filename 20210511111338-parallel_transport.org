@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       71b7fa31-7712-4a3a-a3ff-825298ed86cd
+:END:
 #+title: Parallel transport
-#+roam_tags: definition mathematics
+#+filetags: definition mathematics
 
 * Parallel transport
 

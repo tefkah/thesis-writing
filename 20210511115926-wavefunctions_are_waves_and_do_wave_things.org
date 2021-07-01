@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       37c25546-4135-4012-b414-7747d6cedb2a
+:END:
 #+title: Wavefunctions are waves and do wave things
-#+roam_tags: duh waves quantum
+#+filetags: duh waves quantum
 
 * Quantum mechanical wavefunctions are functions... of waves!
 

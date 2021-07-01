@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1aad6677-d406-41b6-aecf-be8c0b8e099f
+:END:
 #+title: Cross-product
-#+roam_tags: definition vectors mathematics
+#+filetags: definition vectors mathematics
 
 * Cross product
 

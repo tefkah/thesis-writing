@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       d3cb6e55-c56d-4933-a4d8-d778238b2248
+:END:
 #+title: Connection
-#+roam_tags: definition "functional analysis" topology
+#+filetags: definition "functional analysis" topology
 
 * Connection
 

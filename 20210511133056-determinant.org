@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       4c40816b-3a86-471c-b225-ac7b6f988833
+:END:
 #+title: Determinant
-#+roam_tags: definition vectors linear_algebra mathematics
+#+filetags: definition vectors linear_algebra mathematics
 
 * Determinant
 

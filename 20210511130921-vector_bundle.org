@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       50207fe2-18a6-451f-84b8-3d3e934535fa
+:END:
 #+title: Vector Bundle
-#+roam_tags: topology "functional analysis"
+#+filetags: topology "functional analysis"
 
 * Vector bundle
 
