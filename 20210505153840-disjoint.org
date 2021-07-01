@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       6546f4b1-b038-4961-821a-7341495fae1a
+:END:
 #+title: Disjoint
-#+roam_tags: mathematics definition
+#+filetags: mathematics definition
 
 * Disjoint
 

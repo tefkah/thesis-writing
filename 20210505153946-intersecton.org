@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       9199d16c-6f46-482c-a188-ce38d680775d
+:END:
 #+title: Intersection
-#+roam_tags: definition mathematics
+#+filetags: definition mathematics
 
 * Intersection
 

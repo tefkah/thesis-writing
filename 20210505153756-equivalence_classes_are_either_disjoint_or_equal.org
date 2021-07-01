@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       da5add9d-61c4-453c-88be-f2c1eb8246fb
+:END:
 #+title: Equivalence Classes are either disjoint or equal
-#+roam_tags: theorem mathematics
+#+filetags: theorem mathematics
 
 
 * Equivalence classes are either disjoint or equal

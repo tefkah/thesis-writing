@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b6b8ec07-b1e0-4b35-b7cc-1ce42947f146
+:END:
 #+title: Image
-#+roam_tags: definition mathematics
+#+filetags: definition mathematics
 
 * Image
 
