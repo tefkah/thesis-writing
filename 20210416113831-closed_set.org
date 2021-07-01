@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2a8826d4-52ec-40da-85c7-76d3deda2ee7
+:END:
 #+title: Closed set
-#+roam_tags: "functional analysis" topology definition
+#+filetags: "functional analysis" topology definition
 
 * Closed set
 
