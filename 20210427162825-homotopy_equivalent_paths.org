@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       896697ec-2e29-446e-9caf-7919b3639bdb
+:END:
 #+title: Homotopy equivalent paths
-#+roam_tags: definition topology
+#+filetags: definition topology
 
 * Homotopy equivalence

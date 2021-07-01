@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1be7a59b-6157-45db-8f67-4b242d4c84d0
+:END:
 #+title: Ronnie and Guido feedback on anyon chapter
-#+roam_tags: anyons feedback
+#+filetags: anyons feedback
 
 This is the feedback Ronnie and Guido gave me on [[file:chapter-anyons.org][Structure FQHE/anyon chapter]]
 

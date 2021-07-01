@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       ad600caa-8176-4353-ace6-3c8842260c6c
+:END:
 #+title: Proponents and opponents of thermodynamic limit
-#+roam_tags: idealization thermodynamics
+#+filetags: idealization thermodynamics
 
 *Proponents and oppontents of thermodynamic limits
 

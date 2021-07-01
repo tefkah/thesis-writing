@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       a7f373ec-b8d9-4822-b969-44415e666a6a
+:END:
 #+title: singular limit
-#+roam_tags: definition idealizations
+#+filetags: definition idealizations
 
 * Singular Limits
 

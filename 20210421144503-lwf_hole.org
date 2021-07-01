@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       6221cc53-b4ae-46a6-8988-daf3830a628e
+:END:
 #+title: LWF hole
-#+roam_tags: FQHE
+#+filetags: FQHE
 
 * Hole version of LWF
 
