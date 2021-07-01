@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       e358c53a-eddc-46f4-b693-d4cc93d7210c
+:END:
 #+title: Physical theories must be globally symmetric and can be locally symmetric
-#+roam_tags: physics symmetry
+#+filetags: physics symmetry
 
 * Physical theories /must/ be [[file:20210330160455-global_symmetry.org][Globally]] symmetric, and /can/ be [[file:20210330160020-local_symmetry.org][Locally]] symmetric
 

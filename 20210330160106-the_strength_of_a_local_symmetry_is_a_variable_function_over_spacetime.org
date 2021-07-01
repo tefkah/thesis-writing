@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       0e0ce252-47b1-4b13-a4f5-a2b587b6f40c
+:END:
 #+title: The strength of a local symmetry is a variable function over spacetime
-#+roam_tags: symmetry
+#+filetags: symmetry

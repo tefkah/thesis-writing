@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       475c6db1-e5a0-4ebb-8291-5454a9e6d12e
+:END:
 #+title: Global symmetry
-#+roam_tags: definition symmetry
+#+filetags: definition symmetry
 
 [[file:20210330160547-global_symmetries_are_invariant_over_spacetime.org][Global symmetries are invariant over spacetime]]

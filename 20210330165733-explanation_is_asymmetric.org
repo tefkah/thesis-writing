@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       2349baf0-9228-4bb9-a9a9-86ebb2ecf030
+:END:
 #+title: Explanation is asymmetric
-#+roam_tags: explanation symmetry
+#+filetags: explanation symmetry

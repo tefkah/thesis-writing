@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       f94c39c4-0e5f-4166-8299-336c11a70973
+:END:
 #+title: An internal symmetry is not of a change in spatiotemporal parameters
-#+roam_tags: design symmetry
+#+filetags: design symmetry

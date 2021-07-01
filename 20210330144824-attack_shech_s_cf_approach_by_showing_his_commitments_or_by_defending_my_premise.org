@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       305bf122-f5a3-4b64-a465-1d24d54b693c
+:END:
 #+title: Attack Shech's CF approach  by showing his commitments, or by defending my premise
-#+roam_tags: anyons
+#+filetags: anyons
 
 * I can either attack cite:Shech2019   [[file:20210327154504-the_configuration_space_explanation_of_anyons.org][The configuration space explanation of anyons]] by showing that he has a certain commitment that he's not saying, or by convincing the reader that my way of viewing the problem is better
 

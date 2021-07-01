@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       78ecef7c-f9d9-4384-b6dc-7a5031414fff
+:END:
 #+title: Symmetry arguments are more interesting than symmetry properties
-#+roam_tags: symmetry
+#+filetags: symmetry
 
 * It is important to distinguish between symmetry arguments and symmetry properties, and to mostly focus on the former
 

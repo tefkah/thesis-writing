@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       0efec85b-7a67-4c32-9760-73a6f663e713
+:END:
 #+title: Problems with the DN model
-#+roam_tags: explanation
+#+filetags: explanation
 
 * Common problems with the [[file:20210330165010-the_deductive_nomological_model_of_explanation.org][The deductive-nomological model of explanation]]
 

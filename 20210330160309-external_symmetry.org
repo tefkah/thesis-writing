@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       a4e0561b-4adb-473c-9d35-8cb29c429c96
+:END:
 #+title: External Symmetry
-#+roam_tags: symmetry definition
+#+filetags: symmetry definition
 
 [[file:20210330160354-external_symmetries_are_of_changes_of_spatiotemporal_parameters.org][External symmetries are of changes of spatiotemporal parameters]]

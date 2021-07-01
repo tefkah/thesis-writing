@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       f11abbe3-da85-4f8c-8914-552f991a3b00
+:END:
 #+title: Gauge theory
-#+roam_tags: definition physics
+#+filetags: definition physics
 
 A gauge theory is any theory with a [[file:20210330155645-gauge_symmetry.org][Gauge symmetry]].

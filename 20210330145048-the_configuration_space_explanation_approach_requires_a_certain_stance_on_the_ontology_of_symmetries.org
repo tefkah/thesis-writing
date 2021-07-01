@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       625136f8-9529-46ab-9f18-204fcca628df
+:END:
 #+title: The configuration space explanation approach requires a certain stance on the ontology of symmetries
-#+roam_tags: symmetry anyons
+#+filetags: symmetry anyons
 
 * The configuration space approach to explaining anyons requires a certain commitment to how seriously one takes symmetries in physics
 

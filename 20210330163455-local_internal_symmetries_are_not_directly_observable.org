@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       ecb99e35-f821-48bc-84c9-2db2559d3bee
+:END:
 #+title: Local internal symmetries are not directly observable
-#+roam_tags: symmetry
+#+filetags: symmetry
 
 * Local, internal symmetries are not directly observable, as a dynamical modification needs to be made to the law in order to observe the invariance of the symmetry
 cite:Kosso2000 claims the above.
