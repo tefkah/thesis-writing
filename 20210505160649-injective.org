@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c615103d-1e0a-4b27-917c-70d935e267a6
+:END:
 #+title: Injective / one-to-one
-#+roam_tags: definition mathematics
+#+filetags: definition mathematics
 
 * Injective
 

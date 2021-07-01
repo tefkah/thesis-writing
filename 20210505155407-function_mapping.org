@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1c7c5c98-9acf-44e1-8921-4bb34eed0f92
+:END:
 #+title: function/mapping
-#+roam_tags: mathematics definition
+#+filetags: mathematics definition
 
 * Function/Mapping
 
