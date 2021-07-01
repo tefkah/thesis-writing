@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       64033256-00bb-4f7f-aa9b-b65f317f67fc
+:END:
 #+title: derivation of Landau levels for QHE
-#+roam_tags: "different derivation of landau levels" FQHE
+#+filetags: "different derivation of landau levels" FQHE
 
 * Derivation of Landau Levels for QHE
 

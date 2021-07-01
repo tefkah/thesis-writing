@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       78088a8e-cdbf-4f1f-8c86-0cc8d37b6afb
+:END:
 #+title: general Lagrangian for free particles in a magnetic field
-#+roam_tags: physics
+#+filetags: physics
 
 For a particle with charge $-e$ and mass $m$ moving in a background magnetic field  $\mathbf{B}=\nabla\times A$
 
