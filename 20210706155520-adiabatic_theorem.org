@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       562ce63a-63cb-4d03-a1d9-43bcf3001d77
+:END:
+#+title: Adiabatic theorem
+#+filetags: definition geometric_phase anyons phase
+
+* Statement
+
+ Given a Hamiltonian with a discrete spectrum, the *adiabatic theorem* states that if the parameters of the Hamiltonian are varied slowly enough and the system is in a particular eigenstate, the system will end up in a new eigenstate equal to the old one times some phase factor, which can be decoupled into the [[id:d343ba0a-0f9d-40f1-9710-6a2724a85389][Dynamical Phase factor]] \(e^{iEt/\hbar}\)and the [[id:af98c8b8-d6d1-4443-893a-0a516b3664d2][Geometric Phase]] factor \(e^{i\gamma}\) .
+
+* Derivation
+
+  We start with the [[id:0b5e14bd-264f-456a-92b3-4ef6dc008fa7][Time-independent Schrödinger equation]]
+\begin{equation}
+H(t)|n(t)> = E_n(t)|n(t)>
+    \label{eq:adiabatictise}
+\end{equation}
+
+
+and the fact that any wavefunction can be written as a linear combination of its eigenstates
+\begin{equation}
+ |\psi(t)>=\sum_n c_n(t)|n(t)>
+    \label{eq:adiabaticwf}
+\end{equation}
+
+We then insert both of these into the [[id:4fc8e36a-7809-4f06-ae38-cbe0a6ad22da][Time-dependent Schrödinger equation]], but instead of depending on time we let it depend on
+\begin{equation}
+ i\hbar \left|\dot{\psi}(t)\right\rangle = H(t)\left|\psi(t)\right\rangle
+    \label{eq:adiabatictdse}
+\end{equation}
+
+
+Inserting ref:eq:adiabaticwf into ref:eq:adiabatictdse using ref:eq:adiabatictise, we get...
+
+\[i\hbar \left(\frac{\partial}{\partial t} \sum_n c_n(t)\left|n(t)\right\rangle \right)=E_n(t) \left|n(t)\right\rangle  \]
+*************** TODO Finish TeXing this
+*************** END

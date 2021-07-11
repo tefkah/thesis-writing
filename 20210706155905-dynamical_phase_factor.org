@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d343ba0a-0f9d-40f1-9710-6a2724a85389
+:END:
+#+title: Dynamical Phase factor
+#+filetags: phase quantum physics
+
+\(e^{iEt/\hbar}\)

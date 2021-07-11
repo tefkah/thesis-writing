@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ed833655-d7fa-4f84-95fa-3ddb77af2ae5
+:END:
+#+title: Schrödinger Equation
+#+filetags: physics definition
+
+* Time-dependent Schrödinger equation
+  :PROPERTIES:
+  :ID:       4fc8e36a-7809-4f06-ae38-cbe0a6ad22da
+  :END:
+
+
+* Time-independent Schrödinger equation
+  :PROPERTIES:
+  :ID:       0b5e14bd-264f-456a-92b3-4ef6dc008fa7
+  :END:
+\[H|n>=E|n>\]
