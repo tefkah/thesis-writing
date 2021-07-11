@@ -1,5 +1,6 @@
 :PROPERTIES:
-:ID:       481293d6-42ea-484a-975b-1cc5ba1708fa
+:ID: 481293d6-42ea-484a-975b-1cc5ba1708fa
+:collapsed: true
 :END:
 #+title: Condition of adequacy for approximate instantiation
 #+filetags: approximation
@@ -9,7 +10,6 @@
 In cite:Shech2019, Shech proposes a "condition of adequacy" for something to count as an approximate instantiation in cite:Leng2012 's sense, see [[id:013d6de0-7da7-4894-be91-ef3705945daa][approximate instantiation as an argument against Platonism]]
 
 It is very similar to my proposed distinction between problematic and unproblematic idealizations, see [[id:1fbefa5c-d5a1-4061-a043-e7c2ffd7c596][small sample on infinite vs normal idealization]]
-
 * Body
 
 Shech proposes that a nominalist scientific realist account of certain phenomena can only be justified if there the limit properties of the physical system match the properties of the limit system which is used to represent said system.
