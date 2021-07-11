@@ -9,8 +9,8 @@
 
 * Group
 A group $G$ is any set of functions $f_1 ...$ and a multiplication operator $\ocircle$ for which holds
-1) [[file:20210403184843-closure_group.org][Closure]] $\forall i,j \quad f_i\ocircle f_j \in G$
-2) [[file:20210403185137-associativity.org][Associativity]]  $\forall i,j,k \quad (f_i\ocircle f_j)\ocircle f_k=f_i \ocircle (f_j \ocircle f_j)$
+1) [[id:3f765d0a-12aa-4c1c-b7b0-6e633a7ebbfe][Closure]] $\forall i,j \quad f_i\ocircle f_j \in G$
+2) [[id:017be746-f4e9-4678-a67d-5fb8b255cd92][Associativity]]  $\forall i,j,k \quad (f_i\ocircle f_j)\ocircle f_k=f_i \ocircle (f_j \ocircle f_j)$
 3) Identity element: $\exists e : \forall i \quad e \ocircle f_i=f_i$
 4) Inverse element: $\forall i \exists f_i^-1\quad f_i\ocircle f_i^-1=e$
 

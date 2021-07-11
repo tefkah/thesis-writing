@@ -18,4 +18,4 @@
 - cite:Kadanoff2009
 
 
-[[file:20210503100035-proponents_and_opponents_of_thermodynamic_limit.org][Proponents and opponents of thermodynamic limit]]
+[[id:ad600caa-8176-4353-ace6-3c8842260c6c][Proponents and opponents of thermodynamic limit]]

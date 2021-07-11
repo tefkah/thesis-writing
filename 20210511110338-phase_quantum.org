@@ -6,9 +6,9 @@
 
 * Quantum Phase
 
-A *quantum phase* is a complex number $e^{i\phi}$ which is one of the factors by which two states can differ. In general, a /global/ phase added to the "mathematical" representation of a state (the [[file:20210507155044-bra_ket_notation.org][kets]], as the person below calls them) $|\psi>$ is a [[file:20210330155645-gauge_symmetry.org][Gauge symmetry]] for the "physical" state, meaning that $e^{i\phi}|\psi>$ and $e^{i\theta}|\psi>$ with $\phi\neq\theta$ still describe the same physical system.
+A *quantum phase* is a complex number $e^{i\phi}$ which is one of the factors by which two states can differ. In general, a /global/ phase added to the "mathematical" representation of a state (the [[id:eb38a30c-92f6-4abe-b0fc-e7537da7ef8f][kets]], as the person below calls them) $|\psi>$ is a [[id:c18acba0-88cd-48c2-bfa7-755bb15bee31][Gauge symmetry]] for the "physical" state, meaning that $e^{i\phi}|\psi>$ and $e^{i\theta}|\psi>$ with $\phi\neq\theta$ still describe the same physical system.
 
-Phases only become important when we start adding states with different phases together, because this will lead to [[file:20210511115231-interference.org][Interference]] between the two states and to a novel new state.
+Phases only become important when we start adding states with different phases together, because this will lead to [[id:085d376c-0967-4f50-b369-87369033bcf0][Interference]] between the two states and to a novel new state.
 
 The easiest way to think about quantum phase is to keep regular ol' wave phase in mind, we are talking about /wave/ functions after all (easy to forget).
 

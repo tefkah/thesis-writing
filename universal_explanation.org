@@ -6,9 +6,9 @@
 
 * Universal Explanation
 
-Coined by cite:Batterman2001, a *universal explanation* is an explanation which does not depend on the physics or specific (often microscopic) make-up of the system in which the phenomena takes place. The universal explanation, rather than a local [[file:causal_mechanical_explanation.org][Causal-mechanical explanation]] , either discards all the microscopic details or at least many of them.
+Coined by cite:Batterman2001, a *universal explanation* is an explanation which does not depend on the physics or specific (often microscopic) make-up of the system in which the phenomena takes place. The universal explanation, rather than a local [[id:08b939e1-be1c-4614-9a61-60fa2fd40c66][Causal-mechanical explanation]] , either discards all the microscopic details or at least many of them.
 
-It shares some similarities with [[file:unification_model_of_explanation.org][Unification model of explanation]]
+It shares some similarities with [[id:e3e6db29-ca5c-438e-9aa9-3ee8b79c230f][Unification model of explanation]]
 
 * Examples
 

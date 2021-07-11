@@ -8,10 +8,10 @@
 
 Imagine a vector being parallel transported around a perfect cone. Perfect cones are interesting as they have zero curvature everywhere, but have a singularity at their peak. This leads to all kinds of wacky nonsense.
 
-Apparently, it will pick up a [[file:20210511110305-holonomy.org][Holonomy]] of $1$ when it travels back around the cone completely. I think this is an example of a [[file:20210513123625-monodromy.org][Monodromy]], which is the study of 'objects' travelling around singularities.
+Apparently, it will pick up a [[id:fd2450df-e046-4d9c-a350-2be198e7fd04][Holonomy]] of $1$ when it travels back around the cone completely. I think this is an example of a [[id:e5951430-da06-4482-a7d3-7ac17c718d65][Monodromy]], which is the study of 'objects' travelling around singularities.
 
 However, if instead of a perfect cone we take on which is 'stomp', then the holonomy works much more like how we normally expect it to work, as the cone now has curvature at it peak.
 
-The interesting thing happens when we make the tip of the cone sharper and sharper, making the curvature steeper and steeper. The derivative of the holonomy wrt the distance covered along the curve will get steeper and steeper as well, with the limit being the discontinuous holonomy, similar how this works in [[file:20210210115635-phase_transitions.org][phase transitions]].
+The interesting thing happens when we make the tip of the cone sharper and sharper, making the curvature steeper and steeper. The derivative of the holonomy wrt the distance covered along the curve will get steeper and steeper as well, with the limit being the discontinuous holonomy, similar how this works in [[id:4b10bcb4-8337-4b3e-be7a-adab788f995c][phase transitions]].
 
-This is exactly what I need to do with how the [[file:20210511130045-geometric_phase.org][Geometric Phase]] can approximate [[file:20210327154504-the_configuration_space_explanation_of_anyons.org][The configuration space explanation of anyons]]
+This is exactly what I need to do with how the [[id:af98c8b8-d6d1-4443-893a-0a516b3664d2][Geometric Phase]] can approximate [[id:e6303312-f094-4dd9-9d74-568bd31a89ea][The configuration space explanation of anyons]]

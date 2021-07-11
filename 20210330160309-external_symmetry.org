@@ -4,4 +4,4 @@
 #+title: External Symmetry
 #+filetags: symmetry definition
 
-[[file:20210330160354-external_symmetries_are_of_changes_of_spatiotemporal_parameters.org][External symmetries are of changes of spatiotemporal parameters]]
+[[id:f309f07d-1509-4356-9547-97f101cefbb4][External symmetries are of changes of spatiotemporal parameters]]

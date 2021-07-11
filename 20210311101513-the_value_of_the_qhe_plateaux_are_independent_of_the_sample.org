@@ -6,7 +6,7 @@
 
 * The value of the plateaux of the quantum hall effect are independent of the makeup of the sample
 
-This is a good argument for [[file:20210218172455-universality.org][universality]]
+This is a good argument for [[id:c98192f6-09b5-4a85-a1a7-aab632829493][universality]]
 
 * Source
 cite:Stern2008a

@@ -6,4 +6,4 @@
 
 \[l_B=\sqrt{\hbar/eB}=25,7\text{nm}/\sqrt{B[T]} \]
 
-The magnetic lenght is such that the flux which threads a surface equal to $2\pil_B^2$ is the [[file:20210223164301-quantum_of_flux.org][quantum of flux]]
+The magnetic lenght is such that the flux which threads a surface equal to $2\pil_B^2$ is the [[id:1780f5a9-7330-4491-be34-8f8f6e0e010c][quantum of flux]]

@@ -1,7 +1,7 @@
-# +title: U(1)
 :PROPERTIES:
 :ID:       2e6fa60e-0809-43c3-a4d9-54d961b23403
 :END:
+#+title: U(1)
 
 #+filetags: group physics group_theory definition
 
@@ -9,8 +9,8 @@
 
 The unitary group $U(1)$ is the group of unit ($|z|^2=1$) complex numbers together with ordinary complex number multiplication.
 
-The elements of a group $U(x)$ have to be [[file:unitarity.org][Unitary]], that is $U^\dagger U=I$. Since this is $U(1)$ and we are dealing with scalars, this is the same as saying $\bar{z}z=1$.
+The elements of a group $U(x)$ have to be [[id:552da469-86ec-401c-9125-5aa40eb89fcf][Unitary]], that is $U^\dagger U=I$. Since this is $U(1)$ and we are dealing with scalars, this is the same as saying $\bar{z}z=1$.
 
-This group is [[file:isomorphism.org][Isomorphic]] to [[file:so_2.org][SO(2)]] and thus describes rotations in the 2D plane.
+This group is [[id:79410b7f-6634-4010-96cd-9d2c81a4cd6c][Isomorphic]] to [[id:5a40714c-32b5-4277-b737-6a7c3a18e612][SO(2)]] and thus describes rotations in the 2D plane.
 
 * Examples

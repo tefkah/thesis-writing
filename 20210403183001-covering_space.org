@@ -5,4 +5,4 @@
 #+filetags: definition topology
 
 * Covering space
-A *_covering space_* $C$ is the space from which a [[file:20210403182527-covering_map.org][Covering map]] maps to another topological space.
+A *_covering space_* $C$ is the space from which a [[id:a873a69f-ba4e-4377-8e39-640861c856f4][Covering map]] maps to another topological space.

@@ -6,6 +6,6 @@
 
 * Disjoint
 
-Two [[file:20210505153858-set.org][Set]]s are *disjoint* if they share no elements, i.e. their [[file:20210505153946-intersecton.org][Intersection]] is the [[file:20210505154117-empty_set.org][Empty set]].
+Two [[id:25a5762d-db61-4f84-9962-b96e20c7e84b][Set]]s are *disjoint* if they share no elements, i.e. their [[id:9199d16c-6f46-482c-a188-ce38d680775d][Intersection]] is the [[id:a5805690-630c-4146-a677-ce8b3ba12700][Empty set]].
 
  \[A\cap A'=\emptyset\]

@@ -5,19 +5,19 @@
 #+filetags: symmetry
 
 
-| Observation    | Scope  | ?   | [[file:20210330160309-external_symmetry.org][External]]                                                           | ?   | [[file:20210330155810-internal_symmetry.org][internal]]                                         |
+| Observation    | Scope  | ?   | [[id:a4e0561b-4adb-473c-9d35-8cb29c429c96][External]]                                                           | ?   | [[id:aa5fdff9-863c-4288-88ac-217f69b70cc1][internal]]                                         |
 |----------------+--------+-----+--------------------------------------------------------------------+-----+--------------------------------------------------|
-| Transformation | [[file:20210330160455-global_symmetry.org][Global]] | ☑ | Looking out the window while driving at constant speed             | ☑ | I ($\alpha - 2p^+$ ) = I($\alpha-n-p^+$)                   |
+| Transformation | [[id:475c6db1-e5a0-4ebb-8291-5454a9e6d12e][Global]] | ☑ | Looking out the window while driving at constant speed             | ☑ | I ($\alpha - 2p^+$ ) = I($\alpha-n-p^+$)                   |
 | Invariance     |        | ☑ | Throwing ball in/outside train                                     | ☑ | Pigeon on wire does not get zapped               |
-| Transformation | [[file:20210330160020-local_symmetry.org][Local]]  | ☑ | Looking out window while accelerating                              | ☑ | 't Hooft double slit experiment with phase shift |
+| Transformation | [[id:deba623a-e0d9-4db3-96e3-3cf22681ef43][Local]]  | ☑ | Looking out window while accelerating                              | ☑ | 't Hooft double slit experiment with phase shift |
 | Invariance     |        | \approx   | Only by introducing additional variable to account for differences | \approx   | Same as ⬅, but indirect evidence               |
 |                |        |     |                                                                    |     |                                                  |
 
 
 From this we can conclude a few things.
 
-[[file:20210330163455-local_internal_symmetries_are_not_directly_observable.org][Local internal symmetries are not directly observable]]
-[[file:20210330162807-physical_theories_must_be_globally_symmetric_and_can_be_locally_symmetric.org][Physical theories must be globally symmetric and can be locally symmetric]]
+[[id:ecb99e35-f821-48bc-84c9-2db2559d3bee][Local internal symmetries are not directly observable]]
+[[id:e358c53a-eddc-46f4-b693-d4cc93d7210c][Physical theories must be globally symmetric and can be locally symmetric]]
 
 * Ref
 This is completely based on cite:Kosso2000 's account of symmetries in physics. This is a hotly debated topic in the literature and should not be taken as gospel.

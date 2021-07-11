@@ -8,4 +8,4 @@
 
 ** Munkres
 
-Given two points $x, y$ in the space $X$, a *path* in $X$ from $x$ to $y$ is a [[file:20210505163129-continuity_function.org][Continuous function]] $f: [a, b] \rightarrow X$ of some closed interval in $\mathbb{R}$ to $X$  such that $f(a)=x$ and $f(b)=y$
+Given two points $x, y$ in the space $X$, a *path* in $X$ from $x$ to $y$ is a [[id:0facab0b-4652-478e-962a-afb8cf9818bb][Continuous function]] $f: [a, b] \rightarrow X$ of some closed interval in $\mathbb{R}$ to $X$  such that $f(a)=x$ and $f(b)=y$

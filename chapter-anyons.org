@@ -25,9 +25,9 @@ However, even disregarding Norton's disclaimer, it does not quite feel in the sp
 
 ** Anyons
 
-Anyons are a theorized and alledgedly observed new type of particles. Up until their theorizing/observation, physics squarely placed particles in two types: [[file:20210218153430-fermions.org][fermions]] such as electrons, neutrinos and quarks, and [[file:20210218153456-bosons.org][bosons]] such as photons, protons and the Higgs particle. What unites all these particles is that if you have two of them, they are /indistinguishable/ from one another, meaning that when you find yourself in the unenviable position of calculating with more than one particle, you have to account for the fact that it is /impossible/ to keep the two apart. We call this "accounting for" /phase/, which we multiply with the state of the system anytime we exchange the two particles.  By the spin-statistics theorem, the phase of a particle also tells us something about their [[file:20210223152109-spin.org][spin]].[fn:3]  "Thus" we have fermions with spin of integer multiples of $\frac{1}{2}$, and bosons with integer spin.
+Anyons are a theorized and alledgedly observed new type of particles. Up until their theorizing/observation, physics squarely placed particles in two types: [[id:69945ee0-4f04-419b-8680-e45203302491][fermions]] such as electrons, neutrinos and quarks, and [[id:edcab4d4-3171-4b32-9833-451bfc53bafa][bosons]] such as photons, protons and the Higgs particle. What unites all these particles is that if you have two of them, they are /indistinguishable/ from one another, meaning that when you find yourself in the unenviable position of calculating with more than one particle, you have to account for the fact that it is /impossible/ to keep the two apart. We call this "accounting for" /phase/, which we multiply with the state of the system anytime we exchange the two particles.  By the spin-statistics theorem, the phase of a particle also tells us something about their [[id:c2ab82ac-8f25-4f9e-aabe-9fe53484c1d3][spin]].[fn:3]  "Thus" we have fermions with spin of integer multiples of $\frac{1}{2}$, and bosons with integer spin.
 
-We will see why this is the case in a second, but the important disclaimer to the above result is that it only holds in $3D$ and higher. There exists a way to get around the inevitability of two types of particles in $2D$, such that we can show that there could be particles which have different statistics and could take on /any/ spin, aptly named [[file:20210218152909-anyons.org][anyons]].
+We will see why this is the case in a second, but the important disclaimer to the above result is that it only holds in $3D$ and higher. There exists a way to get around the inevitability of two types of particles in $2D$, such that we can show that there could be particles which have different statistics and could take on /any/ spin, aptly named [[id:31cd49eb-770f-4d11-98b2-ca666b534201][anyons]].
 
 
 What makes them interesting as a case study here is that the commonly accepted explanation for anyons states that they are not able to exist in 3 dimensions, only being possible in 2 dimensions. This is very intersting, because the world we know is 3D, how can it possibly be that these particles are 2D?
@@ -77,22 +77,22 @@ Finally, I wish to address the quantum hall effect itself /first/, before diving
 
 #+include: "./20210402123014-the_configuration_space_explanation_chapter.org" :minlevel 2
 
-[[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]
-#+transclude: t [[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]]
+[[id:3cb8cc7b-70c4-4613-9f5e-3d73f9c6d476][The configuration space explanation chapter]]
+#+transclude: t [[id:3cb8cc7b-70c4-4613-9f5e-3d73f9c6d476][The configuration space explanation chapter]]
 
 #+include: "./20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org" :minlevel 2
-[[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
-#+transclude: t [[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
+[[id:654e4bfd-594e-48f2-b6b1-7ad252e1c05c][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
+#+transclude: t [[id:654e4bfd-594e-48f2-b6b1-7ad252e1c05c][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
 
 #+begin_comment
 #+
-[[file:20210414155705-proof_ballspace_is_not_simply_connected.org][Proof ballspace is not simply connected]]
+[[id:837f70f5-94cf-4257-87cf-d9394ba2e8ba][Proof ballspace is not simply connected]]
 
 #+transclude: t :level 2
-[[file:20210414155524-how_does_qm_work_in_non_simply_connected_space.org][How does QM work in non-simply connected space?]]
+[[id:7afb3d23-edad-45ad-97c1-58ac1ca6857d][How does QM work in non-simply connected space?]]
 
 #+transclude: t
-[[file:20210414155618-how_to_justify_particles_not_being_able_to_escape.org][How to justify particles not being able to escape]]
+[[id:8f75ad04-3266-4fbc-8159-9a5b7532ccb4][How to justify particles not being able to escape]]
 #+end_comment
 
 #+begin_comment
@@ -142,7 +142,7 @@ Now that we have gained some high level understanding of the interesting difficu
 
 *** Classical Hall effect
 
-[[file:20210218152105-classical_hall_effect.org][classical hall effect]]
+[[id:8fc72829-7ad9-4c8a-b400-229add0957bb][classical hall effect]]
 
 =Here’s the set-up. We turn on a constant magx I H V B, B pointing in the z-direction. Meanwhile, the electrons are restricted to move only in the (x, y)plane. A constant current I is made to flow in the x-direction. The Hall effect is the statement that this induces a voltage VH (H is for “Hall”) in the y-direction. This is shown in the figure= ref:chetong.
 #+caption: Classical Hall effect
@@ -170,14 +170,14 @@ After a certain magnetic field strength has been reached, these plateaux start t
 
 *** Preliminaries
 
- To understand why the QHE arises, we must first grasp the fundamental mechanism through which it can arise in the first place, namely the quantization of energy states of electrons when subject to a constant magnetic field. These specific energy eigenstates are called /[[file:20210223154027-landau_levels.org][Landau levels]]/, unsurprisingly first described by Landau, and deriving and gaining a general understanding of them will be our first task. =Badly written=
+ To understand why the QHE arises, we must first grasp the fundamental mechanism through which it can arise in the first place, namely the quantization of energy states of electrons when subject to a constant magnetic field. These specific energy eigenstates are called /[[id:bce603cd-3eea-4dbc-b188-153845a24e16][Landau levels]]/, unsurprisingly first described by Landau, and deriving and gaining a general understanding of them will be our first task. =Badly written=
 
 
 # **** Quantization
 # Not necessary according to Guido, which I agree with
 #+begin_comment
 =I'm over explaining here=
-The (literal) textbook approach we will follow here is describing the classical system first and then quantizing it. The rough steps required are to first compute the [[file:20210223154511-lagrangian.org][Lagrangian]] of the classical system, use that to compute its [[file:20210317122727-hamiltonian.org][Hamiltonian]], from which we can derive the [[file:20210317122807-poisson_brackets.org][Poisson Brackets]]. Then, we treat the Hamiltonian as if it were quantum, use the Poisson Brackets as the [[file:20210317122922-canonical_commutation_relation.org][Canonical Commutation Relation,]] rewrite the Hamiltonian in a form we understand (as always, the [[file:20210317123047-harmonic_oscillator.org][Harmonic Oscillator]]), and use that Hamiltonian to construct the [[file:20210317123126-hilbert_space.org][Hilbert Space]] from which we can read the energy levels. Sounds simple enough, right?
+The (literal) textbook approach we will follow here is describing the classical system first and then quantizing it. The rough steps required are to first compute the [[id:db39298a-cd09-457c-b438-f369418c2be2][Lagrangian]] of the classical system, use that to compute its [[id:a4d107d5-467a-48b1-9385-e3348f07d049][Hamiltonian]], from which we can derive the [[id:41a6a097-12e9-4a05-a6f6-f496fdf515ff][Poisson Brackets]]. Then, we treat the Hamiltonian as if it were quantum, use the Poisson Brackets as the [[id:56d07c1b-54da-4876-b7c5-6b7d0cc08fe2][Canonical Commutation Relation,]] rewrite the Hamiltonian in a form we understand (as always, the [[id:2562a804-ec65-45e4-bae7-be73e0980e97][Harmonic Oscillator]]), and use that Hamiltonian to construct the [[id:83d73e23-610d-4977-8106-c8b4c78ba0c7][Hilbert Space]] from which we can read the energy levels. Sounds simple enough, right?
 
 
  First, let us recap the Lagrangian of a particle in a magnetic field.
@@ -249,7 +249,7 @@ There are not one but two quantum Hall effects: the integer and the fractional. 
 
 
 #+BEGIN_COMMENT
-[[file:20210219124712-the_quantum_hall_effect_has_two_variations_integer_and_fractional.org][the quantum hall effect has two variations, integer and fractional]]
+[[id:b415c998-f7c4-4c1c-a83d-9b5225282514][the quantum hall effect has two variations, integer and fractional]]
 #+END_COMMENT
 **  The Integer Quantum Hall Effect
 
@@ -260,7 +260,7 @@ There are not one but two quantum Hall effects: the integer and the fractional. 
 #+label: fig:iqhe
 [[./media/iqhe2.png]]
 
-The *Integer Quantum Hall Effect* (IQHE), whose resistivity graph can be seen in ref:fig:iqhe, is the appearance of plateaux in the transversal resistivity of a conducting strip at integer multiples of the /[[file:20210219125647-quantum_of_resistance.org][quantum of resistance]]/    $R_q=e^2\hbar/2\pi$, indicated by the $i$s in ref:fig:iqhe.
+The *Integer Quantum Hall Effect* (IQHE), whose resistivity graph can be seen in ref:fig:iqhe, is the appearance of plateaux in the transversal resistivity of a conducting strip at integer multiples of the /[[id:96aec7c9-c31b-48da-9872-2690b057e7ca][quantum of resistance]]/    $R_q=e^2\hbar/2\pi$, indicated by the $i$s in ref:fig:iqhe.
 
 The IQHE has several other interesting features which will come into play later:
 a) The location of the plateaux appears to be independent of the specific material
@@ -271,7 +271,7 @@ c) =The material must be rather thin. In fact, we take the material to be so thi
 1. Why are there plateaux at all?
 2. Why are they at these regular, integer-multiple levels?
 
-Upon seeing ref:fig:iqhe, one might make a natural first guess to an answer to /2/  that these plateaux correspond to the different energy levels of the electrons of the system. In fact, one would be correct! While not trivial, it turns out that these plateaux correspond to the spectrum of a charged particle in a magnetic field, whose energy levels are called [[file:20210223154027-landau_levels.org][Landau levels]]. Deriving these will be the first step to understanding the Quantum Hall Effect as a whole.
+Upon seeing ref:fig:iqhe, one might make a natural first guess to an answer to /2/  that these plateaux correspond to the different energy levels of the electrons of the system. In fact, one would be correct! While not trivial, it turns out that these plateaux correspond to the spectrum of a charged particle in a magnetic field, whose energy levels are called [[id:bce603cd-3eea-4dbc-b188-153845a24e16][Landau levels]]. Deriving these will be the first step to understanding the Quantum Hall Effect as a whole.
 
 ***  Landau Levels
 
@@ -302,8 +302,8 @@ where $ωB = eB/m$ =is the cyclotron frequency that we met previously (1.3). Now
 
 *Unlike the Harmonic oscillator, which concerns a $1D$ system with unique energy eigenstates, the Landau levels are not at all unique and extremely degenerate.*
 
-[[file:20210223163548-landau_states_have_a_large_degeneracy.org][Landau states have a large degeneracy]]
-#+transclude: t [[file:20210223163548-landau_states_have_a_large_degeneracy.org][Landau states have a large degeneracy]]
+[[id:1d52c1b9-6924-4272-9b33-a600b103240a][Landau states have a large degeneracy]]
+#+transclude: t [[id:1d52c1b9-6924-4272-9b33-a600b103240a][Landau states have a large degeneracy]]
 
 
 **** Finding the Landaus
@@ -363,8 +363,8 @@ If we can show that the degeneracy of a Landau level is the same, we would be re
 
 Edge modes
 
-[[file:20210302154810-edge_modes_determine_the_values_of_the_iqhe_plateaux.org][edge modes determine the values of the IQHE plateaux]]
-#+transclude: t [[file:20210302154810-edge_modes_determine_the_values_of_the_iqhe_plateaux.org][edge modes determine the values of the IQHE plateaux]]
+[[id:573dfbd0-2b6c-43b2-a08c-37f174de35c3][edge modes determine the values of the IQHE plateaux]]
+#+transclude: t [[id:573dfbd0-2b6c-43b2-a08c-37f174de35c3][edge modes determine the values of the IQHE plateaux]]
 
 *Edge modes are very important, but sound rather mysterious. However.*
 =The fact that something special happens along the edge of a quantum Hall system can be seen even classically. Consider particles moving in circles in a magnetic field. For a fixed magnetic field, all particle motion is in one direction, say anti-clockwise. Near the edge of the sample, the orbits must collide with the boundary. As all motion is anti-clockwise, the only option open to these particles is to bounce back. The result is a skipping motion in which the particles along the one-dimensional boundary move  only in a single direction, as shown in the figure. A particle restricted to move in a single direction along a line is said to be chiral. Particles move in one direction on one side of the sample, and in the other direction on the other side of the sample. We say that the particles have opposite chirality on the two sides. This ensures that the net current, in the absence of an electric field, vanishes=. *This way we can retain a rather simple model*
@@ -456,10 +456,10 @@ The Integer explanation relies on the fact that there are (small) impurities in 
  
 *** Adding electron interaction
 
-#+transclude: t [[file:20210309161230-iqhe_has_no_electron_interactions_fqhe_does.org][IQHE has no electron interactions, FQHE does]]
+#+transclude: t [[id:1d5f8392-5e49-45b9-a998-e3b6636bff41][IQHE has no electron interactions, FQHE does]]
 
 
-#+transclude: t [[file:20210309161322-reasoning_of_fqhe_is_less_rigorous_than_iqhe.org][reasoning of FQHE is less rigorous than IQHE]]
+#+transclude: t [[id:bd8b598f-7c03-4f61-a250-f408e437232c][reasoning of FQHE is less rigorous than IQHE]]
 
 *** TODO The Ugly: Idealizations, Idealizations Everywhere
 
@@ -469,10 +469,10 @@ The Integer explanation relies on the fact that there are (small) impurities in 
 
 *** TODO Finding the wavefunction
 
- [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed_from_general_grounds.org][The wavefunction of the FQHE is GUESSED from general grounds]]
-#+transclude: t [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed_from_general_grounds.org][The wavefunction of the FQHE is GUESSED from general grounds]]
+ [[id:2517c712-c625-4cd3-9d8e-93b37baeeac6][The wavefunction of the FQHE is GUESSED from general grounds]]
+#+transclude: t [[id:2517c712-c625-4cd3-9d8e-93b37baeeac6][The wavefunction of the FQHE is GUESSED from general grounds]]
 
- While you might think that quantum mechanics is easy[fn:2], it is actually rather difficult to solve the equations of systems barely larger than a Helium atom. In fact, for most systems we cannot even write down the wavefunction, much less show how it will evolve. The standard solution to these problems is to use  [[file:20210309164701-perturbation_theory.org][perturbation theory]] to find something reasonably close to the actual wavefunction. This works by guessing some test-wavefunction, have it interact with the Hamiltonian plus some slight perturbation, and then ....
+ While you might think that quantum mechanics is easy[fn:2], it is actually rather difficult to solve the equations of systems barely larger than a Helium atom. In fact, for most systems we cannot even write down the wavefunction, much less show how it will evolve. The standard solution to these problems is to use  [[id:607655ae-3263-4bd2-a03f-b4b877e42c1f][perturbation theory]] to find something reasonably close to the actual wavefunction. This works by guessing some test-wavefunction, have it interact with the Hamiltonian plus some slight perturbation, and then ....
  Do this a couple of times and we get reasonably close to the actual wavefunction of the system: a true approximation in the Nortonian sense.
 
  "Alright", you say, dumbfounded "I guess that's alright. Kind of dissapointing that we don't have the 'actual wavefunction', but I can live with it." Luckily for us, we will not have to settle for the perturbed wavefunction, as we cannot even use perturbation theory here! Recall the insidious italics above: perturbation theory has us treat the disturbance as a /small/ disruption. If we poke the system slightly, we expect it to go relax back to the same state again, which is what allows the above equality ref:eq:perturbation to hold.
@@ -496,7 +496,7 @@ The Integer explanation relies on the fact that there are (small) impurities in 
 
  How is it guessed? We need to start with a simplyfying toy model in order to make sense of this, the ol' magnetic annulus. It looks like ...
 
-If we use [[file:20210223170018-symmetry_gauge.org][symmetry gauge]] we get that
+If we use [[id:f5640b4e-737d-48e5-a8c0-512c284f986c][symmetry gauge]] we get that
 \[\hat{\textbf{A}}=-\frac{1}{2} \hat{\textbf{r}}\times \textbf{B} = -\frac{yB}{2}\hat{x}+\frac{xB}{2}\hat{y}
 \]
 
@@ -515,7 +515,7 @@ Isn't that neat.
 
  From here Laughlin guessed his WF from two general points of reference:
 
-[[file:20210311183548-every_qh_wf_must_have_the_form_f_z_z1_zn_exp_sum_zi_2.org][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
+[[id:12bf23b8-7c2f-439b-84f1-92807e5f93b3][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
 
 \begin{equation}
 \psi(z_i...z_n)=f(z_i...z_n)e^{-\sum_{i=1}^n\abs{z_i}^2/4l_B^2}
@@ -524,12 +524,11 @@ Isn't that neat.
 
 with $f(z_i...z_n)$ an analytic function of $z_i$ s, as we do not want our wavefunctions to be nonanalytic.
 
-[[file:20210311183858-every_qh_wf_must_be_antisymmetric.org][
-Every QH WF must be antisymmetric]]
+[[id:9edb93f2-bb71-42ed-8a72-89abaa8a5cc3][Every QH WF must be antisymmetric]]
 
 The state is describing fermions, so it better be anti-symmetric.
 
-Using this, he wrote down what is now known as the [[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]]
+Using this, he wrote down what is now known as the [[id:fff6c214-ce92-4f4f-be7f-71eb21efff79][The Laughlin Wavefunction]]
 \begin{equation}
     \psi(z_i)=\prod_{i<q}(z_i-z_j)^m e^{\sum_{i=1}^n \abs{z_i}/4l_B^2}
     \label{eq:LWF}
@@ -567,7 +566,7 @@ We see that it fulfills both requirements, but is that enough?
  #+transclude: t :hlevel 5
  Something about the holes
 
- [[file:20210312122743-excitations_of_the_lwf_ground_state_give_rise_to_quasi_holes_particles.org][Excitations of the LWF Ground State Give Rise to Quasi-holes/particles]]
+ [[id:5775b1e9-f5ac-4961-ad58-d3b139b4ad68][Excitations of the LWF Ground State Give Rise to Quasi-holes/particles]]
  #+transclude: t :hlevel 5
  Something about the ground state of the hamiltanian being different
 
@@ -584,7 +583,7 @@ We see that it fulfills both requirements, but is that enough?
  \Psi_{hole}^\eta(z)=\prod_{i=1}(z_i-\eta)\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
      \label{eq:holeLWF}
  \end{equation}
- where, once again, $m$ is the inverse of the [[file:20210223141818-filling_factor.org][filling factor]]  $\nu=1/m$ and $\eta$ the position of the hole. We can generalize this a wavefunction with $M$ holes, as
+ where, once again, $m$ is the inverse of the [[id:b9c034ae-c43c-488b-8c96-996789ac2695][filling factor]]  $\nu=1/m$ and $\eta$ the position of the hole. We can generalize this a wavefunction with $M$ holes, as
 
  \begin{equation}
  \Psi_{M-holes}^\eta(z)=\prod_{j=1}^M\prod_{i=1}^N(z_i-\eta_j)^m\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
@@ -602,17 +601,17 @@ We see that it fulfills both requirements, but is that enough?
 
  Now, there are a lot of holes in this argument, most prominently us conveniently discarding the Pauli-exclusion principle. This could however be forgiven by pointing at the plasma analogy again (as we shall see in a bit) and say that they will act like a single particle if close together. Furthermore, the argument does not work perfectly, as while $m$ holes look like the absence of one electron, this does not mean that every hole has the same charge.
 
- To get a more satisfactory and concrete answer we will have to calculate the fractional charge the hard way, using the Berry Connection. While we need to introduce some more *things*, this will also allow us to /finally/ calculate the statistics of the particle, and, as a bonus, it also helps us make sense of the [[file:20210223172322-aharonov_bohm_effect.org][Aharonov Bohm Effect]].
+ To get a more satisfactory and concrete answer we will have to calculate the fractional charge the hard way, using the Berry Connection. While we need to introduce some more *things*, this will also allow us to /finally/ calculate the statistics of the particle, and, as a bonus, it also helps us make sense of the [[id:c1fb832a-c00d-48d5-8397-1cdd1f7617df][Aharonov Bohm Effect]].
 
 *** Berry phase
 # #+transclude: t :hlevel 5
-# [[file:20210312130104-berry_connection.org][Berry Connection]]
+# [[id:3dad96b9-a6bf-449f-981e-4e141f865dd5][Berry Connection]]
 
 The Berry phase is the phase that a particle picks up when it is "around" in one of its eigenstates by varying the /parameters/ of the hamiltonian from and back to the eigenstate again. The parameters are usually not the first thing we consider when writing down the Hamiltonian, but could be thought of as, for instance, the specific settings used to prepare the system. Varying these settings slightly (such as the temperature or something) might still keep the system in the same eigenstate, loosely similar to how many statistical mechanical micro-states could give rise to the same macrostate.
 
-Continuing that analogy, if we do this slow enough, the [[file:20210223171329-adiabatic_theorem_quantum.org][adiabatic theorem (quantum)]] guarantees that the system will stay in its eigenstate.[fn:1]
+Continuing that analogy, if we do this slow enough, the [[id:75068634-a939-42ae-815f-8c31d02cf5f5][adiabatic theorem (quantum)]] guarantees that the system will stay in its eigenstate.[fn:1]
 
-If we do this, after moving the Berry phase back the system will have incurred a phase, the [[file:20210223170728-berry_phase.org][Berry phase]]
+If we do this, after moving the Berry phase back the system will have incurred a phase, the [[id:5441a486-c826-424d-a30a-e08b9208642b][Berry phase]]
 
 *** Berry Connection
 
@@ -631,7 +630,7 @@ That is why we have been looking at the FQHE up until now, as this is one of the
 
    Although not everyone agrees, the AB effect can for instance be explained geometrically rather than topologically. With this I mean that the phase arises because of /geometric features/ such as curvature rather than out of /topological features/ such as the connectedness. Topological explanation discard all features with are not topologically invariant, which are the features of a space that remain the same under homeomorphisms. This is partially what leads to the mystery of the anyonic phase, as topological explanations, dealing only with objects that "can be continuously deformed into each other" are rather "all or nothing": ALL loops can either be deformed to a point or not.
 
-   Luckily there is a possibility to calculate the phase geometrically, through the aptly named [[file:20210511130045-geometric_phase.org][Geometric Phase]]. The geometric phase is based on the geometry ("curvature") rather than the topology ("connectedness") of the space we will be able to calculate a phase with a continuous dependence on some parameters, rather than the discrete dependence on the connectedness in the topological explanation.
+   Luckily there is a possibility to calculate the phase geometrically, through the aptly named [[id:af98c8b8-d6d1-4443-893a-0a516b3664d2][Geometric Phase]]. The geometric phase is based on the geometry ("curvature") rather than the topology ("connectedness") of the space we will be able to calculate a phase with a continuous dependence on some parameters, rather than the discrete dependence on the connectedness in the topological explanation.
 
 *** Brief history
 
@@ -641,7 +640,7 @@ Theoretical phases have studied geometric phases since around the 1950s, most pr
 
 *** What is phase
 
-    A quantum system, being represented by a wave function, can just like regular ol' sinus waves be described in terms of its amplitude, period, and /phase/, which is, crudely put, the offset with respect to the origin. In quantum mechanics this is almost always described using the [[file:phase_factor.org][Phase factor]] $e^{i\theta}$.
+    A quantum system, being represented by a wave function, can just like regular ol' sinus waves be described in terms of its amplitude, period, and /phase/, which is, crudely put, the offset with respect to the origin. In quantum mechanics this is almost always described using the [[id:6abcbdbc-c817-4688-be54-1a7c534af1fa][Phase factor]] $e^{i\theta}$.
 
     A simple illustration will help.
 
@@ -664,9 +663,9 @@ Theoretical phases have studied geometric phases since around the 1950s, most pr
 
 *** How does geometrical phase get there
 
-As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical"cite:Berry1984. However, as cite:Simon1983 soon thereafter elucidated, the Berry phase becomes a whole lot less mysterious once we link it to a more general geometric property: [[file:20210511110305-holonomy.org][Holonomy.]]
+As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical"cite:Berry1984. However, as cite:Simon1983 soon thereafter elucidated, the Berry phase becomes a whole lot less mysterious once we link it to a more general geometric property: [[id:fd2450df-e046-4d9c-a350-2be198e7fd04][Holonomy.]]
 
-Holonomy is the phenomenon of a vector (or more generally any mathematical object) not remaining completely invariant after being [[file:20210511111338-parallel_transport.org][Parallel transport]]ed along some curved surface. An example is in order.
+Holonomy is the phenomenon of a vector (or more generally any mathematical object) not remaining completely invariant after being [[id:71b7fa31-7712-4a3a-a3ff-825298ed86cd][Parallel transport]]ed along some curved surface. An example is in order.
 
 Say you are at the northpole, looking "south" (every direction is south) along the Greenwhich meridian line. Your field of vision (let's just take the center of it for simplicity) is our vector which we will be parallel transporting. It has a length of approximately 5km (this does not really matter) and is facing wherever you are looking, originating wherever you are standing. We will now only change one of these variables gradually, your position. You start to bravely swim along this meridian, eventually reaching the equator. Since you are already making a fool's journey, you figure you might as well lean into it and add an extra condition: you will never turn during your journey. Meaning that once you reach the equator, instead of turning 90 degrees to face East, you shuffle Eastword across Africa like some sort of stray crab. Once you reach the international date line in the Pacific ocean, you do not stop acting the fool and begin imitating the jellyfish you meet there, swimming backwards on your back in a straight line back to your starting point.
 
@@ -689,8 +688,8 @@ cite:Knapp2016
 ** Geometry? More like
 
 
-[[file:20210520180604-on_computing_the_geometric_phase_in_the_fqhe.org][On computing the geometric phase in the FQHE]]
-#+transclude: t [[file:20210520180604-on_computing_the_geometric_phase_in_the_fqhe.org][On computing the geometric phase in the FQHE]]
+[[id:4b5c6424-14de-4ac9-92ad-98c4881a1879][On computing the geometric phase in the FQHE]]
+#+transclude: t [[id:4b5c6424-14de-4ac9-92ad-98c4881a1879][On computing the geometric phase in the FQHE]]
 #+include:  "./20210520180604-on_computing_the_geometric_phase_in_the_fqhe.org" :minlevel 3
 
 

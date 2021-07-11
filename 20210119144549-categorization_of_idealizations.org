@@ -4,7 +4,7 @@
 #+title: Categorization of idealizations
 #+filetags: thesis distinction idealizations
 
-Nicer version [[file:infinite_idealizations_chapter.org][small sample on infinite vs normal idealization]]
+Nicer version [[id:1fbefa5c-d5a1-4061-a043-e7c2ffd7c596][small sample on infinite vs normal idealization]]
 * Good distinciton
 
 I want to find a way to distinguish between all the ways people distinguish between idealizations, because there are too damn many.

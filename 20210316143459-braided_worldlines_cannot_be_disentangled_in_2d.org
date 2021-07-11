@@ -5,7 +5,7 @@
 #+filetags: FQHE anyons
 
 * Anyons appear because of intertwined worldlines
-In two dimensions, [[file:20210218152909-anyons.org][anyons,]] particles which exhibit [[file:20210316143612-fractional_quantum_statistics.org][Fractional Quantum Statistics]] are possible because in 2D the [[file:20210316144720-worldlines.org][Worldlines]] of identical particles get "intertwined" and cannot get (smoothly) untangled, unlike in 3D.
+In two dimensions, [[id:31cd49eb-770f-4d11-98b2-ca666b534201][anyons,]] particles which exhibit [[id:313f0a05-b6e3-43f8-8f2f-f004790dc798][Fractional Quantum Statistics]] are possible because in 2D the [[id:3f8656b0-7344-43e3-8d25-f837674dc739][Worldlines]] of identical particles get "intertwined" and cannot get (smoothly) untangled, unlike in 3D.
 
 Visually, we cannot smoothly transition from
 #+caption: Counterclockwise entangled 2D particles (x-axis is x position, y-axis is time)
@@ -25,6 +25,6 @@ In a sense, a particle with a 2D configuration space always remembers which path
 One way of intuitively making sense of this is to view the above braids as regular three spatial dimension braids, with the Y axis being the Y directions instead of the time direction. In this case, we could simply disentangle them by for instance grabbing the top part of the "strand" and moving them (counter)clockwise until they are disentangled.
 In 3D this makes sense, but when one of the dimensions is Time it suddenly becomes impossible to disentangle them, as we cannot affect the past and the strands will just keep growing at the top. We can smooth things out at the top, but the braid at the bottom will remain.
 
-Visualizing why the knots are not (ha) a problem in 3+1D is a little more difficult, as most people are not very proficient in imagining 4D space. See [[file:20210316150442-3d_braids_do_not_get_intertwined.org][3D Braids do not get intertwined]].
+Visualizing why the knots are not (ha) a problem in 3+1D is a little more difficult, as most people are not very proficient in imagining 4D space. See [[id:1c72fe21-bb24-453d-afbb-d58ac0059086][3D Braids do not get intertwined]].
 
-Because of this entangling, the exchange of particles in 2D form the [[file:20210218154017-braid_group.org][braid group]] .
+Because of this entangling, the exchange of particles in 2D form the [[id:a3ef6468-2bf3-42c8-a90c-2e9bd5f22941][braid group]] .

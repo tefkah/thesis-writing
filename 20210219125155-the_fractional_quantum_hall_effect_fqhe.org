@@ -11,4 +11,4 @@ The fractional quantum hall effect is the surprising observation of peaks and va
 
 The fractional quantum hall effect employs some idealizations, see
 
-[[file:20210311100054-idealizations_employed_in_the_fqhe.org][idealizations employed in the FQHE]]
+[[id:48bc42ba-ca1a-4614-b735-74ab0609a33d][idealizations employed in the FQHE]]

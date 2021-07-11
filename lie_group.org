@@ -6,7 +6,7 @@
 
 * Lie Group
 
-A *Lie Group* is a [[file:20210403175539-group.org][Group]] describing continuous rather than discrete symmetries, roughly meaning that the [[file:cardinality.org][Cardinality]] of the group is $\aleph_1$ i.e. it has uncountably many elements.
+A *Lie Group* is a [[id:0bbb9ce7-191f-4fde-8924-cad8a3886e2e][Group]] describing continuous rather than discrete symmetries, roughly meaning that the [[id:fe87fdb4-b86b-48db-8a2d-eb402b095ad2][Cardinality]] of the group is $\aleph_1$ i.e. it has uncountably many elements.
 
 * Examples
 

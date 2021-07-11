@@ -7,13 +7,13 @@
 * Topological Space
 
 ** Munkres
-A *topological space* is an ordered pair $(X, T)$ consiisting of any set $X$ which has a [[file:20210506162317-topology.org][Topology]] $T$ specified on it.
+A *topological space* is an ordered pair $(X, T)$ consiisting of any set $X$ which has a [[id:949cedd8-4c37-46cb-8439-aaa582647ef8][Topology]] $T$ specified on it.
 
-This is similar to the idea of a [[file:20210416111039-metric_space.org][Metric Space]], except instead of defining a metric you define a topology.
+This is similar to the idea of a [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]], except instead of defining a metric you define a topology.
 
 *** With open sets
 
-A *topological space* $X$ is a set $X$ together with a collection of subsets of $X$, called  [[file:20210416112309-open_set.org][Open set]]s, such that
+A *topological space* $X$ is a set $X$ together with a collection of subsets of $X$, called  [[id:8d93c68e-6297-4ec0-b026-90fde4b43c53][Open set]]s, such that
 1. $\emptyset$ and $X$ are open
 2. Arbitrary /unions/ of open subsets of $X$ are also open
 3. Arbitrary /intersections/ of open subsets of $X$ are also open

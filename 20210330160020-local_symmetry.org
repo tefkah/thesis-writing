@@ -4,4 +4,4 @@
 #+title: Local symmetry
 #+filetags: symmetry definition
 
-[[file:20210330160106-the_strength_of_a_local_symmetry_is_a_variable_function_over_spacetime.org][The strength of a local symmetry is a variable function over spacetime]]
+[[id:0e0ce252-47b1-4b13-a4f5-a2b587b6f40c][The strength of a local symmetry is a variable function over spacetime]]

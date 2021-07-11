@@ -10,7 +10,7 @@ According to cite:Shech2019 the consequences of the above argument are clear: "a
 
 Now that we have finally grasped the core of Shech's argument, we are at last able to push back a little. At the end of this chapter, I will have shown how to fully make sense of the emergence of anyons in the quantum Hall system without relying on the 2D idealization. Before that however, I want to make it at least somewhat plausible that this /can/ be done.
 
-To start, as we have seen above, to derive the existence of anyons, i.e. particles whose phase under exchange $\neq 0,1$ , we do not necessarily require the configuration space to be $2D$, but merely for said configuration space to be non-[[file:20210403183452-simply_connected.org][Simply connected]]. Therefore, it seems plausible that an approximate 3D explanation could get off the ground, if only we can show that it is non-simply connected. The rest of the chapter serves as that argument.
+To start, as we have seen above, to derive the existence of anyons, i.e. particles whose phase under exchange $\neq 0,1$ , we do not necessarily require the configuration space to be $2D$, but merely for said configuration space to be non-[[id:2e0a3a59-3794-4b5f-8313-f630d88a7a87][Simply connected]]. Therefore, it seems plausible that an approximate 3D explanation could get off the ground, if only we can show that it is non-simply connected. The rest of the chapter serves as that argument.
 
 ** First steps
 
@@ -41,7 +41,7 @@ which can be crudely represented as
 #+label: fig:ballspace
 
 *** "Proof"
-$\tilde{Q}'$ is clearly non-simply connected, as there are loops that can be formed around the center of the space which cannot possibly be deformed into a point. This envisioning is similar to the [[file:20210223172322-aharonov_bohm_effect.org][Aharonov Bohm Effect]], in which the configuration space contains an infinitely high solenoid at the origin, preventing loops from closing.
+$\tilde{Q}'$ is clearly non-simply connected, as there are loops that can be formed around the center of the space which cannot possibly be deformed into a point. This envisioning is similar to the [[id:c1fb832a-c00d-48d5-8397-1cdd1f7617df][Aharonov Bohm Effect]], in which the configuration space contains an infinitely high solenoid at the origin, preventing loops from closing.
 
 #+latex: {\color{red}(I am unsure how to prove this rigourously, nor whether that would be necessary. I could definitely illustrate the matter more, of course)}
 
@@ -54,7 +54,7 @@ b. justified neither condition 1), 2) or 3).
 
 A rigorous derivation of the fundamental group of these spaces is highly non-trivial (see for instance cite:Fox1962 for the derivation of the 2D case). I will instead do the normal philospher of physics thing, namely to gesture at a proof which I belief will probably hold.
 
-The only thing we need to show is that the $3D$ case is not different in any relevant  respect to the $2D$ one. In case of the fundamental group, the relevant respect is the number of [[file:20210427162825-homotopy_equivalent_paths.org][Homotopy equivalent paths]], the classes of paths which cannot be continuously deformed into one another. In a non-simply connected space, a path which winds around a "hole" cannot continuously be deformed into one which does not, nor can a path which winds around said hole twice be deformed into one that only winds around it once, or winds around it twice clockwise.
+The only thing we need to show is that the $3D$ case is not different in any relevant  respect to the $2D$ one. In case of the fundamental group, the relevant respect is the number of [[id:896697ec-2e29-446e-9caf-7919b3639bdb][Homotopy equivalent paths]], the classes of paths which cannot be continuously deformed into one another. In a non-simply connected space, a path which winds around a "hole" cannot continuously be deformed into one which does not, nor can a path which winds around said hole twice be deformed into one that only winds around it once, or winds around it twice clockwise.
 
 Luckily for us, the  homotopy equivalent paths of  $\tilde{Q}'$ are the same as those for $\tilde{Q}$ , as all the paths that wind around the "origin-hole"  $k$ times can be continuously deformed into one another in both cases, and no other winding-sites exist. If our space would have additional holes, that could pose a problem, but for now we can rest easy.
 

@@ -7,7 +7,7 @@
 * Context
 
 My main concern for my thesis is the way we talk about discrete entities while keeping in mind that things are actually continuous. However, I'm not the first person to think about this, but other do not put things into these words. I want to create a kind of overview for terms related to this, AND how they differ from what I see as the problem
-This is a sort of precursor for [[file:20201221144612-relevant_papers_for_discrete_continuous_transitio.org][Relevant papers for discrete continuous transitio]]
+This is a sort of precursor for [[id:e91108cb-a755-4ffa-861d-b228b26f441e][Relevant papers for discrete continuous transitio]]
 
 * Body
 

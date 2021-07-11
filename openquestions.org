@@ -12,13 +12,13 @@ Whilst working on my thesis I occasionally come across things I cannot quite see
 
 * Questions
 ** OPEN Is localized vs extended a sensible dichotomy? :IQHE:
-See [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_localized.org][impurities turn many quantum states from extended to localized]]
+See [[id:d5074aea-3aab-4aa7-954c-7307e3907a17][impurities turn many quantum states from extended to localized]]
 /Asked On/ [2021-03-02 Tue 16:34]
-** OPEN Why do [[file:20210302164341-extended_states_conduct_more_when_less_populated.org][extended states conduct more when less populated]] :IQHE:
+** OPEN Why do [[id:a133889b-5982-43d1-a4c5-e46312369b52][extended states conduct more when less populated]] :IQHE:
 /Asked On/ [2021-03-02 Tue 16:44]
 ** CLOSED Why iqhe so weird :IQHE:
 /Asked On/ [2021-03-02 Tue 16:59]
-** OPEN  [[file:20210309161743-is_the_neglection_of_electron_interactions_in_iqhe_justified.org][is the neglection of electron interactions in IQHE justified?]]
+** OPEN  [[id:ac38176f-a082-4073-a084-f258b4db6efe][is the neglection of electron interactions in IQHE justified?]]
  [2021-03-09 Tue 16:20]
 ** CLOSED why is $R_i R_{i+1} R_i = R_{i+1} R_i R_{i+1}$ ?
  [2021-03-11 Thu 14:46]
@@ -26,7 +26,7 @@ See [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_l
  [2021-03-11 Thu 14:46]
 ** OPEN Do anyons /always/ occur at partially filled Landau levels?
  [2021-03-12 Fri 12:24]
-** CLOSED [[file:20210312123438-where_does_the_hole_wf_come_from.org][where does the hole WF come from?]]
+** CLOSED [[id:91cc9a2b-8dd0-45c9-990e-127c413b907e][where does the hole WF come from?]]
  [2021-03-12 Fri 12:34]
 ** OPEN How important is the fact that worldlines are unintertwinable to FQS arising?
  [2021-03-16 Tue 14:49]

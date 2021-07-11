@@ -6,8 +6,8 @@
 
 * Cover
 
-A *cover* $C$ of a space $X$ is a [[file:20210403183001-covering_space.org][Covering space]] together with a [[file:20210403182527-covering_map.org][Covering map]] such that (roughly) there is a map from each one or more points in $C$ to every point $X$.
+A *cover* $C$ of a space $X$ is a [[id:f44e68f8-278a-47b5-b35d-53aed370a0da][Covering space]] together with a [[id:a873a69f-ba4e-4377-8e39-640861c856f4][Covering map]] such that (roughly) there is a map from each one or more points in $C$ to every point $X$.
 
-A cover has to be  [[file:20210505161024-surjective_onto.org][Surjective / Onto]], but is in general not injective, because covers usually have more than one point that map onto the same point in $X$.
+A cover has to be  [[id:9a6bd1ee-8403-43af-9a53-f68faf686e27][Surjective / Onto]], but is in general not injective, because covers usually have more than one point that map onto the same point in $X$.
 
 The standard example is the spiral covering the circle: each point in the circle can be identified by infinitely many points in the spiral. You can imagine the spiral /unwinding/ from the circle.

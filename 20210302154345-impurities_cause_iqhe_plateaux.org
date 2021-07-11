@@ -6,22 +6,22 @@
 
 * Context
 
-In [[file:20210219125447-the_integer_quantum_hall_effect_iqhe.org][the Integer quantum hall effect (IQHE)]], plateaux in the transversal resistance are observed at integer multiples of the [[file:20210223141818-filling_factor.org][filling factor]], the number of particles in the Landau level over the total space in the [[file:20210223154027-landau_levels.org][Landau levels]]. While [[file:20210302154810-edge_modes_determine_the_values_of_the_iqhe_plateaux.org][edge modes determine the values of the IQHE plateaux]], they do not explain why these plateaux persist over a range of magnetic fields.
+In [[id:c936a9ab-092e-4fe3-8b96-b6f4ae91e583][the Integer quantum hall effect (IQHE)]], plateaux in the transversal resistance are observed at integer multiples of the [[id:b9c034ae-c43c-488b-8c96-996789ac2695][filling factor]], the number of particles in the Landau level over the total space in the [[id:bce603cd-3eea-4dbc-b188-153845a24e16][Landau levels]]. While [[id:573dfbd0-2b6c-43b2-a08c-37f174de35c3][edge modes determine the values of the IQHE plateaux]], they do not explain why these plateaux persist over a range of magnetic fields.
 
 * Body
 
 The short explanation goes as follows:
 
 #+transclude: t
-[[file:20210302155202-impurities_break_the_degeneracy_of_the_landau_levels.org][impurities break the degeneracy of the landau levels]]
+[[id:5ef0b428-994c-4b5b-bf8f-c8b2491baf24][impurities break the degeneracy of the landau levels]]
 
 
 #+transclude: t
-[[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_localized.org][impurities turn many quantum states from extended to localized]]
+[[id:d5074aea-3aab-4aa7-954c-7307e3907a17][impurities turn many quantum states from extended to localized]]
 
 
 Then, when all the extended states get filled and the magnetic field gets turned down, there is less space in the Landau level for the extended state. However, instead of jumping to the next extended state, they jump to the localized ones. These localized states do not conduct and thus do not change the conductivity.
 
 The weird thing is that one would expect the resistivity to go down anyway, since the Landau level still holds fewer states. Strangely enough however
 #+transclude: t
-[[file:20210302164341-extended_states_conduct_more_when_less_populated.org][extended states conduct more when less]]
+[[id:a133889b-5982-43d1-a4c5-e46312369b52][extended states conduct more when less]]

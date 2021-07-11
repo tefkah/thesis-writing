@@ -7,9 +7,9 @@
 
 * Body
 
-Supervaluationism is a way to deal with [[file:20210114163906-vagueness.org][vagueness]].
+Supervaluationism is a way to deal with [[id:2bd50b77-d226-4853-8bf2-d0e69b570a53][vagueness]].
 
-It is a [[file:20210114164133-de_dicto.org][de dicto]] account of vagueness, meaning that it ascribes a de dicto reading to vague statements such as
+It is a [[id:51a3a4c5-9019-4607-915a-05b1e5c02671][de dicto]] account of vagueness, meaning that it ascribes a de dicto reading to vague statements such as
 
 It is unclear whether someone that is 1.80m tall
 

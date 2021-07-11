@@ -4,4 +4,4 @@
 #+title: Philosophers never agree with DN but always use it
 #+filetags: explanation
 
-* No one agrees with Hempel's [[file:20210330165010-the_deductive_nomological_model_of_explanation.org][deductive-nomological model of explanation]] , but everyone uses it anyway
+* No one agrees with Hempel's [[id:b93fa016-999a-4f1a-a471-8c631db1879a][deductive-nomological model of explanation]] , but everyone uses it anyway

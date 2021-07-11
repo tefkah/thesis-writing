@@ -7,7 +7,7 @@
 
 * Context
 
-My thesis heavily centers around two topics: [[file:20201219152020-infinite_idealizations.org][infinite idealizations]] and [[file:20210114163906-vagueness.org][vagueness]]/[[file:20210309112947-sorites_paradox.org][sorites paradox]]. I want to basically find an answer to the latter, and to do so I am looking at the former, and this is the reason why. I am stuck writing [[file:20210308135758-fqhe_intro_to_show_ronnie_and_guido.org][FQHE Intro to show Ronnie and Guido]]
+My thesis heavily centers around two topics: [[id:4d1d4b14-fb53-41d2-bc0d-a1c197cc6df0][infinite idealizations]] and [[id:2bd50b77-d226-4853-8bf2-d0e69b570a53][vagueness]]/[[id:207301aa-718d-417a-b3c0-103264d7a88f][sorites paradox]]. I want to basically find an answer to the latter, and to do so I am looking at the former, and this is the reason why. I am stuck writing [[id:edfca3ee-eb93-46ff-8e10-25794e4cd67e][FQHE Intro to show Ronnie and Guido]]
 
 * Infinite Idealizations are similar to Sorites paradoxes because both are mathematical/logical reasons for why common explanations of phenomena don't (immediately) work out
 

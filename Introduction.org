@@ -348,7 +348,7 @@ The argument is flawed by using weird conceptions of continuity, in particular b
   Overlaps much with the literature I gathered on idealization. I am still missing some good meta opininated meta literature on the subject, as I mentioned above
 
 ** Specific Effects and arguments surrounding them
-*** Phase transitions [[file:20210210115635-phase_transitions.org][phase transitions]]
+*** Phase transitions [[id:4b10bcb4-8337-4b3e-be7a-adab788f995c][phase transitions]]
 
 - cite:ech2013
 - citeMenon2011
@@ -360,7 +360,7 @@ The argument is flawed by using weird conceptions of continuity, in particular b
 
 Overlaps much with the literature on infinite idealizations
 
-*** FQHE [[file:20210210121252-fractional_quantum_hall_effect_meta.org][Fractional quantum hall effect (meta)]]
+*** FQHE [[id:8d8aa787-6796-410f-82d8-965c44698794][Fractional quantum hall effect (meta)]]
 
 - citeShech2019a
 - citeShech2015

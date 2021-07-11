@@ -11,8 +11,8 @@ Scientific explanation is usually thought of as a definite predicate, either som
 While this way of thinking is tempting, and I myself "fall into" this trap quite often, I ~believe~ can see that thinking of explanation as having different levels of acceptability to be much more fruitful.
 Rather than a certain phenomenon having an explanation or not, it seems plausible to think that phenomena can have explanation which are better or worse than one another, but still "explain".
 
-While this account seems to pressupose an anti-realist account of explanation, in which we give up the ontological status of these explanations and instead see [[file:20210330164858-explanation_qua_understanding.org][Explanation qua understanding]], I do not think this is necessarily the case.
+While this account seems to pressupose an anti-realist account of explanation, in which we give up the ontological status of these explanations and instead see [[id:f78af4d0-f42c-43ca-b683-2b123c34cacd][Explanation qua understanding]], I do not think this is necessarily the case.
 
-Say we take explanation as [[file:20210330165010-the_deductive_nomological_model_of_explanation.org][The deductive-nomological model of explanation]], as everyone does.
+Say we take explanation as [[id:b93fa016-999a-4f1a-a471-8c631db1879a][The deductive-nomological model of explanation]], as everyone does.
 
 Then say we could explain certain phenomena using different laws of nature (I have no example). Then we could not determine which explanation was correct unless we dediced which one is better than the other. It makes more sense to think of levels of explanation, since it's still a sound argument.

@@ -6,7 +6,7 @@
 
 * The relevant parameter for the geometric phase is position in exchange statistics
 
-The [[file:20210511130045-geometric_phase.org][Geometric Phase]] arises when you vary the parameters of the Hamiltonian of the system slowly from and back to their original starting point, tracing out a path in parameter space.
+The [[id:af98c8b8-d6d1-4443-893a-0a516b3664d2][Geometric Phase]] arises when you vary the parameters of the Hamiltonian of the system slowly from and back to their original starting point, tracing out a path in parameter space.
 
 The relevant parameter could be anything, cite:Tong2016 uses magnetic strenght as a parameter at some point.
-For my thesis, however, I am interested in [[file:20210316143742-quantum_statistics.org][Quantum Statistics]] which arise when two particles are /physically/ exchanged. So the relevant parameter I am looking at when studying  [[file:20210218152909-anyons.org][Anyons]] is just position, which is easy to think about (in some sense).
+For my thesis, however, I am interested in [[id:3cf8ff6c-0ff4-4597-814c-d1b81aeaad67][Quantum Statistics]] which arise when two particles are /physically/ exchanged. So the relevant parameter I am looking at when studying  [[id:31cd49eb-770f-4d11-98b2-ca666b534201][Anyons]] is just position, which is easy to think about (in some sense).

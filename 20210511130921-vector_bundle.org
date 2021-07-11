@@ -6,4 +6,4 @@
 
 * Vector bundle
 
-A *vector* bundle is a 'family' of [[file:20210507133134-vector_space.org][Vector spaces]]
+A *vector* bundle is a 'family' of [[id:4ab6fa70-e092-4c76-a6ca-33ef9d7493e8][Vector spaces]]

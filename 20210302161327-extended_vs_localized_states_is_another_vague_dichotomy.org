@@ -5,6 +5,6 @@
 #+filetags: stump "false dichotomy" FQHE
 
 * Context
-In order to explain the integer quantum hall effect, it is claimed that [[file:20210302160720-impurities_turn_many_quantum_states_from_extended_to_localized.org][impurities turn many quantum states from extended to localized]]. However, this requires another dichotomy to strongly hold, namely that of localized vs extended states, both of which have mutually exclusive properties: extended states conduct, while localized states do not.
+In order to explain the integer quantum hall effect, it is claimed that [[id:d5074aea-3aab-4aa7-954c-7307e3907a17][impurities turn many quantum states from extended to localized]]. However, this requires another dichotomy to strongly hold, namely that of localized vs extended states, both of which have mutually exclusive properties: extended states conduct, while localized states do not.
 
 This is fishy

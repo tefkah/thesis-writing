@@ -3,9 +3,7 @@
 :ROAM_REFS: cite:Norton2012
 :END:
 #+TITLE: Norton2012: Approximation and idealization: Why the difference matters
-#+ROAM_KEY:#+filetags: idealization infinite_idealization explanation reference
-- tags ::
-- keywords :: reading,worthRevisiting
+#+filetags: idealization infinite_idealization explanation reference
 
 * Approximation and idealization: Why the difference matters
   :PROPERTIES:

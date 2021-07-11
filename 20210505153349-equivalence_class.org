@@ -8,7 +8,7 @@
 
 ** Munkres
 
-Given an [[file:20210505152849-equivalence_relation.org][Equivalence Relation]] $\~$ on a set A and an element $x\in A$, an *Equivalence Class* is a set $E\subseteq A$ determed by $x$ such that
+Given an [[id:8136709d-9d43-44f6-8904-d411973bcfdd][Equivalence Relation]] $\~$ on a set A and an element $x\in A$, an *Equivalence Class* is a set $E\subseteq A$ determed by $x$ such that
 \[E=\{y|y\~x\}\]
 
 i.e. all the elements which stand in an equivalence relation to $x$.

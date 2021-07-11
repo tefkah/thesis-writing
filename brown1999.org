@@ -3,7 +3,8 @@
 :ROAM_REFS: cite:Brown1999
 :END:
 #+TITLE: Brown1999: Remarks on identical particles in de Broglie-Bohm theory
-#+ROAM_KEY:#+filetags: guido anyons reference
+
+#+filetags: guido anyons reference
 
 - tags ::
 - keywords :: anyon, fqhe, guido

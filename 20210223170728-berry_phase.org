@@ -6,7 +6,7 @@
 
 * Body
 The Berry phase is an extra phase $e^{i\theta}$ a system picks up when kept in a single state (usually the ground state) and varying the parameters slowly away and then back to their starting position.
-To guarantee that the system stays in the ground state, we must vary the parameters "sufficiently slowly", as per the [[file:20210223171329-adiabatic_theorem_quantum.org][adiabatic theorem (quantum)]].
+To guarantee that the system stays in the ground state, we must vary the parameters "sufficiently slowly", as per the [[id:75068634-a939-42ae-815f-8c31d02cf5f5][adiabatic theorem (quantum)]].
 
 Unlike how physicisists normally treat phase, namely as something unphysical that can be discarded, this phase is relevant and can have physical effects because it is a phase difference with the original state.
 
@@ -18,4 +18,4 @@ e^{i\theta} = \exp\Big(-i \oint_C \mathcal{A}_i(\lambda)d\lambda^i\Big)
 \label{eq:berry_phase}
 \end{equation}
 
-[[file:20210223172138-berry_phase_example.org][Berry phase example]]
+[[id:78d1b656-ccea-4028-9813-0b449b2d8922][Berry phase example]]

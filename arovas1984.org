@@ -18,7 +18,7 @@
 
 * Summary
 
-The original paper which deduces the [[file:20210218152830-fractional_quantum_statistics.org][fractional quantum statistics]] of the /quasiparticles/ which enter in to the [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]]
+The original paper which deduces the [[id:479d3088-01ee-4224-86e8-e7ada158f9fe][fractional quantum statistics]] of the /quasiparticles/ which enter in to the [[id:2fa90488-38aa-478f-bc3a-2290fb9def10][the Fractional quantum hall effect (FQHE)]]
 
 
 * Rough note space

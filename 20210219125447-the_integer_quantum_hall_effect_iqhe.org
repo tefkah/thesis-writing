@@ -17,10 +17,10 @@ These plateaux ccur at the integer multiples of the quantum of resistance
 
 :NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00;;annot-13-7]]
 
-In fact, these plateaux are so flat, and their associated $\nu$, called the [[file:20210223141818-filling_factor.org][filling factor]], is measured so accurately, that the IQHE is used to /determine/ the quantum of resitance, therefore the $\nu$ s are by definition integers (or at least the first one). (Interesting enough to warrant its own note, see [[file:20210223142404-the_filling_factor_is_integer_by_definition_because_quantum_of_resistance_is_defined_by_qh_experiments.org][The Filling Factor Is Integer by Definition Because Quantum of Resistance is Defined by QH experiments]] )
+In fact, these plateaux are so flat, and their associated $\nu$, called the [[id:b9c034ae-c43c-488b-8c96-996789ac2695][filling factor]], is measured so accurately, that the IQHE is used to /determine/ the quantum of resitance, therefore the $\nu$ s are by definition integers (or at least the first one). (Interesting enough to warrant its own note, see [[id:b502892a-411c-4fa7-a88c-7141b640d0e7][The Filling Factor Is Integer by Definition Because Quantum of Resistance is Defined by QH experiments]] )
 
 
-One interesting feature of the IQHE is that [[file:20210223142953-disordered_systems_exhibit_iqhe_more_strongly.org][disordered systems exhibit IQHE MORE strongly]], thus it seems plausible that the mechanism behind the IQHE will somehow require a certain degree of disorder in its description.
+One interesting feature of the IQHE is that [[id:948182b9-1c2d-4f52-b76b-51ee1c11a9cc][disordered systems exhibit IQHE MORE strongly]], thus it seems plausible that the mechanism behind the IQHE will somehow require a certain degree of disorder in its description.
 
 #+transclude: t
-[[file:20210223142953-disordered_systems_exhibit_iqhe_more_strongly.org][disordered systems exhibit IQHE MORE strongly]]
+[[id:948182b9-1c2d-4f52-b76b-51ee1c11a9cc][disordered systems exhibit IQHE MORE strongly]]

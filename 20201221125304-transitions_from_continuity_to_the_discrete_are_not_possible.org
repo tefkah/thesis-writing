@@ -19,7 +19,7 @@ Also useful to keep in mind: this idea is "essentially" an argument against esse
 In my view, human reasoning consists of two conflicting tendencies:
 1. We wish to reason deductively and grab onto discrete, somewhat abstract propositions which we can assign truth values
 2. We wish to see "the real world", specifically spacetime, as continuous, in the sense that we believe it is infinitely divisible, without gaps.
-   - My hunch is that the fact that spacetime is continuous lies behind this, but the conflict might also come forth from a more general, unavoidable vagueness of concepts, see [[file:20201221131054-continuity_vs_vagueness.org][Continuity vs. Vagueness]]
+   - My hunch is that the fact that spacetime is continuous lies behind this, but the conflict might also come forth from a more general, unavoidable vagueness of concepts, see [[id:3a80df2a-77b4-4626-a9fe-933257549a07][Continuity vs. Vagueness]]
      + Sub-hunch: the vagueness argument is more about justifying the naming of n F's as G and naming n+1 F's as H, while the continuity argument is stonger and prevents one from chopping up things into categories at all.
 
 These are in conflict. A good way to illustrate this is analyzing the concept of a "human". Is it possible over all of time and space to pick out those and only those things that are humans? I don't think this is possible for many reasons:

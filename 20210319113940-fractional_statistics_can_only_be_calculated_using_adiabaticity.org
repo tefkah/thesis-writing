@@ -6,8 +6,8 @@
 
 * Fractional statistics can only be calculated using the assumption of adiabaticity
 
-[[file:20210316143612-fractional_quantum_statistics.org][Fractional Quantum Statistics]] that appear in the quantum hall effect are calculated with the [[file:20210312130104-berry_connection.org][Berry Connection]]  using the assumption of [[file:20210223171329-adiabatic_theorem_quantum.org][adiabatic theorem (quantum)]], which says that a things won't move out of the ground state if you move it very slowly.
+[[id:313f0a05-b6e3-43f8-8f2f-f004790dc798][Fractional Quantum Statistics]] that appear in the quantum hall effect are calculated with the [[id:3dad96b9-a6bf-449f-981e-4e141f865dd5][Berry Connection]]  using the assumption of [[id:75068634-a939-42ae-815f-8c31d02cf5f5][adiabatic theorem (quantum)]], which says that a things won't move out of the ground state if you move it very slowly.
 
-This might be a problem as [[file:infinite_idealizations.org][Norton2014: Infinite Idealizations]] because [[file:20210319114314-adiabaticity_is_an_infinite_idealization.org][Adiabaticity is an infinite idealization]]. Since I am examining infinite idealiziatons and Shech is arguing for an infinite idealization using this assumption, he might be once again spinning in circles.
+This might be a problem as [[id:934df62f-db20-4c3f-917e-862161f797fc][Norton2014: Infinite Idealizations]] because [[id:cb0659a9-ab48-42c9-a518-f059a12aeb0e][Adiabaticity is an infinite idealization]]. Since I am examining infinite idealiziatons and Shech is arguing for an infinite idealization using this assumption, he might be once again spinning in circles.
 
-However, [[file:20210319114521-the_adiabatic_theorem_might_not_be_an_inf_id_because_it_only_guarantees_something_that_might_happen_anyway.org][The Adiabatic Theorem might not be an Inf Id because it only guarantees something that might happen anyway]]
+However, [[id:50b9ed61-c160-435d-aa77-6ffb6cc7cd27][The Adiabatic Theorem might not be an Inf Id because it only guarantees something that might happen anyway]]

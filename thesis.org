@@ -1,7 +1,7 @@
-# +title: Naming and Infinity
 :PROPERTIES:
 :ID:       e56af431-8894-47e5-a752-97ae1e1a2848
 :END:
+#+title: Naming and Infinity
 
 #+author: Thomas F. K. Jorna
 #+FILETAGS: thesis
@@ -30,30 +30,30 @@
 
 ** Introduction
 #+include: "./Introduction.org" :minlevel 3
-[[file:Introduction.org][Introduction Chapter]]
+[[id:fc0a61f3-2c05-4c30-ac48-08b84203010a][Introduction Chapter]]
 
 ** Infinite Idealization
 #+include: "./infinite_idealizations_chapter.org" :minlevel 3
-[[file:infinite_idealizations_chapter.org][What is an infinite idealization (Chapter)]]
+[[id:1fbefa5c-d5a1-4061-a043-e7c2ffd7c596][What is an infinite idealization (Chapter)]]
 
 * The case studies
 
 ** The Fractional Quantum Hall Effects and Anyons
 #+latex: \chaptermark{FQHE and Anyons}
 #+include: "./20210407150939-structure_fqhe_anyon_chapter.org" :minlevel 3
-[[file:chapter-anyons.org][Structure FQHE/anyon chapter]]
+[[id:66aff1d3-bd45-45e5-9d31-d4292d76ae8e][Structure FQHE/anyon chapter]]
 
 ** Phase Transitions
 #+include: "./20210503100219-chapter_phase_transistions.org" :minlevel 3
-[[file:20210210115635-phase_transitions.org][phase transitions]]
+[[id:4b10bcb4-8337-4b3e-be7a-adab788f995c][phase transitions]]
 
 * End
 
 ** Thing left to address
-#+transclude: t [[file:openquestions.org][open questions for my thesis]]
-# [[file:openquestions.org][open questions for my thesis]]
+#+transclude: t [[id:e28cf1ba-433a-46ea-baf2-260df85ba7ec][open questions for my thesis]]
+# [[id:e28cf1ba-433a-46ea-baf2-260df85ba7ec][open questions for my thesis]]
 #+BEGIN_COMMENT
-[[file:openquestions.org][open questions for my thesis]]
+[[id:e28cf1ba-433a-46ea-baf2-260df85ba7ec][open questions for my thesis]]
 #+END_COMMENT
 
 

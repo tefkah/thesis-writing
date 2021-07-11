@@ -6,7 +6,7 @@
 
 * Cardinality
 
-The *cardinality* of a [[file:20210505153858-set.org][Set]] describes the size of said set.
+The *cardinality* of a [[id:25a5762d-db61-4f84-9962-b96e20c7e84b][Set]] describes the size of said set.
 
 
 * Examples
@@ -17,7 +17,7 @@ The caridinality of the set  $\{1,2,3\}$ is $3$, as it has 3 elements.
 ** Countable
 
 The cardinality of the set of all natural numbers $\mathbb{N}$ is $\aleph_0$.
-All sets which can be brought in one-to-one correspondence with $\mathbb{N}$ are said to be [[file:countable_infinity.org][Countably infinite]].
+All sets which can be brought in one-to-one correspondence with $\mathbb{N}$ are said to be [[id:b476726a-277a-49aa-88e3-afe48b85fc14][Countably infinite]].
 
 ** Uncountable
 

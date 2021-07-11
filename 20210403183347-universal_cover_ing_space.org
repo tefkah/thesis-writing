@@ -4,6 +4,6 @@
 #+title: Universal cover(ing space)
 #+filetags: definition topology
 
-A [[file:20210403183001-covering_space.org][Covering space]] is called a *universal covering space* if it is [[file:20210403183452-simply_connected.org][Simply connected]].
+A [[id:f44e68f8-278a-47b5-b35d-53aed370a0da][Covering space]] is called a *universal covering space* if it is [[id:2e0a3a59-3794-4b5f-8313-f630d88a7a87][Simply connected]].
 
 It's called that way because the universal cover covers any connected cover.

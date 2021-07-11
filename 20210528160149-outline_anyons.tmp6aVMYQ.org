@@ -102,7 +102,7 @@ It is of course not immediately clear what this has to do with paths in configur
 Thus while phases do not appear to matter /prima faciae/, they are the reason matter is able to exist in the first place! Without the Pauli Exclusion Principle it would not be possible for matter to clump together, as everything would simply phase through each other (barring electromagnetic interactions).
 
 
-#+transclude: [[file:20210402123014-the_configuration_space_explanation_chapter.org][The configuration space explanation chapter]] :level 2
+#+transclude: [[id:3cb8cc7b-70c4-4613-9f5e-3d73f9c6d476][The configuration space explanation chapter]] :level 2
 
 
 ** The configuration space explanation for anyons
@@ -135,7 +135,7 @@ Let us return to the constraints. The first constraint is the indistinguishabili
 
 The second and final constraint is accounting for particles not being able to intersect with each other. The argument for /why/ we ought to, however, is rarely made precise. The general tendency, as by
 
-#+transclude: [[file:20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
+#+transclude: [[id:654e4bfd-594e-48f2-b6b1-7ad252e1c05c][If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
 
 [fn:9] Another way of thinking about this is to consider one particle to be fixed and the other moving around it.
 
@@ -348,7 +348,7 @@ This order of operation is no longer possible in the FQHE, as the electron inter
 
 The trick is: do not compute the wave function, just write one down. That is exactly what [@Laughlin1983] did, yielding what we now call the *Laughlin wavefunction*
 
-[[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]]
+[[id:fff6c214-ce92-4f4f-be7f-71eb21efff79][The Laughlin Wavefunction]]
 
 Laughlin of course did not just simply write down a bunch of wavefunction and pick the one he liked best, it is motivated by some observations from the system and from some general conditions we have to place on any wavefunction. Specifically, in a previous paper [@Laughlin1983a] he derived the wavefunctions for three particles in the FQHE. Recapping this in the case of two electrons is worthwhile.
 
@@ -388,7 +388,7 @@ The quantum hall effect has also been studied in three dimensions, see [@Torres2
 Apparently it is not as straightforward as I thought, people have constructed the 3D fractional quantum hall effect, but it's rather difficult.
 
 The difference-maker for whether an electron gas is 2D seems to be it's Fermi-surface topology.
-[[file:20210601145016-3d_quantum_hall_effect.org][3D Quantum Hall Effect]]
+[[id:0448eeeb-d0dc-45ca-a850-caa8413b3640][3D Quantum Hall Effect]]
 * Citations I still need to use
 
 [@Shech2015b]

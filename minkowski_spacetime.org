@@ -6,9 +6,9 @@
 
 * Minkowski Spacetime
 
-*Minkowski spacetime* is a $4D$ [[file:20210416111039-metric_space.org][Metric Space,]] using the [[file:minkowski_metric.org][Minkowski Metric]] together with [[file:proper_time.org][Proper time]] as a metric function. It behaves much like $\mathbb{R}^4$, except that the metric is slightly different.
+*Minkowski spacetime* is a $4D$ [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space,]] using the [[id:c78555dd-6890-476f-b478-93191bd74bf3][Minkowski Metric]] together with [[id:025d3c91-e52f-4ccd-876f-3b5f8749c77d][Proper time]] as a metric function. It behaves much like $\mathbb{R}^4$, except that the metric is slightly different.
 
-It is the general stage upon which [[file:special_relativity.org][Special Relativity]] is set, and does not account for gravity.
+It is the general stage upon which [[id:1959e9a1-8e14-4ce7-981b-b04ea9d98bff][Special Relativity]] is set, and does not account for gravity.
 
 * Examples
 

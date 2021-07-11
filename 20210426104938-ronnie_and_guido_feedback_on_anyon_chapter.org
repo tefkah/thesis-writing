@@ -4,7 +4,7 @@
 #+title: Ronnie and Guido feedback on anyon chapter
 #+filetags: anyons feedback
 
-This is the feedback Ronnie and Guido gave me on [[file:chapter-anyons.org][Structure FQHE/anyon chapter]]
+This is the feedback Ronnie and Guido gave me on [[id:66aff1d3-bd45-45e5-9d31-d4292d76ae8e][Structure FQHE/anyon chapter]]
 
 * Ronnie
 

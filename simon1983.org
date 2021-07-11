@@ -2,8 +2,8 @@
 :ID:       0ccb925b-a505-4134-b097-44fd3a20a0b7
 :ROAM_REFS: cite:Simon1983
 :END:
+
 #+TITLE: Simon1983: Holonomy, the Quantum Adiabatic Theorem, and Berry's Phase
-#+ROAM_KEY:
 #+FILETAGS: reference anyons fqhe phase
 
 

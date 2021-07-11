@@ -5,23 +5,23 @@
 #+filetags: FQHE
 
 
-The Quantum Hall Effect is the observation of plateaux and valleys at multiples of the [[file:20210219125647-quantum_of_resistance.org][quantum of resistance]] $R_H=h/(e^2*\nu)$  in the transversal and longitudinal resitances measured in the[[file:20210218152105-classical_hall_effect.org][ classical hall effect]].
+The Quantum Hall Effect is the observation of plateaux and valleys at multiples of the [[id:96aec7c9-c31b-48da-9872-2690b057e7ca][quantum of resistance]] $R_H=h/(e^2*\nu)$  in the transversal and longitudinal resitances measured in the[[id:8fc72829-7ad9-4c8a-b400-229add0957bb][classical hall effect]].
 
 This can be observed in this graph.
 [[./media/fqhe.png]]
 
 The QHE has two variations, which occur for very different reasons.
 
-* [[file:20210219125447-the_integer_quantum_hall_effect_iqhe.org][the Integer quantum hall effect (IQHE)]]
+* [[id:c936a9ab-092e-4fe3-8b96-b6f4ae91e583][the Integer quantum hall effect (IQHE)]]
 
 The integer quantum hall effect is the observation of plateaux and valleys at integer multiples of the quantum of resistance.
 
-* [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]]
+* [[id:2fa90488-38aa-478f-bc3a-2290fb9def10][the Fractional quantum hall effect (FQHE)]]
 
 The fractional quantum hall effect is the observation of similar, but usually more subtle plateaux and valleys at (simple) fractional multiples of the quantum of resistance.
 
 * Differences
 
-[[file:20210309161230-iqhe_has_no_electron_interactions_fqhe_does.org][IQHE has no electron interactions, FQHE does]]
+[[id:1d5f8392-5e49-45b9-a998-e3b6636bff41][IQHE has no electron interactions, FQHE does]]
 
-[[file:20210309161322-reasoning_of_fqhe_is_less_rigorous_than_iqhe.org][reasoning of FQHE is less rigorous than IQHE]]
+[[id:bd8b598f-7c03-4f61-a250-f408e437232c][reasoning of FQHE is less rigorous than IQHE]]

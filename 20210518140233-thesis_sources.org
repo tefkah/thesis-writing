@@ -38,11 +38,11 @@ Here Shech goes in a very different direction than he did above, namely he argue
 
 a) The FQHE only has one good explanation: the topological one
 b) The topological explanation cannot be approximatley instantiated, unlike what cite:Leng2012 claims
-c) By the [[file:20210204161810-enhanced_indispensability_argument_eia.org][enhanced indispensability argument (EIA)]], we have to believe that the topological idealization is in some way real.
+c) By the [[id:c45736b9-4f0e-43ef-a8e5-4dcfc632b9f8][enhanced indispensability argument (EIA)]], we have to believe that the topological idealization is in some way real.
 
    Then he claim some additional annoying things regarding that this is not possible.
 
-   Also has useful discussion of how  [[file:20210327154504-the_configuration_space_explanation_of_anyons.org][The configuration space explanation of anyons]] works.
+   Also has useful discussion of how  [[id:e6303312-f094-4dd9-9d74-568bd31a89ea][The configuration space explanation of anyons]] works.
 
 *** Roa 2001: An Anyon Primer
 
@@ -55,7 +55,7 @@ cite:Rao2001
    Article by Guido and some other people about how to derive the topological explanation of anyons. Pretty interesting but ultimately not very useful.
 ** Geometric Phase
 
-*** Cohen et al. 2019: Geometric Phases From Aharonov-Bohm to... :review:
+*** Cohen et al. 2019: Geometric Phases From Aharonov-Bohm :review:
 cite:Cohen2019
 
 Pretty good review of what a geometric phase is and where it has been fruitfully applied.

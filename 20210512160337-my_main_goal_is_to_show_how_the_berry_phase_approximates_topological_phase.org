@@ -7,13 +7,13 @@
 
 * The main goal of my case study on FQHE is to show that the Berry phase can approximate the topological phase
 
-In my chapter [[file:chapter-anyons.org][Structure FQHE/anyon chapter]], I am talking a lot of bullshit, which makes me forget my main goal:
-Show how to approximate the [[file:20210327154504-the_configuration_space_explanation_of_anyons.org][The configuration space explanation of anyons]] using the  [[file:20210511130045-geometric_phase.org][Geometric Phase]]/[[file:20210223170728-berry_phase.org][Berry phase]].
+In my chapter [[id:66aff1d3-bd45-45e5-9d31-d4292d76ae8e][Structure FQHE/anyon chapter]], I am talking a lot of bullshit, which makes me forget my main goal:
+Show how to approximate the [[id:e6303312-f094-4dd9-9d74-568bd31a89ea][The configuration space explanation of anyons]] using the  [[id:af98c8b8-d6d1-4443-893a-0a516b3664d2][Geometric Phase]]/[[id:5441a486-c826-424d-a30a-e08b9208642b][Berry phase]].
 
-By approximate I mean this in Norton's sense [[file:20201218175548-idealization_vs_approximation.org][Idealization vs Approximation]]: show how  taking increasing or decreasing some property gets us closer and closer to the topological phase calculation, in a smooth fashion.
+By approximate I mean this in Norton's sense [[id:e5db852b-a680-4f56-8a2d-cba2f13aecb4][Idealization vs Approximation]]: show how  taking increasing or decreasing some property gets us closer and closer to the topological phase calculation, in a smooth fashion.
 
 This can be done in two ways: show how to calculate the phase, or show that the space is approximately simply connected. The latter is much more difficult.
 
 * Entry points
 
-As I think about it now, I need to figure out how [[file:20210513124338-monodromy_is_an_infinite_idealization_of_holonomy.org][Monodromy is an infinite idealization of holonomy]]
+As I think about it now, I need to figure out how [[id:981201fc-c29a-4120-bf30-105110cd4a29][Monodromy is an infinite idealization of holonomy]]

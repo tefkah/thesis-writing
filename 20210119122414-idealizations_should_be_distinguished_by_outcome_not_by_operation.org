@@ -6,7 +6,7 @@
 
 * Context
 
-When idealization is discussed by for instance [[file:Strevens 2007 - The Structure of Asymptotic Idealization.org][Strevens2019a: The structure of asymptotic idealization]] or cite:Norton2012 , I have difficulty knowing what they are exactly talking about, see [[file:20201218180308-confusing_approximations_and_idealizations.org][confusing approximations and idealizations]]. This note is an attempt to clarify what the problem is and how to tackle it.
+When idealization is discussed by for instance [[id:26cf4180-c383-462c-8a35-2698bc11003a][Strevens2019a: The structure of asymptotic idealization]] or cite:Norton2012 , I have difficulty knowing what they are exactly talking about, see [[id:f25a5d3d-a827-462a-b5a3-eca42fd966c0][confusing approximations and idealizations]]. This note is an attempt to clarify what the problem is and how to tackle it.
 
 * Body
 

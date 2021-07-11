@@ -6,6 +6,6 @@
 
 * Holonomy
 
-A kind of generalization of the notion of [[file:20210511110338-phase_quantum.org][Phase (quantum)]]
+A kind of generalization of the notion of [[id:57213ae1-eff2-4442-b04b-84706076061f][Phase (quantum)]]
 
-In general, a holonomy is the "failure of [[file:20210511111338-parallel_transport.org][Parallel transport]] around closed cycles to preserve the geometrical information being transported" cite:Cohen2019.
+In general, a holonomy is the "failure of [[id:71b7fa31-7712-4a3a-a3ff-825298ed86cd][Parallel transport]] around closed cycles to preserve the geometrical information being transported" cite:Cohen2019.

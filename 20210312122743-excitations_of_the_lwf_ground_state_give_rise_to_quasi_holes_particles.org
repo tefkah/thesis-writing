@@ -6,7 +6,7 @@
 
 * Excitations of the LWF Ground State Give Rise to Quasi-holes/particles
 
-When a system with [[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]] as a ground state (a Toy model) is excited by either "injecting" a hole or electron, this hole or particle "gets split up" into $m$ quasi-holes, $m$ being the filling fraction thingy.
+When a system with [[id:fff6c214-ce92-4f4f-be7f-71eb21efff79][The Laughlin Wavefunction]] as a ground state (a Toy model) is excited by either "injecting" a hole or electron, this hole or particle "gets split up" into $m$ quasi-holes, $m$ being the filling fraction thingy.
 
 #+transclusion: t
-[[file:20210312123300-quasi_things_have_charge_e_m.org][Quasi-things Have Charge e/m]]
+[[id:41ef8c58-7d6d-413d-8f32-0e2b04c7949d][Quasi-things Have Charge e/m]]

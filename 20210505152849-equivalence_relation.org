@@ -8,7 +8,7 @@
 
 ** Munkres
 
-An *equivalence relation* on a set $A$ is a [[file:20210505152606-relation.org][Relation]] $C$ on $A$ such that
+An *equivalence relation* on a set $A$ is a [[id:fa5f4b7f-e222-4c6e-94c5-c2008dff7d26][Relation]] $C$ on $A$ such that
 1. (Reflexivity) $\forall x\in A\quad C(x,x)$ (for all x in A, x stands in relation C to x)
 2. (Symmetry) $C(x,y) \rightarrow C(y,x)$
 3. (Transitivity) $C(x,y) \land C(y,z) \rightarrow C(x,z)$

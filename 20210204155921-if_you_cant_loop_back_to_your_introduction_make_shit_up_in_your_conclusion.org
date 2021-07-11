@@ -6,7 +6,7 @@
 
 * Context
 
-Had a chat with Guido and Ronnie about my thesis, where we discussed my introduction ([[file:Introduction.org][Proselike introduction v1]]). I worry too much about making true the things I put in my introduction.
+Had a chat with Guido and Ronnie about my thesis, where we discussed my introduction ([[id:fc0a61f3-2c05-4c30-ac48-08b84203010a][Proselike introduction v1]]). I worry too much about making true the things I put in my introduction.
 
 * Body
 

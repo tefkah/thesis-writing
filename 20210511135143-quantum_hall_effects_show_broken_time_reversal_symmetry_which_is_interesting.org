@@ -6,6 +6,6 @@
 
 * Quantum Hall effects can show broken time-reversal symmetries
 
-This is a good reason to bring up why [[file:20210218151906-descripion_of_qhe.org][QHE]] are interested beyond the people who are immediately interested in condensed matter physics.
+This is a good reason to bring up why [[id:a420af4a-97bf-4b87-8ab4-5f180808e27a][QHE]] are interested beyond the people who are immediately interested in condensed matter physics.
 
 This is claimed in cite:Cohen2019 445.

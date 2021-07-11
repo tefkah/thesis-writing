@@ -9,7 +9,7 @@
 
 The main crux of my critique lies in the (in my eyes) unnecessary assumption that the quantum statistics of a particle can /only/ be determined by the first homotopy group of its configuration space. While this might work as a prediction, i.e. if we can figure out the configuration space and then the fundamental group, we might reasonably expect to find particles with such and such quantum statistics there.
 
-However, I do not find this very satisfactory as an explanation, it feels much too close to a DN way of explaining things, which, as we know [[file:20210330165632-problems_with_the_dn_model.org][DN cannot determine whether something is a difference maker]]. That is, the explanation works backwards: instead of ending uncontrovertably with the most controversial point, namely that the configuration space of the anyons is 2D, it arrives there kind of casually.
+However, I do not find this very satisfactory as an explanation, it feels much too close to a DN way of explaining things, which, as we know [[id:0efec85b-7a67-4c32-9760-73a6f663e713][DN cannot determine whether something is a difference maker]]. That is, the explanation works backwards: instead of ending uncontrovertably with the most controversial point, namely that the configuration space of the anyons is 2D, it arrives there kind of casually.
 
 
 
@@ -38,7 +38,7 @@ The other way around the explanation looks a lot less secure
 
 The problem with treating this a DN explanation is that that requires that the Laws of Nature used are true and ALSO the events described as premises. However, there are not really any of the latter, as we can't take the existence of a 2D things as a premise, as that is weird.
 
-[[file:20210405144616-eia_allows_us_to_verify_dn_premises.org][EIA allows us to verify DN premises]]
+[[id:76a2711e-8e05-4058-9808-3cefeffce717][EIA allows us to verify DN premises]]
 
 
 ** COMMENT Brief critique summary
@@ -107,7 +107,7 @@ While the connectedness is described using ALL possible paths to describe the en
 The main thing I want to claim is that you can approximate some kind of winding without having to talk about 2d spaces, I just want to get there directly.
 
 #+transclude: t
-[[file:20210403175539-group.org][Group]]
+[[id:0bbb9ce7-191f-4fde-8924-cad8a3886e2e][Group]]
 
 
 

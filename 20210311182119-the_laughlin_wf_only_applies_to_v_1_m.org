@@ -6,5 +6,5 @@
 
 * The Laughlin Wavefunction only applies to FQH states with $\nu=1/m$
 
-[[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]] is only applicable to states with a filling factor $\nu=\frac{1}{m}\quad m\in\mathbb{N}$.
+[[id:fff6c214-ce92-4f4f-be7f-71eb21efff79][The Laughlin Wavefunction]] is only applicable to states with a filling factor $\nu=\frac{1}{m}\quad m\in\mathbb{N}$.
 Even such a super guessy messy WF cannot be used to describe states that have different filling factors, those we can only derive.

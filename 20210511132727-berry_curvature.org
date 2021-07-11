@@ -6,7 +6,7 @@
 
 * Berry Curvature
 
-The *Berry Curvature* is the [[file:20210511132817-curl.org][Curl]] of the [[file:20210312130104-berry_connection.org][Berry Connection]]
+The *Berry Curvature* is the [[id:90b942e4-ed45-4fd2-909f-e74312c2dab0][Curl]] of the [[id:3dad96b9-a6bf-449f-981e-4e141f865dd5][Berry Connection]]
 \begin{equation}
 \mathbf{\Omega(k)}=\nabla_k\times\mathcal{A}(k)
     \label{eq:berrycurv}

@@ -31,4 +31,4 @@ annoying
 
 * Properties
 
-The determinant says a lot about the "structure" of the matrix, and is used in computing its [[file:20210511134344-eigenvalues.org][Eigenvalues]]
+The determinant says a lot about the "structure" of the matrix, and is used in computing its [[id:f65d81b0-04ad-44e1-a45c-70bb3595ba3b][Eigenvalues]]

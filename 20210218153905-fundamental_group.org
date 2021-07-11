@@ -4,6 +4,6 @@
 #+title: fundamental group
 #+filetags: definition "group theory" topology
 
-The fundamental group of a space is the [[file:20210403175440-first_homotopy_group_pi_1.org][First homotopy group Pi_1]] of said space.
+The fundamental group of a space is the [[id:803d6df6-3d4c-4471-b3bd-a022fad8d1ee][First homotopy group Pi_1]] of said space.
 
-[[file:20210403182023-the_fundamental_group_records_information_about_loops_in_a_space.org][The fundamental group records information about loops in a space]]
+[[id:4b6fa3c6-3650-4f16-a651-838d3e964536][The fundamental group records information about loops in a space]]

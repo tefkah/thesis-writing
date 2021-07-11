@@ -8,6 +8,6 @@
 
 A *metric*, as physicists use it, is something, usually a matrix, which rather globally indicates how distances are to measured.
 
-It differs from the metric in [[file:20210416111039-metric_space.org][Metric Space]], as it by itself does not indicate distance. It needs to be combined with a distance function, usually [[file:proper_time.org][Proper time]]
+It differs from the metric in [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]], as it by itself does not indicate distance. It needs to be combined with a distance function, usually [[id:025d3c91-e52f-4ccd-876f-3b5f8749c77d][Proper time]]
 
 * Examples

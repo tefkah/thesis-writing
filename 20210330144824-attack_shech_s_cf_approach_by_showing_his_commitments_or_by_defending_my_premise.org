@@ -4,10 +4,10 @@
 #+title: Attack Shech's CF approach  by showing his commitments, or by defending my premise
 #+filetags: anyons
 
-* I can either attack cite:Shech2019   [[file:20210327154504-the_configuration_space_explanation_of_anyons.org][The configuration space explanation of anyons]] by showing that he has a certain commitment that he's not saying, or by convincing the reader that my way of viewing the problem is better
+* I can either attack cite:Shech2019   [[id:e6303312-f094-4dd9-9d74-568bd31a89ea][The configuration space explanation of anyons]] by showing that he has a certain commitment that he's not saying, or by convincing the reader that my way of viewing the problem is better
 
 #+transclude: t
-[[file:20210330145048-the_configuration_space_explanation_approach_requires_a_certain_stance_on_the_ontology_of_symmetries.org][The configuration space explanation approach requires a certain stance on the ontology of symmetries]]
+[[id:625136f8-9529-46ab-9f18-204fcca628df][The configuration space explanation approach requires a certain stance on the ontology of symmetries]]
 
 If this is so, I can attack Shech's argument in two ways
 

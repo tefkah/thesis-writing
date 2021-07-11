@@ -6,7 +6,7 @@
 
 * Minkowski Metric
 
-The *Minkowski Metric* $\eta$ is a [[file:metric.org][Metric]]   describing how to measure distances in [[file:minkowski_spacetime.org][Minkowski Spacetime]], which is the standard spacetime [[file:special_relativity.org][Special Relativity]] is set in. It is defined as
+The *Minkowski Metric* $\eta$ is a [[id:84779137-ff6a-463e-82cd-741475be1140][Metric]]   describing how to measure distances in [[id:6695b04e-7e0f-44b9-8402-266e5cc6ab02][Minkowski Spacetime]], which is the standard spacetime [[id:1959e9a1-8e14-4ce7-981b-b04ea9d98bff][Special Relativity]] is set in. It is defined as
 \begin{equation}
 \eta=\begin{pmatrix}1 & 0 & 0 & 0 \\
 0 & -1 & 0 &0 \\
@@ -19,6 +19,6 @@ The *Minkowski Metric* $\eta$ is a [[file:metric.org][Metric]]   describing how 
 Or with the sign of the diagonal entries inversed, depending on the convention chosen by the author (very field dependent).
 
 
-Another way to define the Minkowski metric is as the object left invariant under transformations of the [[file:lorentz_group.org][Lorentz Group]] on [[file:minkowski_spacetime.org][Minkowski Spacetime]]
+Another way to define the Minkowski metric is as the object left invariant under transformations of the [[id:3eb352c4-cbc7-47be-8c0f-98cd9168e850][Lorentz Group]] on [[id:6695b04e-7e0f-44b9-8402-266e5cc6ab02][Minkowski Spacetime]]
 
 * Examples

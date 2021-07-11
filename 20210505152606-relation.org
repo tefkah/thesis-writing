@@ -8,6 +8,6 @@
 
 ** Munkres
 
-A *relation* on a set $A$ is a subset $C$ of the [[file:20210505152706-cartesian_product.org][Cartesian Product]] $A \times A$.
+A *relation* on a set $A$ is a subset $C$ of the [[id:905665b3-dcf5-4c1e-99e6-86831cc228a0][Cartesian Product]] $A \times A$.
 
 So if $A$ is one dimensional, $C$ looks like $(a_1, a_2)$

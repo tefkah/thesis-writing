@@ -49,7 +49,7 @@ Explanations are not as rigid as you think
 *** d. The groundwork needed for the explanation to get things of the ground is laid: the CHE is explained in more detail, Landau levels are introduced and the distinction between the Integer and Fractional QHE is clarified, and the former is (for now) made clear to be less important to explain
 
 **** What do we want!? "Quantization!" When do we want it!? "After gaining a thorough understanding of why it is necessary!"
-*****  To understand the QHE, we must first grasp the fundamental mechanism through which it can arise in the first place, namely the quantization of energy states of electrons when subject to a constant magnetic field. These specific energy eigenstates are called /[[file:20210223154027-landau_levels.org][Landau levels]]/, and deriving and gaining a general understanding of them will be our first task.
+*****  To understand the QHE, we must first grasp the fundamental mechanism through which it can arise in the first place, namely the quantization of energy states of electrons when subject to a constant magnetic field. These specific energy eigenstates are called /[[id:bce603cd-3eea-4dbc-b188-153845a24e16][Landau levels]]/, and deriving and gaining a general understanding of them will be our first task.
 
 *****  Note that the existence of these energy levels is neither trivial nor unsurprising: a free particle (such as (roughly) one normally found in a strip of metal) is not quantized.
 
@@ -61,7 +61,7 @@ Explanations are not as rigid as you think
 
 **** Quantization
 
-***** The (literal) textbook approach we will follow here is describing the classical system first and then quantizing it. The rough steps required are to first compute the [[file:20210223154511-lagrangian.org][Lagrangian]] of the classical system, use that to compute its [[file:20210317122727-hamiltonian.org][Hamiltonian]], from which we can derive the [[file:20210317122807-poisson_brackets.org][Poisson Brackets]]. Then, we treat the Hamiltonian as if it were quantum, use the Poisson Brackets as the [[file:20210317122922-canonical_commutation_relation.org][Canonical Commutation Relation,]] rewrite the Hamiltonian in a form we understand (as always, the [[file:20210317123047-harmonic_oscillator.org][Harmonic Oscillator]]), and use that Hamiltonian to construct the [[file:20210317123126-hilbert_space.org][Hilbert Space]] from which we can read the energy levels. Sounds simple enough, right?
+***** The (literal) textbook approach we will follow here is describing the classical system first and then quantizing it. The rough steps required are to first compute the [[id:db39298a-cd09-457c-b438-f369418c2be2][Lagrangian]] of the classical system, use that to compute its [[id:a4d107d5-467a-48b1-9385-e3348f07d049][Hamiltonian]], from which we can derive the [[id:41a6a097-12e9-4a05-a6f6-f496fdf515ff][Poisson Brackets]]. Then, we treat the Hamiltonian as if it were quantum, use the Poisson Brackets as the [[id:56d07c1b-54da-4876-b7c5-6b7d0cc08fe2][Canonical Commutation Relation,]] rewrite the Hamiltonian in a form we understand (as always, the [[id:2562a804-ec65-45e4-bae7-be73e0980e97][Harmonic Oscillator]]), and use that Hamiltonian to construct the [[id:83d73e23-610d-4977-8106-c8b4c78ba0c7][Hilbert Space]] from which we can read the energy levels. Sounds simple enough, right?
 
 
 ***** First, let us recap the Lagrangian of a particle in a magnetic field.
@@ -129,7 +129,7 @@ Tada
 ***** Astute readers might have noticed that, suprisingly, the spin of the particles has not been mentioned once so far! This is because we can relatively safely neglect it as a good approximation, as the effect of spin on the energy states smoothly becomes less and less prominent the higher the strength of the magnetic field is.
 
 ***** An additionally seemingly important detail is the fact that the Hall System is taken to be in 2D from the start.
-[[file:20210223162026-the_dimensions_of_the_hall_system_is_set_to_2_from_the_start.org][The dimensions of the Hall system is set to 2 from the start]]
+[[id:c1a2779f-73d4-491e-8d7b-02f04dd20776][The dimensions of the Hall system is set to 2 from the start]]
 
 
 *** e. The FQHE is set up in more detail, with the goal of making clear which idealizing assumptions are made, such as the LWF, the plasma analogy and why the toy model is needed. It is again emphasized that the FQHE is explained more in a "making plausible" way rather than a "derivation way", and seeds are planted as to what this will imply for the kind of explanation (not DN) under study
@@ -155,11 +155,11 @@ Tada
 ****** Perhaps the most striking difference in the derivation of the FQHE as opposed to the IQHE is the rigour of reasoning used in the former. Unlike its Integer Counterpart, the "explanation" much less resembles, well, a derivation, and is better characterized as a "motivation" instead, using a combination of handwaving, squinting at equations and plain stubbornness to finally get a result which is in the same ~ballpark~ solar system as what we would imagine an proper explanation to be.
 
 ****** It would do us well to list the most egregious ones first, so they are not able to sneak up on us in the end.
-- [[file:20210309164800-the_wavefunction_of_the_fqhe_is_guessed_from_general_grounds.org][The wavefunction of the FQHE is GUESSED from general grounds]]
-- [[file:20210311184105-the_fqh_state_is_interpreted_as_a_plasma_to_allow_for_intuitions.org][The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation]]
+- [[id:2517c712-c625-4cd3-9d8e-93b37baeeac6][The wavefunction of the FQHE is GUESSED from general grounds]]
+- [[id:39621947-ed87-43ad-86d6-14a5e4f2b8c2][The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation]]
 - The LWF is not even an actual ground state of the FQH Hamiltonian, instead from it we derive a Toy Hamiltonian of which the LWF is the ground state, bringing us even further from our goal.
 
--[[file:20210319113940-fractional_statistics_can_only_be_calculated_using_adiabaticity.org][Fractional Statistics can Only be Calculated Using Adiabaticity]]
+-[[id:23e0cf04-bd7f-4c24-bdd0-7f65dea6df6b][Fractional Statistics can Only be Calculated Using Adiabaticity]]
 ****** Using these assumptions/idealizations however, we can make it plausible that FQ statistics are happening, I don't think we will use much more.
 
 ****** The wavefunction under consideration is called the Laughlin Wave Function, thought up by >>Laughlin in 1983 after the experimental observation of the FQHE in 1982 by ...
@@ -171,7 +171,7 @@ The Laughlin WF only applies to the filling fractions of $\nu=\frac{1}{m}$
 
 ****** How is it guessed? We need to start with a simplyfying toy model in order to make sense of this, the ol' magnetic annulus.
 
-If we use [[file:20210223170018-symmetry_gauge.org][symmetry gauge]] we get that
+If we use [[id:f5640b4e-737d-48e5-a8c0-512c284f986c][symmetry gauge]] we get that
 \[\hat{\textbf{A}}=-\frac{1}{2} \hat{\textbf{r}}\times \textbf{B} = -\frac{yB}{2}\hat{x}+\frac{xB}{2}\hat{y}
 \]
 
@@ -186,14 +186,14 @@ Isn't that neat.
 
 ****** From here Laughlin guessed his WF from two general points of reference:
 #+transclude: t :hlevel 7
-[[file:20210311183858-every_qh_wf_must_be_antisymmetric.org][Every QH WF must be antisymmetric]]
+[[id:9edb93f2-bb71-42ed-8a72-89abaa8a5cc3][Every QH WF must be antisymmetric]]
 
 #+transclude: t :hlevel 7
-[[file:20210311183548-every_qh_wf_must_have_the_form_f_z_z1_zn_exp_sum_zi_2.org][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
+[[id:12bf23b8-7c2f-439b-84f1-92807e5f93b3][Every QH WF must have the form f_z(z1...zn)exp(-sum|zi|2)]]
 
 ****** From this we arrive at...
 #+transclude: t :hlevel 7
-[[file:20210311182300-the_laughlin_wavefunction.org][The Laughlin Wavefunction]]
+[[id:fff6c214-ce92-4f4f-be7f-71eb21efff79][The Laughlin Wavefunction]]
 
 We see that it fulfills both requirements, but is that enough?
 

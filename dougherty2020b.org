@@ -3,7 +3,6 @@
 :ROAM_REFS: cite:Dougherty2020b
 :END:
 #+TITLE: Dougherty2020b: The non-ideal theory of the AharonovBohm effect
-#+ROAM_KEY:
 #+FILETAGS: reference explanation anyons idealization
 
 
@@ -29,7 +28,7 @@ Responds to cite:Earman2019 and cite:Shech2015b,Shech2018   Says that they claim
 
 * Rough note space
 
-" The perfect shield is used mostly for draa, much like the moon's negligible atmosphere can be used for a striking demonstration of Galileo's law of free fall." ->He thinks that AB effect is non-problematic idealization, as in [[file:infinite_idealizations_chapter.org][What is an infinite idealization (Chapter)]]
+" The perfect shield is used mostly for draa, much like the moon's negligible atmosphere can be used for a striking demonstration of Galileo's law of free fall." ->He thinks that AB effect is non-problematic idealization, as in [[id:1fbefa5c-d5a1-4061-a043-e7c2ffd7c596][What is an infinite idealization (Chapter)]]
 
 
 ** Useful summation of other lit
@@ -58,7 +57,7 @@ After some faffing about, he replaces the set of 4 propositions by
 
    So, /crucially/: Dougherty claims that we shouldn't think about configuration spaces, but about /regions/. Regions can very well differ in their connectedness/contractability, whereas configuration spaces, given that they are global things, are not.
 Furthermore, apparently we can "/neglect the contributions from paths which intersect the shield/", which sounds wild. FURTHERMORE, he claims that this /isn't/ an infinite idealization. Let's see what he comes up with.
-[[file:20210503131837-topological_explanation_merely_requires_multiply_connected_regions_not_configurations_spaces.org][Topological explanation merely requires multiply-connected regions, not configurations spaces]]
+[[id:8c848baa-058b-43ca-ad0d-b96b0daabb7a][Topological explanation merely requires multiply-connected regions, not configurations spaces]]
 
 He does allude to the topological interpretation being useful because it makes a universal claim rather than the specific claim if we don't, similar to what cite:Batterman2001 and  cite:Strevens2019a think.
 

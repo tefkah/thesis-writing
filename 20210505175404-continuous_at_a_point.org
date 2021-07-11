@@ -6,7 +6,7 @@
 
 * Continuous at a point
 
-Let X and Y be [[file:20210403182645-topological_space.org][Topological space]]s and $f: X \rightarrow Y$. If for a point $x \in X$ and each [[file:20210505175610-neighborhood.org][Neighborhood]] $V$ of $f(x)$ there is a neighborhood $U$ of $x$ such that $f(U)\subset V$, then $f$ is said to be *continuous at the point* $x$.
+Let X and Y be [[id:5061d36d-a542-45d3-b76a-b6744c0df01a][Topological space]]s and $f: X \rightarrow Y$. If for a point $x \in X$ and each [[id:a53911c6-5516-4467-8c9c-e3b078acdb4c][Neighborhood]] $V$ of $f(x)$ there is a neighborhood $U$ of $x$ such that $f(U)\subset V$, then $f$ is said to be *continuous at the point* $x$.
 
-If $f$ is continuous at all points $x \in X$, $f$ is said to be [[file:20210505163129-continuity_function.org][continuous]].
+If $f$ is continuous at all points $x \in X$, $f$ is said to be [[id:0facab0b-4652-478e-962a-afb8cf9818bb][continuous]].
 

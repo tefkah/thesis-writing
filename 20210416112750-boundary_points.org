@@ -6,11 +6,11 @@
 
 * Boundary points
 
-Given a [[file:20210416111039-metric_space.org][Metric Space]] $(X,d)$ and a subset $A \subseteq X$, we say that a point $x \in X$ is called a *boundary point for $A$* if
+Given a [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]] $(X,d)$ and a subset $A \subseteq X$, we say that a point $x \in X$ is called a *boundary point for $A$* if
 \begin{align}
 \forall \epsilon > 0 : & B_\epsilon(x) \cap A \neq \emptyset &  \text{ and}\\
           & B_\epsilon(x) \cap A^c \neq \emptyset &
     \label{eq:boundarypoint}
 \end{align}
 
-If all [[file:20210416111824-open_ball.org][Open ball]]s around $x$ contain points from $A$ and its [[file:20210416113423-complement.org][Complement]]
+If all [[id:913ee774-c9c9-4476-a619-b62d0f351378][Open ball]]s around $x$ contain points from $A$ and its [[id:f257174f-e4a0-42f4-b455-0e2ba307c301][Complement]]

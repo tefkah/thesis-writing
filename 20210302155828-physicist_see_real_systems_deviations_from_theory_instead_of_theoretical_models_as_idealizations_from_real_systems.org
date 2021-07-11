@@ -6,4 +6,4 @@
 
 * Context
 
-While reading about [[file:20210302155202-impurities_break_the_degeneracy_of_the_landau_levels.org][impurities break the degeneracy of the landau levels]], it dawned on me that the whole practice of physics, especially in regards to symmetry breaking, rest on the assumption that physical systems are "wrong" or "dirty" in some way, deviating from some imagined norm. It seems more sensible to me to view the idealized systems as the deviations and the real systems as the ground truth.
+While reading about [[id:5ef0b428-994c-4b5b-bf8f-c8b2491baf24][impurities break the degeneracy of the landau levels]], it dawned on me that the whole practice of physics, especially in regards to symmetry breaking, rest on the assumption that physical systems are "wrong" or "dirty" in some way, deviating from some imagined norm. It seems more sensible to me to view the idealized systems as the deviations and the real systems as the ground truth.

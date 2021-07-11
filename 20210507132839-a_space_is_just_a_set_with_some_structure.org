@@ -6,8 +6,8 @@
 
 * A space is just a set with some structure
 
-The word *space* in mathematics always confused me, but I think that you can think of a space as just a [[file:20210505153858-set.org][Set]] with some structure.
+The word *space* in mathematics always confused me, but I think that you can think of a space as just a [[id:25a5762d-db61-4f84-9962-b96e20c7e84b][Set]] with some structure.
 
-Examples are [[file:20210403182645-topological_space.org][Topological space]]s, which are just sets with a topology structure defined on them, [[file:20210416111039-metric_space.org][Metric Space]]s, which are just sets with a [[file:20210507133134-vector_space.org][Vector space]] and metric defined on it, etc etc.
+Examples are [[id:5061d36d-a542-45d3-b76a-b6744c0df01a][Topological space]]s, which are just sets with a topology structure defined on them, [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]]s, which are just sets with a [[id:4ab6fa70-e092-4c76-a6ca-33ef9d7493e8][Vector space]] and metric defined on it, etc etc.
 
 This reassures me.

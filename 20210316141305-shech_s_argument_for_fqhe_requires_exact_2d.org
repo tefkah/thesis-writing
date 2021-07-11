@@ -6,8 +6,8 @@
 
 * Shech's argument (as I see it) for why the FQHE (or more specifically the observation of FQ stats) requires the configuration space of electrons to be exactly 2D
 
-1. FQHE shows/is compatible with/makes plausible the existence of [[file:20210218152830-fractional_quantum_statistics_is_the_study_of_anyons.org][fractional quantum statistics is the study of anyons]], i.e. the particles having an exchange factor of $e^{i2\pi\alpha}\quad \alpha\neq 0,1$
-2. The quantum statistics of a particle is determined by the 1D representation of its [[file:20210218153905-fundamental_group.org][fundamental group]]
-3. The 1D representation of [[file:20210218154017-braid_group.org][braid group]] is $e^{i2\pi\alpha}\quad\alpha\neq0,1$
+1. FQHE shows/is compatible with/makes plausible the existence of [[id:c49838cd-6024-4d9d-8eb3-3df31c529ceb][fractional quantum statistics is the study of anyons]], i.e. the particles having an exchange factor of $e^{i2\pi\alpha}\quad \alpha\neq 0,1$
+2. The quantum statistics of a particle is determined by the 1D representation of its [[id:a07166f2-4a5c-40e6-a312-bc04b1b3d97e][fundamental group]]
+3. The 1D representation of [[id:a3ef6468-2bf3-42c8-a90c-2e9bd5f22941][braid group]] is $e^{i2\pi\alpha}\quad\alpha\neq0,1$
 4. The Braid group is the fundamental group /only/ of exchange in 2D space, as worldlines get entangled then.
 $\therefore$ In order to explain anyons/FQHE, the configuration space of the electrons needs to be /exactly/ 2D, not small 3D.

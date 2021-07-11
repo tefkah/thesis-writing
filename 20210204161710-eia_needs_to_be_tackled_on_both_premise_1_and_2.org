@@ -6,7 +6,7 @@
 
 * Context
 
-My thesis for a large part consists of trying to undermine the [[file:20210204161810-enhanced_indispensability_argument_eia.org][enhanced indispensability argument (EIA)]]. However, I have been unsure about how to tackle this, because tackling the first premise of the argument can quickly lead to discussions of realism in general, but tackling the second premise is too limited in scope.
+My thesis for a large part consists of trying to undermine the [[id:c45736b9-4f0e-43ef-a8e5-4dcfc632b9f8][enhanced indispensability argument (EIA)]]. However, I have been unsure about how to tackle this, because tackling the first premise of the argument can quickly lead to discussions of realism in general, but tackling the second premise is too limited in scope.
 
 * Body
 
@@ -20,4 +20,4 @@ You can tackle the second premise by showing that the things in your explanation
 
 If you want to focus on explanatory power instead, you kind of tackle P1 and P2 separately.
 P2 you tackle by showing that X is not indispensable to our best scientific explanations, as X does not factor in an explanation at all.
-P1 you tackle by showing that the thing X helps explain, say, Y, does not constitute an explanation, OR it does not constitute an explanation strong enough to factor into p1, see [[file:20210204162417-pragmatic_explanations_cannot_lead_to_platonic_conclusions.org][pragmatic explanations cannot lead to platonic conclusions]]. By doing this, I still get to make my point about explanations without talking too much of indispensability, but I get to avoid the discussion of realism.[[file:20210204162914-talking_about_realism_directly_is_unproductive.org][talking about realism directly is unproductive]]
+P1 you tackle by showing that the thing X helps explain, say, Y, does not constitute an explanation, OR it does not constitute an explanation strong enough to factor into p1, see [[id:cec627c3-5d81-44ed-9fb2-26742662d7cb][pragmatic explanations cannot lead to platonic conclusions]]. By doing this, I still get to make my point about explanations without talking too much of indispensability, but I get to avoid the discussion of realism.[[id:652b4828-23da-49ac-ba48-b43d84aeb36a][talking about realism directly is unproductive]]

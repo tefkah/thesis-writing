@@ -33,7 +33,7 @@ In order to prepare ourselves for the more in depth analysis to follow, it is wo
 We start out with a wavefunction $\Psi$ of our system of two particles $\psi_1$ and $\psi_2$
 \[\Psi_0=\psi_1\psi_2\]
 
-If we exchange the particles, we expect them to pick up a certain [[file:20210210115635-phase_transitions.org][phase transitions]]
+If we exchange the particles, we expect them to pick up a certain [[id:4b10bcb4-8337-4b3e-be7a-adab788f995c][phase transitions]]
 
 \[\Psi_\pi=e^{i\theta\pi}\psi_2\psi_1\]
 
@@ -210,9 +210,9 @@ Therefore, while the particle picks up a phase $\alpha$ during one exchange, it 
 
 *** Connection to the Braid group
 
-The above explanation might be satisfactory to some, but a crucial piece of information is still missing: why does the fact that a particle cannot contract to a single point, i.e. whether or not the space is [[file:20210403183452-simply_connected.org][Simply connected]], affect the phase of the system in any way? The answer lies in a theorem????
+The above explanation might be satisfactory to some, but a crucial piece of information is still missing: why does the fact that a particle cannot contract to a single point, i.e. whether or not the space is [[id:2e0a3a59-3794-4b5f-8313-f630d88a7a87][Simply connected]], affect the phase of the system in any way? The answer lies in a theorem????
 
-Quantum statistics of a particle are the 1D representation of the [[file:20210403175440-first_homotopy_group_pi_1.org][First homotopy group pi_1]]/[[file:20210218153905-fundamental_group.org][fundamental group]] of the configuration space.
+Quantum statistics of a particle are the 1D representation of the [[id:803d6df6-3d4c-4471-b3bd-a022fad8d1ee][First homotopy group pi_1]]/[[id:a07166f2-4a5c-40e6-a312-bc04b1b3d97e][fundamental group]] of the configuration space.
 
 # (Why are the QS that? Is this a theorem? If so, when does it apply?)
 
@@ -228,5 +228,5 @@ The 1D rep of the braid group is $e^{i\theta} \quad \theta\in[0,2\pi]$
 
 
 #+begin_comment
-[[file:20210606144410-critique_of_the_configuration_space_explanation.org][Critique of the configuration space explanation]]
+[[id:9a102d0f-bbd5-421d-af39-854eb34cb8a3][Critique of the configuration space explanation]]
 #+end_comment

@@ -6,9 +6,9 @@
 
 * Context
 
-In cite:Shech2019, Shech proposes a "condition of adequacy" for something to count as an approximate instantiation in cite:Leng2012 's sense, see [[file:20210210141222-approximate_instantiation_as_an_argument_against_platonism.org][approximate instantiation as an argument against Platonism]]
+In cite:Shech2019, Shech proposes a "condition of adequacy" for something to count as an approximate instantiation in cite:Leng2012 's sense, see [[id:013d6de0-7da7-4894-be91-ef3705945daa][approximate instantiation as an argument against Platonism]]
 
-It is very similar to my proposed distinction between problematic and unproblematic idealizations, see [[file:infinite_idealizations_chapter.org][small sample on infinite vs normal idealization]]
+It is very similar to my proposed distinction between problematic and unproblematic idealizations, see [[id:1fbefa5c-d5a1-4061-a043-e7c2ffd7c596][small sample on infinite vs normal idealization]]
 
 * Body
 
@@ -18,4 +18,4 @@ This condition then, only really applies to infinite idealizations, not to any r
 
 In cite:Norton2012 's terminology: the condition of adequacy is coreferential with "promotable" idealizations.
 
-I think this condition is much too strong: the distinction makes sense, but this does not at all straightforwardly lead to this conclusion, only if you assume Leng's "way out" of the indispensability argument ([[file:20210204161810-enhanced_indispensability_argument_eia.org][enhanced indispensability argument (EIA)]] )to be the only way.
+I think this condition is much too strong: the distinction makes sense, but this does not at all straightforwardly lead to this conclusion, only if you assume Leng's "way out" of the indispensability argument ([[id:c45736b9-4f0e-43ef-a8e5-4dcfc632b9f8][enhanced indispensability argument (EIA)]] )to be the only way.

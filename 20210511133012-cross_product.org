@@ -6,4 +6,4 @@
 
 * Cross product
 
-The cross product of two vectors $x\times y$ is the [[file:20210511133056-determinant.org][Determinant]] of the vector product of those vectors, giving rise to a new vector $z$ which is perpendicular to both.
+The cross product of two vectors $x\times y$ is the [[id:4c40816b-3a86-471c-b225-ac7b6f988833][Determinant]] of the vector product of those vectors, giving rise to a new vector $z$ which is perpendicular to both.

@@ -6,5 +6,5 @@
 
 * Function/Mapping
 
-A function (or map) $f$ from uniquely assigns an element $x$ of a set $A$, called the [[file:20210505155837-domain.org][Domain]] of $f$, to some element of some other (or the same) set $B$, called the [[file:20210505155930-range_codomain.org][Range/Codomain]] of $f$, written as
+A function (or map) $f$ from uniquely assigns an element $x$ of a set $A$, called the [[id:2d657ec8-df42-4209-b009-6b4a4a01dbdb][Domain]] of $f$, to some element of some other (or the same) set $B$, called the [[id:0139e8db-0030-43b9-ac14-1eaf850a270c][Range/Codomain]] of $f$, written as
 \[f:A \rightarrow B\]

@@ -6,7 +6,7 @@
 
 * Injective
 
-A [[file:20210505155407-function_mapping.org][function/mapping]] $f: A\rightarrow B$ is said to *injective* or *one to one* all points in $A$ map onto different points in $B$, or more formally
+A [[id:1c7c5c98-9acf-44e1-8921-4bb34eed0f92][function/mapping]] $f: A\rightarrow B$ is said to *injective* or *one to one* all points in $A$ map onto different points in $B$, or more formally
 
 \[
 \forall a,a' \in A \quad (f(a)=f(a'))\rightarrow(a=a')

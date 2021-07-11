@@ -20,7 +20,7 @@
 
 Infinite/asymptotic idealizations are good, actually.
 
-We need them in order to make [[file:universal_explanation.org][Universal Explanation]] , explanations which are not local to a single situation but more global.
+We need them in order to make [[id:c5da437c-60bb-45a3-86d5-718b14fd6733][Universal Explanation]] , explanations which are not local to a single situation but more global.
 
 * Rough note space
 

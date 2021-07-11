@@ -10,7 +10,7 @@ The Berry phase is the general description of a rather curious quantum specific 
 
 * The importance of the adiabatic theorem
 
-  The adiabatic theorem seems to be important for the computation of the Berry phase, serving a similar role as "parallel" in [[file:20210511111338-parallel_transport.org][Parallel transport]]: by keeping the system in the same phase, we can reasonably talk about its phase difference and discard the phase evolution. But, this only happens in the limit of the state being transformed infinitely slowly.
+  The adiabatic theorem seems to be important for the computation of the Berry phase, serving a similar role as "parallel" in [[id:71b7fa31-7712-4a3a-a3ff-825298ed86cd][Parallel transport]]: by keeping the system in the same phase, we can reasonably talk about its phase difference and discard the phase evolution. But, this only happens in the limit of the state being transformed infinitely slowly.
 
   =Luckily, this limit is smoothly approached, just as it is for parallel transport: if we don't keep the vector /precisely/ parallel but only approximatley, we still get some angle difference despite us not being perfect.=
 

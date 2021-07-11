@@ -8,17 +8,17 @@
 
 Landau levels are the energy levels which arise when an otherwise free particle is subjected to a (strong?) magnetic field.
 
-Landau levels are derived from the [[file:20210223154859-general_lagrangian_for_free_particles_in_a_magnetic_field.org][general Lagrangian for free particles in a magnetic field.]] For a particle with charge $-e$ and mass $m$ moving in a background magnetic field  $\mathbf{B}=\nabla\times A$ the Lagrangian is
+Landau levels are derived from the [[id:78088a8e-cdbf-4f1f-8c86-0cc8d37b6afb][general Lagrangian for free particles in a magnetic field.]] For a particle with charge $-e$ and mass $m$ moving in a background magnetic field  $\mathbf{B}=\nabla\times A$ the Lagrangian is
 \[L=1/2m\dot{\mathbf{x}}^2-e\dot{\mathbf{x}}\cdot \mathbf{A}\]
 
 
 They are roughly
 \[E_n=\hbar\omega_B(n+1/2)\quad n\in\mathbb{N} \quad \omega_B=eB/m\]
 
-The derivation is something like this [[file:20210223160810-derivation_of_landau_levels_for_qhe.org][derivation of Landau levels for QHE]]
+The derivation is something like this [[id:64033256-00bb-4f7f-aa9b-b65f317f67fc][derivation of Landau levels for QHE]]
 
 
-Landau levels give rise to wavefunctions of the form (see [[file:20210223163417-derivation_of_landau_level_wavefunctions.org][derivation of landau level wavefunctions]] )
+Landau levels give rise to wavefunctions of the form (see [[id:edd5441b-c528-42a8-b34c-ab06925de205][derivation of landau level wavefunctions]] )
 
 \begin{equation}
 \Psi_{n,k}(x,y) \sim e^{iky}H_n(x+kl^2_B)e^{(x+kl^2_B)^2/2l^2_B}
@@ -26,11 +26,11 @@ Landau levels give rise to wavefunctions of the form (see [[file:20210223163417-
 \end{equation}
 
 
-Furtermore, [[file:20210223163548-landau_states_have_a_large_degeneracy.org][Landau states have a large degeneracy]]
+Furtermore, [[id:1d52c1b9-6924-4272-9b33-a600b103240a][Landau states have a large degeneracy]]
 
 [[./media/landaulevels.png]]
 
 
-Landau levels are very different in an electric field, [[file:20210223165225-landau_levels_in_an_electric_field.org][Landau levels in an electric field]]
+Landau levels are very different in an electric field, [[id:f472f7ab-a182-4bf4-855e-f5ab78b90a87][Landau levels in an electric field]]
 
 [[./media/landaulevelselectricfield.png]]

@@ -6,7 +6,7 @@
 
 * Context
 
-Here I want to provide some general thoughts about the Fractional Quantum Hall Effect ([[file:20210218151906-descripion_of_qhe.org][descripion of QHE]]) which I will follow up on later, based solely on cite:Tong2016,Arovas2020 with the goal of claryfying the claims made in cite:Shech2019
+Here I want to provide some general thoughts about the Fractional Quantum Hall Effect ([[id:a420af4a-97bf-4b87-8ab4-5f180808e27a][descripion of QHE]]) which I will follow up on later, based solely on cite:Tong2016,Arovas2020 with the goal of claryfying the claims made in cite:Shech2019
 
 * Shechs claims about the fqhe
 ** Particles should behave the same if you spin the system around 360

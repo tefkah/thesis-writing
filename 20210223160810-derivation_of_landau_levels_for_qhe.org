@@ -6,20 +6,20 @@
 
 * Derivation of Landau Levels for QHE
 
-The [[file:20210219125155-the_fractional_quantum_hall_effect_fqhe.org][the Fractional quantum hall effect (FQHE)]] and the [[file:20210219125447-the_integer_quantum_hall_effect_iqhe.org][the Integer quantum hall effect (IQHE)]]'s energy levels are derived as follows (roughly)
+The [[id:2fa90488-38aa-478f-bc3a-2290fb9def10][the Fractional quantum hall effect (FQHE)]] and the [[id:c936a9ab-092e-4fe3-8b96-b6f4ae91e583][the Integer quantum hall effect (IQHE)]]'s energy levels are derived as follows (roughly)
 
-Start with the [[file:20210223155459-general_hamiltonian_for_a_free_particle_in_a_magnetic_field.org][general Hamiltonian for a free particle in a magnetic field]]
+Start with the [[id:a9025da3-ae04-41d6-ab0d-fbff1bf35408][general Hamiltonian for a free particle in a magnetic field]]
 
 \[H=\frac{1}{2m}(\mathbf{\hat{p}}+e\mathbf{\hat{A}})^2\]
 
-where $\hat{p}$ and $\hat{A}$ are of course the [[file:20210223160326-quantum_operators.org][quantum operators]] of momentum and the Gauge field respectively.
+where $\hat{p}$ and $\hat{A}$ are of course the [[id:ef908f45-f69b-47a4-9939-24d3daf244eb][quantum operators]] of momentum and the Gauge field respectively.
 
 Since the particles in the Hall effect are restricted to lie in a plane  $\mathbf{x}=(x,y)$.
 Since the magnetic field is constant and perpendicular to the plane  $\nabla\times \mathbf{\vec{A}}=B\mathbf{\hat{z}}$
 
-From this we derive the [[file:20210223160541-canonical_commutation_relation.org][canonical commutation relation]]
+From this we derive the [[id:713d1881-5122-4ee2-8430-87d5748e15e4][canonical commutation relation]]
 \[[\hat{x_i},\hat{p_j}]=i\hbar\delta_{ij}\]
 
 
-[[file:20210223161425-purely_algebraic_derivation_of_landau_levels.org][purely algebraic derivation of Landau levels]]
+[[id:c56b569d-53b1-41bd-bd57-43af9c07882a][purely algebraic derivation of Landau levels]]
 

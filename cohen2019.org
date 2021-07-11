@@ -24,7 +24,7 @@
 
 ** Things to follow up on
 
-- Check out cite:Berry1997 next for a more direct discussion of [[file:20210218152909-anyons.org][anyonic]]  phase and Berry.
+- Check out cite:Berry1997 next for a more direct discussion of [[id:31cd49eb-770f-4d11-98b2-ca666b534201][anyonic]]  phase and Berry.
 - Check out cite:Thouless1982 for an alternative formulation of the quantum hall effect
-- Check out cite:Simon1983 for discussion of berry phase and its connection to [[file:20210511110305-holonomy.org][Holonomy]]
+- Check out cite:Simon1983 for discussion of berry phase and its connection to [[id:fd2450df-e046-4d9c-a350-2be198e7fd04][Holonomy]]
 - !!! Check out cite:Arovas1984 for how the QHE and anyons are related!!!

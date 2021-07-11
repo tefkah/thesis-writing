@@ -10,23 +10,23 @@ This meta note is here in order to get me back on track when I forget what my th
 * This is what you are interested in:
 
 #+transclude: t
-[[file:20201221125304-transitions_from_continuity_to_the_discrete_are_not_possible.org][Transitions from continuity to the discrete are not possible]]
+[[id:99de5040-7b83-4433-850a-6db2d16a629b][Transitions from continuity to the discrete are not possible]]
 
 
 * These are good points you made you keep forgetting
 #+transclude: t
-[[file:20210309112810-infinite_idealizations_resemble_sorites_because_both_have_discontinuous_transitions.org][inf id are similar to sorites because both have disc trans]]
+[[id:37bfaecb-92e6-4cd7-9735-2b6c940c0e03][inf id are similar to sorites because both have disc trans]]
 
-[[file:20210319114828-the_discretization_of_quantum_states_is_the_biggest_discontinuity_in_physics.org][The Discretization of Quantum States is the biggest discontinuity in physics]]
+[[id:0f8d8982-4c57-4aca-8803-bc6d0eef3e42][The Discretization of Quantum States is the biggest discontinuity in physics]]
 
 
 * This is good advice you or someone else gave you that is worth recapping
 
 #+transclude: t
-[[file:20210204155921-if_you_cant_loop_back_to_your_introduction_make_shit_up_in_your_conclusion.org][if you cant loop back to your introduction, make shit up in your conclusion]]
+[[id:f5e4542f-0c24-4f50-bdfc-5e6d39ab8001][if you cant loop back to your introduction, make shit up in your conclusion]]
 
 #+transclud_ t
-[[file:20210309145524-writing_sucks_that_s_why_you_should_do_it.org][writing sucks, that's why you should do it]]
+[[id:0e9ad6f0-a085-4a02-a889-d3ac0ceb907b][writing sucks, that's why you should do it]]
 
 #+transclude t
-[[file:20210219115500-a_good_note_should_be_concise_future_text_oriented_and_your_own_words.org][a good note should be concise, future text oriented, and your own words]]
+[[id:2d68e306-1028-4c93-89a6-479a2e82379d][a good note should be concise, future text oriented, and your own words]]

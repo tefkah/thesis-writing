@@ -6,7 +6,7 @@
 
 * Bijective
 
-A function $f: A \rightarrow B$ is called *bijective* iff it is both [[file:20210505160649-injective.org][Injective / one-to-one]] and [[file:20210505161024-surjective_onto.org][Surjective / Onto]].
+A function $f: A \rightarrow B$ is called *bijective* iff it is both [[id:c615103d-1e0a-4b27-917c-70d935e267a6][Injective / one-to-one]] and [[id:9a6bd1ee-8403-43af-9a53-f68faf686e27][Surjective / Onto]].
 
 When this happens, all elements of $B$ have a unique element in $A$ which corresponds to it.
-This allows us to define the [[file:20210505161914-inverse_function.org][Inverse function]]
+This allows us to define the [[id:2e3c5d06-832e-4f7d-aa12-a8fbb9c4bdb3][Inverse function]]
