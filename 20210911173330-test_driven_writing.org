@@ -4,4 +4,4 @@
 #+title: Test driven writing
 #+filetags: :writing:thesis:idea:
 
-I really like the idea of
+I really like the idea of [[id:c25b8934-ddf3-47e1-b5ec-aa959858df2d][Test Driven Development]]. I usually struggle with writing
