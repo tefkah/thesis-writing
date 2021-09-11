@@ -4,4 +4,5 @@
 #+title: Test driven writing
 #+filetags: :writing:thesis:idea:
 
-I really like the idea of [[id:c25b8934-ddf3-47e1-b5ec-aa959858df2d][Test Driven Development]]. I usually struggle with writing
+I really like the idea of [[id:c25b8934-ddf3-47e1-b5ec-aa959858df2d][Test Driven Development]].
+One of the reasons I usually struggle with writing is that it is hard to see whether I am making any progress, and whether what I am writing fulfills the "requirements" of what I want to do. In fact, even outlining these requirements is pretty hard, but the fact that there is no way to check whether my writing "performs well" makes it extremely easy to give up.
