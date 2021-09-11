@@ -30,3 +30,7 @@ This meta note is here in order to get me back on track when I forget what my th
 
 #+transclude t
 [[id:2d68e306-1028-4c93-89a6-479a2e82379d][a good note should be concise, future text oriented, and your own words]]
+
+* How to get back into writing
+
+[[id:2d54ce7d-5106-4873-a439-5a50edff1156][Test driven writing]]
