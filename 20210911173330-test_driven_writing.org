@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2d54ce7d-5106-4873-a439-5a50edff1156
+:END:
+#+title: Test driven writing
+#+filetags: :writing:thesis:idea:
+
+I really like the idea of
