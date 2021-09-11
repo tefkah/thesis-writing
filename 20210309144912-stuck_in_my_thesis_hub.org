@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       588f9022-aa97-4f1c-8117-48cc32569afa
 :END:
-#+title: stuck in my thesis hub
+#+title:Stuck in my thesis hub
 #+filetags: meta thesis
 
 
