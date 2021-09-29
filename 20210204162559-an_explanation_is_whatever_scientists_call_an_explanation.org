@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       72b645ad-5de5-4f43-97dd-0d48dc6fdd7f
-:END:
-#+title: an explanation is whatever scientists call an explanation
-#+filetags: thesis explanation

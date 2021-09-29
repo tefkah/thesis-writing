@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       b92ab975-c5e1-44e4-b0dd-bf9a9d92d218
+:mtime:    20210701200854
+:ctime:    20210118211516
 :END:
 #+title: three categories for thinking of tags, broad, specific, and type
 #+filetags: rules categories on_notes

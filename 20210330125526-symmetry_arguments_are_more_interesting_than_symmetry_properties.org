@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       78ecef7c-f9d9-4384-b6dc-7a5031414fff
+:mtime:    20210701195412
+:ctime:    20210330125526
 :END:
 #+title: Symmetry arguments are more interesting than symmetry properties
 #+filetags: symmetry
