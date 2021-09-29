@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       de0d2a39-720a-4a73-a533-2e197b0c3de9
+:mtime:    20210701195634
+:ctime:    20201219152435
 :END:
 #+title: thermodynamic limit
 #+FILETAGS: thermodynamics idealizations

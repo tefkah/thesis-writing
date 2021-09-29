@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       ecb99e35-f821-48bc-84c9-2db2559d3bee
+:mtime:    20210701195407
+:ctime:    20210330163455
 :END:
 #+title: Local internal symmetries are not directly observable
 #+filetags: symmetry

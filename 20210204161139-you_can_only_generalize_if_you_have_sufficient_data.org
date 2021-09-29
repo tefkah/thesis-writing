@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       d06eff85-7065-41af-b0e4-bb0720f7d4ec
+:mtime:    20210701200844
+:ctime:    20210204161139
 :END:
 #+title: you can only generalize if you have sufficient data
 #+filetags: writing explanation thesis

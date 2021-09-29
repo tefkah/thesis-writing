@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       305bf122-f5a3-4b64-a465-1d24d54b693c
+:mtime:    20210701200805
+:ctime:    20210330144824
 :END:
 #+title: Attack Shech's CF approach  by showing his commitments, or by defending my premise
 #+filetags: anyons

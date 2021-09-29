@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       8136709d-9d43-44f6-8904-d411973bcfdd
+:mtime:    20210701200739
+:ctime:    20210505152849
 :END:
 #+title: Equivalence Relation
 #+filetags: mathematics definition

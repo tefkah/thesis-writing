@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       3c3b33a1-b8db-4be9-8acc-244cc7230172
+:mtime:    20210701200853
+:ctime:    20210119144549
 :END:
 #+title: Categorization of idealizations
 #+filetags: thesis distinction idealizations

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       a7f373ec-b8d9-4822-b969-44415e666a6a
+:mtime:    20210701195232
+:ctime:    20210427183527
 :END:
 #+title: singular limit
 #+filetags: definition idealizations

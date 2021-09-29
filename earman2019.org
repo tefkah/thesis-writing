@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       59db0283-e476-4fc6-a687-fb3acd020f80
 :ROAM_REFS: cite:Earman2019
+:mtime:    20210701194950
+:ctime:    20210701194950
 :END:
 #+TITLE: Earman2019: The role of idealizations in the AharonovBohm effect
 #+ROAM_KEY:

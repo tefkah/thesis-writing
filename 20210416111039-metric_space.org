@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       e997346e-b3dd-48da-8597-93acac415fa1
+:mtime:    20210701195253
+:ctime:    20210416111039
 :END:
 #+title: Metric Space
 #+filetags: "functional analysis" topology definition

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       1c7c5c98-9acf-44e1-8921-4bb34eed0f92
+:mtime:    20210701200737
+:ctime:    20210505155407
 :END:
 #+title: function/mapping
 #+filetags: mathematics definition

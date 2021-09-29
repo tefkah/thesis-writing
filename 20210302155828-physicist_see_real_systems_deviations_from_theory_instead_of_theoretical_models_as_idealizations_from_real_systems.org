@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       dcf6aed7-3ff6-4a41-a5ca-150906314204
+:mtime:    20210701200826
+:ctime:    20210302155828
 :END:
 #+title: physicist see real systems deviations from theory, instead of theoretical models as idealizations from real systems
 #+filetags: "symmetry breaking"

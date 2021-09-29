@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       82518b1f-cfb4-4e5f-b47e-9e3ebc665115
+:mtime:    20210701200843
+:ctime:    20210204161710
 :END:
 #+title: EIA needs to be tackled on both premise 1 and 2
 #+filetags: thesis idealizations EIA

@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       44cde2dc-fca6-4c00-a775-e3720b3daaa7
 :ROAM_REFS: cite:Norton2012
+:mtime:    20210701220030
+:ctime:    20210701220030
 :END:
 #+TITLE: Norton2012: Approximation and idealization: Why the difference matters
 #+filetags: idealization infinite_idealization explanation reference

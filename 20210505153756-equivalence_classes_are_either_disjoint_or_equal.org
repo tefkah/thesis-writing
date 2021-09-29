@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       da5add9d-61c4-453c-88be-f2c1eb8246fb
+:mtime:    20210701200738
+:ctime:    20210505153756
 :END:
 #+title: Equivalence Classes are either disjoint or equal
 #+filetags: theorem mathematics

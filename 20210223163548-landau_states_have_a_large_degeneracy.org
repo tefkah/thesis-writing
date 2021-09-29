@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       1d52c1b9-6924-4272-9b33-a600b103240a
+:mtime:    20210701200830
+:ctime:    20210223163548
 :END:
 #+title: Landau states have a large degeneracy
 #+filetags: eigenstate FQHE

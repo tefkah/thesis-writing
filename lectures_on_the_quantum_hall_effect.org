@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       3dd4c938-1173-4c86-9398-1af322d63239
 :ROAM_REFS: cite:Tong2016
+:mtime:    20210701200225
+:ctime:    20210701200225
 :END:
 t+TITLE: Tong2016: Lectures on the Quantum Hall Effect
 #+ROAM_KEY:#+filetags: FQHE anyons reference
@@ -19,6 +21,8 @@ t+TITLE: Tong2016: Lectures on the Quantum Hall Effect
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00;;annot-13-7]]
 :ID:       /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf-annot-13-7
+:mtime:    20210701200225
+:ctime:    20210701200225
 :END:
 
 ** The Laughlin wavefunction for the FQHE might not have a lot of overlap, but we can treat it as being in the same [[id:c98192f6-09b5-4a85-a1a7-aab632829493][universality]] class as the true ground state!

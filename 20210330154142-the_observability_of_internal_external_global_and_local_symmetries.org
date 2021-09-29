@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       b07c52c3-f3d0-47c6-8d55-ad2b9ccdeabe
+:mtime:    20210701200805
+:ctime:    20210330154142
 :END:
 #+title: The observability of internal, external, global and local symmetries
 #+filetags: symmetry
