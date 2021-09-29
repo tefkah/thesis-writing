@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       b415c998-f7c4-4c1c-a83d-9b5225282514
+:mtime:    20210701200835
+:ctime:    20210219124712
 :END:
 #+title: the quantum hall effect has two variations, integer and fractional
 #+filetags: FQHE

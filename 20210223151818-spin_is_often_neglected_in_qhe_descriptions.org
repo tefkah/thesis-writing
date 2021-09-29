@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       1d2d3aac-4dcf-4533-9358-f099a69878af
+:mtime:    20210701200834
+:ctime:    20210223151818
 :END:
 #+title: spin is often neglected in QHE descriptions
 #+filetags: FQHE

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       e91108cb-a755-4ffa-861d-b228b26f441e
+:mtime:    20210701195633
+:ctime:    20201221144612
 :END:
 #+title: Relevant papers for discrete continuous transitio
 #+FILETAGS: essentialism vagueness thesis continuity

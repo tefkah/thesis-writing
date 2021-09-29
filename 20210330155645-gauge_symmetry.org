@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       c18acba0-88cd-48c2-bfa7-755bb15bee31
+:mtime:    20210701200804
+:ctime:    20210330155645
 :END:
 #+title: Gauge symmetry
 #+filetags: definition physics symmetry

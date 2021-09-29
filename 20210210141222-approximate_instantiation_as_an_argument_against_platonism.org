@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       013d6de0-7da7-4894-be91-ef3705945daa
+:mtime:    20210701195547
+:ctime:    20210210141222
 :END:
 #+title: approximate instantiation as an argument against Platonism
 #+filetags: approximation platonism

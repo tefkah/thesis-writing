@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       d3cb6e55-c56d-4933-a4d8-d778238b2248
+:mtime:    20210701200728
+:ctime:    20210511131014
 :END:
 #+title: Connection
 #+filetags: definition "functional analysis" topology

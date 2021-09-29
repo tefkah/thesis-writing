@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       8b14c42a-cce5-4be1-b740-c051397a06c2
+:mtime:    20210701200709
+:ctime:    20210611132449
 :END:
 #+title: Homeomorphic
 #+filetags: definition topology

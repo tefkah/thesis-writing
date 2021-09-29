@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       48bc42ba-ca1a-4614-b735-74ab0609a33d
+:mtime:    20210701195447
+:ctime:    20210311100054
 :END:
 #+title: idealizations employed in the FQHE
 #+filetags: FQHE idealizations

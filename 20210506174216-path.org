@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       05db1716-8384-4547-9c71-55f5e7277bf4
+:mtime:    20210701200732
+:ctime:    20210506174216
 :END:
 #+title: Path
 #+filetags: mathematics definition
