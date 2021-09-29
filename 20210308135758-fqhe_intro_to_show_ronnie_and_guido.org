@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       edfca3ee-eb93-46ff-8e10-25794e4cd67e
+:mtime:    20210701200825
+:ctime:    20210308135758
 :END:
 #+title: FQHE Intro to show Ronnie and Guido
 #+filetags: draft thesis FQHE

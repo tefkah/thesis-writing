@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       2d54ce7d-5106-4873-a439-5a50edff1156
+:mtime:    20210911183407
+:ctime:    20210911173330
 :END:
 #+title: Test Driven Writing
 #+filetags: :writing:thesis:idea:

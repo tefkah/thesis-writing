@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       50b9ed61-c160-435d-aa77-6ffb6cc7cd27
+:mtime:    20210701195420
+:ctime:    20210319114521
 :END:
 #+title: The Adiabatic Theorem might not be an Inf Id because it only guarantees something that might happen anyway
 #+filetags: idealizations FQHE

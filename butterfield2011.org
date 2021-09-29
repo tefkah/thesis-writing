@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       8a158cbe-ee2b-4f4c-bd76-9730967267bd
 :ROAM_REFS: cite:Butterfield2011
+:mtime:    20210701195019
+:ctime:    20210701195019
 :END:
 #+TITLE: Butterfield2011: Less is Different: Emergence and Reduction Reconciled
 #+ROAM_KEY:

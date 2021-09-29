@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       6f472b6b-f0d4-4242-a22b-ad0a5f1bbd4e
+:mtime:    20210701195431
+:ctime:    20210316140758
 :END:
 #+title: The practice/theory mixup problems of Infinite Idealization Occur in Science in General as Well
 #+filetags: thesis idealizations

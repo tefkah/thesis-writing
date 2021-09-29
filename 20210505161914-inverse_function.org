@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       2e3c5d06-832e-4f7d-aa12-a8fbb9c4bdb3
+:mtime:    20210701200735
+:ctime:    20210505161914
 :END:
 #+title: Inverse function
 #+filetags: functions definition mathematics

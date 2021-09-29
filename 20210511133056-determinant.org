@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       4c40816b-3a86-471c-b225-ac7b6f988833
+:mtime:    20210701200725
+:ctime:    20210511133056
 :END:
 #+title: Determinant
 #+filetags: definition vectors linear_algebra mathematics

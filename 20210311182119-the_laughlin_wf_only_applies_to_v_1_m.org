@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       313b3f11-4c94-43af-a5fc-5712f3c02e10
+:mtime:    20210701200818
+:ctime:    20210311182119
 :END:
 #+title: the Laughlin WF only applies to v=1/m
 #+filetags: FQHE

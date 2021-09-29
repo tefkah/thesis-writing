@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       d699b056-c2f8-4f13-8549-2fd38d636eba
+:mtime:    20210701195331
+:ctime:    20210403122310
 :END:
 #+title: A knot is a braid connected back to itself
 #+filetags: topology definition braid

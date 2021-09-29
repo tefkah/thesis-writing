@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       fa5f4b7f-e222-4c6e-94c5-c2008dff7d26
+:mtime:    20210701200740
+:ctime:    20210505152606
 :END:
 #+title: Relation
 #+filetags: mathematics definition

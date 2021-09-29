@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       2a8826d4-52ec-40da-85c7-76d3deda2ee7
+:mtime:    20210701200748
+:ctime:    20210416113831
 :END:
 #+title: Closed set
 #+filetags: "functional analysis" topology definition

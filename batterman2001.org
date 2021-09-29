@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       36400a6e-56c1-4d37-b23f-2097c325e31f
 :ROAM_REFS: cite:Batterman2001
+:mtime:    20210701200355
+:ctime:    20210701200355
 :END:
 #+TITLE: Batterman2001: The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence
 #+ROAM_KEY:

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       e6409aab-f55e-42d2-b09f-6388903442a4
+:mtime:    20210701200844
+:ctime:    20210204161139
 :END:
 #+title: You can only generalize from specific case studies if you have sufficient data from said case studies
 #+filetags: writing explanation thesis

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       6546f4b1-b038-4961-821a-7341495fae1a
+:mtime:    20210701200738
+:ctime:    20210505153840
 :END:
 #+title: Disjoint
 #+filetags: mathematics definition

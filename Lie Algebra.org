@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       c1494ece-2b4c-4ae2-b37e-a53c0527a921
+:mtime:    20210701195054
+:ctime:    20210701195054
 :END:
 #+title: Lie Algebra
 #+filetags: definition mathematics group_theory

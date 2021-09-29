@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       90b942e4-ed45-4fd2-909f-e74312c2dab0
+:mtime:    20210701200727
+:ctime:    20210511132817
 :END:
 #+title: Curl
 #+filetags: vectors definition mathematics

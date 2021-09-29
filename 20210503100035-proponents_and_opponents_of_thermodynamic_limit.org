@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       ad600caa-8176-4353-ace6-3c8842260c6c
+:mtime:    20210701195229
+:ctime:    20210503100035
 :END:
 #+title: Proponents and opponents of thermodynamic limit
 #+filetags: idealization thermodynamics

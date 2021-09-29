@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       0b697698-9e37-4bd7-a833-5580e878925e
+:mtime:    20210701200854
+:ctime:    20210119122414
 :END:
 #+title: idealizations should be distinguished by outcome, not by operation
 #+filetags: claim thesis idealizations

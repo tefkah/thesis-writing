@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       761df6b4-1623-47aa-a996-6e6d50ac0e8e
+:mtime:    20210701200748
+:ctime:    20210416112750
 :END:
 #+title: Boundary points
 #+filetags: "functional analysis" topology definition

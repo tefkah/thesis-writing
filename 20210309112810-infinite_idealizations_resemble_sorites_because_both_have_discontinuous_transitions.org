@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       37bfaecb-92e6-4cd7-9735-2b6c940c0e03
+:mtime:    20210701200824
+:ctime:    20210309112810
 :END:
 #+title: Infinite idealizations resemble Sorites because both have discontinuous transitions
 #+filetags: vagueness central thesis

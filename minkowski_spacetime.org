@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       6695b04e-7e0f-44b9-8402-266e5cc6ab02
+:mtime:    20210701200105
+:ctime:    20210701200105
 :END:
 #+title: Minkowski Spacetime
 #+filetags: relativity definition

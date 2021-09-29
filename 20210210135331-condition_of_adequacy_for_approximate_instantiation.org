@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID: 481293d6-42ea-484a-975b-1cc5ba1708fa
 :collapsed: true
+:mtime:    20210711223538
+:ctime:    20210210135331
 :END:
 #+title: Condition of adequacy for approximate instantiation
 #+filetags: approximation

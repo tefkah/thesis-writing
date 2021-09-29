@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       af1ae4be-bc8b-4d6c-b87b-7add8711b6d6
+:mtime:    20210701200839
+:ctime:    20210216120554
 :END:
 #+title: notes on Shechs description of FQHE
 #+filetags: FQHE

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       fe87fdb4-b86b-48db-8a2d-eb402b095ad2
+:mtime:    20210701200348
+:ctime:    20210701200348
 :END:
 #+title: Cardinality
 #+filetags: set-theory mathematics definition

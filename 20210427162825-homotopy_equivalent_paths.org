@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       896697ec-2e29-446e-9caf-7919b3639bdb
+:mtime:    20210701195232
+:ctime:    20210427162825
 :END:
 #+title: Homotopy equivalent paths
 #+filetags: definition topology

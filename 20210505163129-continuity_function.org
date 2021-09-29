@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       0facab0b-4652-478e-962a-afb8cf9818bb
+:mtime:    20210701200734
+:ctime:    20210505163129
 :END:
 #+title: Continuity (function)
 #+filetags: continuity functions definition mathematics

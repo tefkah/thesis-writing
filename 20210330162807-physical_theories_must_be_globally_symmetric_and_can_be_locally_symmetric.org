@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       e358c53a-eddc-46f4-b693-d4cc93d7210c
+:mtime:    20210701200801
+:ctime:    20210330162807
 :END:
 #+title: Physical theories must be globally symmetric and can be locally symmetric
 #+filetags: physics symmetry

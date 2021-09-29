@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       c78555dd-6890-476f-b478-93191bd74bf3
+:mtime:    20210701200207
+:ctime:    20210701200207
 :END:
 #+title: Minkowski Metric
 #+filetags: relativity definition

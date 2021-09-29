@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       66fc979f-2e21-4469-8518-88a4aa19be9a
+:mtime:    20210701200739
+:ctime:    20210505153349
 :END:
 #+title: Equivalence Class
 #+filetags: definition mathematics

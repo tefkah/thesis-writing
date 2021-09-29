@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       1c51c234-9537-44fe-a4b1-38340b6beef7
 :ROAM_REFS: cite:Ong2006
+:mtime:    20210701194926
+:ctime:    20210701194926
 :END:
 #+TITLE: Ong2006: Geometry and the anomalous Hall effet in ferromagnets
 #+ROAM_KEY:

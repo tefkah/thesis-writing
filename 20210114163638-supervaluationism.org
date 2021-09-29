@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       a12d8d0a-5036-4f17-b3e4-910afa0269fa
+:mtime:    20210701200857
+:ctime:    20210114163638
 :END:
 #+title: supervaluationism
 #+filetags: vagueness

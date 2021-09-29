@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       99de5040-7b83-4433-850a-6db2d16a629b
+:mtime:    20210701200901
+:ctime:    20201221125304
 :END:
 #+title: Transitions from continuity to the discrete are not possible
 #+FILETAGS: thesis vagueness continuity

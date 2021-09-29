@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       8d93c68e-6297-4ec0-b026-90fde4b43c53
+:mtime:    20210701200749
+:ctime:    20210416112309
 :END:
 #+title: Open set
 #+filetags: "functional analysis" topology definition

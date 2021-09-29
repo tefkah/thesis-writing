@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       76a2711e-8e05-4058-9808-3cefeffce717
+:mtime:    20210701200754
+:ctime:    20210405144616
 :END:
 #+title: EIA allows us to verify DN premises
 #+filetags: EIA explanation

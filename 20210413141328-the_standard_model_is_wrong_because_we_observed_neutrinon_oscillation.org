@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       bccd38a6-dfe2-4ac7-9aba-63717ac6374e
+:mtime:    20210701195309
+:ctime:    20210413141328
 :END:
 #+title: The standard model is wrong because we observed neutrinon oscillation
 #+filetags: physics

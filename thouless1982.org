@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       28fea2f6-4d0f-4e52-9301-dfc37b49d46d
 :ROAM_REFS: cite:Thouless1982
+:mtime:    20210701194912
+:ctime:    20210701194912
 :END:
 #+TITLE: Thouless1982: Quantized Hall Conductance in a Two-Dimensional Periodic Potential
 #+ROAM_KEY:

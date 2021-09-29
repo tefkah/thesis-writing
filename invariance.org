@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       63222d96-8674-4461-8ca8-fa3e94bfcfad
+:mtime:    20210701194934
+:ctime:    20210701194934
 :END:
 #+title: Invariance
 #+filetags: mathematics physics definition

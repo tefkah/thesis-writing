@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       0f8d8982-4c57-4aca-8803-bc6d0eef3e42
+:mtime:    20210701195419
+:ctime:    20210319114828
 :END:
 #+title: The Discretization of Quantum States is the biggest discontinuity in physics
 #+filetags: "functional analysis" central idealizations

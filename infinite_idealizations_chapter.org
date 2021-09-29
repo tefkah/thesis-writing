@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       1fbefa5c-d5a1-4061-a043-e7c2ffd7c596
+:mtime:    20210701194946
+:ctime:    20210701194946
 :END:
 #+title: What is an infinite idealization (Chapter)
 #+filetags: chapter idealizations proper thesis

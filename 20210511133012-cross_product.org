@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       1aad6677-d406-41b6-aecf-be8c0b8e099f
+:mtime:    20210701200726
+:ctime:    20210511133012
 :END:
 #+title: Cross-product
 #+filetags: definition vectors mathematics
