@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       025d3c91-e52f-4ccd-876f-3b5f8749c77d
+:mtime:    20210701200049
+:ctime:    20210701200049
 :END:
 #+title: Proper time
 #+filetags: relativity physics definition

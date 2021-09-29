@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       7d5f0144-0d5f-4dea-a85f-a027978fa92e
 :ROAM_REFS: cite:Knapp2016
+:mtime:    20210701194934
+:ctime:    20210701194934
 :END:
 #+TITLE: Knapp2016: How quickly can anyons be braided? Or: How I learned to stop worrying about diabatic errors and love the anyon
 #+ROAM_KEY:

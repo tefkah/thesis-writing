@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       2380111f-1558-4b59-aeaf-ffec7c7f70d9
+:mtime:    20210701182509
+:ctime:    20210518164940
 :END:
 #+title: email to guido and ronnie about geometrical phase
 #+filetags: geometric_phase email

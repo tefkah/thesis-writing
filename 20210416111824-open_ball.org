@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       913ee774-c9c9-4476-a619-b62d0f351378
+:mtime:    20210701200749
+:ctime:    20210416111824
 :END:
 #+title: Open ball
 #+filetags: "functional analysis" topology definition

@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       37c25546-4135-4012-b414-7747d6cedb2a
+:mtime:    20210701200729
+:ctime:    20210511115926
 :END:
 #+title: Wavefunctions are waves and do wave things
 #+filetags: duh waves quantum

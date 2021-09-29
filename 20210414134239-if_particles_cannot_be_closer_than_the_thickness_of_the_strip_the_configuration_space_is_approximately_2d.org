@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       654e4bfd-594e-48f2-b6b1-7ad252e1c05c
+:mtime:    20210701200750
+:ctime:    20210414134239
 :END:
 #+title: If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D
 #+filetags: FQHE anyons

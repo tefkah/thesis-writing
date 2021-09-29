@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       b99e36c9-b494-4c8a-a0b9-3573e7caf4d7
+:mtime:    20210701200820
+:ctime:    20210309165636
 :END:
 #+title: magnetic length
 #+filetags: definition physics

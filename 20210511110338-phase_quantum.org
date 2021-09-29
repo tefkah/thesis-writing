@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       57213ae1-eff2-4442-b04b-84706076061f
+:mtime:    20210701200730
+:ctime:    20210511110338
 :END:
 #+title: Phase (quantum)
 #+filetags: definition physics
