@@ -11,8 +11,9 @@
 #+begin_comment
 This is the inbox. Everything goes in here when you capture it.
 #+end_comment
-[2021-05-01 Sat 11:21]
-*
-[2021-05-10 Mon 17:11]
-* contact Mor about seconds thoughts book
-[2021-05-25 Tue 16:27]
+
+* Inbox
+* TODO sync jotescripts with git
+[2021-10-04 Mon 12:17]
+* PROJ Hartman article
+[2021-10-04 Mon 12:18]

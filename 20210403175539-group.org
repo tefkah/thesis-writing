@@ -3,9 +3,6 @@
 :mtime:    20210701200757
 :ctime:    20210403175539
 :END:
-
-
-
 #+title: Group
 #+filetags: topology definition
 

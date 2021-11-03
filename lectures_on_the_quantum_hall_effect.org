@@ -4,8 +4,8 @@
 :mtime:    20210701200225
 :ctime:    20210701200225
 :END:
-t+TITLE: Tong2016: Lectures on the Quantum Hall Effect
-#+ROAM_KEY:#+filetags: FQHE anyons reference
+#+TITLE: Tong2016: Lectures on the Quantum Hall Effect
+#+filetags: FQHE anyons reference
 - tags ::
 - keywords :: ⛔ No DOI found
 
@@ -17,7 +17,6 @@ t+TITLE: Tong2016: Lectures on the Quantum Hall Effect
   :NOTER_DOCUMENT: /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf
   :NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00]]
   :END:
-** ρ xy = 2π~ 1 e 2 ν ν ∈ Z
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf::13++0.00;;annot-13-7]]
 :ID:       /home/thomas/OneDrive/HPS/Thesis/Papers/Thesis/Physics/QHE/TongD_2016_Lectures_on_the_Quantum_Hall_Effect.pdf-annot-13-7
@@ -29,5 +28,4 @@ t+TITLE: Tong2016: Lectures on the Quantum Hall Effect
 :PROPERTIES:
 page 79
 :END:
-*
 
