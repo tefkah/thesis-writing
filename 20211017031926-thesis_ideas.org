@@ -1,0 +1,40 @@
+:mtime:    20211017142937
+:END:
+#+title: Thesis Ideas
+#+filetags: :ideas:thesis:
+
+It's important for me to trick myself into doing my thesis, and what's a better way than to do some development?
+
+
+* Make thesis interactive
+:PROPERTIES:
+:ID:       c603db58-e1de-4152-b403-9b2d43c46686
+:ctime:    20211017142921
+:mtime:    20211017142921
+:END:
+
+text is boring, I can make my thesis way more interesting by making figures/whatever interactive.
+
+** Sliders to emphasize vagueness/boundaries
+
+Bald man ---------------------- Hairy man
+
+Drag slider and see man lose hair in real time. When is he bald? Vote now on your phones.
+
+
+* Create some kind of interface for git so that guido and ronnie can see a continuous stream of my updates.
+:PROPERTIES:
+:ctime:    20211017031926
+:mtime:    20211017142917 20211017142912 20211017032404
+:ID:       c682a16e-bfb2-440a-84f4-7dbf38415767
+:END:
+
+Public acountability helps me a lot with doing things, maybe too much.
+Idea here is: create some kind of webpage where you can easily see diffs between commits for my thesis.
+
+Ideally:
+- Just for Ronnie and Guido
+- Show some sort of timeline
+- They could comment on things
+
+**
