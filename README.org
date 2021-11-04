@@ -1,0 +1,15 @@
+[[https://creativecommons.org/licenses/by-sa/4.0/][file:https://img.shields.io/badge/License-CC--BY--SA-orange?logo=creativecommons&logoColor=white&style=flat.svg]]
+
+* Thesis
+
+These are my notes, thoughts, and actual chapters for my (as of yet unnamed) thesis in the philosophy of science.
+
+
+This will be expanded in due time. The main goal of this repository is to serve as a database for [[https://github.com/ThomasFKJorna/thesis-visualizer][the website hosting my thesis]].
+
+Might as well give a small intro.
+
+** Supervisors
+
+Guido Bacciagaluppi
+Ronnie Hermes
