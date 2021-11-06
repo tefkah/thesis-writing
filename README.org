@@ -7,9 +7,9 @@ These are my notes, thoughts, and actual chapters for my (as of yet unnamed) the
 
 This will be expanded in due time. The main goal of this repository is to serve as a database for [[https://github.com/ThomasFKJorna/thesis-visualizer][the website hosting my thesis]].
 
-Might as well give a small intro.
 
 ** Supervisors
 
 Guido Bacciagaluppi
+
 Ronnie Hermes
