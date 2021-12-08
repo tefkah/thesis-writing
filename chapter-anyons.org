@@ -12,6 +12,7 @@
 
 # convince the reader that what you're saying is worthwhile
 
+
 =The discussion of a system being a problematic idealization depending on which property we look at will probably be discussed in the previous chapter=
 So, now that we have gained a high-level idea of idealizations, the question is: which idealizations are worth looking at? We have seen some standard examples such as air resistance, but those turned out to be easily understood as approximations rather than idealizations, for when we want to predict the velocity of a falling ball it does not really matter whether there is no air resistance or $0$ air resistance, so we can freely move between (demote and promote) the idealized model (the ball falling in a vacuum) and the approximate propositions about our actual system (for the first seconds of the fall of the ball its speed $\approx gt$).
 
