@@ -6,7 +6,6 @@
 #+title: Invariance
 #+filetags: mathematics physics definition
 
-* Invariance
 
 *Invariance* is the generic property of being unchanging under some transformation. These could be symmetry transformations, or derivatives, or what have you.
 

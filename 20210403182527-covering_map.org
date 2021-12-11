@@ -6,5 +6,4 @@
 #+title: Covering map
 #+filetags: definition topology
 
-* Covering map
 A *covering map* is a continuous function $p$ from a [[id:5061d36d-a542-45d3-b76a-b6744c0df01a][Topological space]] C to another topological space $X$ such that each point in $X$ has an [[id:80e95479-ebab-4e5a-bf1f-e56ba9d7cb7d][Open neighbourhood]] [[id:1c46b3c0-d744-4946-8e9b-656e9373a2aa][Even cover]] by $p$.

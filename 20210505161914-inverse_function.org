@@ -1,12 +1,11 @@
 :PROPERTIES:
 :ID:       2e3c5d06-832e-4f7d-aa12-a8fbb9c4bdb3
-:mtime:    20210701200735
+:mtime:    20211211105944 20210701200735
 :ctime:    20210505161914
 :END:
 #+title: Inverse function
 #+filetags: functions definition mathematics
 
-* Inverse
 
 If a function $f: A \rightarrow B$ is [[id:1b978913-f923-48e8-b1e7-d0a42527dd5b][Bijective / One-to-one-correspondence]], there exists a function $f^{-1} : B \rightarrow A$ called the *inverse* of $f$, defined by letting $f^{-1}(b)$ be the unique element $a \in A$ that maps onto $b$.
 

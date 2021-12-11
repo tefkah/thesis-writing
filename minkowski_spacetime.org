@@ -6,7 +6,6 @@
 #+title: Minkowski Spacetime
 #+filetags: relativity definition
 
-* Minkowski Spacetime
 
 *Minkowski spacetime* is a $4D$ [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space,]] using the [[id:c78555dd-6890-476f-b478-93191bd74bf3][Minkowski Metric]] together with [[id:025d3c91-e52f-4ccd-876f-3b5f8749c77d][Proper time]] as a metric function. It behaves much like $\mathbb{R}^4$, except that the metric is slightly different.
 

@@ -1,12 +1,11 @@
 :PROPERTIES:
 :ID:       b0c5254c-045f-4194-bb5c-022772f85a7a
-:mtime:    20210701200100
+:mtime:    20211211110901 20210701200100
 :ctime:    20210701200100
 :END:
 #+title: O(2)
 #+filetags: definition
 
-* O(2)
 
 [[id:0bbb9ce7-191f-4fde-8924-cad8a3886e2e][Group]] of [[id:08104a25-3b71-4932-97d8-7db721cbbcfe][Orthogonal]] $2x2$ matrices.
 

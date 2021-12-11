@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       cab6efcd-b205-45e7-8873-31026d149490
-:mtime:    20210701195505
+:mtime:    20211211110920 20210701195505
 :ctime:    20210223163618
 :END:
-#+title: degeneracy
-#+filetags: definition physics
+#+title: Degeneracy
+#+filetags: :stub:definition:physics:
+

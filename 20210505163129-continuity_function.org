@@ -4,9 +4,8 @@
 :ctime:    20210505163129
 :END:
 #+title: Continuity (function)
-#+filetags: continuity functions definition mathematics
+#+filetags: continuity:functions:definition:mathematics
 
-* Continuity (function)
 
 ** Topological definition (Munkres)
 

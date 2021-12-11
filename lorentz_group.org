@@ -4,9 +4,8 @@
 :ctime:    20210701194931
 :END:
 #+title: Lorentz Group
-#+filetags: relativity group_theory definition
+#+filetags: :stub:relativity:group_theory:definition:
 
-* Lorentz Group
 
 
 * Examples

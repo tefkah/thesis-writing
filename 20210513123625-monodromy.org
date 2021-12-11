@@ -6,11 +6,7 @@
 #+title: Monodromy
 #+filetags: definition mathematics topology
 
-* Monodromy
 
 Monodromy is about how things behave as they run around a singularity.
 
 Somewhat related to [[id:fd2450df-e046-4d9c-a350-2be198e7fd04][Holonomy]], but whereas holonomy is about the geometry/curvature of the manifold, monodromy is more of a topological notion (I think).
-#+begin_src emacs-lisp :tangle yes
-(string-match-p "[0-9]\{16\}" buffer-file-name)
-#+end_src

@@ -6,6 +6,5 @@
 #+title: Intersection
 #+filetags: definition mathematics
 
-* Intersection
 
 The *intersection* of two sets $A$, $A'$, denoted by $A \cap A'$, is the set of shared elements between $A$ and $A'$.

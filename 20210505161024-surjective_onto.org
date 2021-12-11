@@ -1,12 +1,11 @@
 :PROPERTIES:
 :ID:       9a6bd1ee-8403-43af-9a53-f68faf686e27
-:mtime:    20210701200736
+:mtime:    20211211105937 20210701200736
 :ctime:    20210505161024
 :END:
 #+title: Surjective / Onto
 #+filetags: functions definition mathematics
 
-* Surjective / Onto
 
 A [[id:1c7c5c98-9acf-44e1-8921-4bb34eed0f92][function/mapping]] $f:A \rightarrow B$ is called *surjective* or *onto* if every element in $B$ is the [[id:b6b8ec07-b1e0-4b35-b7cc-1ce42947f146][Image]] of some element in $A$.
 
