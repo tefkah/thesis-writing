@@ -6,7 +6,6 @@
 #+title: Connection
 #+filetags: definition "functional analysis" topology
 
-* Connection
 
 A *connection* is an operation that allows for [[id:71b7fa31-7712-4a3a-a3ff-825298ed86cd][Parallel transport]] over [[id:50207fe2-18a6-451f-84b8-3d3e934535fa][Vector Bundles]].
 

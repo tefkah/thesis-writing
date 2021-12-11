@@ -4,9 +4,8 @@
 :ctime:    20210416112309
 :END:
 #+title: Open set
-#+filetags: "functional analysis" topology definition
+#+filetags: functional_analysis topology definition
 
-* Open set
 
 ** Functional analysis definition
 Given a [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]] $(X,d)$, a set $A\subseteq X$ is called an *open set* if

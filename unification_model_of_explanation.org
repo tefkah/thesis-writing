@@ -6,7 +6,6 @@
 #+title: Unification model of explanation
 #+filetags: explanation definition
 
-* Unification model of explanation
 
 Thought up by Kitcher and another guy, the unification model of explanation is a rather exact model with a broad message: an explanation is better than another explanation if it /unifies/ more phenomena under it.
 

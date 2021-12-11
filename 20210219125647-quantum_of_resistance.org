@@ -4,8 +4,7 @@
 :ctime:    20210219125647
 :END:
 #+title: quantum of resistance
-#+filetags: definition
+#+filetags: :stub:definition:
 
-* Quantum of Resistance
 
 \[R_q=e^2\hbar/2\pi\]

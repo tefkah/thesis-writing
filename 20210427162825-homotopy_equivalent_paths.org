@@ -4,6 +4,4 @@
 :ctime:    20210427162825
 :END:
 #+title: Homotopy equivalent paths
-#+filetags: definition topology
-
-* Homotopy equivalence
+#+filetags: :stub:definition topology:

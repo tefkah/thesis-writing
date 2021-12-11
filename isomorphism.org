@@ -6,7 +6,6 @@
 #+title: Isomorphism
 #+filetags: mathematics definition
 
-* Isomporhism
 
 
 * Examples

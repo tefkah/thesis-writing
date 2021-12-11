@@ -1,12 +1,11 @@
 :PROPERTIES:
 :ID:       c615103d-1e0a-4b27-917c-70d935e267a6
-:mtime:    20210701200736
+:mtime:    20211211105837 20210701200736
 :ctime:    20210505160649
 :END:
 #+title: Injective / one-to-one
 #+filetags: definition mathematics
 
-* Injective
 
 A [[id:1c7c5c98-9acf-44e1-8921-4bb34eed0f92][function/mapping]] $f: A\rightarrow B$ is said to *injective* or *one to one* all points in $A$ map onto different points in $B$, or more formally
 

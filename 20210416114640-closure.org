@@ -4,9 +4,8 @@
 :ctime:    20210416114640
 :END:
 #+title: Closure (set)
-#+filetags: "functional analysis" topology definition
+#+filetags: :functional_analysis:topology:definition:
 
-* Closure (set)
 
 The *closure* $\bar{A}$ of a subset $A$ of a [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]] $(X,d)$ is the smallest [[id:2a8826d4-52ec-40da-85c7-76d3deda2ee7][Closed set]] containing $A$, which is the union of $A$ and its [[id:d4e7ecd5-3f71-4e10-b967-b9ad290c27e5][Boundary]].
 \begin{equation}

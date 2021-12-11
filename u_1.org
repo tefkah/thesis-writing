@@ -7,8 +7,6 @@
 
 #+filetags: group physics group_theory definition
 
-* U(1)
-
 The unitary group $U(1)$ is the group of unit ($|z|^2=1$) complex numbers together with ordinary complex number multiplication.
 
 The elements of a group $U(x)$ have to be [[id:552da469-86ec-401c-9125-5aa40eb89fcf][Unitary]], that is $U^\dagger U=I$. Since this is $U(1)$ and we are dealing with scalars, this is the same as saying $\bar{z}z=1$.

@@ -4,4 +4,4 @@
 :ctime:    20210507154830
 :END:
 #+title: Flux
-#+filetags: definition physics dontunderstand
+#+filetags: :stub:definition:physics:dontunderstand:

@@ -6,8 +6,6 @@
 #+title: Phase factor
 #+filetags: quantum phase physics definition
 
-* Phase factor
-
 In QM, the *phase factor* is ....
 
 * Examples

@@ -6,7 +6,6 @@
 #+title: Representation
 #+filetags: mathematics group_theory definition
 
-* Representation
 
 
 * Examples

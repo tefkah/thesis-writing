@@ -6,7 +6,6 @@
 #+title: Unitarity
 #+filetags: mathematics definition
 
-* Unitarity
 
 An object $U$ is unitary if $U^\dagger U=I$.
 For matrices, $U^\dagger= U^T^*$

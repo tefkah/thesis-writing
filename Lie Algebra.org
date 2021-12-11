@@ -6,7 +6,5 @@
 #+title: Lie Algebra
 #+filetags: definition mathematics group_theory
 
-* Lie Algebra
 
-The *Lie Algebra* of a [[roam:Group]] is the set of all [[roam:Generator]]s of that group.
-
+The *Lie Algebra* of a [[id:0bbb9ce7-191f-4fde-8924-cad8a3886e2e][Group]] is the set of all [[id:04689ceb-af4a-4b4a-9b5b-bc2dc5aca317][Generator]]s of that group.
