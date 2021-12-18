@@ -3,9 +3,7 @@
 :mtime:    20211213124823 20211017163517 20211017163516
 :ctime:    20210528160149
 :END:
-
-
-#+title:Outline Anyons
+#+title:III. Anyons
 #+filetags: :chapter:anyons:
 
 

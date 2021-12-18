@@ -10,19 +10,22 @@
     "comment": "General discussion that does not fit anywhere else."
   },
   {
-    "title": "Chapter 1: Introduction",
+    "title": "Chapter I: Introduction",
     "number": 7,
-    "comment": "Comments, feedback, and discussion about the introduction"
+    "comment": "Comments, feedback, and discussion about the introduction",
+    "link": "/I.-Introduction"
   },
   {
-    "title": "Chapter 2: Idealizations",
+    "title": "Chapter II: Idealizations",
     "number": 9,
-    "comment": "Comments, feedback, and discussion about the chapter concerning idealizations."
+    "comment": "Comments, feedback, and discussion about the chapter concerning idealizations.",
+    "link": "/II.-Idealizations"
   },
   {
-    "title": "Chapter 3: Anyons",
+    "title": "Chapter III: Anyons",
     "number": 11,
-    "comment": "Comments, feedback, and discussion about the chapter concerning anyons and the FQHE"
+    "comment": "Comments, feedback, and discussion about the chapter concerning anyons and the FQHE",
+    "link": "/III.-Anyons"
   },
   {
     "title": "Ideas",

@@ -3,7 +3,7 @@
 :mtime:    20210701200531
 :ctime:    20210701200531
 :END:
-#+title: Introduction Chapter
+#+title:I. Introduction
 #+FILETAGS: chapter structure introduction thesis
 
 * Introducion/Discretization
