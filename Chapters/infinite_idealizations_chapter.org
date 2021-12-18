@@ -3,7 +3,7 @@
 :mtime:    20210701194946
 :ctime:    20210701194946
 :END:
-#+title: What is an infinite idealization (Chapter)
+#+title:II. Idealizations
 #+filetags: chapter idealizations proper thesis
 
 #+latex_header:\usepackage[style=apa, backend=biber]{biblatex}
