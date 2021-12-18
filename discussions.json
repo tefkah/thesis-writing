@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Questions from Thomas",
+    "number": 4,
+    "comment": "Here I ask questions about things I don't understand"
+  },
+  {
+    "title": "General",
+    "number": 5,
+    "comment": "General discussion that does not fit anywhere else."
+  },
+  {
+    "title": "Chapter 1: Introduction",
+    "number": 7,
+    "comment": "Comments, feedback, and discussion about the introduction"
+  },
+  {
+    "title": "Chapter 2: Idealizations",
+    "number": 9,
+    "comment": "Comments, feedback, and discussion about the chapter concerning idealizations."
+  },
+  {
+    "title": "Chapter 3: Anyons",
+    "number": 11,
+    "comment": "Comments, feedback, and discussion about the chapter concerning anyons and the FQHE"
+  },
+  {
+    "title": "Ideas",
+    "number": 12,
+    "comment": "Ideas, brief feedback, and other things"
+  },
+  {
+    "title": "Feedback Website",
+    "number": 13,
+    "comment": "Your thoughts on the usability, design, and whatever else of thesis.tefkah.com"
+  }
+]
