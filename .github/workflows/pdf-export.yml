@@ -33,11 +33,17 @@ jobs:
         
       - name: Compile org to tex
         run: |
-          emacs -Q . --eval "(org-export-to-file 'latex \"./III. Anyons.org\")"
+           emacs -Q Chapters/outline-anyons.org --eval "(progn 
+           (setq org-export-with-broken-links t) 
+           (require 'org) 
+           (require 'ox-latex) 
+           (org-export-to-file 'latex \"III. Anyons.tex\"))"
 
       # Do latex
       - name: Github Action for LaTeX
         uses: xu-cheng/latex-action@v2
+        with:
+          root_file: "Chapters/III. Anyons.tex"
 
 
       # Runs a set of commands using the runners shell
