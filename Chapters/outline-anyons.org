@@ -7,7 +7,6 @@
 #+filetags: :chapter:anyons:
 
 
-#+latex_class: memoir
 #+latex_header: \usepackage[style=apa, backend=biber]{biblatex}
 #+latex_header_extra: \addbibresource{../../bib/Library.bib}
 #+latex_header_extra:  \DeclareUnicodeCharacter{2212}{-}
