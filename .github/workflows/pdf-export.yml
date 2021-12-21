@@ -44,6 +44,7 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: "Chapters/III. Anyons.tex"
+          args: -pdf -file-line-error -interaction=nonstopmode -f
 
 
       # Runs a set of commands using the runners shell
