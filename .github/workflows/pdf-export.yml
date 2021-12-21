@@ -45,7 +45,8 @@ jobs:
       - name: Github Action for LaTeX
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: ./Chapters/*.tex
+          working_directory: Chapters
+          root_file: "*.tex"
           glob_root_file: true
             
           args: -pdf -file-line-error -interaction=nonstopmode -f
