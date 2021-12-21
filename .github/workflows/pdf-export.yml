@@ -33,13 +33,13 @@ jobs:
         
       - name: Compile org to tex
         run: |
-           emacs -Q --batch -nw Chapters/outline-anyons.org --eval "(progn \
-           (setq org-export-with-broken-links t) \
-           (require 'org) \
-           (require 'ox-latex) \
-           (seq-doseq (file (directory-files "./Chapters" t ".org")) \
-           (with-temp-file file \
-             (org-export-to-file 'latex (concat "Chapters/" (file-name-base file) ".tex")))))"
+           emacs -Q --batch -nw ./causal_mechanical_explanation.org --eval "(progn \
+              (setq org-export-with-broken-links t) \
+              (require 'org) \
+              (require 'ox-latex) \
+              (seq-doseq (file (directory-files \"./Chapters\" t \".org\")) \
+              (with-temp-file file \
+                (org-export-to-file 'latex (concat \"Chapters\" (file-name-base file) \".tex\")))))"
 
       # Do latex
       - name: Github Action for LaTeX
