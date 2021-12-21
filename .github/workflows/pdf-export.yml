@@ -46,7 +46,8 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: | 
-            Chapters/*.tex
+            "Chapters/*.tex"
+          glob_root_file: true
             
           args: -pdf -file-line-error -interaction=nonstopmode -f
 
