@@ -11,7 +11,6 @@
 #+latex_header_extra: \addbibresource{../../bib/Library.bib}
 #+latex_header_extra:  \DeclareUnicodeCharacter{2212}{-}
 
-
 * Intro
 
 ** New intro
@@ -74,7 +73,6 @@ reader, as while some specifics of the IQHE carry over to the FQHE, mostly the
 conceptual basis is required, which is recapped at the end of section 3.XXX
 
 Finally, we put all the pieces together in section 5, and see that while a geometric explanation /could/ be possible, it is not, at the moment, feasible. Later, in chapter =XXX=, I will argue if and why such a potential explanation should still be preferred to the topological account, but such conclusion cannot be drawn until we have gained a more thorough understanding of what a good explanation is in the first place.
-
 
 * Topology and Anyons
 
