@@ -13,7 +13,7 @@
 
 As I see it, the chief problem of philosophy is to explicate how, if at all, our language relates to the world. This is not a new thought, but one I wish to explore in this thesis.
 
-** Specifically: words seem to denote a very precise ontological thing, but our epistemological capacities arent that precise
+** Specifically: words seem to denote a very precise ontological thing, but our epistemological capacities aren't that precise
 
 I believe there exists a massive mismatch between the way we use language (names and/or concepts in particular) and how we conceptualize the ontology of the world. In short it is this: the _names_ we use for objects and _concepts_ in our language are discrete, while the space underlying them is continuous. That is, while we use names and concepts as if they have a definite _boundary_, there does not seem to be a clear line we can draw between the object and not-object, the concept and not-concept. Their boundary seems to be _vague_, indeterminate, fuzzy, etc.
 
@@ -49,7 +49,7 @@ However, attempting to evaluate how, if at all, physics represents "reality" dir
 Although the nature of idealizations and abstractions (henceforth I will just write idealization) will be spelled out in more detail later, it is worth noting some of its basic features and some similarities with the larger issue of denotation.
 
 
-(For the moment I will treat idealizations and abstractions as basically being the same thing, idealizations probably being more specific than abstractions. It is important and necessary to determine whether these do amount to the same thing however, see for instance cite:Shapiro2004, cite:mancosuAbstractionInfinity2016, cite:Lutz or cite:Knox2016 or cite:2016
+(For the moment I will treat idealizations and abstractions as basically being the same thing, idealizations probably being more specific than abstractions. It is important and necessary to determine whether these do amount to the same thing however, see for instance [cite//b:@Shapiro2004], [cite//b:@mancosuAbstractionInfinity2016], [cite//b:@Lutz] or [cite//b:@Knox2016] or [cite//b:@2016]
 Although one clear difference does already spring to mind: idealizations are usually strictly false, while abstractions are more akin to generalizations, in that they are not false but simply cover more phenomena. Idealizations might not be a subtype of abstraction, but maybe a feature of it. I might start by introducing abstractions first, then focusing on idealizations later as a way to tackle that, but I am not sure of that step yet.)
 
 ** Why should we pick idealizations
@@ -64,7 +64,7 @@ An infinite idealization is an idealization in which some relevant property is s
 
 *** How does it differ from a normal idealization
 
-Infinite idealizations differ from "normal" or simple idealizations, to borrow cite:Strevens2019a 's terminology, in which a value is simply set to some other value.
+Infinite idealizations differ from "normal" or simple idealizations, to borrow [cite//b:@Strevens2019a] 's terminology, in which a value is simply set to some other value.
 
 *** What's the goal of an infinite idealization
 
@@ -187,7 +187,7 @@ However, we must be weary of not simpy defining another concept of explanation. 
    b) Being arbitrarily normative, or rather begging the question
       If one were to define exclusion criteria for what ought to count as explanation, we need to watch out that we do not beg the question. We must take great care to justify these exclusion criteria, otherwise it can come across as us simply taking elements from these explanations and labeling them as bad. Furthermore the risk exists of excluding an entire category of explanatory theories, which defeats the point.
 
-      (This might happen for instance when one assumes that a good explanation ought to determine which objects in said explanation "make a difference", see e.g. cite:DeBianchi2016 )
+      (This might happen for instance when one assumes that a good explanation ought to determine which objects in said explanation "make a difference", see e.g. [cite//b:@DeBianchi2016] )
 
 **** TODO Figure out whether the difference maker discussion excludes the DN model or unificationist model
 *** Goal of the explanation strategy
@@ -289,7 +289,7 @@ The relevant point here is that in order for the explanation of the fractional q
 
 ** Breaking drops
 
-In his 2005 paper Breaking Drops something something  cite:Batterman2005 argues that the breaking off of a droplet from a dripping faucet is an example of a genuine discontinuity in nature. While not mentioning the word "infinite idealization", it is clear that it was he is implying when making the argument.
+In his 2005 paper Breaking Drops something something  [cite//b:@Batterman2005] argues that the breaking off of a droplet from a dripping faucet is an example of a genuine discontinuity in nature. While not mentioning the word "infinite idealization", it is clear that it was he is implying when making the argument.
 
 The argument is flawed by using weird conceptions of continuity, in particular by taking the infinite limit before the end of the operation.
 
@@ -300,54 +300,54 @@ The argument is flawed by using weird conceptions of continuity, in particular b
 * Bibliography
 ** Boundaries, vagueness, "denotation"
 
-- cite:Varzi2015
-- cite:Varzi2001
-- cite:Sorensen1997
-- cite:WEBER2010
-- cite:Bueno2012
-- cite:Weatherson2016
-- cite:ungerProblemMany1980
-- cite:Sanford1975
-- cite:franklinArgumentsWhoseStrength2013c
-- cite:Hacking1991
+- [cite//b:@Varzi2015]
+- [cite//b:@Varzi2001]
+- [cite//b:@Sorensen1997]
+- [cite//b:@WEBER2010]
+- [cite//b:@Bueno2012]
+- [cite//b:@Weatherson2016]
+- [cite//b:@ungerProblemMany1980]
+- [cite//b:@Sanford1975]
+- [cite//b:@franklinArgumentsWhoseStrength2013c]
+- [cite//b:@Hacking1991]
 
 ** (Infinite) Idealizations (theoretical, not applied to a particular problem)
 
-- cite:Strevens2019
-- cite:Strevens2007
-- cite:Strevens2008
-- cite:nortonInfiniteIdealizations2014
-- cite:Norton2012
-- cite:shechInfiniteIdealizationsPhysics2018a
-- cite:Fletcher2019
-- cite:Lutz
-- cite:Knox2016
-- cite:2016
-- cite:Shapiro2004
-- cite:Suarez2016
-- cite:Shech2015b
-- cite:Shech2013
-- cite:Batterman2009
-- cite:Batterman2001
-- cite:Butterfield2011
+- [cite//b:@Strevens2019]
+- [cite//b:@Strevens2007]
+- [cite//b:@Strevens2008]
+- [cite//b:@nortonInfiniteIdealizations2014]
+- [cite//b:@Norton2012]
+- [cite//b:@shechInfiniteIdealizationsPhysics2018a]
+- [cite//b:@Fletcher2019]
+- [cite//b:@Lutz]
+- [cite//b:@Knox2016]
+- [cite//b:@2016]
+- [cite//b:@Shapiro2004]
+- [cite//b:@Suarez2016]
+- [cite//b:@Shech2015b]
+- [cite//b:@Shech2013]
+- [cite//b:@Batterman2009]
+- [cite//b:@Batterman2001]
+- [cite//b:@Butterfield2011]
 
 ** EIA
 
-- cite:Shech2019a
-- cite:Colyvan2006
-- cite:Colyvan1998
-- cite:Colyvan2019
-- cite:Panza2016
-- cite:Castro2013
-- cite:Baron2016a
+- [cite//b:@Shech2019a]
+- [cite//b:@Colyvan2006]
+- [cite//b:@Colyvan1998]
+- [cite//b:@Colyvan2019]
+- [cite//b:@Panza2016]
+- [cite//b:@Castro2013]
+- [cite//b:@Baron2016a]
 
 ** Explanation
 
-- cite:Woodward2019b
-- cite:Wayne2011
-- cite:salmonFourDecadesScientific2006a
-- cite:Coffa1967
-- cite:Bangu2015
+- [cite//b:@Woodward2019b]
+- [cite//b:@Wayne2011]
+- [cite//b:@salmonFourDecadesScientific2006a]
+- [cite//b:@Coffa1967]
+- [cite//b:@Bangu2015]
 
 
   Overlaps much with the literature I gathered on idealization. I am still missing some good meta opininated meta literature on the subject, as I mentioned above
@@ -355,7 +355,7 @@ The argument is flawed by using weird conceptions of continuity, in particular b
 ** Specific Effects and arguments surrounding them
 *** Phase transitions [[id:4b10bcb4-8337-4b3e-be7a-adab788f995c][phase transitions]]
 
-- cite:ech2013
+- [cite//b:@ech2013]
 - citeMenon2011
 - citeKadanoff2009
 - citeSklar1999
@@ -376,8 +376,7 @@ Overlaps much with the literature on infinite idealizations
 
 *** Aharonov Bohm Effect
 
-- cite:Shech2018b
+- [cite//b:@Shech2018b]
 - cite: Tong2016
-- cite:Earman2019
-- cite:Dougherty2020
-
+- [cite//b:@Earman2019]
+- [cite//b:@Dougherty2020]
