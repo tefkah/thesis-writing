@@ -39,7 +39,7 @@ jobs:
               (require 'ox-latex) \
               (seq-doseq (file (directory-files \"./Chapters\" t \".org\")) \
               (with-temp-file file \
-                (org-export-to-file 'latex (concat \"Chapters\" (file-name-base file) \".tex\")))))"
+                (org-export-to-file 'latex (concat \"Chapters/\" (file-name-base file) \".tex\")))))"
 
       # Do latex
       - name: Github Action for LaTeX
