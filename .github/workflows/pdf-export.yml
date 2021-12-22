@@ -22,22 +22,22 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
+
       # Setup emacs
       - name: Set up Emacs
         uses: purcell/setup-emacs@v3.0
         with:
           version: 27.2
-        
+
       - name: Compile org to tex
         run: |
-           emacs -Q --batch -nw ./causal_mechanical_explanation.org --eval "(progn
-           (setq org-export-with-broken-links t) 
-           (require 'org) 
-           (require 'ox-latex) 
-           (seq-doseq (file (directory-files "./Chapters" t ".org"))
-           (org-open-file file)
-           (org-latex-export-to-latex)))"
+          emacs -Q --batch -nw ./causal_mechanical_explanation.org --eval "(progn \
+          (setq org-export-with-broken-links t) \
+          (require 'org) \
+          (require 'ox-latex) \
+          (seq-doseq (file (directory-files \"./Chapters\" t \".org\")) \
+          (org-open-file file) \
+          (org-latex-export-to-latex)))"
 
       # Do latex
       - name: Github Action for LaTeX
@@ -47,7 +47,6 @@ jobs:
           root_file: "./Chapters/*.tex"
           glob_root_file: true
           args: -pdf -file-line-error -interaction=nonstopmode -f
-
 
       - name: Release
         uses: softprops/action-gh-release@v1
