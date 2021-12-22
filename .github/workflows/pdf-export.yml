@@ -52,4 +52,6 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          files: "Chapters/*.pdf"
+          files: |
+            "*.pdf"
+            "**/*.pdf"
