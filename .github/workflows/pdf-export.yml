@@ -27,7 +27,7 @@ jobs:
       - name: Set up Emacs
         uses: purcell/setup-emacs@v3.0
         with:
-          version: 27.2
+          version: snapshot
 
       - name: Compile org to tex
         run: |
