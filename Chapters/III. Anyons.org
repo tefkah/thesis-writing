@@ -29,8 +29,7 @@ explanation, anyons are two-dimensional particles. More suggestively, the space
 they occupy cannot be /approximately/ $2D$, such as a $3D$ space of $1nm$ height,
 but /exactly/ two dimensional: a clear case of an infinite(simal) idealization. Of
 course, anyons would be just another plaything, were it not that, at the time of
-writing, anyons have rather strong empirical backing parencite:Bartolomei2020.
-
+writing, anyons have rather strong empirical backing [[cite//b:@Bartolomei2020]].
 
 Another reason why anyons present such an interesting case, is that their
 explanation explicitly requires /topological/ arguments. Topological arguments, as
@@ -337,7 +336,7 @@ Pauli-exclusion principle and fermions as a distinct category of particles,
 which precisely follow from this very argument! The justification clearly begs
 the question, but this does not appear to bother most. Some attempts have been
 made to provide a better justification, for instance using the de Broglie-Bohm
-pilot wave theory parencite:Brown1999, but such interpretations have not found
+pilot wave theory [cite:@Brown1999], but such interpretations have not found
 their way into the mainstream discussion on anyons. For now we shall follow the
 herd and accept the excision of the diagonal points from the configuration
 space, and shall return to such issues later.
@@ -533,7 +532,7 @@ thoroughly classified groups in order to save ourselves some work. Additionally,
 the groups we found are those for $2$ particles, and being able to easily
 generalize these groups to any $N$ number of particles. Rigorously deriving
 these fundamental group of a space is not trivial, the standard references for
-the fundamental spaces being cite:Fox1962 and cite:Fadell1962. Insead of doing
+the fundamental spaces being [cite//b:@Fox1962] and [cite//b:@Fadell1962]. Insead of doing
 this rigorously like mathematicans, we will go about this as physicists: look at
 the result and then convince ourselves they make sense.
 
@@ -635,7 +634,7 @@ exchange-phase that's a multiple of the number exchanges and which depends on
 the direction the exchange took place, but not much else. It could be any
 multiple of the winding-number, which does not provide us with much predictive
 power if we ever want to perform an experiment looking for these buggers. "But",
-I hear you say, "did cite:Bartolomei2020 not definitively show that anyons
+I hear you say, "did [cite//b:@Bartolomei2020] not definitively show that anyons
 exist?" We'll get there when we get there, /Jeremy/, but we can ask some annoying
 questions to get us started.
 
@@ -715,7 +714,7 @@ than we started! WHAT!
 ** How does geometrical phase get there
 
 As Berry said in his original paper, the occurence of the geometrical phase does
-indeed appear quite "magical" parencite:Berry1984. However, as cite:Simon1983
+indeed appear quite "magical" [cite:@Berry1984]. However, as [cite//b:@Simon1983]
 soon thereafter elucidated, the mystery largely disappears we link it to a more
 general geometric property: [[id:fd2450df-e046-4d9c-a350-2be198e7fd04][Holonomy.]]
 
@@ -764,8 +763,8 @@ https://physics.stackexchange.com/questions/383281/when-is-the-berry-phase-only-
 
 https://physics.stackexchange.com/questions/235503/why-is-the-phase-picked-up-during-identical-particle-exchange-a-topological-inva?rq=1
 
-cite:Leinaas1977
-cite:Knapp2016
+[cite//b:@Leinaas1977]
+[cite//b:@Knapp2016]
 #+end_comment
 
 
@@ -795,7 +794,7 @@ We have finally reached the point at which we have no choice but to look at an
 actual physical system, as we need to have an actual wavefunction to measure
 things by. The system that has historically been ascribed anyons is called the
 /Fractional Quantum Hall Effect/, which is also the subject of the recent
-experimental results by cite:Bartolomei2020. Evaluating the merits of the
+experimental results by [cite//b:@Bartolomei2020]. Evaluating the merits of the
 geometrical approach to anyonic phase, then, necessitates a clearer
 understanding of the FQHE.
 
@@ -812,12 +811,12 @@ understanding of the FQHE.
 * The Quantum Hall Effect
 *************** TODO Put this somewhere else, preferably at the end
 
-    - Following cite:Norton2012, we know how to interpret this: we can demote an
+    - Following [cite//b:@Norton2012], we know how to interpret this: we can demote an
       idealization to an approximation if we are able to show that there is a
       smooth limit.
-    - This is exactly the problem, according to cite:Shech2019: the topological explanation of anyons requires an /exact/ 2D system (or a rather ad-hoc 2D system as we saw).
+    - This is exactly the problem, according to [cite//b:@Shech2019:] the topological explanation of anyons requires an /exact/ 2D system (or a rather ad-hoc 2D system as we saw).
     - Therefore we cannot call this approximately 2D.
-    - According to cite:Shech2019, this is a problem for those with nominalist inclinations[fn:1], as the instantiation of abstract mathematical structures in the real world would be an issue.
+    - According to [cite//b:@Shech2019], this is a problem for those with nominalist inclinations[fn:1], as the instantiation of abstract mathematical structures in the real world would be an issue.
       + Such an argument can only be made, however, through the use of the EIA which was discussed in the previous (or next?) chapter.
     - Therefore, it would do such people well to examine the physical effect thoroughly for any signs of this.
 
@@ -897,9 +896,9 @@ In order to do as little physics as is possibly required, I will skip most of
 the justification for the quantum formalism of the QHE (quantizing the classical
 Hamiltonian, finding the commutators) and many of the intermediate steps to
 arrive at the relevant results. I point the interested reader to
-cite:Tong2016[[]] for a quite accessible and to cite:Arovas2020 for a more
+[cite//b:@Tong2016[[]]] for a quite accessible and to [cite//b:@Arovas2020] for a more
 thorough pedagogical discussion of these issues, and to
-cite:Stone1992,Prange1987,Doucot2005 for rather complete, less pedagogical
+[cite//b:@Stone1992],Prange1987,Doucot2005 for rather complete, less pedagogical
 sources.
 
 As mentioned previously, the Integer Quantum Hall Effect (IQHE) is the observation of plateaux in the Hall resistivity $\rho_{xy}$ at regular intervals. These intervals happen to be integer multiples of the /quantum of resistance/  $R_q=\frac{2\pi\hbar}{e^2}$. =check whether this is so=
@@ -1071,7 +1070,7 @@ where $l_B$ is the magnetic length, =roughly the length scale at which these eff
 
 I will leave the more detailed explanation for why the extended states
 compensate for the localized states for the interested reader, see
-textcite:Tong2016
+text[cite//b:@Tong2016]
 
 That is it for the IQHE, as we derived the two things we needed from it: we
 gained a general understanding of why the plateaux have their values (they are
@@ -1123,14 +1122,14 @@ the number of electrons in a QH system is closer to $10^{23}$. That is a rather
 large matrix to diagonalize, not even close to possible to do numerically.
 Therefore, we need to pull some tricks.
 
-The trick is: do not compute the wave function, just write one down. That is exactly what textcite:Laughlin1983 did, yielding what we now call the *Laughlin wavefunction*
+The trick is: do not compute the wave function, just write one down. That is exactly what text[cite//b:@Laughlin1983] did, yielding what we now call the *Laughlin wavefunction*
 
 [[id:fff6c214-ce92-4f4f-be7f-71eb21efff79][The Laughlin Wavefunction]]
 
 Laughlin of course did not just simply write down a bunch of wavefunction and
 pick the one he liked best, it is motivated by some observations from the system
 and from some general conditions we have to place on any wavefunction.
-Specifically, in a previous paper parencite:Laughlin1983a he derived the
+Specifically, in a previous paper [cite:@Laughlin1983a] he derived the
 wavefunctions for three particles in the FQHE. Recapping this in the case of two
 electrons is worthwhile.
 
@@ -1248,7 +1247,7 @@ I generate the elementary excitations of g by piercing the fluid at z, with an i
 * Unresolved Issues
 
 ** What is the importance of the 2D idealization for the FQHE
-The quantum hall effect has also been studied in three dimensions, see cite:Torres2020,Tang2019,Pavlosiuk2017.
+The quantum hall effect has also been studied in three dimensions, see [cite//b:@Torres2020],Tang2019,Pavlosiuk2017.
 
 Apparently it is not as straightforward as I thought, people have constructed the 3D fractional quantum hall effect, but it's rather difficult.
 
@@ -1256,13 +1255,13 @@ The difference-maker for whether an electron gas is 2D seems to be it's Fermi-su
 [[id:0448eeeb-d0dc-45ca-a850-caa8413b3640][3D Quantum Hall Effect]]
 * Citations I still need to use
 
-cite:Shech2015b
+[cite//b:@Shech2015b]
 
-cite:Wilczek1982
+[cite//b:@Wilczek1982]
 
-cite:Rao2001
+[cite//b:@Rao2001]
 
-cite:Knapp2016
+[cite//b:@Knapp2016]
 
 \printbibliography
 
@@ -1284,7 +1283,7 @@ It turns out that the 1-exchange do not turn out to be a separate path, or at le
 [fn:7]  Note that this does not directly follow: it could also be the case that particles just sometimes have -1 and other times +1. Empirically, however, we find no such distinction, only dependent on particle type.
 [fn:6] The non-dirty sample just discussed is a great example of taking an idealization too seriously: we cannot explain the phenomena in the idealized setting, and have to retrofit extra physics on top of the idealization in order to get a satisfying explanation, only for us to then show in the limit of no impurities we regain our initial idealization. If this limit would not have been smooth (it fortunately is), we would have wasted all this time!
 
-[fn:5] Improved performance of impure 2D materials is an active area of research in material science, see cite:Wang2020 for a summary of how impurities enhance the conductivity of graphene.
+[fn:5] Improved performance of impure 2D materials is an active area of research in material science, see [cite//b:@Wang2020] for a summary of how impurities enhance the conductivity of graphene.
 [fn:4] Or an infinite number of new particle types, depending on one's preference.
 [fn:3] The LWF might appear to just be an easy to compute with exemplar of this universality class, but it actually has some other nice features which set it apart from its siblings, see =other nice feature of LWF=
 [fn:2] Scare quotes, as the derivation clearly does not rely on experimental measurement alone. Unfortunately it is not possible to simply measure the number of electrons in a given area.
