@@ -53,5 +53,7 @@ jobs:
         if: ${{ success() || failure() }}
         with:
           files: |
-            "*.pdf"
-            "**/*.pdf"
+            *.pdf
+            */*.pdf
+            */*/*.pdf
+            Chapters/*.pdf
