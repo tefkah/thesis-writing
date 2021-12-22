@@ -6,6 +6,9 @@
 #+title:I. Introduction
 #+FILETAGS: chapter structure introduction thesis
 
+#+latex_header: \usepackage[style=apa, backend=biber]{biblatex}
+#+latex_header_extra: \addbibresource{../bibliography/Academic.bib}
+
 * Introduction/Discretization
 
 As I see it, the chief problem of philosophy is to explicate how, if at all, our language relates to the world. This is not a new thought, but one I wish to explore in this thesis.
