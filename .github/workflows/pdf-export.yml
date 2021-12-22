@@ -45,9 +45,9 @@ jobs:
         with:
           # working_directory: Chapters
           root_file: |
+            ./Chapters/III. Anyons.tex
             ./Chapters/I. Introduction.tex
             ./Chapters/II. Idealizations.tex
-            ./Chapters/III. Anyons.tex
           glob_root_file: true
           args: -pdf -file-line-error -interaction=nonstopmode -f
 
