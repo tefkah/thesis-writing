@@ -31,13 +31,17 @@ jobs:
 
       - name: Compile org to tex
         run: |
-          emacs -Q --batch -nw ./causal_mechanical_explanation.org --eval "(progn \
-          (setq org-export-with-broken-links t) \
-          (require 'org) \
-          (require 'ox-latex) \
-          (seq-doseq (file (directory-files \"./Chapters\" t \".org\")) \
-          (org-open-file file) \
-          (org-latex-export-to-latex)))"
+          emacs -Q --batch -nw ./LICENSE.md --eval "(progn \
+             (package-initialize)
+             (require 'org) \
+             (require 'oc) \
+             (require 'oc-biblatex) \
+             (setq org-export-with-broken-links t) \
+             (setq org-cite-export-processors '((latex biblatex) (t basic)))
+             (setq org-global-bibliography-file '(\"./bibliography/Academic.bib\"))
+             (seq-doseq (file (directory-files \"./Chapters\" t \".org\")) \
+             (org-open-file file) \
+             (org-latex-export-to-latex)))"
 
       # Do latex
       - name: Github Action for LaTeX
@@ -46,6 +50,7 @@ jobs:
           # working_directory: Chapters
           pre_compile: set +e
           post_compile: set -e
+          working_directory: ./Chapters
           root_file: |
             ./Chapters/III. Anyons.tex
             ./Chapters/I. Introduction.tex
