@@ -44,6 +44,8 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           # working_directory: Chapters
+          pre_compile: set +e
+          post_compile: set -e
           root_file: |
             ./Chapters/III. Anyons.tex
             ./Chapters/I. Introduction.tex
