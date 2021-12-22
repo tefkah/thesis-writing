@@ -44,7 +44,15 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           # working_directory: Chapters
-          root_file: "./Chapters/*.tex"
+          root_file: |
+            "*.tex"
+            "I. Introduction.tex"
+            "II. Idealizations.tex"
+            "III. Anyons.tex"
+            "./Chapters/*.tex"
+            "./Chapters/I. Introduction.tex"
+            "./Chapters/II. Idealizations.tex"
+            "./Chapters/III. Anyons.tex"
           glob_root_file: true
           args: -pdf -file-line-error -interaction=nonstopmode -f
 

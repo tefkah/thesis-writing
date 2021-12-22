@@ -6,8 +6,8 @@
 #+title:II. Idealizations
 #+filetags: chapter idealizations proper thesis
 
-#+latex_header:\usepackage[style=apa, backend=biber]{biblatex}
-#+latex_header: \addbibresource{bib/Library.bib}
+#+latex_header: \usepackage[style=apa, backend=biber]{biblatex}
+#+latex_header_extra: \addbibresource{../bibliography/Academic.bib}
 
 # turned out larger than expected.
 

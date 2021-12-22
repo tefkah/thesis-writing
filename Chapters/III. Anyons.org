@@ -8,7 +8,7 @@
 
 
 #+latex_header: \usepackage[style=apa, backend=biber]{biblatex}
-#+latex_header_extra: \addbibresource{../../bib/Library.bib}
+#+latex_header_extra: \addbibresource{../bibliography/Academic.bib}
 #+latex_header_extra:  \DeclareUnicodeCharacter{2212}{-}
 
 * Intro
@@ -1023,12 +1023,12 @@ The upshot of this is that E= ( E 0 ) ⇒ J= ( 0 eνE/Φ0 ) Comparing to the def
 #+caption: Density of states in the IQHE with and without disorder
 #+attr_latex: scale=0.75
 #+label: fig:disorder
-[[./media/broadlandau.png]]
+[[../media/broadlandau.png]]
 
 #+caption: Extended to localized states
 #+attr_latex: scale=0.75
 #+label: fig:extended
-[[./media/breakdegen.png]]
+[[../media/breakdegen.png]]
 
 
 This might sound all well and good, but certainly there is a limit to the amount
@@ -1185,7 +1185,7 @@ I generate the elementary excitations of g by piercing the fluid at z, with an i
    Parallel transport is a bit strange. On a flat Euclidean plane, nothing happens.
    A cone is like a flat Euclidean plane glued together in a weird way, like this
 
- - [[./media/conefold.png]]
+ - [[../media/conefold.png]]
 
  Where side $s$ is glued to side $?$ in order to yield a smooth surface, with the exception of the problematic point $S$.
 
@@ -1193,7 +1193,7 @@ I generate the elementary excitations of g by piercing the fluid at z, with an i
 
  The vector is transport from the one side to the other, eventually reaching the edge $s$, from where it is suddenly teleported to $s$, ending up with a much different angle.
 
- - [[./media/transport.jpeg]]
+ - [[../media/transport.jpeg]]
  https://www.physicsforums.com/threads/parallel-transport-and-cone.1000209/
 
 
