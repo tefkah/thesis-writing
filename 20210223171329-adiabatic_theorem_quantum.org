@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       75068634-a939-42ae-815f-8c31d02cf5f5
+:mtime:    20210701200829
+:ctime:    20210223171329
+:END:
+#+title: adiabatic theorem (quantum)
+#+filetags: theorem stub
+
+If a system is in a certain non-[[id:cab6efcd-b205-45e7-8873-31026d149490][degeneracy]] energy [[id:16c28b52-8850-460a-87b2-1d1cdb1f6580][eigenstate]] and its "parameters" are varied "sufficiently slowly", then the system will cling to that energy eigenstate.
