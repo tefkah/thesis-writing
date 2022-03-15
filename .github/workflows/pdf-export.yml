@@ -29,11 +29,18 @@ jobs:
         with:
           version: snapshot
 
+      - name: Install newest version of Org for citations
+        run: |
+          git clone https://git.savannah.gnu.org/git/emacs/org-mode.git
+          cd org-mode/
+          make autoloads
+          cd ..
+
       - name: Compile org to tex
         run: |
           emacs -Q --batch -nw ./LICENSE.md --eval "(progn \
-             (package-initialize)
-             (require 'org) \
+             (add-to-list 'load-path \"./org-mode/\")
+             (require 'org)
              (require 'oc) \
              (require 'oc-biblatex) \
              (setq org-export-with-broken-links t) \
