@@ -6,10 +6,9 @@
 #+title: Cover
 #+filetags: topology definition
 
-* Cover
 
 A *cover* $C$ of a space $X$ is a [[id:f44e68f8-278a-47b5-b35d-53aed370a0da][Covering space]] together with a [[id:a873a69f-ba4e-4377-8e39-640861c856f4][Covering map]] such that (roughly) there is a map from each one or more points in $C$ to every point $X$.
 
-A cover has to be  [[id:9a6bd1ee-8403-43af-9a53-f68faf686e27][Surjective / Onto]], but is in general not injective, because covers usually have more than one point that map onto the same point in $X$.
+A cover has to be  [[id:9a6bd1ee-8403-43af-9a53-f68faf686e27][Surjective / Onto]], but is in general not[[id:c615103d-1e0a-4b27-917c-70d935e267a6][ Injective / one-to-one]] , because covers usually have more than one point that map onto the same point in $X$.
 
 The standard example is the spiral covering the circle: each point in the circle can be identified by infinitely many points in the spiral. You can imagine the spiral /unwinding/ from the circle.

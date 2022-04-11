@@ -6,8 +6,6 @@
 #+title: Underdescription = gauge = cover(ing space)
 #+filetags: physics mathematics gauge philosophy
 
-* Underdescription = gauge = cover(ing space)
-
 What philosophers call "underdescription", physicists call [[id:fab92aca-8392-49e1-8c66-922fc37d77a1][gauge freedom]], and mathematicians (roughly) call a [[id:32d4f910-5305-4e22-886f-5f823172aca3][Cover]]: they all describe a larger space which maps onto a smaller space which we actually care about.
 
 This is not completely fair, as underdescription is the most general, gauge is more specific and cover is super specific.

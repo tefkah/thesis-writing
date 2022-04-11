@@ -8,6 +8,6 @@
 
 * Interference
 
-When two waves with different periods or[[id:57213ae1-eff2-4442-b04b-84706076061f][phases]] are linearly combined (as you have in QM), the waves will *interfere* with one another and combine in a new, cool way.
+When two waves with different periods or [[id:57213ae1-eff2-4442-b04b-84706076061f][phases]] are linearly combined (as you have in QM), the waves will *interfere* with one another and combine in a new, cool way.
 
 [[./media/interferenc.png]]
