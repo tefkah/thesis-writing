@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fc0a61f3-2c05-4c30-ac48-08b84203010a
-:mtime:    20210701200531
+:mtime:    20220318215804 20210701200531
 :ctime:    20210701200531
 :END:
 #+title:I. Introduction
@@ -301,7 +301,7 @@ The argument is flawed by using weird conceptions of continuity, in particular b
 ** Boundaries, vagueness, "denotation"
 
 - [cite//b:@Varzi2015]
-- [cite//b:@Varzi2001]
+- [cite:@Varzi2001]
 - [cite//b:@Sorensen1997]
 - [cite//b:@WEBER2010]
 - [cite//b:@Bueno2012]
@@ -313,7 +313,7 @@ The argument is flawed by using weird conceptions of continuity, in particular b
 
 ** (Infinite) Idealizations (theoretical, not applied to a particular problem)
 
-- [cite//b:@Strevens2019]
+- [cite:@Strevens2019]
 - [cite//b:@Strevens2007]
 - [cite//b:@Strevens2008]
 - [cite//b:@nortonInfiniteIdealizations2014]
