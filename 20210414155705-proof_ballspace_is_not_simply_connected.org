@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       837f70f5-94cf-4257-87cf-d9394ba2e8ba
-:mtime:    20210701195255
-:ctime:    20210414155705
-:END:
-#+title: Proof ballspace is not simply connected
-#+filetags: topology anyons

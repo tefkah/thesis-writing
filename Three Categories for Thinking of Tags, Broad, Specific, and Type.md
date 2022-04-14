@@ -1,0 +1,36 @@
+---
+title: three categories for thinking of tags, broad, specific, and type
+tags:
+  - rules
+  - categories
+  - on_notes
+id: b92ab975-c5e1-44e4-b0dd-bf9a9d92d218
+mtime: 20210701200854
+ctime: 20210118211516
+---
+
+# three categories for thinking of tags, broad, specific, and type
+
+# Context
+
+While I agree that I shouldn't try to impose categories on things, see [[Excessive tagging is preferable over strict categorization|Tags over categories]] , I do like having stuff sort of ordered by category, as it structures my thinking, makes things more findeable, and kind of guides me into making a note.
+
+# Body
+
+To use these tags sort of usefully, let's limit the amount of tags to 3 at the very most. I propose 3 categories
+
+## Relevant domain
+
+Thesis, on<sub>thinking</sub>, self-improvement, communication, whatever. Don't be too specific with this but don't try to generalize it so your life only fits in four categories.
+The goal is NOT to cleanly divide up everything, and its fine if something doesnt fit, and its fine if you later start to use different tags
+
+## More specific domain
+
+Idealizations, deep work, vagueness, whatever. You can also just do two of these tags, that might actually be better, with one maybe being less specific. Point being: there are two content specific tags, at least one kind of specific, a useful rule of thumb being that it has a word which is included in the body text.
+
+## "vibe"
+
+By this I mean the character of the note. Good example is "question": some of my notes are question which I might not get into. Other notes are more definitions which I feel like are worth remembering. Others are prescriptive guidelines like this one. Others are more rants or trains of thought (which I should avoid). Others are summaries of a concept.
+These are useful I think, because it allows me to kind of think what I want this note to do. Just categorizing "thoughts" as the Zettelkasten people like to say, like in [[Information can be found wherever, only thoughts are useful to store|The value of collecting thoughts over information]], is somewhat helpful, but I a) find it hard to distinguish the two, and "thought" is a really vague category, which to me isn't separate, like, things I want to remember per se.
+
+Maybe I will change my mind about this once I read [@Ahrens2017] , but we'll cross that bridge when we get to it. Let the tagging commence!

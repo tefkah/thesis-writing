@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       8f75ad04-3266-4fbc-8159-9a5b7532ccb4
-:mtime:    20210701195255
-:ctime:    20210414155618
-:END:
-#+title: How to justify particles not being able to escape
-#+filetags: anyons

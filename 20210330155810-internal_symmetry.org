@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       aa5fdff9-863c-4288-88ac-217f69b70cc1
-:mtime:    20210701200803
-:ctime:    20210330155810
-:END:
-#+title: internal symmetry
-#+filetags: definition physics
-
-[[id:f94c39c4-0e5f-4166-8299-336c11a70973][An internal symmetry is not of a change in spatiotemporal parameters]]

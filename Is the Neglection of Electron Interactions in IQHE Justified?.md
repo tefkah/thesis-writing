@@ -1,0 +1,11 @@
+---
+title: is the neglection of electron interactions in IQHE justified?
+tags:
+  - open_question
+  - FQHE
+id: ac38176f-a082-4073-a084-f258b4db6efe
+mtime: 20210701195450
+ctime: 20210309161743
+---
+
+# is the neglection of electron interactions in IQHE justified?
