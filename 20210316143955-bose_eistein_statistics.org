@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       b10edb04-99eb-46cd-af12-4fde2a7aff6a
-:mtime:    20210701182510
-:ctime:    20210316143955
-:END:
-#+title: Bose-Eistein Statistics
-#+filetags: definition
-
-$\Psi_{21}=\Psi_{12}

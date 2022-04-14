@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       ec0921e8-d9b2-4a4b-a95a-b638970bc679
-:mtime:    20210701195151
-:ctime:    20210507154830
-:END:
-#+title: Flux
-#+filetags: :stub:definition:physics:dontunderstand:

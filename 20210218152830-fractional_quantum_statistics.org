@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       479d3088-01ee-4224-86e8-e7ada158f9fe
-:mtime:    20210701195535
-:ctime:    20210218152830
-:END:
-#+title: fractional quantum statistics
-#+filetags: FQHE definition
-

@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       e543bfb1-89c4-4bb8-916e-f46d5107ac6c
-:mtime:    20210701195315
-:ctime:    20210408184531
-:END:
-#+title: Fireship but for philosophy (of science)
-#+filetags: youtube fireship philosophy

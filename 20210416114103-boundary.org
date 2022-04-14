@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       d4e7ecd5-3f71-4e10-b967-b9ad290c27e5
-:mtime:    20210701200747
-:ctime:    20210416114103
-:END:
-#+title: Boundary
-#+filetags: "functional analysis" topology definition
-
-Given a [[id:e997346e-b3dd-48da-8597-93acac415fa1][Metric Space]] $(X,d)$, the *boundary* $\partial A$ of a subset $A \subseteq X$ is the set of all [[id:761df6b4-1623-47aa-a996-6e6d50ac0e8e][Boundary points]] for $A$.

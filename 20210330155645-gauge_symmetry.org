@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       c18acba0-88cd-48c2-bfa7-755bb15bee31
-:mtime:    20210701200804
-:ctime:    20210330155645
-:END:
-#+title: Gauge symmetry
-#+filetags: definition physics symmetry
-
-Any [[id:aa5fdff9-863c-4288-88ac-217f69b70cc1][internal]] and [[id:deba623a-e0d9-4db3-96e3-3cf22681ef43][Local symmetry]] is called a *gauge symmetry*, although sometimes physisists also use it to refer to any local symmetry, or one referring to a global or local change of scale or quantum mechanical phase.
