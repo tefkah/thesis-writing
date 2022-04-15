@@ -7,7 +7,7 @@ mtime: 20210701200759
 ctime: 20210330165632
 ---
 
-# Problems with the DN model
+# Problems with the DN Model
 
 ## Common problems with the [[The Deductive-Nomological Model of Explanation]]
 

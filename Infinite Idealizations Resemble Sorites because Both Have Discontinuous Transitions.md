@@ -10,7 +10,7 @@ mtime: 20210701200824
 ctime: 20210309112810
 ---
 
-# Infinite idealizations resemble Sorites because both have discontinuous transitions
+# Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions
 
 My thesis heavily centers around two topics: [[Infinite Idealizations]] and [[vagueness]]/[[Sorites Paradox]]. I want to basically find an answer to the latter, and to do so I am looking at the former, and this is the reason why. I am stuck writing [[FQHE Intro to show Ronnie and Guido]]
 

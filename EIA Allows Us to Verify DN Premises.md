@@ -8,7 +8,7 @@ mtime: 20210701200754
 ctime: 20210405144616
 ---
 
-# The EIA allows uh to verify DN premises
+# EIA Allows Us to Verify DN Premises
 
 [[The Deductive-Nomological Model of Explanation]] is like
 

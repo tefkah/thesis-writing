@@ -7,7 +7,7 @@ mtime: 20210701200901
 ctime: 20201224120820
 ---
 
-# The problem with "discrete concepts" in other fields
+# The Problem with 'Discrete Concepts' in Other Fields
 
 
 My main concern for my thesis is the way we talk about discrete entities while keeping in mind that things are actually continuous. However, I'm not the first person to think about this, but other do not put things into these words. I want to create a kind of overview for terms related to this, AND how they differ from what I see as the problem This is a sort of precursor for [[Relevant papers for discrete continuous transition|Relevant papers for discrete continuous transitio]]

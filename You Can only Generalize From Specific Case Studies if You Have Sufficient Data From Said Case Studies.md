@@ -10,7 +10,7 @@ mtime: 20210701200844
 ctime: 20210204161139
 ---
 
-# You can only generalize from specific case studies if you have sufficient data from said case studies
+# You Can only Generalize From Specific Case Studies if You Have Sufficient Data From Said Case Studies
 
 Talk with Ronnie and Guido about my thesis. I was unsure how and when to tackle the topic of explanation in my thesis, as I want to be able to say something about it but can only say something if I've done the work.
 

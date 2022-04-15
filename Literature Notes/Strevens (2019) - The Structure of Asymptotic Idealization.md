@@ -11,7 +11,7 @@ ctime: 20210929153908
 author: Strevens, M.
 ---
 
-# The structure of asymptotic idealization
+# Strevens (2019) - The Structure of Asymptotic Idealization
 
 ### “asymptotic explanations” (Batterman 2002). Such idealizations, he claims dramatically, though they rest on infinities that do not exist in the physical world, are essential for explaining certain physical behaviors; they do this by revealing emergent qualitative features of the situation that dominate the relevant actual physics and so “constrain and largely determine” what happens, or at least those aspects of what happens that are to be explained.
 

@@ -7,6 +7,6 @@ mtime: 20210701200800
 ctime: 20210330165429
 ---
 
-# Philosophers never agree with DN but always use it
+# Philosophers Never Agree with DN but Always Use It
 
  No one agrees with Hempel's [[The Deductive-Nomological Model of Explanation|deductive-nomological model of explanation]] , but everyone uses it anyway

@@ -12,7 +12,7 @@ author: Cohen, E., Larocque, H., Bouchard, Fr\'ed\'eric, Nejadsattari, F.,
   Gefen, Y., & Karimi, E.
 ---
 
-# Geometric phase from Aharonov-Bohm to Pancharatnam-Berry and beyond
+# Cohen et al. (2019) - Geometric Phase From Aharonov-Bohm to PancharatnamBerry and Beyond
 
 # Summary
 

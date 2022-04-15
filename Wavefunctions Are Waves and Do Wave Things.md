@@ -9,7 +9,7 @@ mtime: 20210701200729
 ctime: 20210511115926
 ---
 
-# Quantum mechanical wavefunctions are functions... of waves!
+# Wavefunctions Are Waves and Do Wave Things
 
 This is such a dumb thing that I'm almost embarrassed to admit it, but it's easy to forget that wavefunctions are, in fact, waves, and the terms which describe them are related if not identical to the terms describing waves.
 

@@ -1,6 +1,5 @@
 ---
 title: "Arovas1984: Fractional Statistics and the Quantum Hall Effect"
-roam_key: ""
 tags:
   - reference
   - anyons
@@ -10,12 +9,11 @@ id: c7854060-7add-4349-a045-6a63292bc255
 citekey: Arovas1984
 mtime: 20210701200404
 ctime: 20210701200404
-custom_id: Arovas1984
 doi: http://dx.doi.org/10.1103/PhysRevLett.53.722
 author: Arovas, D., Schrieffer, J. R., & Wilczek, F.
 ---
 
-# Fractional Statistics and the Quantum Hall Effect
+# Arovas (1984) - Fractional Statistics and the Quantum Hall Effect
 
 # Summary
 

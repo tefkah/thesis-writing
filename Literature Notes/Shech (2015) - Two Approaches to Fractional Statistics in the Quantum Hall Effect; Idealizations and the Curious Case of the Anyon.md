@@ -19,7 +19,7 @@ noter_document: ""
 noter_page: ""
 ---
 
-# Two Approaches to Fractional Statistics in the Quantum Hall Effect: Idealizations and the Curious Case of the Anyon
+# Shech (2015) - Two Approaches to Fractional Statistics in the Quantum Hall Effect; Idealizations and the Curious Case of the Anyon
 
 # Summary
 

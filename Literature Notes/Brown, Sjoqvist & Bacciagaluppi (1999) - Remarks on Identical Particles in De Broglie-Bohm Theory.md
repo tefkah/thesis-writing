@@ -15,7 +15,7 @@ noter_document: ""
 noter_page: ""
 ---
 
-# Remarks on identical particles in de Broglie-Bohm theory
+# Brown, Sjoqvist & Bacciagaluppi (1999) - Remarks on Identical Particles in De Broglie-Bohm Theory
 
 
 # Interesting
