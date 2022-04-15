@@ -8,7 +8,7 @@ mtime: 20210711223538
 ctime: 20210210135331
 ---
 
-# Condition of adequacy for approximate instantiation
+# Condition of Adequacy for Approximate Instantiation
 
 # Context
 

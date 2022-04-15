@@ -9,7 +9,7 @@ mtime: 20210701200825
 ctime: 20210308135758
 ---
 
-# FQHE Intro to show Ronnie and Guido
+# FQHE Intro to Show Ronnie and Guido
 
 Goal: write a ROUGH ass introduction to the fractional quantum hall effect, meaning write down why it is interesting to look at in the context of your general structure.
 

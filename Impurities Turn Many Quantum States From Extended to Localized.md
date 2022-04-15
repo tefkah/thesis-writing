@@ -7,7 +7,7 @@ mtime: 20210701200826
 ctime: 20210302160720
 ---
 
-# Impurities turn many quantum states from extended to localized
+# Impurities Turn Many Quantum States From Extended to Localized
 
 ![](./media/breakdegen.png)
 

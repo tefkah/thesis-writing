@@ -16,7 +16,7 @@ noter_document: ""
 noter_page: ""
 ---
 
-# The non-ideal theory of the AharonovBohm effect
+# Dougherty (2020) - The Non-Ideal Theory of the AharonovBohm Effect
 
 # Summary
 

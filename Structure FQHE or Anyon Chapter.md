@@ -9,7 +9,7 @@ mtime: 20210701200754
 ctime: 20210407150939
 ---
 
-# Structure FQHE/anyon chapter
+# Structure FQHE or Anyon Chapter
 
 <!-- #+startup: latexpreview -->
 

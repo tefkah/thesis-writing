@@ -7,7 +7,7 @@ mtime: 20210701200820
 ctime: 20210311101513
 ---
 
-# The value of the plateaux of the quantum hall effect are independent of the makeup of the sample
+# The Value of the QHE Plateaux Are Independent of the Sample
 
 This is a good argument for [[universality]]
 

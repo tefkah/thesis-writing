@@ -9,7 +9,7 @@ mtime: 20210701200826
 ctime: 20210302155828
 ---
 
-# physicist see real systems deviations from theory, instead of theoretical models as idealizations from real systems
+# Physicist See Real Systems Deviations From Theory, Instead of Theoretical Models as Idealizations From Real Systems
 
 # Context
 

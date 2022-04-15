@@ -12,6 +12,6 @@ url: http://arxiv.org/abs/1606.06687
 author: Tong, D.
 ---
 
-# Lectures on the Quantum Hall Effect
+# Tong (2016) - Lectures on the Quantum Hall Effect
 
 ## The Laughlin wavefunction for the FQHE might not have a lot of overlap, but we can treat it as being in the same [[universality]] class as the true ground state!

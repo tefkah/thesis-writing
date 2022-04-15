@@ -30,9 +30,17 @@ keywords: Anyons, Approximation, Easy road nominalism, Fractional quantum statis
 ---
 ## Outline
 ### 1: Intro
+Lot of debate about [[Easy road nominalism]], the claim that we can be nominalists about math without showing that we can do science without math ([[Hard road nominalism]]).
+
+Shech wants to explore whether [[Nominalist Scientific Realism]] can provide a good counter argument.
+
+A good argument against platonism should be weighed against the [[Enhanced Indispensability Argument (EIA)]].
 
 ### 2: Approximate instantiation
-Shech shows how Leng's [[Easy Road Nominalism]] depends on the "approximate instantiation" of mathematical models in the physical world
+Shech shows how Leng's [[Nominalist Scientific Realism]] depends on the "approximate instantiation" of mathematical models in the physical world.
+
+The problem: how to be realist about science (cool, based) while not being platonists (cringe)? 
+Leng says: physical structures can [[approximate instantiation|approximately instantiate]] mathematical structures.
 
 ### 3: What is approximate instantiation?
 Shech thinks Leng is too vague about what approximation means and proposes using [[Norton (2012) - Approximation and idealization Why the difference matters]] in order to make clear what she means.
@@ -41,10 +49,12 @@ He concludes that "a physical structure instantiates a mathematical model if it 
 ### 4. ESR does not always work
 Shech aims to show that Leng's approximate instantiation approach does not always work because there are situations in which we cannot say that some mathematical structure is approximately instantiated, e.g. in the case of anyons.
 
+- [ ] Go into slightly more depth summarizing Shech's argument here
+
 ### 5. Idealization is common and other objections
 Shech claims that these sorts of idealizations are common and counters three objections.
 
-#### If no AI occurs, then the theory is wrong
+#### "If no AI occurs, then the theory is wrong"
 Shech claims that philosophers of science should not claim that explanations put forth by physicists are wrong because they "conflict with ones favorite account of scientific explanation." If the scientists think it's a good explanation, it is.
 
 The claims he uses are
@@ -52,6 +62,15 @@ The claims he uses are
 2. You can't weasel your way out of needing *exact* 2d because you do need it and "dynamic 2d" is not 2d because of quantum fluctuations.
 3. Also you can't say "nooo you can't make appeal to nonconverging idealizations" because you shuoldnt speculate 
 
+#### "You are nitpicky and biased"
+To the claim that the example of anyons is an anomaly, Shech says "no it's not".
+Look phase transitions, etc.
+
+#### "This cannot even explain in the first place because explanations need to make a difference."
+Here Shech is basically arguing against @Baron2016, who claims that explaining can be captured in terms of "difference making."
+
+Shech responds with
+> if by “difference maker” Baron (2016) means something that can make a causal difference to the occurrence of a concrete physical phenomenon, then no abstract object (mathematical or idealized) whatsoever can ever satisfy the role of difference maker. However, if by “difference maker” we mean making a difference to the mathematical derivation which is an essential ingredient in the explanatory story told by our best sciences of a some concrete physical phenomenon, then both the number of H2O molecules and the dimensionality of a system are difference makers for phase transitions and fractional statistics, respectively.
 
 
 ----
