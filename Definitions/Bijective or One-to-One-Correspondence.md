@@ -9,7 +9,7 @@ mtime: 20211211105829 20210701200735
 ctime: 20210505161103
 ---
 
-# Bijective / One-to-one-correspondence
+# Bijective or One-to-One-Correspondence
 
 A function $f: A \rightarrow B$ is called **bijective** iff it is both [[Injective  or  one-to-one|Injective / one-to-one]] and [[Surjective  or  Onto|Surjective / Onto]].
 

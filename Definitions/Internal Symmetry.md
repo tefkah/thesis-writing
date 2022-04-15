@@ -8,6 +8,6 @@ mtime: 20210701200803
 ctime: 20210330155810
 ---
 
-# Internal symmetry
+# Internal Symmetry
 
 [[An internal symmetry is not of a change in spatiotemporal parameters]]

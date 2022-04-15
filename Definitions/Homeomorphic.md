@@ -14,6 +14,6 @@ ctime: 20210611132449
 
 More formally, two topological spaces $X$ and $Y$ are **homeomorphic** iff there exists a **homeomorphism** $f: X\rightarrow Y$ such that
 
-1) $f$ is [[Bijective  or  One-to-one-correspondence|Bijective / One-to-one-correspondence]]
+1) $f$ is [[Bijective or One-to-One-Correspondence|Bijective / One-to-one-correspondence]]
 2) $f$ is [[Continuity (function)|continuous]]
 3) The [[Inverse function]] $f^{-1}$ exists and is continuous.

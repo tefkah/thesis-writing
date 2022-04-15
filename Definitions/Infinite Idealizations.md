@@ -7,7 +7,7 @@ mtime: 20210701200902
 ctime: 20201219152020
 ---
 
-# infinite idealizations
+# Infinite Idealizations
 
 Infinite idealizations are idealizations where some property of the idealization is set to infinity (or zero, in which case they are called infinitesimal idealizations). The most central case is the so called [[thermodynamic limit]], where, in order to predict certain thermodynamic behavior from statistical mechanics, the number of particles of the relevant system goes to infinity while the volume of every particle goes to zero, keeping the density constant.
 
