@@ -10,7 +10,7 @@ mtime: 20210706172502
 ctime: 20210706155520
 ---
 
-# Adiabatic theorem
+# Adiabatic Theorem (Quantum)
 
 # Statement
 

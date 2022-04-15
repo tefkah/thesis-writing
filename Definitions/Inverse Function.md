@@ -11,6 +11,6 @@ ctime: 20210505161914
 
 # Inverse function
 
-If a function $f: A \rightarrow B$ is [[Bijective  or  One-to-one-correspondence|Bijective / One-to-one-correspondence]], there exists a function $f^{-1} : B \rightarrow A$ called the **inverse** of $f$, defined by letting $f^{-1}(b)$ be the unique element $a \in A$ that maps onto $b$.
+If a function $f: A \rightarrow B$ is [[Bijective or One-to-One-Correspondence|Bijective / One-to-one-correspondence]], there exists a function $f^{-1} : B \rightarrow A$ called the **inverse** of $f$, defined by letting $f^{-1}(b)$ be the unique element $a \in A$ that maps onto $b$.
 
 If $f$ is bijective, $f^{-1}$ is also bijective.

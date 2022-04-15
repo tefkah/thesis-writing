@@ -9,7 +9,7 @@ mtime: 20210701195453
 ctime: 20210309112947
 ---
 
-# Sorites paradox
+# Sorites Paradox
 
 The Sorites, Greek for "heap", paradox is a paradox showing the problem of delineating [[Vagueness|vague]] terms.
 

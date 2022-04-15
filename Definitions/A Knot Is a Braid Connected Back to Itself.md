@@ -9,6 +9,6 @@ mtime: 20210701195331
 ctime: 20210403122310
 ---
 
-# A knot is a braid connected back to itself
+# A Knot Is a Braid Connected Back to Itself
 
 A knot is a braid connected back to itself, the strand on the left at the top connected to the strand at the bottom left.

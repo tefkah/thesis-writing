@@ -8,7 +8,7 @@ mtime: 20211022125449 20210701200834
 ctime: 20210219125447
 ---
 
-# the Integer quantum hall effect (IQHE)
+# The Integer Quantum Hall Effect (IQHE)
 
 The Integer Quantum Hall effect (IQHE) is the observation of plateaux and valleys in respectively the transversal and longitudinal resistances associated with the Hall effect.
 

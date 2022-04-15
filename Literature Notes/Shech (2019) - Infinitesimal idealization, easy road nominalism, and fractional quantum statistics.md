@@ -13,7 +13,7 @@ ISSN: 15730964
 keywords: Anyons, Approximation, Easy road nominalism, Fractional quantum statistics, Idealization, Indispensability argument, Mathematical explanation, anyons, explanation, idealization
 ---
 
-# Infinitesimal idealization, easy road nominalism, and fractional quantum statistics
+# Shech (2019) - Infinitesimal idealization, easy road nominalism, and fractional quantum statistics
 
 > [!abstract]
 > It has been recently debated whether there exists a so-called “easy road” to nominalism. In this essay, I attempt to fill a lacuna in the debate by making a connection with the literature on infinite and infinitesimal idealization in science through an example from mathematical physics that has been largely ignored by philosophers. Specifically, by appealing to John Norton’s distinction between idealization and approximation, I argue that the phenomena of fractional quantum statistics bears negatively on Mary Leng’s proposed path to easy road nominalism, thereby partially defending Mark Colyvan’s claim that there is no easy road to nominalism.
@@ -26,6 +26,32 @@ keywords: Anyons, Approximation, Easy road nominalism, Fractional quantum statis
 ## Tags and Collections
 - **Keywords**: Anyons, Approximation, Easy road nominalism, Fractional quantum statistics, Idealization, Indispensability argument, Mathematical explanation, anyons, explanation, idealization
 - **Collections**: Academic, Academic, Read
+
+---
+## Outline
+### 1: Intro
+
+### 2: Approximate instantiation
+Shech shows how Leng's [[Easy Road Nominalism]] depends on the "approximate instantiation" of mathematical models in the physical world
+
+### 3: What is approximate instantiation?
+Shech thinks Leng is too vague about what approximation means and proposes using [[Norton (2012) - Approximation and idealization Why the difference matters]] in order to make clear what she means.
+He concludes that "a physical structure instantiates a mathematical model if it approximates it in the Norton sense."
+
+### 4. ESR does not always work
+Shech aims to show that Leng's approximate instantiation approach does not always work because there are situations in which we cannot say that some mathematical structure is approximately instantiated, e.g. in the case of anyons.
+
+### 5. Idealization is common and other objections
+Shech claims that these sorts of idealizations are common and counters three objections.
+
+#### If no AI occurs, then the theory is wrong
+Shech claims that philosophers of science should not claim that explanations put forth by physicists are wrong because they "conflict with ones favorite account of scientific explanation." If the scientists think it's a good explanation, it is.
+
+The claims he uses are
+1. Philosophers of science should not overrule scientists' accounts of explanation (i disagree)
+2. You can't weasel your way out of needing *exact* 2d because you do need it and "dynamic 2d" is not 2d because of quantum fluctuations.
+3. Also you can't say "nooo you can't make appeal to nonconverging idealizations" because you shuoldnt speculate 
+
 
 
 ----
@@ -44,6 +70,11 @@ Annotations(4/15/2022, 4:08:32 PM)
 ## 1 Introduction[ ](zotero://open-pdf/library/items/VJ6ZIURN?page=1)
 
 > *“The overarching goal of this essay is to draw attention to some interesting connections between the literature on infinite and infinitesimal idealizations in science and issues in philosophy of mathematics such as mathematical indispensability and explanation”* [(Shech, 2019, p. 1963)](zotero://open-pdf/library/items/VJ6ZIURN?page=1)
+> *“I first introduce Leng’s (2005, 2010, 2012) approach to easy road nominalism in Sect. 2 and show how it depends on the idea that a physical system can “approximately instantiate” mathematical structure where a mathematical explanation is at hand.”* [(Shech, 2019, p. 1965)](zotero://open-pdf/library/items/VJ6ZIURN?page=3)
+> *“Since Leng (2005, 2010, 2012) does not does explicate what is meant by “approximate instantiation,” I critically consider a possible way of expounding on her account via Norton’s (2012) well-received distinction between approximations and idealizations in Sect. 3: physical structure can approximately instantiate mathematical structure if the latter can be characterized as an approximation (in Norton’s sense) of the former.”* [(Shech, 2019, p. 1965)](zotero://open-pdf/library/items/VJ6ZIURN?page=3)
+> *“I present the case study of the anyons and fractional statistics along with the standard explanatory story found in the physics literature in Sect. 4 as an example of an indispensable mathematical explanation wherein there is no sense in”* [(Shech, 2019, p. 1965)](zotero://open-pdf/library/items/VJ6ZIURN?page=3) ... *“which the mathematical structure appealed to in order to explain fractional statistics is “approximately instantiated” in a physical system”* [(Shech, 2019, p. 1966)](zotero://open-pdf/library/items/VJ6ZIURN?page=4)
+> *“Section 5 explains that cases such as fractional statistics are a common feature of our best physical theories and entertains three nominalist objections. My hope is that it will be clear from my discussion of fractional statistics and essential, infinite/infinitesimal idealizations that the study of such examples may greatly inform the debate on easy road nominalism and, more generally, the cogency of mathematical explanations.”* [(Shech, 2019, p. 1966)](zotero://open-pdf/library/items/VJ6ZIURN?page=4)
+> *“I conclude the paper with a short summary in Sect. 6 (and have added an “Appendix” at the end of the paper with technical details).”* [(Shech, 2019, p. 1966)](zotero://open-pdf/library/items/VJ6ZIURN?page=4)
 
 
 ## 2 Leng’s easy road nominalism[ ](zotero://open-pdf/library/items/VJ6ZIURN?page=4)
