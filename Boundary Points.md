@@ -11,7 +11,7 @@ ctime: 20210416112750
 ---
 
 # Boundary points
-
+$$\int_{a}^{b}\sum\limits_{n=a}^{b}x^{n}dx$$
 Given a [[Metric Space]] $(X,d)$ and a subset $A \subseteq X$, we say that a point $x \in X$ is called a **boundary point for $A$** if
 
 If all [[Open ball]]s around $x$ contain points from $A$ and its [[Complement]]

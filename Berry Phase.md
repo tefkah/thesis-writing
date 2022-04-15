@@ -9,9 +9,6 @@ ctime: 20210223170728
 ---
 
 # Berry phase
-
-# Body
-
 The Berry phase is an extra phase $e^{i\theta}$ a system picks up when kept in a single state (usually the ground state) and varying the parameters slowly away and then back to their starting position.
 To guarantee that the system stays in the ground state, we must vary the parameters "sufficiently slowly", as per the [[adiabatic theorem (quantum)]].
 
