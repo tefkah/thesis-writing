@@ -7,8 +7,6 @@ mtime: 20210701200800
 ctime: 20210330164324
 ---
 
-# It makes more sense to think of explanation as graded rather than binary
-
 # It is more useful to think of explanation as a graded concept rather than an all or nothing one.
 
 Scientific explanation is usually thought of as a definite predicate, either something is a (good) scientific explanation, or it isn't.
@@ -18,6 +16,6 @@ Rather than a certain phenomenon having an explanation or not, it seems plausibl
 
 While this account seems to pressupose an anti-realist account of explanation, in which we give up the ontological status of these explanations and instead see [[Explanation qua understanding]], I do not think this is necessarily the case.
 
-Say we take explanation as [[The deductive-nomological model of explanation]], as everyone does.
+Say we take explanation as [[The Deductive-Nomological Model of Explanation]], as everyone does.
 
 Then say we could explain certain phenomena using different laws of nature (I have no example). Then we could not determine which explanation was correct unless we dediced which one is better than the other. It makes more sense to think of levels of explanation, since it's still a sound argument.

@@ -4,10 +4,6 @@ tags:
   - chapter
   - anyons
   - FQHE
-latex_header: \usepackage{braket}
-transclude: t
-include: '"./20210414134239-if_particles_cannot_be_closer_than_the_thickness_of_the_strip_the_configuration_space_is_approximately_2d.org"
-  :minlevel 4'
 id: 40453cb7-ee57-42b9-8180-cb973ce219c3
 mtime: 20210701200754
 ctime: 20210407150939
@@ -90,7 +86,7 @@ Finally, I wish to address the quantum hall effect itself _first_, before diving
 
 ### Classical Hall effect
 
-[[The classical Hall Effect is just an application of the Lorentz Force|classical hall effect]]
+[[The Classical Hall Effect Is Just an Application of the Lorentz Force|classical hall effect]]
 
 ### Preliminaries
 
@@ -110,20 +106,48 @@ The (literal) textbook approach we will follow here is describing the classical 
 
 First, let us recap the Lagrangian of a particle in a magnetic field.$L = T - V$$T=1/2 m\dot{x}^2$$V = e \dot{x}\cdot \textbf{A}$
 
+$$
+L=\frac{1}{2}m \dot{\textbf{x}}^{2}-e \dot{\textbf{x}}\cdot \textbf{A}
+$$
+
 From here we can derive the Hamiltonian$H= \dot{\textbf{x}} \cdot \textbf{P} -L = \dot{\textbf{x}} \frac{\partial L}{\partial \dot{\textbf{x}}} - L = .....$
+
+$$
+H = \frac{1}{2m} (\textbf{p} + e \textbf{A})^{2}
+$$
 
 Using the Hamiltonian it is easy to derive the Poisson Bracket structure.
 Little sidenote about why that is important.
+
+$$
+\{F(x,y),G(x,y)\}=\frac{\partial F}{\partial x}\frac{\partial G}{\partial y} - \frac{\partial F}{\partial y}\frac{\partial G}{\partial x}
+$$
+
+$$
+\{x_i, p_j\}=\delta_{ij} \text{   with    } \{x_i,x_j\}=\{p_i,p_j\}=0
+$$
 
 Coool
 
 Now we can move on to the quantum side, which means we can take over $\ref{eq:magham}$ and substitute the functions for quantum operators.
 
+$$
+H=\frac{1}{2m}(\hat{\textbf{p}} + e \hat{\textbf{A}} )^{2}
+$$
+
 We take Gauge $\nabla \times \hat{\textbf{A}}= B \hat{z}$
 
 And get canonical commutation relations
 
+$$
+[x_i, p_j]=i\hbar\delta_{ij} \text{   with   } [x_i, x_j]=[p_i,p_j]=0
+$$
+
 Then we do raising lowering, find the hamiltonian and then
+
+$$
+E_n=\hbar\omega_B \Big(n+\frac{1}{2} )\quad n \in \mathbb{N}
+$$
 
 Astute readers might have noticed that, suprisingly, the spin of the particles has not been mentioned once so far! This is because we can relatively safely neglect it as a good approximation, as the effect of spin on the energy states smoothly becomes less and less prominent the higher the strength of the magnetic field is.
 
@@ -169,9 +193,9 @@ For those reasons we will be skipping a thorough examination of the Integer Quan
 
 ## Adding electron interaction
 
-[[IQHE has no electron interactions, FQHE does]]
+[[IQHE Has No Electron Interactions, FQHE Does]]
 
-[[reasoning of FQHE is less rigorous than IQHE]]
+[[Reasoning of FQHE Is Less Rigorous than IQHE]]
 
 ## The Ugly: Idealizations, Idealizations Everywhere
 
@@ -211,12 +235,20 @@ If we use [[Symmetry gauge|symmetry gauge]] we get that$\hat{\textbf{A}}=-\frac{
 
 Using these assumptions, if we _insist_ that we are in the lowest Landau Level (LLL), we are able to write down the WFs for _any_ 2 particle wavefunction, regardless of the potential
 
+$$
+\Psi(z_1, z_2)= (z_1-z_2)^m e^{-\sum_{i=1}^N |z_i|^2/4l_B^2}
+$$
+
 where $m$ is the proportion of the denominator of the filling factor.
 Isn't that neat.
 
 From here Laughlin guessed his WF from two general points of reference:
 
 [[Every QH WF must have the form f-z(z1...zn)exp(-sum|zi|2)|Every QH WF must have the form fz(z1...zn)exp(-sum|zi|2)]]
+
+$$
+\psi(z_i...z_n)=f(z_i...z_n)e^{-\sum_{i=1}^n\abs{z_i}^2/4l_B^2}
+$$
 
 with $f(z_i...z_n)$ an analytic function of $z_i$ s, as we do not want our wavefunctions to be nonanalytic.
 
@@ -225,6 +257,10 @@ with $f(z_i...z_n)$ an analytic function of $z_i$ s, as we do not want our wavef
 The state is describing fermions, so it better be anti-symmetric.
 
 Using this, he wrote down what is now known as the [[The Laughlin Wavefunction]]
+
+$$
+\psi(z_i)=\prod_{i<q}(z_i-z_j)^m e^{\sum_{i=1}^n \abs{z_i}/4l_B^2}
+$$
 
 Cool.
 
@@ -235,6 +271,10 @@ The LWF is not even an actual ground state of the FQH Hamiltonian, instead from 
 Using these assumptions/idealizations however, we can make it plausible that FQ statistics are happening, I don't think we will use much more.
 
 From this we arrive at...
+
+$$
+\psi(z_i)=\prod_{i<q}(z_i-z_j)^m e^{\sum_{i=1}^n \abs{z_i}/4l_B^2}
+$$
 
 We see that it fulfills both requirements, but is that enough?
 
@@ -254,7 +294,15 @@ At last we are close to discussing anyons again. The key insight that leads to t
 
 To see this, let us return to the hole wavefunction
 
+$$
+\Psi_{hole}^\eta(z)=\prod_{i=1}(z_i-\eta)\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
+$$
+
 where, once again, $m$ is the inverse of the [[The filling factor is the ratio of filled or empty quantum states|filling factor]]  $\nu=1/m$ and $\eta$ the position of the hole. We can generalize this a wavefunction with $M$ holes, as
+
+$$
+\Psi_{M-holes}^\eta(z)=\prod_{j=1}^M\prod_{i=1}^N(z_i-\eta_j)^m\prod_{k<l}(z_k-z_l)^m e^{-\sum_{i=1}^n \abs{z_i}^2/{4l_B^2}}
+$$
 
 (note the added exponent after the $z_i-\eta_i$ term)
 

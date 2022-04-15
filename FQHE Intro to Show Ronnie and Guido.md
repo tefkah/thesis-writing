@@ -25,7 +25,7 @@ The FQHE provides an interesting case study, as idealizations are used a lot in 
 
 But, I am getting ahead of myself. The FQHE is not easily summarized in a short paragraph, and the rest of this chapter will be dedicated to providing a rudimentary understanding of the effect and its "causes".
 
-## The [[The classical Hall Effect is just an application of the Lorentz Force|classical hall effect]]
+## The [[The Classical Hall Effect Is Just an Application of the Lorentz Force|classical hall effect]]
 
 Before we start to describe the Fractional Quantum Hall Effect, we should first understand Quantum Hall effects more generally. To do _that_, a short description of the classical Hall Effect is in order.
 

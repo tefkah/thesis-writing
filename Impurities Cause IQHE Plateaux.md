@@ -10,15 +10,11 @@ ctime: 20210302154345
 
 # impurities cause IQHE plateaux
 
-# Context
-
 In [[the Integer quantum hall effect (IQHE)]], plateaux in the transversal resistance are observed at integer multiples of the [[The filling factor is the ratio of filled or empty quantum states|filling factor]], the number of particles in the Landau level over the total space in the [[Landau levels]]. While [[edge modes determine the values of the IQHE plateaux]], they do not explain why these plateaux persist over a range of magnetic fields.
-
-# Body
 
 The short explanation goes as follows:
 
-[[impurities break the degeneracy of the landau levels]]
+[[Impurities Break the Degeneracy of the Landau Levels]]
 
 [[impurities turn many quantum states from extended to localized]]
 

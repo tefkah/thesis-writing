@@ -17,6 +17,6 @@ This is done like....
 
 From the plasma analogy, we can intuit that
 
-[[The FQH 'Plasma' Is Liquid for m<70 and Solid Above|The FQH "Plasma" Is Liquid for m<70 and Solid Above]]
+[[The FQH 'Plasma' Is Liquid for M<70 and Solid Above|The FQH "Plasma" Is Liquid for m<70 and Solid Above]]
 
 [[Screening Allows us to Calculate the Berry Connection]]

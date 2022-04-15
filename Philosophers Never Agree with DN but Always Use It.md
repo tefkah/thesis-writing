@@ -9,4 +9,4 @@ ctime: 20210330165429
 
 # Philosophers never agree with DN but always use it
 
-# No one agrees with Hempel's [[The deductive-nomological model of explanation|deductive-nomological model of explanation]] , but everyone uses it anyway
+ No one agrees with Hempel's [[The Deductive-Nomological Model of Explanation|deductive-nomological model of explanation]] , but everyone uses it anyway

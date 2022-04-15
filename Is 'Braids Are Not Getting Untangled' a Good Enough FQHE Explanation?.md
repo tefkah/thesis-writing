@@ -10,6 +10,6 @@ ctime: 20210312130942
 
 # Is "Braids are not Getting Untangled" a Good Enough FQHE Explanation?
 
-# Is the fact that anyonic worldlines _do_ not disentangle, as opposed to "not being able to disentangle" (in 2D) good enough to explain anyons?
+Is the fact that anyonic worldlines _do_ not disentangle, as opposed to "not being able to disentangle" (in 2D) good enough to explain anyons?
 
 [@Shech2019] claims that

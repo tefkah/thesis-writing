@@ -77,13 +77,29 @@ roam Explanations are not as rigid as you think
 
 $L = T - V$$T=1/2 m\dot{x}^2$$V = e \dot{x}\cdot \textbf{A}$
 
+$$
+L=\frac{1}{2}m \dot{\textbf{x}}^{2}-e \dot{\textbf{x}}\cdot \textbf{A}
+$$
+
 ##### From here we can derive the Hamiltonian
 
 $H= \dot{\textbf{x}} \cdot \textbf{P} -L = \dot{\textbf{x}} \frac{\partial L}{\partial \dot{\textbf{x}}} - L = .....$
 
+$$
+H = \frac{1}{2m} (\textbf{p} + e \textbf{A})^{2}
+$$
+
 ##### Using the Hamiltonian it is easy to derive the Poisson Bracket structure.
 
 Little sidenote about why that is important.
+
+$$
+\{F(x,y),G(x,y)\}=\frac{\partial F}{\partial x}\frac{\partial G}{\partial y} - \frac{\partial F}{\partial y}\frac{\partial G}{\partial x}
+$$
+
+$$
+\{x_i, p_j\}=\delta_{ij} \text{   with    } \{x_i,x_j\}=\{p_i,p_j\}=0
+$$
 
 Coool
 
@@ -91,11 +107,23 @@ Coool
 
 Operators are functions which spit out other functions, rather than a scalar or vector.
 
+$$
+H=\frac{1}{2m}(\hat{\textbf{p}} + e \hat{\textbf{A}} )^{2}
+$$
+
 We take Gauge $\nabla \times \hat{\textbf{A}}= B \hat{z}$
 
 And get canonical commutation relations
 
+$$
+[x_i, p_j]=i\hbar\delta_{ij} \text{   with   } [x_i, x_j]=[p_i,p_j]=0
+$$
+
 Then we do raising lowering, find the hamiltonian and then
+
+$$
+E_n=\hbar\omega_B \Big(n+\frac{1}{2} )\quad n \in \mathbb{N}
+$$
 
 Tada
 
@@ -105,7 +133,7 @@ Tada
 
 ##### An additionally seemingly important detail is the fact that the Hall System is taken to be in 2D from the start.
 
-[[The dimensions of the Hall system is set to 2 from the start]]
+[[The Dimensions of the Hall System Is Set to 2 From the Start]]
 
 ### e. The FQHE is set up in more detail, with the goal of making clear which idealizing assumptions are made, such as the LWF, the plasma analogy and why the toy model is needed. It is again emphasized that the FQHE is explained more in a "making plausible" way rather than a "derivation way", and seeds are planted as to what this will imply for the kind of explanation (not DN) under study
 
@@ -153,6 +181,10 @@ The Laughlin WF only applies to the filling fractions of $\nu=\frac{1}{m}$
 If we use [[Symmetry gauge|symmetry gauge]] we get that$\hat{\textbf{A}}=-\frac{1}{2} \hat{\textbf{r}}\times \textbf{B} = -\frac{yB}{2}\hat{x}+\frac{xB}{2}\hat{y}$
 
 ###### Using these assumptions, if we _insist_ that we are in the lowest Landau Level (LLL), we are able to write down the WFs for _any_ 2 particle wavefunction, regardless of the potential
+
+$$
+\Psi(z_1, z_2)= (z_1-z_2)^m e^{-\sum_{i=1}^N |z_i|^2/4l_B^2}
+$$
 
 where $m$ is the proportion of the denominator of the filling factor.
 Isn't that neat.

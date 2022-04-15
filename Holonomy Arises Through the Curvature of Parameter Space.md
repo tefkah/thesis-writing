@@ -10,6 +10,6 @@ ctime: 20210511111209
 
 # Holonomy arises through the curvature of parameter space
 
-# Just like an angle difference arises when you [[Parallel transport]]  a vector through a curved physical space, a /[[Phase (quantum)]] / difference ([[Holonomy]] ) arises when you [[adiabatic theorem (quantum)|adiabatically]] transport a quantum state through parameter space
+Just like an angle difference arises when you [[Parallel transport]]  a vector through a curved physical space, a /[[Phase (quantum)]] / difference ([[Holonomy]] ) arises when you [[adiabatic theorem (quantum)|adiabatically]] transport a quantum state through parameter space
 
 This means that phase/holonomy is a measure of how "curved" parameter space is.

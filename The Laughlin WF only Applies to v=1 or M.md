@@ -7,8 +7,6 @@ mtime: 20210701200818
 ctime: 20210311182119
 ---
 
-# the Laughlin WF only applies to v=1/m
-
 # The Laughlin Wavefunction only applies to FQH states with $\nu=1/m$
 
 [[The Laughlin Wavefunction]] is only applicable to states with a filling factor $\nu=\frac{1}{m}\quad m\in\mathbb{N}$.

@@ -9,6 +9,4 @@ ctime: 20210223142953
 
 # disordered systems exhibit IQHE MORE strongly
 
-# Body
-
 Contrary to what one might expect, the IQHE becomes _more_ promimenent the higher the disorder in the Hall system gets, up to a certain point. Disorder here typically takes the form of impurities in the sample of the material used in the experiment. For extremely pure systems the effect even vanishes completely.

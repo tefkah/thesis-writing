@@ -30,3 +30,7 @@ Because of the exclusion of the diagonal elements $\Delta$, space is no longer s
 ## Step 4: Show what the fundamental group is of $\tilde{Q}$ in 2D and 3D
 
 The [[fundamental group]] of a configuration space $Q$ is denoted by $\pi_1(Q)$
+
+$$
+\pi_1(\tilde{Q}_{d=2})=\frac{\mathbb{R}^d-\Delta}{S_N}
+$$

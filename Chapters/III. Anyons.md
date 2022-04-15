@@ -106,6 +106,10 @@ Our first task is to construct the configuration space for the exchange of $N$
 identical particles in $3D$, after which we will examine its topological properties. The most general configuration space we can construct is one for
 &#x20;$N$ particles living in $d$ dimensions, which would be
 
+$$
+\mathbb{R}^d_1 \times \mathbb{R}^d_2 ... \times \mathbb{R}^d_N
+$$
+
 We shall for now focus on just two particles in $\mathbb{R}^3$, which would be the configuration space occupied by two $3$-dimensional vectors $(r_1, r_2)$ representing two particles$\mathbb{R}^3\times \mathbb{R}^3$
 As we are dealing with identical particles, however, we need to add some extra structure, which results in our configuration space being much smaller than the above.
 
@@ -128,7 +132,15 @@ Returning back to the configuration space, it appears we have no other choice th
 representation, $\Delta$ consists of the diagonal of points$\mathbf{r_1}=\mathbf{r_2}$, such as $(\mathbf{0}, \mathbf{0})$, $(\mathbf{1},
 \mathbf{1})$ etc. In our current CM/distance representation, in which we only focus on the distance part $\frac{\mathbb{R}^3}{S_2}$, this amount to only excising single point at the origin, so $\Delta=\{\mathbf{0}\}$. Now we are finally able to write down the full configuration space $Q$
 
+$$
+Q=\mathbb{R}^d \times \frac{\mathbb{R}^d -\Delta}{S_2}
+$$
+
 of which we will only be studying the latter half $Q'$, e.g.
+
+$$
+Q'=\frac{\mathbb{R}^d - \{\mathbf{0}\}}{S_2}
+$$
 
 Finally we are able to make some clever remarks about the structure of the configuration space, starting (and ultimately ending) with its
 &#x20;    _connectedness_. As mentioned previously, as space is called _simply connected_
@@ -182,7 +194,15 @@ Therefore there are two different kinds of paths. Now we are truly able to appre
 
 Let us now turn to the actually interesting case of a $2D$ system and how it gives rise to different homotopy equivalent paths. We start off with our CM/distance representation, but this time in 2D, leading to our full configuration space
 
+$$
+Q_2=\mathbb{R}^2\times \frac{\mathbb{R}^2 -\Delta}{S_2}
+$$
+
 and will be focusing on the latter half,
+
+$$
+Q_2'=\frac{\mathbb{R}^2-\Delta}{S_2}
+$$
 
 where once again, $\Delta$ is the set of points where $(\mathbf{r_1},\mathbf{r_2})$ intersect, i.e. the set $\{\mathbf{0}\}$, and $\frac{}{S_2}$ indicates the equivocation off all configurations symmetric under permutation invariance, i.e. $(\mathbf{r_1, r_2})=(\mathbf{r_2,r_1}) \quad \forall \mathbf{r_1,r_2}$.
 
@@ -211,7 +231,15 @@ resulting in a "3"-exchange, which is the same as a 1-exchange and in our group.
 
 We already obtained the fundamental groups, which roughly look like
 
+$$
+\pi_1(Q_3')=\{X_0, X_1; \cdot\}
+$$
+
 for the $3D$ case with $X_1$ being the single exchange, $X_0$ doing nothing (and the double exchange), and $\cdot$ being path-concatenation and
+
+$$
+\pi_1(Q_2')=\{X_0, X_1, X_{-1}, X_2, X_{-2}, ...; \cdot \}
+$$
 
 for the $2D$ case with $X_0$ being doing nothing, $X_i$ a clockwise $i$-exchange, and $X_{-i}$ a counterclockwise $i$-exchange.
 
@@ -219,6 +247,11 @@ Fantastic, so we are done, right? Well, yes, sort of, however the point of writi
 the groups we found are those for $2$ particles, and being able to easily generalize these groups to any $N$ number of particles. Rigorously deriving these fundamental group of a space is not trivial, the standard references for the fundamental spaces being \[[@Fox1962]] and \[cite//b:@Fadell1962]. Insead of doing this rigorously like mathematicans, we will go about this as physicists: look at the result and then convince ourselves they make sense.
 
 This relating is done through finding an isomorphism between these groups. It turns out that, for $N$ particles, the fundamental groups are
+
+$$
+\pi_1(Q_3')&=S_N \\
+    \pi_1(Q_2')&=B_N
+$$
 
 ##### TODO Symmetry group
 
@@ -335,7 +368,15 @@ let's just calculate the Berry phase right? Well, sure, but we cannot just calcu
 
 Turns out we have one very promising candidate: the fractional quantum hall effect. To not waste time, let's calculate it:
 
+$$
+e^{i\theta}=\exp{-i\oint_C \mathcal{A}_i(\lambda) d\lambda^i}
+$$
+
 where $C$ is the path traversed by the particle through some parameter space, $\lambda^i$ the parameter being varied and $\mathcal{A}_i$ the _[[Berry Connection]]_ for a specific quantum state $\ket{n(R)}$, defined as
+
+$$
+\mathcal{A}=i\bra{n(R)}\nabla_R\ket{n(R)}
+$$
 
 - [ ] clean up lambdas and Rs
 
@@ -427,7 +468,19 @@ Here we already start to sneak in our idealizations: we will treat this system a
 
 The simplest Hamiltonian for a system of particles moving in a magnetic field is
 
+$$
+H=\frac{1}{2} m(\hat{\mathbf{p}} +e \hat{\mathbf{A}} )^2
+$$
+
 The  magnetic field is perpendicular to the $x,y$-plane, so we define the vector potential $\hat{\mathbf{A}}$ using our knowledge that the magnetic field is perpendicular to the plane $\nabla\times\hat{\mathbf{A}}=B \hat{z}$, to be
+
+$$
+\hat{\mathbf{A}}=\begin{pmatrix}
+0\\
+xB\\
+0
+\end{pmatrix}
+$$
 
 `This will be appendix` The easiest way to find the energy eigenstates is the way all Hamiltonians get solved: treat is as the harmonic oscillator. As the Hamiltonian of the "normal" harmonic oscillator is
 
@@ -456,6 +509,10 @@ This can get rather messy, so I will show put the derivation for a single partic
 `sloppy`
 
 To find the resistivity, we use Ohm's law, which relates the energy of a particle to the current density (current over area)
+
+$$
+\mathbf{E}=\sigma \mathbf{J}
+$$
 
 Our mechanical momentum is$\hat{\mathbf{\pi}}=\hat{\mathbf{p}}+e \hat{\mathbf{A}} = m \hat{\mathbf{\dot{x}}}$
 Classically, the current (for a single particle) is simply $\mathbf{I}=-e\mathbf{\dot{x}}$, but isnce we are working quantum mechanically we take the expectation value
@@ -503,7 +560,15 @@ Correct you are: in general we demand that a) the strength of the disorder
 (which we model as a random potential) ought to be small relative to the Landau level splitting and b) the disorder does not dramatically vary on small scales,
 such that for a particle influenced by it the potential can locally be seen as constant. We can express these as
 
+$$
+V_{disorder}<<\hbar\omega_B
+$$
+
 and
+
+$$
+|\Delta V|<<\frac{\hbar \omega_B}{l_B}
+$$
 
 where $l_B$ is the magnetic length, `roughly the length scale at which these effects are relevant`
 
