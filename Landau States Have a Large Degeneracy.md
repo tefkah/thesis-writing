@@ -14,4 +14,8 @@ Landau states have a large [[Degeneracy|degeneracy]] i.e. lots of states with di
 
 We can quantify this as
 
+$$
+\mathcal{N} = \frac{AB}{\phi_0} \text{ where } A=\text{ area   and } \phi_0=\frac{2\pi\hbar}{e}
+$$
+
 $\phi_0$ is the [[quantum of flux]]

@@ -10,7 +10,7 @@ ctime: 20210405144616
 
 # The EIA allows uh to verify DN premises
 
-[[The deductive-nomological model of explanation]] is like
+[[The Deductive-Nomological Model of Explanation]] is like
 
 1) True events
 2) True law of nature

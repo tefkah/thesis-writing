@@ -9,6 +9,6 @@ mtime: 20210701200725
 ctime: 20210511140650
 ---
 
-# Anyonic exchange in the FQHE differs from AB oscillation
+# Anyonic exchange in the FQHE is not the same as AB oscillation
 
 I thought that maybe I could explain the occurence of [[anyons]] in [[the Fractional quantum hall effect (FQHE)]] by noting that they are the same as what happens in the  [[the Aharonov Bohm effect (AB)]], but this turns out not to be the case I see, as [@Cohen2019] 456 mentions that this can occur at the same time as exchange. Need to follow up on this.

@@ -9,7 +9,7 @@ ctime: 20210330163455
 
 # Local internal symmetries are not directly observable
 
-# Local, internal symmetries are not directly observable, as a dynamical modification needs to be made to the law in order to observe the invariance of the symmetry
+As a dynamical modification needs to be made to the law in order to observe the invariance of the symmetry
 
 [@Kosso2000] claims the above.
 

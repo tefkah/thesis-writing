@@ -4,13 +4,6 @@ title: If particles cannot be closer than the thickness of the strip, the
 tags:
   - FQHE
   - anyons
-caption: Exaggerated representation of $\tilde{Q}'$
-attr_latex: scale=0.75
-label: fig:ballspace
-latex: "{\\color{red}(I am unsure whether I need to prove this after showing
-  that the space is non-simply connected. These don't follow from each other
-  directly, but since the homotopy classes of both are identical I don't see
-  much need to illustrate this in much detail})"
 id: 654e4bfd-594e-48f2-b6b1-7ad252e1c05c
 mtime: 20210701200750
 ctime: 20210414134239
@@ -40,9 +33,13 @@ To construct this configuration space we require three conditions on top of the 
 
 Both of these will be argued for in more detail below, but for now I claim that _if_ $\exists a\geq \beta\in \mathbb{R} \quad \Psi(r\leq a)=0$, where  is the height of the fractional quantum Hall system and  the minimum distance allowed between the two particles, then the resulting configuration space will be non-simply connected.
 
-To briefly sketch an intuitive picture, let us recall our $d$-dimensional configuration space @@latex: $\eqref{confspaceddim}$ @@ and the fact that we are only really interested in the latter half of that configuration space, as the absolute position of the particles (e.g. the location of the quantum Hall system) should not really matter. So we are just looking at the paths in$S=\frac{\mathbb{R} ^3-\Delta }{Z_2}$
+To briefly sketch an intuitive picture, let us recall our $d$-dimensional configuration space and the fact that we are only really interested in the latter half of that configuration space, as the absolute position of the particles (e.g. the location of the quantum Hall system) should not really matter. So we are just looking at the paths in $S=\frac{\mathbb{R} ^3-\Delta }{Z_2}$
 
 Now we add our conditions above. 2) creates a sphere of forbidden particle positions around the origin (where the particles are near one another), which we can model as subtracting those a sphere of radius $\alpha$, called  $\sigma$, from the configuration space. Since  encompasses the points , we can leave out . Additionally,  1) means we are excising the points outside of the QH system, which I will represent with $\beta$ , which are the points ranging from $[-\frac{b_i}{2},+\frac{b_i}{2}] \quad i=x,y,z$ .[^2] Thus creating our new configuration space for $2$ particles
+
+$$
+\tilde{Q}'= \frac{\mathbb{R}^{3} -\sigma -\beta  }{Z_2}
+$$
 
 which can be crudely represented as![](./media/ballspace.png)
 

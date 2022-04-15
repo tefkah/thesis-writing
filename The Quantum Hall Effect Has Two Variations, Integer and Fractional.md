@@ -9,7 +9,7 @@ ctime: 20210219124712
 
 # the quantum hall effect has two variations, integer and fractional
 
-The Quantum Hall Effect is the observation of plateaux and valleys at multiples of the [[quantum of resistance]] $R_H=h/(e^2*\nu)$  in the transversal and longitudinal resitances measured in the[[The classical Hall Effect is just an application of the Lorentz Force|classical hall effect]].
+The Quantum Hall Effect is the observation of plateaux and valleys at multiples of the [[quantum of resistance]] $R_H=h/(e^2*\nu)$  in the transversal and longitudinal resitances measured in the[[The Classical Hall Effect Is Just an Application of the Lorentz Force|classical hall effect]].
 
 This can be observed in this graph.![](./media/fqhe.png)
 
@@ -25,6 +25,6 @@ The fractional quantum hall effect is the observation of similar, but usually mo
 
 # Differences
 
-[[IQHE has no electron interactions, FQHE does]]
+[[IQHE Has No Electron Interactions, FQHE Does]]
 
-[[reasoning of FQHE is less rigorous than IQHE]]
+[[Reasoning of FQHE Is Less Rigorous than IQHE]]

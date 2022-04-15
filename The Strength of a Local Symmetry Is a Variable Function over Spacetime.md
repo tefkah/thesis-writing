@@ -8,4 +8,3 @@ ctime: 20210330160106
 ---
 
 # The strength of a local symmetry is a variable function over spacetime
-Dictating my thoughts to obsidian and to Apple, you slimy little bastards period.

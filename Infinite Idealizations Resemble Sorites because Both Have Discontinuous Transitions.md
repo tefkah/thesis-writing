@@ -12,11 +12,10 @@ ctime: 20210309112810
 
 # Infinite idealizations resemble Sorites because both have discontinuous transitions
 
-# Context
+My thesis heavily centers around two topics: [[Infinite Idealizations]] and [[vagueness]]/[[Sorites Paradox]]. I want to basically find an answer to the latter, and to do so I am looking at the former, and this is the reason why. I am stuck writing [[FQHE Intro to show Ronnie and Guido]]
 
-My thesis heavily centers around two topics: [[infinite idealizations]] and [[vagueness]]/[[sorites paradox]]. I want to basically find an answer to the latter, and to do so I am looking at the former, and this is the reason why. I am stuck writing [[FQHE Intro to show Ronnie and Guido]]
-
-# Infinite Idealizations are similar to Sorites paradoxes because both are mathematical/logical reasons for why common explanations of phenomena don't (immediately) work out
+# Similarity
+ Infinite Idealizations are similar to Sorites paradoxes because both are mathematical/logical reasons for why common explanations of phenomena don't (immediately) work out
 
 Vagueness/Sorites paradox is having a continuous or discrete transition from one concept/object/... to another, where at the one end a predicate is true and at the other a predicate is false, and there being equally good reasons for believing that neither predicate actually can change.
 

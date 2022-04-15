@@ -12,7 +12,7 @@ ctime: 20210503132021
 
 # Regions are a vague concept
 
-# What a "spacetime region" is is vague
+## What a "spacetime region" is is vague
 
 This is relevant for [@Dougherty2020b] 's claim that the topological explanation of the AB effect just requires a "region" of non-multiply connectedness, not a whole configuration space.
 This seems kind of suspicious, as what a region is is kind of vague, so I don't think we can definitely say whether a path goes through it or not.

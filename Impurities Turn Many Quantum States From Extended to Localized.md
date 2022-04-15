@@ -11,4 +11,4 @@ ctime: 20210302160720
 
 ![](./media/breakdegen.png)
 
-Impurities in the sample are modeled as a random potential. This random potential first ensures that [[impurities break the degeneracy of the landau levels]] by broadening them, but secondly they "cut up" the quantum states of the system into extended and localized states. Extended states "extend" throughout the whole system, while localized states do not.
+Impurities in the sample are modeled as a random potential. This random potential first ensures that [[Impurities Break the Degeneracy of the Landau Levels]] by broadening them, but secondly they "cut up" the quantum states of the system into extended and localized states. Extended states "extend" throughout the whole system, while localized states do not.

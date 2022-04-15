@@ -59,21 +59,57 @@ What we saw above is a very crude version of the operator framework approach, we
 
 The three spatial components of spin obey the following commutation relation
 
+$$
+[S_i,S_j]=i\varepsilon_{ijk}S_K
+$$
+
 If we take the state $\ket{s,m}$  and have the spin operators act like
+
+$$
+S^2\ket{s,m}=s(s+1)\ket{s,m}
+$$
 
 and
 
+$$
+S_3\ket{s,m}=m\ket{s,m}
+$$
+
 then we can define the action of a spin raising operator $S^+$ as
+
+$$
+S^+\ket{s,m}=[s(s+1)-m(m+1)]^{1/2}\ket{s,m+1}=\ket{s,m'}
+$$
 
 If we require $\sqrt{|\ket{s,m'}|^2}>0$, we get
 
+$$
+s(s+1)-m(m+1)\geq0 \quad \forall m
+$$
+
 Thus
+
+$$
+m\leq s \quad \forall m
+$$
 
 It is clear then, that for some $n \in \mathbb{N}$, $m'=m+n>s$, unless $m'=s$, so
 
+$$
+s-m= n\in \mathbb{N}
+$$
+
 Similarly from $S^-$ we can arrive at
 
+$$
+m+s=n\in \mathbb{N}
+$$
+
 Combining $\eqref{eq:int}$ and $\eqref{eq:mpluss}$,  we get
+
+$$
+m+s+s-m=2s=n \in \mathbb{N} \rightarrow s=\frac{n}{2}
+$$
 
 Since $n \in \mathbb{N}$, $s$ can only be integer or halfinteger.
 
@@ -107,9 +143,17 @@ Let us call the set of diagonal points $\Delta$. To further simplify our space a
 
 Then, for our configuration space looks like
 
+$$
+Q= \mathbb{R}^d \times \frac{\mathbb{R}^d  - \Delta }{Z_2}
+$$
+
 <!-- =just blantantly copied= -->
 
 In order to study the phase picked up by the WF of a particle as it moves around the other we need to _classify all possible **closed** paths_ in the configuration space. To make our lives even easier, since we are only interested in the phase of the particles we can "discard" the position of the CM, as this simply shifts their combined position in space which we assume does not change the phase the two particles add acquire. Thus, we can only look at the paths in
+
+$$
+S=\frac{\mathbb{R}^d -\Delta}{Z_2}
+$$
 
 Before showing what the fundamental group of this space is, we can get a more intuitive notion of possible paths a particle can take by keeping $|r|$ fixed so that $S$ describes the surface of a $d$-dimensional sphere. We can easily see this by....
 
@@ -127,6 +171,10 @@ What is very important is that path C can be **continually shrunk to a point (im
 
 Now we have provided a clearer justification for the handwavey argument given in Section X: one exchange provides a phase factor, say $\alpha$, and two exchanges brings us back to the origin, so
 
+$$
+\alpha^2=+1 \rightarrow \alpha = \pm 1
+$$
+
 Thus, in 3 dimensions only Fermi-Dirac and Bose-Einstein statistics are possible.
 
 ### 2D
@@ -140,6 +188,10 @@ We make the same argument as before: since in path B the endpoints are fixed, it
 However, path C also cannot be contracted to a single point, as it is fixed on the circle. One may object that the circle presentation here is just an artifact of laziness, which is entirely correct. However, the point $r=(0,0)$ is still excised, so the "string" cannot collapse to single point in principle.
 
 Therefore, while the particle picks up a phase $\alpha$ during one exchange, it picks up a phase $\alpha^2$ in a double exchange, which is also nontrivial i.e. $\neq 1$. It is thus apparent that $\alpha$ can be any real value, as we do not have any constraint on it. We only know that $\alpha$ has no effect on $|\Psi|^2$ and therefore can be written as
+
+$$
+\alpha = e^{i\theta}
+$$
 
 ### Connection to the Braid group
 
