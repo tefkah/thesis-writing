@@ -7,7 +7,7 @@ mtime: 20210701200812
 ctime: 20210316141305
 ---
 
-# Shech's argument for FQHE Requires EXACT 2D
+# Shech's Argument for FQHE Requires EXACT 2D
 
 Shech's argument (as I see it) for why the FQHE (or more specifically the observation of FQ stats) requires the configuration space of electrons to be exactly 2D
 

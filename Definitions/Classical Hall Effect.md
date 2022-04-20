@@ -15,4 +15,4 @@ This is the <u>Hall Effect</u>. It is a classical effect and the voltage thus in
 
 I'm not sure why the longitudinal resistance is super important, but i guess it is just "normal" resistance
 
-![](./media/che.png)
+![](che.png)

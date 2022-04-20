@@ -9,13 +9,13 @@ mtime: 20210701200711
 ctime: 20210606144410
 ---
 
-# Critique of the configuration space explanation
+# Critique of the Configuration Space Explanation
 
 # Critique
 
 The main crux of my critique lies in the (in my eyes) unnecessary assumption that the quantum statistics of a particle can _only_ be determined by the first homotopy group of its configuration space. While this might work as a prediction, i.e. if we can figure out the configuration space and then the fundamental group, we might reasonably expect to find particles with such and such quantum statistics there.
 
-However, I do not find this very satisfactory as an explanation, it feels much too close to a DN way of explaining things, which, as we know [[Problems with the DN model|DN cannot determine whether something is a difference maker]]. That is, the explanation works backwards: instead of ending uncontrovertably with the most controversial point, namely that the configuration space of the anyons is 2D, it arrives there kind of casually.
+However, I do not find this very satisfactory as an explanation, it feels much too close to a DN way of explaining things, which, as we know [[Problems with the DN Model|DN cannot determine whether something is a difference maker]]. That is, the explanation works backwards: instead of ending uncontrovertably with the most controversial point, namely that the configuration space of the anyons is 2D, it arrives there kind of casually.
 
 The order of explanation as it is usually given is like this:
 

@@ -370,7 +370,7 @@ Overlaps much with the literature I gathered on idealization. I am still missing
 
 ## Specific Effects and arguments surrounding them
 
-### Phase transitions [[phase transitions]]
+### Phase transitions [[Phase Transitions (Meta)]]
 
 - [@ech2013]
 - citeMenon2011

@@ -39,7 +39,7 @@ In order to prepare ourselves for the more in depth analysis to follow, it is wo
 
 We start out with a wavefunction $\Psi$ of our system of two particles $\psi_1$ and $\psi_2$$\Psi_0=\psi_1\psi_2$
 
-If we exchange the particles, we expect them to pick up a certain [[phase transitions]]
+If we exchange the particles, we expect them to pick up a certain [[Phase Transitions (Meta)]]
 
 $\Psi_\pi=e^{i\theta\pi}\psi_2\psi_1$
 

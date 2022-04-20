@@ -8,7 +8,7 @@ mtime: 20211022154509 20210701200822
 ctime: 20210309161230
 ---
 
-# IQHE has no electron interactions, FQHE does
+# IQHE Has No Electron Interactions, FQHE Does
 
 In [[the Integer quantum hall effect (IQHE)]], the electron interactions are turned off, only taking into account the fact that [[fermions cannot be in the same quantum state (Pauli Exclusion Principle)]] but otherwise neglecting repulsion.
 

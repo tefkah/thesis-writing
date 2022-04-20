@@ -19,7 +19,7 @@ The first phenomenon under study is the so-called fractional quantum Hall effect
 
 Very crudely, the FQHE consists in the observation of peaks and valleys in the transversal and longitudinal resistances in Hall Effect experiments with strong magnetic fields and extremely pure samples, as seen in figure $\ref{fig:fqhe}$.
 
-![](./media/fqhe.png "The plateuax of the FQHE")
+![](fqhe.png "The plateuax of the FQHE")
 
 The FQHE provides an interesting case study, as idealizations are used a lot in order to arrive at the explanation. Crucially, one rather popular explanation of the FQHE necessarily employs an infinitesimal idealization, namely that the configuration space of the electrons involved is 2D. The configuration space of electrons is always 3D, so this is a classic example of an idealization as a fiction used to explain something. However, contra [@Strevens2019a], I argue that this idealization cannot be construed as one which gets rid of a variable irrelevant to the explanation, as this infinite idealization is _crucial_ to the whole explanation: without it there is no explanation.
 
@@ -31,7 +31,7 @@ Before we start to describe the Fractional Quantum Hall Effect, we should first 
 
 The classical Hall effect can be briefly described as the measurement of a voltage _across_ (transversally) a thin conducting plate trough which a current is run in the longitudinal direction and which is subject to a magnetic field perpendicular to both, as in Figure $\ref{fig:che}$
 
-![](./media/che.png "set up of the che, stolen from  ")
+![](che.png "set up of the che, stolen from  ")
 
 Classically, we can explain the observation of this voltage by the fact that the electrons travelling in the longitudinal direction experience a Lorentz force $\textbf{F} = q\textbf{E} + q\textbf{v} \times \textbf{B}$, which causes them to be redirected to one of the sides of the plate. This leads to a gradient of electrons along the transversal axis, i.e. a voltage difference. Instead of a voltage, the resistance is usually measured.
 
@@ -43,7 +43,7 @@ The classical quantum hall effect happens around .......
 
 Things start to get more interesting once the strength of the magnetic field is increased quite a bit. We start to observe plateaux at regular intervals in the transversal resistance.
 
-![](./media/iqhe.png "qhe")
+![](iqhe.png "qhe")
 
 We would of course like to know what explains the appearance of these plateaux.
 
@@ -63,11 +63,11 @@ This is strange, as from the classical quantum hall effect we expect the transve
 
 The IQHE comes from the impurities present in the sample: the "pure" energy eigenstates of the system would not lead plateaux. The impurities can be modeled as a random potential. This random potential breaks the degeneracy of the Landau levels and "smooths them out", like
 
-![](./media/broadlandau.png "smooth landau, stolen from Tong.")
+![](broadlandau.png "smooth landau, stolen from Tong.")
 
 In addition, the disorder causes the energy levels to be split up into _extended_ and _localized_ energy states, like
 
-![](./media/breakdegen.png "extended v localized, also Tong")
+![](breakdegen.png "extended v localized, also Tong")
 
 Only the extended energy levels carry current, the localized ones do not. Furthermore, the extended ones are favored? In any case, as the magnetic field strength increases, so does the energy of the states, so they get pushed up to a new energy level. However, they first have to fill the localized states before they are able to reach a new extended state, and all these localized states do not conduct i.e. do not contribute to the conductivity i.e. do not change the resistance of the material. Tada, you got plateaux.
 

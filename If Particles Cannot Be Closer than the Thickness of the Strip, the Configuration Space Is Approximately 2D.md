@@ -9,7 +9,7 @@ mtime: 20210701200750
 ctime: 20210414134239
 ---
 
-# If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D
+# If Particles Cannot Be Closer than the Thickness of the Strip, the Configuration Space Is Approximately 2D
 
 # An alternative configuration space
 

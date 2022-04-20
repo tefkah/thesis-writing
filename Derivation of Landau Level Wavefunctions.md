@@ -8,7 +8,7 @@ mtime: 20210701200831
 ctime: 20210223163417
 ---
 
-# derivation of landau level wavefunctions
+# Derivation of Landau Level Wavefunctions
 
 To find the wavefunctions of the landau levels, we need to set a [[gauge potential]] such that
 

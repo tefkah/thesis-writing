@@ -8,7 +8,7 @@ mtime: 20210701204617
 ctime: 20210518140233
 ---
 
-# Thesis sources
+# Thesis Sources
 
 Here I want to compile a relatively complete list of all my sources with some short descriptions of why they are useful. I have not found a better way to do this yet: Zotero is nice, but a bit opaque, and separate files are also nice but make me forget where I put them. This is something in between, which kind of sucks, because I have to do it manually, but that will also strenghten teh connections in mah brain, or something
 

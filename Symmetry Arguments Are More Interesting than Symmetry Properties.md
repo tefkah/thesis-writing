@@ -7,7 +7,7 @@ mtime: 20210701195412
 ctime: 20210330125526
 ---
 
-# Symmetry arguments are more interesting than symmetry properties
+# Symmetry Arguments Are More Interesting than Symmetry Properties
 
 ## It is important to distinguish between symmetry arguments and symmetry properties, and to mostly focus on the former
 

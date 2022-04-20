@@ -9,9 +9,7 @@ mtime: 20210701200901
 ctime: 20201221125304
 ---
 
-# Transitions from continuity to the discrete are not possible
-
-# Context
+# Transitions From Continuity to the Discrete Are Not Possible
 
 The one recurring theme in my research interests seems to be that reasoning with, arguing over, and utilizing "discrete" concepts which are ultimately defined in a ()presumably) continuous spacetime always leads to either a contradiction or confusion about what is being argued about. Examples I encountered include:
 
@@ -58,4 +56,3 @@ I claim that it is not possible to assign ontological status to both. In order t
 
 This topic is deeply related to a breadth of other topics. I try to explicate that in
 
-# TODO Make a good distinction between the "continuity" and "vagueness" argument

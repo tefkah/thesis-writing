@@ -10,7 +10,7 @@ mtime: 20210701182524
 ctime: 20210503132021
 ---
 
-# Regions are a vague concept
+# Regions Are a Vague Concept
 
 ## What a "spacetime region" is is vague
 

@@ -19,6 +19,6 @@ Apparently, it will pick up a [[Holonomy]] of $1$ when it travels back around th
 
 However, if instead of a perfect cone we take on which is 'stomp', then the holonomy works much more like how we normally expect it to work, as the cone now has curvature at it peak.
 
-The interesting thing happens when we make the tip of the cone sharper and sharper, making the curvature steeper and steeper. The derivative of the holonomy wrt the distance covered along the curve will get steeper and steeper as well, with the limit being the discontinuous holonomy, similar how this works in [[phase transitions]].
+The interesting thing happens when we make the tip of the cone sharper and sharper, making the curvature steeper and steeper. The derivative of the holonomy wrt the distance covered along the curve will get steeper and steeper as well, with the limit being the discontinuous holonomy, similar how this works in [[Phase Transitions (Meta)]].
 
 This is exactly what I need to do with how the [[Geometric Phase]] can approximate [[The configuration space explanation of anyons]]

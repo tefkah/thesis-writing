@@ -8,7 +8,7 @@ mtime: 20210701200055
 ctime: 20210701200055
 ---
 
-# open questions for my thesis
+# Open Questions for My Thesis
 
 # Context
 

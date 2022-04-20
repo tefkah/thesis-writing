@@ -5,4 +5,4 @@ mtime: 20210701195425
 ctime: 20210316150442
 ---
 
-# 3D Braids do not get intertwined
+# 3D Braids Do Not Get Intertwined

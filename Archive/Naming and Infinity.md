@@ -44,7 +44,7 @@ $\maketitle$
 
 ## Phase Transitions
 
-[[phase transitions]]
+[[Phase Transitions (Meta)]]
 
 # End
 

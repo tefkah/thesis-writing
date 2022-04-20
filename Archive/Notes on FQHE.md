@@ -7,7 +7,7 @@ mtime: 20210701200840
 ctime: 20210216120554
 ---
 
-# notes on FQHE
+# Notes on FQHE
 
 # Context
 
