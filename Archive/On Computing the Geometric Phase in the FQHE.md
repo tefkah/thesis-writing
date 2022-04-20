@@ -9,7 +9,7 @@ mtime: 20210701200718
 ctime: 20210520180604
 ---
 
-# On computing the geometric phase in the FQHE
+# On Computing the Geometric Phase in the FQHE
 
 # Berry phase
 
@@ -38,7 +38,7 @@ The initial way of calculating the Berry phase shows that we still get a discont
 Parallel transport is a bit strange. On a flat Euclidean plane, nothing happens.
 A cone is like a flat Euclidean plane glued together in a weird way, like this
 
-![](./media/conefold.png)
+![](conefold.png)
 
 Where side $s$ is glued to side $?$ in order to yield a smooth surface, with the exception of the problematic point $S$.
 
@@ -46,7 +46,7 @@ We can then calculate our parallel transport by simply "doing" the parallel tran
 
 The vector is transport from the one side to the other, eventually reaching the edge $s$, from where it is suddenly teleported to $s$, ending up with a much different angle.
 
-![](./media/transport.jpeg)https://www.physicsforums.com/threads/parallel-transport-and-cone.1000209/
+![](transport.jpeg)https://www.physicsforums.com/threads/parallel-transport-and-cone.1000209/
 
 This angle difference is directly related to the angle of the cone. We see that the sharper the cone, the bigger the failure of parallel transport (holonomy) will be.
 

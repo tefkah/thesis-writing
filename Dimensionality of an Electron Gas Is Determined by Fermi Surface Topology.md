@@ -10,7 +10,7 @@ mtime: 20210701200715
 ctime: 20210601145636
 ---
 
-# Dimensionality of an electron gas is determined by Fermi Surface topology
+# Dimensionality of an Electron Gas Is Determined by Fermi Surface Topology
 
 After looking into the [[3D Quantum Hall Effect]] a little bit, it seems that physicists determine the dimensionality of an electron gas by looking at the topology of its [[Fermi Surface]] (what that is I don't yet know.)
 

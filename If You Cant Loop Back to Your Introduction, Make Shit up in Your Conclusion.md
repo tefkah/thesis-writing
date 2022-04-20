@@ -8,7 +8,7 @@ mtime: 20210701200845
 ctime: 20210204155921
 ---
 
-# If you cant loop back to your introduction, make shit up in your conclusion
+# If You Cant Loop Back to Your Introduction, Make Shit up in Your Conclusion
 
 Had a chat with Guido and Ronnie about my thesis, where we discussed my introduction ([[I. Introduction|Proselike introduction v1]]). I worry too much about making true the things I put in my introduction.
 

@@ -7,7 +7,7 @@ mtime: 20210701200839
 ctime: 20210216120554
 ---
 
-# notes on Shechs description of FQHE
+# Notes on Shechs Description of FQHE
 
 # Context
 

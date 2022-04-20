@@ -8,7 +8,7 @@ mtime: 20210701200741
 ctime: 20210503090553
 ---
 
-# Finding a way to approximately calculate anyons
+# Finding a Way to Approximately Calculate Anyons
 
 For the next part of my thesis (as of 03-05-21) I am looking into how to approximately calculate the anyonic phase in the Fractional Quantum hall effect. For this, I want to look at explanations etc of the [[Berry phase]] in the [[Aharonov Bohm Effect]], and I have a couple of differenent resoureces to do this.
 

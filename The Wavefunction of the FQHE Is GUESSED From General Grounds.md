@@ -7,7 +7,7 @@ mtime: 20210701200821
 ctime: 20210309164800
 ---
 
-# The Laughlin Wavefunction is guessed from general grounds
+# The Wavefunction of the FQHE Is GUESSED From General Grounds
 
 [[The Laughlin Wavefunction]] is just guessed for the FQHE $\approx10^{11}$ and was pretty close.
 

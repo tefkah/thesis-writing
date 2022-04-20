@@ -8,7 +8,7 @@ mtime: 20210701195229
 ctime: 20210503100035
 ---
 
-# Proponents and opponents of thermodynamic limit
+# Proponents and Opponents of Thermodynamic Limit
 
 @Butterfield2011,@Callender2001,@Menon2011 and @Palacios2018 argue that the thermodynamic limit is fake, while @Bangu 2009, @Batterman2005, and @Batterman2011 and @Morrisson2012 say that it is essential.
 

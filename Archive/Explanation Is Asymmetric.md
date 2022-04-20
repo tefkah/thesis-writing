@@ -8,4 +8,4 @@ mtime: 20210701195404
 ctime: 20210330165733
 ---
 
-# Explanation is asymmetric
+# Explanation Is Asymmetric

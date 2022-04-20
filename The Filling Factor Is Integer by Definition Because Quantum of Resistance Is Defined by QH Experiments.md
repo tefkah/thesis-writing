@@ -8,7 +8,7 @@ mtime: 20210701195524
 ctime: 20210223142404
 ---
 
-# The Filling Factor Is Integer by Definition Because Quantum of Resistance is Defined by QH experiments
+# The Filling Factor Is Integer by Definition Because Quantum of Resistance Is Defined by QH Experiments
 
 The filling factor which factors into the deliniation of the different plateaux and valleys in the Quantum hall effects is not just suspisiously close to an integer: it is an integer. The resistivity of the plateaus is determined as$\rho_{xy}=\frac{2\pi\hbar}{e^2}\frac{1}{\nu}$
 

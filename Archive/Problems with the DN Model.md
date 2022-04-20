@@ -9,7 +9,7 @@ ctime: 20210330165632
 
 # Problems with the DN Model
 
-## Common problems with the [[The Deductive-Nomological Model of Explanation]]
+Common problems with the [[The Deductive-Nomological Model of Explanation]]
 
-1) It's symmetric, but [[Explanation is asymmetric]]
+1) It's symmetric, but [[Explanation Is Asymmetric]]
 2) It cannot identify false explanations.
