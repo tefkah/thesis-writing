@@ -14,7 +14,7 @@ mtime: 20210701200758
 ctime: 20210402123014
 ---
 
-# The configuration space explanation of anyons
+# The Configuration Space Explanation Chapter
 
 In this section I will give a brief expose of the purported explanation of the possibility/emergence of anyons via the "configuration space framework", mostly based on [@Shech2019], [@Shech2015b], [@Rao2001] and [@Tong2016].
 
@@ -161,7 +161,7 @@ Before showing what the fundamental group of this space is, we can get a more in
 
 Let's stay at $3$ dimensions for now. The paths $S$ are then all the possible paths along a half-sphere (because of the division by $Z_2$) of radius $|r|\neq 0$ (because of the excision of $\Delta$, which for $\mathbf{r}=\mathbf{r}_1 -\mathbf{r}_2$ is $0$ by definition).
 
-![](./media/3dexchange.png)
+![](3dexchange.png)
 
 `Copying again`
 
@@ -181,7 +181,7 @@ Thus, in 3 dimensions only Fermi-Dirac and Bose-Einstein statistics are possible
 
 Let us move to the actual goal, 2 dimensions. Same as before, if we fix $|r|$ we get a 2D sphere (a circle) with it's endpoints identified.
 
-![](./media/2dexchange.png)
+![](2dexchange.png)
 
 We make the same argument as before: since in path B the endpoints are fixed, it clearly cannot be contracted to a point, therefore taking on a nontrivial phase.
 

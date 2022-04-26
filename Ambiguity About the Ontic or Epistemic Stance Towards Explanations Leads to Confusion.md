@@ -8,7 +8,7 @@ mtime: 20211029211403 20211029163433
 ctime: 20211029163413
 ---
 
-# Ambiguity about the ontic or epistemic stance towards explanations leads to confusion
+# Ambiguity About the Ontic or Epistemic Stance Towards Explanations Leads to Confusion
 
 When discussing explanations, philosophers often do not explicitly state whether they think of explanations as ontic or epistemic, because they either assume everyone shares their position or because they maybe just aren't great at communicating.
 

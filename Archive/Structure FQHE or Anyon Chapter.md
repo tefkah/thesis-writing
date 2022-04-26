@@ -332,7 +332,7 @@ If we do this, after moving the Berry phase back the system will have incurred a
 
 # The explanation of anyons
 
-[[The configuration space explanation chapter]]
+[[The Configuration Space Explanation Chapter]]
 
 [[If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
 

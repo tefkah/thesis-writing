@@ -8,6 +8,6 @@ mtime: 20210701200712
 ctime: 20210602234818
 ---
 
-# The best explanations are the ones that made you understand
+# The Best Explanations Are the Ones that Made You Understand
 
 [[Explanation qua understanding]]
