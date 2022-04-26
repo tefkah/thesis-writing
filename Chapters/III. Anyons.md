@@ -85,7 +85,6 @@ then there is probability zero of it being there. This is the Pauli-exclusion pr
 
 Thus while phases do not appear to matter _prima faciae_, they are the reason matter is able to exist in the first place! Without the Pauli Exclusion Principle it would not be possible for matter to clump together, as everything would simply phase through each other (barring electromagnetic interactions).
 
-<!-- [[id:3cb8cc7b-70c4-4613-9f5e-3d73f9c6d476][The configuration space explanation chapter]] -->
 
 ## The configuration space explanation for anyons
 
@@ -104,7 +103,7 @@ We will go through these steps in detail for the case of anyons and other partic
 
 Our first task is to construct the configuration space for the exchange of $N$
 identical particles in $3D$, after which we will examine its topological properties. The most general configuration space we can construct is one for
-&#x20;$N$ particles living in $d$ dimensions, which would be
+$N$ particles living in $d$ dimensions, which would be
 
 $$
 \mathbb{R}^d_1 \times \mathbb{R}^d_2 ... \times \mathbb{R}^d_N
@@ -119,7 +118,6 @@ therefore, that the position of the system as a whole does not play in a role in
 
 Let us return to the constraints. The first constraint is the indistinguishability of the particles. Since it is impossible to distinguish the situation $(r_1,r_2)$ from $(r_2,r_1)$, we cannot take these two configurations to be separate points in configuration space and must remove them. We can represent this by "dividing out" the permutation group $S_2$ from our current configuration space,[^10] yielding $\frac{\mathbb{R}^3 }{S_2}$
 
-<!-- [[id:654e4bfd-594e-48f2-b6b1-7ad252e1c05c][If particles cannot be closer than the thickness of the strip, the ciguration space is approximately 2D]] -->
 
 #### If we view the configuration space not as separate particles but two coordinates of some system, CM & Distance, than the configuration space is much easier to visualize
 
@@ -142,14 +140,12 @@ $$
 Q'=\frac{\mathbb{R}^d - \{\mathbf{0}\}}{S_2}
 $$
 
-Finally we are able to make some clever remarks about the structure of the configuration space, starting (and ultimately ending) with its
-&#x20;    _connectedness_. As mentioned previously, as space is called _simply connected_
-if, roughly, no holes pierce it. To placate the more mathematically
-&#x20;    oriented reader and be more precise, a space is called simply connected if
-&#x20;    it contains no non-trivial loops, meaning that all paths looping back
-&#x20;    around to itself (a loop) are _homotopy equivalent_ to a point, meaning that we are able to smoothly "close the loop" without it "snagging" behind a
-&#x20;    point somewhere. The "are able to" does a lot of work here: if there is
-&#x20;    even _a single_ way to contract the path to point we consider it possible to do so and therefore the _whole_ space simply-connected.
+Finally we are able to make some clever remarks about the structure of the configuration space, starting (and ultimately ending) with its _connectedness_. As mentioned previously, as space is called _simply connected_
+if, roughly, no holes pierce it. To placate the more mathematically oriented reader and be more precise, a space is called simply connected if
+   it contains no non-trivial loops, meaning that all paths looping back
+  around to itself (a loop) are _homotopy equivalent_ to a point, meaning that we are able to smoothly "close the loop" without it "snagging" behind a
+   point somewhere. The "are able to" does a lot of work here: if there is
+    even _a single_ way to contract the path to point we consider it possible to do so and therefore the _whole_ space simply-connected.
 
 > [!example]
 >
@@ -172,7 +168,6 @@ In our "one-particle-at-the-origin" picture, we can roughly see the points in$RP
 
 - [ ] Associate pictures with these paragrahs
 
-<!---->
 
 - [ ] Give the loops better names than "half-exchange"
 
@@ -186,7 +181,6 @@ Therefore there are two different kinds of paths. Now we are truly able to appre
 
 - [ ] Add why this leads to particles, or at least a link to the section where we discuss this
 
-<!---->
 
 - [ ] Add explanation of why RP2 is equivalent in the relevant respects to R3-delta/S2. This is not obvious for two reasons: Several layers of RP2  Q', because in Q' paths can move between the layers, and secondly because RP2 is not a sphere and Q' is not R3, so the embedding of the one in the other is not the same. Retractability is important here, see Munkers Ch 9.
 
@@ -232,13 +226,13 @@ resulting in a "3"-exchange, which is the same as a 1-exchange and in our group.
 We already obtained the fundamental groups, which roughly look like
 
 $$
-\pi_1(Q_3')=\{X_0, X_1; \cdot\}
+\pi_1(Q_3')=\{X_0, X_1 \cdot\}
 $$
 
 for the $3D$ case with $X_1$ being the single exchange, $X_0$ doing nothing (and the double exchange), and $\cdot$ being path-concatenation and
 
 $$
-\pi_1(Q_2')=\{X_0, X_1, X_{-1}, X_2, X_{-2}, ...; \cdot \}
+\pi_1(Q_2')=\{X_0, X_1, X_{-1}, X_2, X_{-2}, ... \cdot \}
 $$
 
 for the $2D$ case with $X_0$ being doing nothing, $X_i$ a clockwise $i$-exchange, and $X_{-i}$ a counterclockwise $i$-exchange.
@@ -266,15 +260,14 @@ The fundamental group of our $2D$ configuration space is isomorphic to the
 _Braid group_, a group often studied in knot theory as braids can be seen as cut knots. The $N$-dimensional Braid group can be seen as all the possible
 _braids_ of $N$ strands, together with the _braiding composition_ $R_i$ and its inverse $R_i^{-1}$, which stand for exchanging braid $i$ and $i+1$
 clockwise and counterclockwise respectively. A braid is a set of strands
-&#x20;     crossing over and under each other and fixed at either end. Specifically,
-&#x20;     two braids are the same if the strands can be moved into the same
-&#x20;     configuration without phasing through each other or moving the endpoints.
-&#x20;     Because of this, the Braid group fundamentally differs from the symmetry
-&#x20;     group, as fr the symmetry group $\{123\}$ and $\{231\}$ are the same, they are different elements in the Braid group, see ref:fig:braidvssymmetry
+     crossing over and under each other and fixed at either end. Specifically,
+     two braids are the same if the strands can be moved into the same
+     configuration without phasing through each other or moving the endpoints.
+     Because of this, the Braid group fundamentally differs from the symmetry
+     group, as fr the symmetry group $\{123\}$ and $\{231\}$ are the same, they are different elements in the Braid group, see ref:fig:braidvssymmetry
 
 - [ ] add figures that show off the difference between braid group and symmetry group
 
-<!---->
 
 - [ ] Add some interesting properties
 
@@ -330,14 +323,14 @@ When we transport a vector along some curved surface its angle changes. Hardly s
 
        ^                    ^
       /                    /
-     /         -->        /
+     /         --\>        /
     /                    /
 
 does not change the angle one bit! How then? Well, we said _along_ a _surface_, just moving it in $\mathbb{R}^n$ is cheating a bit eh. Moving along a surface is done with_parallel transport_, which means, as you smart cookies guessed, means keeping it parallel to the surface of said... surface. When we do this something surprising does happen: when we complete a loop on a surface with some _curves_, such as the sphere, that is not a circle or a straight line we end up at a different angle than we started! WHAT!
 
 ## How does geometrical phase get there
 
-As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical" \[[@Berry1984]]. However, as \[[@Simon1983]]
+As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical" [@Berry1984]. However, as [@Simon1983]
 soon thereafter elucidated, the mystery largely disappears we link it to a more general geometric property: [[Holonomy|Holonomy.]]
 
 Holonomy is the phenomenon of a vector (or more generally any mathematical object) not remaining completely invariant after being [[Parallel transport]]ed along some curved surface. An example is in order.
@@ -352,14 +345,15 @@ ocean as far you could see. Despite never turning around, you have ended up turn
 This extra angle that you picked up on your Oddyssey is a/has something to do with **holonomy**, which is a fancy word for the failure of parallel transport along a certain manifold, in this case the 2-Sphere (in normal people talk: the surface of a sphere). While this may be shocking to our foolhardy protagonist,
 there is something deeply intuitive about not ending up facing the same direction here. But being intuitive does not mean easy to explain: all we know for now that this has something to do with the curvature of the space we are traversing, but not exactly which value it obtains .[^4]
 
-<!-- These two questions and answers are rather handy, and they cite the following two papers as useful
-https://physics.stackexchange.com/questions/383281/when-is-the-berry-phase-only-dependent-on-path-topology
-
-https://physics.stackexchange.com/questions/235503/why-is-the-phase-picked-up-during-identical-particle-exchange-a-topological-inva?rq=1
-
+> [!comment] 
+> These two questions and answers are rather handy, and they cite the following two papers as useful
+> https://physics.stackexchange.com/questions/383281/when-is-the-berry-phase-only-dependent-on-path-topology
+>
+> https://physics.stackexchange.com/questions/235503/why-is-the-phase-picked-up-during-identical-particle-exchange-a-topological-inva?rq=1
+>
 [cite:@Leinaas1977]
 [cite:@Knapp2016]
- -->
+
 
 ## section
 
@@ -386,10 +380,9 @@ We have finally reached the point at which we have no choice but to look at an a
 
 - [ ] Put this somewhere else, preferably at the end
 
-<!---->
 
 - Following \[[@Norton2012]], we know how to interpret this: we can demote an idealization to an approximation if we are able to show that there is a
-  &#x20;     smooth limit.
+    smooth limit.
 - This is exactly the problem, according to \[[@Shech2019]:] the topological explanation of anyons requires an _exact_ 2D system (or a rather ad-hoc 2D system as we saw).
 - Therefore we cannot call this approximately 2D.
 - According to \[[@Shech2019]], this is a problem for those with nominalist inclinations[^1], as the instantiation of abstract mathematical structures in the real world would be an issue.
@@ -421,25 +414,25 @@ The basics of the effect are rather simple
 - Magnetic field perpendicular to that strip
 - Induces Lorentz force which pushes particles to one side, increasing their concentration and creating a potential difference, inducing a voltage changing the resistivity.
 - This resistivity linearly depends on the voltage, which linearly depends on the concentration difference which linearly depends on the strength of
-  &#x20;     the magnetic field, thus yielding a linear dependence of the resistivity
-  &#x20;     to the strenght of the perpendicular magnetic field.
+     the magnetic field, thus yielding a linear dependence of the resistivity
+    to the strenght of the perpendicular magnetic field.
 - Looks like figure ref:fig:che
 
 However, as most classical effects, they only hold in a certain regime. When we clean up the materials, lower the temperature dramatically (<2K) and increase the magnetic field strength considerably, we observe the _Quantum Hall Effect_
 (QHE): rather than a linear dependence on the magnetic field strength, the resistivity shows these strange plateaux at rather consistent values, as inref:fig:qhe. The spacing between these plateaux does not seem to differ between different materials, which is even more curious.
 
 So: why? Why do we see these plateaux, and why at these levels? The short answer (partially) is: the impurities in the sample lift the degeneracy of the
-&#x20;eigenstates of the Quantum Hall system, called Landau levels, and _localizes_
+eigenstates of the Quantum Hall system, called Landau levels, and _localizes_
 some of those states, rather than the states extending from one edge of the
-&#x20;sample to the other (akin to the wavefunctions of a particle in a box). These
-&#x20;localized states do not conduct current (as do not span the system, and
-&#x20;resistivity is measured from end to end), thus leading to the plateaux in the
-&#x20;resistivity: we change plateaux when all the localized states are filled and we
-&#x20;move to different extended states. The specific values of these levels depend
-&#x20;on weird physics at the boundaries of the system called _edge-modes_, but in short the levels correspond to the number of filled Landau levels: at higher
-&#x20;magnetic field strengths the levels can accommodate more states, thus the lower
-&#x20;the magnetic field strength the larger the number of available levels, leading
-&#x20;to a smooth-looking linear dependence in the classical regime.
+sample to the other (akin to the wavefunctions of a particle in a box). These
+localized states do not conduct current (as do not span the system, and
+resistivity is measured from end to end), thus leading to the plateaux in the
+resistivity: we change plateaux when all the localized states are filled and we
+move to different extended states. The specific values of these levels depend
+on weird physics at the boundaries of the system called _edge-modes_, but in short the levels correspond to the number of filled Landau levels: at higher
+magnetic field strengths the levels can accommodate more states, thus the lower
+the magnetic field strength the larger the number of available levels, leading
+to a smooth-looking linear dependence in the classical regime.
 
 There are quite some caveats to the above story, but that is the gist of why the effect happens for _integer levels_. The less interested reader can skip over the following section describing the corresponding _Integer Quantum Hall Effect_
 (IQHE) and head to the description of its fractional cousin, where the same does not hold. Specifically, the IQHE requires one massive idealization: electron interaction is neglected completely. As we shall see, this idealization cannot hold in the FQHE.
@@ -486,11 +479,6 @@ $$
 
 ..
 
-<!-- \begin{equation}
-[\hat{\mathbf{\pi_x}}, \hat{\mathbf{\pi_y}}] = \hat{\mathbf{\pi_x}} \hat{\mathbf{\pi_y}} - \hat{\mathbf{\pi_y}} \hat{\mathbf{\pi_x}}   = -ie\hbar B
-    \label{eq:momcom}
-\end{equation}
- -->
 
 These allow us to define raising and lowering operators`At this point we introduce new variables. These are raising and lowering operators, entirely analogous to those that we use in the harmonic oscillator. They are defined by`$a= \frac{1}{\sqrt{2e\hbar B}} (\pi_x - i\pi_y) \quad a^\dagger = 1\frac{1}{\sqrt{2e\hbar B}} (\pi_x + i\pi_y)$
 
@@ -506,7 +494,6 @@ We find that the energy eigenlevels are$\ket{n}=\omega_B\left(n+\frac{1}{2}\righ
 We started by saying that the plateaux in the IQHE correspond to the various filled Landau levels of the simple particle in a magnetic field system. We still need to prove this, namely by deriving the conductivity for the Hall states.
 This can get rather messy, so I will show put the derivation for a single particle here, and the more general derivation of the so called _Kubo formula_ in the Appendix.
 
-`sloppy`
 
 To find the resistivity, we use Ohm's law, which relates the energy of a particle to the current density (current over area)
 
@@ -525,8 +512,6 @@ We are working in Landau gauge.
 
 We end up with
 
-<!-- The upshot of this is that E= ( E 0 ) ⇒ J= ( 0 eνE/Φ0 ) Comparing to the definition of the conductivity tensor (1.6), we have σxx = 0 and σxy = eν Φ0 ⇒ ρxx = 0 and ρxy = − Φ0 eν = −2π~ e2ν (2.3) This is exactly the conductivity seen on the quantum Hall plateaux. Although the way we’ve set up our computation we get a negative Hall resistivity rather than positive.
- -->
 
 ### Edge modes
 
@@ -535,15 +520,15 @@ In order to provide a more thorough calculation (i.e. not just considering a sin
 ### Robutsness
 
 The explanation above shows us why there are plateaux at the levels we see, and even gives us a hint as to why those states would be rather
-&#x20;       stable, but it has not yet told us _why_ these plateaux persist over a range of values yet, just that something is going on at those values. We
-&#x20;       have only shown that at complete filled Landau levels ($\nu\in \mathbb{N}$) the longitudinal resistivity $\rho_{xx}=0$ and that the transversal resistivity
+ stable, but it has not yet told us _why_ these plateaux persist over a range of values yet, just that something is going on at those values. We
+ have only shown that at complete filled Landau levels ($\nu\in \mathbb{N}$) the longitudinal resistivity $\rho_{xx}=0$ and that the transversal resistivity
 $\rho_{xy}$ is an integer multiple of the quantum of resistance. However,
 if we were to move even slightly away from the completely filled Landau
-&#x20;       state where $B=\frac{ne}{2\pi\hbar}\frac{1}{\nu}$, all our previous arguments hold no water and there is no reason to expect anything already covered
-&#x20;       to hold.
+ state where $B=\frac{ne}{2\pi\hbar}\frac{1}{\nu}$, all our previous arguments hold no water and there is no reason to expect anything already covered
+to hold.
 
 This is obviously a problem, as an effect which only shows up at a specific real number would never be experimentally observable. We will need do some
-&#x20;   dirty work in order for `this` to make sense. In fact, the solution not only requires some dirty work: the solution _is_ dirtiness.
+dirty work in order for `this` to make sense. In fact, the solution not only requires some dirty work: the solution _is_ dirtiness.
 
 Experimental samples are inherently dirty (here meaning: containing other elements than the intended sample[^5]), and these impurities require us to re-examine our previous claims somewhat[^6]. These impurities lead to two vital insights which will allow us to solve our puzzle:
 
@@ -572,23 +557,23 @@ $$
 
 where $l_B$ is the magnetic length, `roughly the length scale at which these effects are relevant`
 
-<!-- =Now consider what this means in a random potential with various peaks and troughs. We’ve drawn some contour lines of such a potential in the left-hand figure, with + denoting the local maxima of the potential and − denoting the local minima. The particles move anti-clockwise around the maxima and clockwise around the minima. In both cases, the particles are trapped close to the extrema. They can’t move throughout the sample. In fact, equipotentials which stretch from one side of a sample to another are relatively rare. One place that they’re guaranteed to exist is on the edge of the sample.= -->
+{/*Now consider what this means in a random potential with various peaks and troughs. We’ve drawn some contour lines of such a potential in the left-hand figure, with + denoting the local maxima of the potential and − denoting the local minima. The particles move anti-clockwise around the maxima and clockwise around the minima. In both cases, the particles are trapped close to the extrema. They can’t move throughout the sample. In fact, equipotentials which stretch from one side of a sample to another are relatively rare. One place that they’re guaranteed to exist is on the edge of the sample.
 
 
 
-<!-- =The upshot of this is that the states at the far edge of a band — either of high or low energy — are localised. Only the states close to the centre of the band will be extended. This means that the density of states looks schematically something like the right-hand figure=. -->
+The upshot of this is that the states at the far edge of a band — either of high or low energy — are localised. Only the states close to the centre of the band will be extended. This means that the density of states looks schematically something like the right-hand figure=. 
 
 
 
-<!-- =Conductivity Revisited For conductivity, the distinction between localised and extended states is an important one. /Only the extended states can transport charge from one side of the sample to the other. So only these states can contribute to the conductivity./ Let’s now see what kind of behaviour we expect for the conductivity. Suppose that we’ve filled all the extended states in a given Landau level and consider what happens as we decrease B with fixed n. Each Landau level can accommodate fewer electrons.= -->
+Conductivity Revisited For conductivity, the distinction between localised and extended states is an important one. /Only the extended states can transport charge from one side of the sample to the other. So only these states can contribute to the conductivity./ Let’s now see what kind of behaviour we expect for the conductivity. Suppose that we’ve filled all the extended states in a given Landau level and consider what happens as we decrease B with fixed n. Each Landau level can accommodate fewer electrons.
 
 
 
-<!-- =But, rather than jumping up to the next Landau level, we now begin to populate the localised states. Since these states can’t contribute to the current, the conductivity doesn’t change. This leads to exactly the kind of plateaux that are observed, with constant conductivities over a range of magnetic field. So the presence of disorder explains the presence of plateaux. But now we have to revisit our original argument of why the resistivities take the specific quantised values (2.3). These were computed assuming that all states in the Landau level contribute to the current. Now we know that many of these states are localised by impurities and don’t transport charge. Surely we expect the value of the resistivity to be different. Right? Well, no. Remarkably, current carried by the extended states increases to compensate for the lack of current transported by localised states. This ensures that the resistivity remains quantised as (2.3) despite the presence of disorder=. -->
+But, rather than jumping up to the next Landau level, we now begin to populate the localised states. Since these states can’t contribute to the current, the conductivity doesn’t change. This leads to exactly the kind of plateaux that are observed, with constant conductivities over a range of magnetic field. So the presence of disorder explains the presence of plateaux. But now we have to revisit our original argument of why the resistivities take the specific quantised values (2.3). These were computed assuming that all states in the Landau level contribute to the current. Now we know that many of these states are localised by impurities and don’t transport charge. Surely we expect the value of the resistivity to be different. Right? Well, no. Remarkably, current carried by the extended states increases to compensate for the lack of current transported by localised states. This ensures that the resistivity remains quantised as (2.3) despite the presence of disorder. */}
 
 
 
-I will leave the more detailed explanation for why the extended states compensate for the localized states for the interested reader, see text\[[@Tong2016]
+I will leave the more detailed explanation for why the extended states compensate for the localized states for the interested reader, see text [@Tong2016]
 
 That is it for the IQHE, as we derived the two things we needed from it: we gained a general understanding of why the plateaux have their values (they are the energy eigenvalues of the Landau levels) and, more importantly, we roughly understand why these plateaux are robust. Unfortunately, this is not the end of the story, we did not even mention anything topological yet! For that we finally turn to the Fractional Quantum Hall Effect.
 
@@ -608,12 +593,12 @@ This order of operation is no longer possible in the FQHE, as the electron inter
 the number of electrons in a QH system is closer to $10^{23}$. That is a rather large matrix to diagonalize, not even close to possible to do numerically.
 Therefore, we need to pull some tricks.
 
-The trick is: do not compute the wave function, just write one down. That is exactly what text\[[@Laughlin1983]] did, yielding what we now call the **Laughlin wavefunction**
+The trick is: do not compute the wave function, just write one down. That is exactly what text [@Laughlin1983] did, yielding what we now call the **Laughlin wavefunction**
 
 [[The Laughlin Wavefunction]]
 
 Laughlin of course did not just simply write down a bunch of wavefunction and pick the one he liked best, it is motivated by some observations from the system and from some general conditions we have to place on any wavefunction.
-Specifically, in a previous paper \[[@Laughlin1983a]] he derived the wavefunctions for three particles in the FQHE. Recapping this in the case of two electrons is worthwhile.
+Specifically, in a previous paper [@Laughlin1983a] he derived the wavefunctions for three particles in the FQHE. Recapping this in the case of two electrons is worthwhile.
 
 We have a system of two electrons with a potential $V(|r_1-r_2|)$.
 
@@ -623,14 +608,14 @@ We have a system of two electrons with a potential $V(|r_1-r_2|)$.
   - Instead we pick _symmetric gauge_, which is $\hat{\mathbf{A}}=-\frac{1}{2}\hat{\mathbf{r}}\times \mathbf{B}= -yB/2 \hat{\mathbf{x}} + xB/2 \hat{\mathbf{y}}$
 - Skipping multiple steps ahead, we see that the wavefunctions look like
 
-<!--       ψ ∼ (z1 + z2)M (z1 − z2)me−(|z1|2+|z2|2)/4l2 B
- -->
+       ψ ∼ (z1 + z2)M (z1 − z2)me−(|z1|2+|z2|2)/4l2 B
+ 
 
 Unfortunately this does not uniquely or straightforwardly generalize to N particles, so we have to pull a few more tricks.
 
 1) We do try to generalize, and say that a wavefunction for N particles will look something like $f(z)e^{something}$
 2) We _insist_ that the wavefunction be in the Lowest Landau Level (LLL) it can possibly be: there are no other Landau levels it can fall back on.
-   &#x20;      This is rather strong. This leads to the claim that $f(z)$ _must_ be analytic. `how`
+         This is rather strong. This leads to the claim that $f(z)$ _must_ be analytic. `how`
 3) Since the state will have to describe fermions, the wave function must be anti-symmetric under exchange of the particles, which requires $f(z)$ to be odd.
 4) Finally, since we need to conserve angular momentum, we require that `f(z) be a homogeneous polynomial of degree M, where M is the total angular momentum.`
 
@@ -638,8 +623,7 @@ All these constraints add up to the fact that $f(z)=\prod_{j<k}(z_j-z_k)^m$, wit
 
 Well, neat, you might say, but this still just describes fermions, I thought we were going to be talking about anyons! Right you are, things only really get exciting once we start talking about _excitations_ of this ground state.
 
-<!-- I generate the elementary excitations of g by piercing the fluid at z, with an infinitely thin solenoid and passing through it a flux quantum t) cp =- hc/e adiabatically. The effect of this operation on the single-body wave functions is (z-z, ) exp(-4lzl')-(z-z, ) "exp(--'. ~z~'). (») Let us take as approximate representations of these excited states (13) '4 "=&.,''4"(--'Xl, (, l')In;(, ——". I(n;,.(*, —, )"),
- -->
+{*/ I generate the elementary excitations of g by piercing the fluid at z, with an infinitely thin solenoid and passing through it a flux quantum t) cp =- hc/e adiabatically. The effect of this operation on the single-body wave functions is (z-z, ) exp(-4lzl')-(z-z, ) "exp(--'. ~z~'). (») Let us take as approximate representations of these excited states (13) '4 "=&.,''4"(--'Xl, (, l')In(, ——". I(n,.(*, —, )"),*/}
 
 - The excitations of the FQH state (technically of the state described by the Laughlin wavefunction, which are not exactly alike)
 
@@ -671,34 +655,34 @@ This question proves rather difficult to answer, for two reasons.
 1) The holonomic angle is only defined when the vector returns to its original position, we don't expect thing to be the same when we simply stop the transport somewhere in the middle.
 2) Actual cones are not this pointy.
 
-<!-- http://applet-magic.com/paralleltransport.htm -->
+{*/http://applet-magic.com/paralleltransport.htm */}
 
 
 In actuality, when you deform the cone in the figure above, the angle _does_
 change continuously along the path of the cone wrt beginning angle, but that's
-&#x20;very often the case and does not count.
+very often the case and does not count.
 
 Instead of having the continuous parameter be the angle of the cone, a better one would be the "path", since we are interested in paths after all. Here we
-&#x20;see that if we take any path that does not cross the "seam", the angle
-&#x20;remains 0. But the seam is kind of arbitrary, so that is not really fair. We do
-&#x20;know, however, that if the path encircles the tip of the cone it definitely
-&#x20;passes the seam. So now we have our discontinuity: all paths that do not cross
-&#x20;the tip do not gain a holomorphic angle (because those paths are the same as
-&#x20;paths in Euclidean spacetime), while as soon as the path encompasses the origin
-&#x20;it has to cross the seam and thus gains an angle $\phi$.
+see that if we take any path that does not cross the "seam", the angle
+remains 0. But the seam is kind of arbitrary, so that is not really fair. We do
+know, however, that if the path encircles the tip of the cone it definitely
+passes the seam. So now we have our discontinuity: all paths that do not cross
+the tip do not gain a holomorphic angle (because those paths are the same as
+paths in Euclidean spacetime), while as soon as the path encompasses the origin
+it has to cross the seam and thus gains an angle $\phi$.
 
 Since this failure of parallel transport is a geometric property, we say that all the geometric information of the cone is centered in one point, because inclusion of that point in the path makes or breaks the angle.
 
 ### Less pointy cone
 
 As we see, the thing we then need to change in order to get a more smooth cone holonomy is the tip. At the moment we have only one point which is
-&#x20;   problematic. This can be seen as our idealization: an infinitely sharp cone
-&#x20;   instead of a blunt one.
+   problematic. This can be seen as our idealization: an infinitely sharp cone
+   instead of a blunt one.
 
 When we blunt the cone, we suddenly see that the path can be continuously deformed to include the "seam". However, what we have gained in smoothness
-&#x20;   we have lost in mathematical simplicity: we no longer can easily relate the
-&#x20;   cone to the Euclidean plane. In order to describe the blunt cone, we need to
-&#x20;   describe it's _connection_ and do some differential geometry.
+   we have lost in mathematical simplicity: we no longer can easily relate the
+   cone to the Euclidean plane. In order to describe the blunt cone, we need to
+   describe it's _connection_ and do some differential geometry.
 
 ...
 
@@ -710,7 +694,7 @@ Now we see that the cone is good.
 
 ## What is the importance of the 2D idealization for the FQHE
 
-The quantum hall effect has also been studied in three dimensions, see \[[@Torres2020]],Tang2019,Pavlosiuk2017.
+The quantum hall effect has also been studied in three dimensions, see \[@Torres2020,Tang2019,Pavlosiuk2017].
 
 Apparently it is not as straightforward as I thought, people have constructed the 3D fractional quantum hall effect, but it's rather difficult.
 
@@ -726,7 +710,7 @@ The difference-maker for whether an electron gas is 2D seems to be it's Fermi-su
 
 [@Knapp2016]
 
-$\printbibliography$
+
 
 # Footnotes
 
