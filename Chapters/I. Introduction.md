@@ -382,7 +382,7 @@ Overlaps much with the literature I gathered on idealization. I am still missing
 
 Overlaps much with the literature on infinite idealizations
 
-### FQHE [[Fractional quantum hall effect (meta)]]
+### FQHE [[Fractional Quantum Hall Effect (Meta)]]
 
 - citeShech2019a
 - citeShech2015

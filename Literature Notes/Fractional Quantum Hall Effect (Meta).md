@@ -9,7 +9,7 @@ mtime: 20210701195548
 ctime: 20210210121252
 ---
 
-# Fractional quantum hall effect (meta)
+# Fractional Quantum Hall Effect (Meta)
 
 # Papers
 

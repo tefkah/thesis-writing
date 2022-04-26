@@ -7,7 +7,7 @@ mtime: 20210701200800
 ctime: 20210330164324
 ---
 
-# It is more useful to think of explanation as a graded concept rather than an all or nothing one.
+# It Makes More Sense to Think of Explanation as Graded Rather than Binary
 
 Scientific explanation is usually thought of as a definite predicate, either something is a (good) scientific explanation, or it isn't.
 
