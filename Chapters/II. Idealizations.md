@@ -3,10 +3,7 @@ title: II. Idealizations
 tags:
   - chapter
   - idealizations
-  - proper
   - thesis
-latex_header: \usepackage[style=apa, backend=biber]{biblatex}
-latex_header_extra: \addbibresource{../bibliography/Academic.bib}
 id: 1fbefa5c-d5a1-4061-a043-e7c2ffd7c596
 mtime: 20210701194946
 ctime: 20210701194946
@@ -14,7 +11,7 @@ ctime: 20210701194946
 
 # II. Idealizations
 
-<!-- turned out larger than expected. -->
+{/*  turned out larger than expected. */}
 
 
 
@@ -22,41 +19,45 @@ ctime: 20210701194946
 
 ## Idealization is the important feature of models in my interest
 
-As mentioned previously, instead of focusing on the general process of abstraction by examining the relation between physical models and "reality", I will turn my gaze to a specific feature of the practice of modeling which, as I will argue, best exemplifies the problems with drawing boundaries: idealization.
+As mentioned previously, instead of focusing on the general process of abstraction by examining the relation between physical models and "reality", we will look at a specific feature of the practice of modeling which, as I will argue, best exemplifies the problems with drawing boundaries: idealization.
 
 ## What is idealization
 
-For the purposes at hand, identifying all the necessary and sufficient conditions counting something as an idealization is slight overkill, notwithstanding the general difficulty with such identifications. Instead, it is sufficient to focus on one necessary feature of idealizations: they _falsely_ represent one or more features of the real world in order to ease calculation or reasoning (are these all the things people do with models? reasoning is pretty broad so should be safe). This mirrors the major issue with boundary drawing/discretization, namely that some boundary is drawn in order to facilitate reasoning about some object or concept, when identifying or justifying that boundary is difficult. The shared difficulty, then, consists in justifying either the use or reality of such simplifications.
+For the purposes at hand, we don't need to identify all the necessary and sufficient conditions for counting something as an idealization. Instead, we can simply focus on a single crucial feature: they _falsely_ represent one or more aspects of the real world in order to ease calculation or reasoning ==(are these all the things people do with models? reasoning is pretty broad so should be safe)==. This mirrors the major issue with boundary drawing/discretization, namely that some boundary is drawn in order to facilitate reasoning about some object or concept, when identifying or justifying that boundary is difficult. The shared difficulty, then, consists in justifying either the use or reality of such simplifications.
 
-However, common descripitions/(word) of idealization specifically include the fact that they introduce a _false_ description, which is not something we ought to assume about the boundary drawing problem, as doing so would beg the question. Instead we will take the by now familiar stance of examining _how, if at all_ the use or legitimacy of idealizations is justified, and hopefully extrapolate from there.
+However, while one of key features of idealizations is that they intentionally distort some aspect of the target system, 
+{*/common descriptions of idealization specifically include the fact that they introduce a _false_ description,*/}
+we should not assume that the boundary drawing problem necessarily introduces false descriptions, as doing so would beg the question. Instead we will take the by-now familiar stance of examining _how, if at all_ the use of idealizations is justified {/*in physics?*/}, and hopefully extrapolate from there.
 
 ### Characterizations of idealization?
 
-Characterizations of idealizations are abound in the literature, although few dare claim to provide an exhaustive one. The most discussed are \[[@Norton2012]] 's characterization of idealization as opposed to approximation:
+Characterizations of idealizations are abound in the literature, although few dare claim to provide an exhaustive one. @Norton2012 's characterization of idealization as opposed to approximation is well received:
 
 - Approximation: proposition which sort of describes the target
 - Idealization: model whose properties sort of describe the target
 
 Norton's standard example is a ball falling through the atmosphere. We have an excellent formula for calculating the velocity $v(t)$ starting at $v=t=0$ as$v(t)=\frac{g}{k}(1-\exp(-kt))=gt-\frac{gkt^2}{2}+\frac{gk^2t^3}{6}-\ldots$
-where $g$ is the accelaration due to gravity, and $k$ a friction coefficient.
+where $g$ is the acceleration due to gravity, and $k$ a friction coefficient.
 
-As any physics student knows, it is often convenient to leave out the influence of air resistance. Setting $k=0$ gives us$v(t)=gt$
+As any physics student knows, it is often convenient to leave out the influence of air resistance. Setting $k=0$ yields $v(t)=gt$.
 
-Given Norton's distinction, we can look at the above formula in two ways, either as an approximation or as an idealization. If we view it as an approximation i.e. a proposition describing the actual system inexactly, we can say that this is a good approximation for the first part of the ball's descent, becoming a worse and worse approximation as the ball continues to fall. We could also view it as an idealization, in which case we view the above equation as representing a (false) model of a ball falling in a vacuum. It is not the description of this model that is false, rather the model (idealization) misrepresents our world in some way, namely by leaving out air.
+Given Norton's distinction, we can view the above formula in two ways: either as an approximation or as an idealization. If we view it as an approximation, i.e. a proposition describing the actual system (a ball falling through the Earth's atmosphere) inexactly, we can say that this is a good approximation for the initial part of the ball's descent, becoming a worse and worse approximation as the ball continues to fall. We could also view it as an idealization, in which case we view the above equation as representing a (false) model of a ball falling in a vacuum. It is not the description of this model that is false, rather the model (idealization) misrepresents our world in some way, namely by leaving out air.
 
-In this example the differnce between an approximation and an idealization is simply a point of view: we can freely shift the characterization of the formula as an approximation or idealization. The "shifting" Norton calls promotion and demotion respectively. Promotion consists in taking the approximation to describe a new, idealized model, while demotion is extracting one or more inexact propositions from an existing idealization.  I mention this now because it will come in handy later.
+In this example, the difference between an approximation and an idealization is simply a matter of perspective: we can freely shift between viewing the formula as an approximation or idealization. This "shifting" Norton calls promotion and demotion respectively. Promotion consists in taking the approximation and taking it as the basis for describing a new, idealized model. In this case, removing the effect of air resistance is promoted to an idealized situation of an Earth without any atmosphere.  Demotion on the other hand consists in extracting one or more inexact propositions from an existing idealization and applying them to the actual system, e.g. seeing that in No-Air-Earth the speed of the ball is $v(t)=gt$ and applying it to the ball falling in our actual Earth. ==I mention this now because it will come in handy later==.
 
-Other descriptions are due to \[[@Strevens2007]], which characterizes idealizations more similarly to how I did above, as deliberate falsifications of reality. Specifically, Strevens conceptualizes idealizations in terms of the operation behind them: setting a parameter to zero, infinity, or some other number.
+[@Strevens2007] puts forth another classification of idealizations, which characterizes idealizations more similarly to how I did above, as deliberate falsifications of reality. Specifically, Strevens conceptualizes idealizations in terms of the operation driving them: setting a parameter to zero, infinity, or some other number.
 
-### Why do we not consider the target system an idealization? It's also a model
+- [ ] Write up a proper analysis of Streven's classification.
 
-### Is idealization different than abstraction?
+{*/ ### Why do we not consider the target system an idealization? It's also a model */}
 
-## Not focus on idealizations as a whole but on infinite idealizations
+{*/### Is idealization different than abstraction?*/}
 
-As is tradition by now, I wish to focus on a subsection of idealizations first in order to get a better grasp on them. Idealization as construed above does not differ that much from a model, indeed Norton even seems to treat them as synonyms. Analyzing models on their own is difficult, and since idealizations are difficult to distinguish from models entirely, analyizing idealizations on their own will in all likelihood also turn out to be difficult. Therefore let us turn to a more problematic example of idealization, one which has more easily identifiable examples: infinite idealizations.
+## Narrowing
 
-Infinite idealizations (also called "asymptotic idealizations" by for instance \[[@Strevens2019]] or "asymptotic explanation" by for instance \[cite//b:@Batterman2005]) are, put crudely, an idealization which is arrived at through some sort of limiting operation, through which a parameter of the original model is made to approach infinity[^infinitesimal]. Commonly discussed examples in the literature are the thermodynamic limit (TDL), the fractional quantum Hall effect (FQHE), the Aharanov Bohm effect, infinite population models ....
+As is tradition by now, I wish to focus on a subsection of idealizations first in order to get a better grasp on them. Idealization as construed above does not differ that much from a model, indeed Norton even seems to treat them as synonyms. Analyzing models on their own is difficult, and since idealizations are difficult to distinguish from models entirely, analyzing idealizations on their own will in all likelihood also turn out to be difficult. Therefore let us turn to a more problematic example of idealization, one which has more easily identifiable examples: infinite idealizations.
+
+Infinite idealizations (also called "asymptotic idealizations" by for instance [@Strevens2019] or "asymptotic explanation" by for instance \[cite//b:@Batterman2005]) are, put crudely, an idealization which is arrived at through some sort of limiting operation, through which a parameter of the original model is made to approach infinity[^infinitesimal]. Commonly discussed examples in the literature are the thermodynamic limit (TDL), the fractional quantum Hall effect (FQHE), the Aharanov Bohm effect, infinite population models ....
 
 As promised, infinite idealizations run into more obvious problems more quickly: in the thermodynamic limit the number of particles goes to infinity, the FQHE posits 2D particles, the AB effect requires an infinitely long solenoid and in order to explain gene distribuitions biologists assume infinite populations. _Prima facie_, the problem appears straightforward: such things do not exist. "Can you show me an infinitely long solenoid?", the detractor exclaims. However, why does this appear so problematic? After all, was intentional misrepresentation not the characterizing feature of idealizations? Why is setting air resistance to $0$ less problematic than setting the $z$-axis to $0$?
 
@@ -68,15 +69,15 @@ As promised, infinite idealizations run into more obvious problems more quickly:
 
 ### Norton
 
-First in \[[@Norton2012]] and more in depth in \[cite//b:@Norton2014], Norton describes his unease with so called "infinite idealizations". Although never providing a strict definition, we can make an educated guess to one:
+First in [@Norton2012] and more in depth in \[cite//b:@Norton2014], Norton describes his unease with so called "infinite idealizations". Although never providing a strict definition, we can make an educated guess to one:
 
 **Infinite Idealization (Norton):**
 
 An infinite idealization is made by performing a limiting operation on an idealized system, taking some parameter (such as length, number, volume) to either zero or infinity. The infinite idealization is the system with the parameter _set_ to zero or infinity. However, sometimes these systems misbehave by either the limit not obtaining or conflicting, which is bad.
 
-This characterization somewhat goes against the limit of what Norton intends to argue, namely that such infinite idealizations are not idealizations at all, but can only be sensibly understood as _approximations_ as defined above. For "the essential starting point of the notion of idealization is that we have a consistently describably system, even if it is fictitious."\[[@Norton2014]] pp. 200   However, I am not willing to grant that condition just yet, so for now we will refer to these systems as infinite idealizations.
+This characterization somewhat goes against the limit of what Norton intends to argue, namely that such infinite idealizations are not idealizations at all, but can only be sensibly understood as _approximations_ as defined above. For "the essential starting point of the notion of idealization is that we have a consistently describably system, even if it is fictitious."[@Norton2014] pp. 200   However, I am not willing to grant that condition just yet, so for now we will refer to these systems as infinite idealizations.
 
-Norton furthermore distinguishes between well-behaved and ill-behaved idealizations.[^well-behaved] Ill-behaved idealizations are infinite idealizations whose limit system (the system with the parameter _set_ to zero or infinity) does not match with target system in some way. This mismatch can take two forms \[[@Norton2012]] (3.2, 3.3): the limit system might not exist, e.g. an infinite sphere, or the limit system might have a property which conflicts with a property of the target system. For the former, if we define a sphere as all points which are equidistant from some other point, then an infinite sphere does not exist, as there are no points at infinity. ($\mathbb{R}=(-\infty, \infty)$ not tt$[-\infty,\infty]$) For the latter, Norton imagines modelling an arbitarily long ellipsoid as an infinite cylinder. While they look similar, the ratio of surface to volume for an ellipsoid is different than that for a cylinder, so the idealization has a fundamental mismatch.
+Norton furthermore distinguishes between well-behaved and ill-behaved idealizations.[^well-behaved] Ill-behaved idealizations are infinite idealizations whose limit system (the system with the parameter _set_ to zero or infinity) does not match with target system in some way. This mismatch can take two forms [@Norton2012] (3.2, 3.3): the limit system might not exist, e.g. an infinite sphere, or the limit system might have a property which conflicts with a property of the target system. For the former, if we define a sphere as all points which are equidistant from some other point, then an infinite sphere does not exist, as there are no points at infinity. ($\mathbb{R}=(-\infty, \infty)$ not tt$[-\infty,\infty]$) For the latter, Norton imagines modelling an arbitarily long ellipsoid as an infinite cylinder. While they look similar, the ratio of surface to volume for an ellipsoid is different than that for a cylinder, so the idealization has a fundamental mismatch.
 
 In short: for Norton infinite idealization simply is the end result of the process of a limiting operation. Furthermore, these idealizations can sometimes be well behaved, and sometimes ill-behaved.
 
@@ -103,14 +104,14 @@ Focusing on the discussion of infinite idealizations solely, I believe 4 (maybe 
 
 ### Simple vs. Infinite Idealizations
 
-In Strevens and less explicitly in Norton, the discussion is presented as being about this distinction, but actually concerns a subclass of infinite idealizations we shall discuss below. However, the simple vs. infinite distinction is a useful one, but I will draw it differently than Strevens.
+In Strevens -- and less explicitly in Norton -- the discussion is presented as being about this distinction, but actually concerns a subclass of infinite idealizations we shall discuss below. However, the simple vs. infinite distinction is a useful one, but I will draw it differently than Strevens.
 
 1) _Simple Idealization_.
    A simple idealization is an idealization in which no limit is taken in order to set the relevant parameter.
 2) _Infinite Idealization_.
    An infinite idealization is one in which a limit is taken in order to set a parameter.
 
-Note that no reference has been made to whether or not it affects another parameter, or whether the limit operation is succesful. I argue that this is first and foremost the distinction between these idealizations, and that other qualities should be discussed separately. (I am not sure whether idealizations can be split up neatly into two disjoint sets like these (I'm not sure if that can be done at all, see \[[@WEBER2010]] ), but i'll just treat it like it does)
+Note that no reference has been made to whether or not it affects another parameter, or whether the limit operation is succesful. I argue that this is first and foremost the distinction between these idealizations, and that other qualities should be discussed separately. (I am not sure whether idealizations can be split up neatly into two disjoint sets like these (I'm not sure if that can be done at all, see [@WEBER2010] ), but i'll just treat it like it does)
 
 This is a distinction based on _method_: _how_ is the idealization achieved? The idealized system might end up the same in some cases, but the operation is the relevant piece.
 
@@ -151,7 +152,7 @@ There are two more distinctions of which I am not sure I can genuinely draw them
 
 #### Logical/transcendental contradiction vs a physical/intuitive contradiction.
 
-The former is exemplified by Streven's infinite population example: the main problem is that for an infinite population it is no longer possible to have countable additivity with a uniform distribution, and so you cannot use the Strong Law of Large Numbers and could not say anything about the probability of genetic drift (might be badly paraphrasing): the method itself is no longer useful, but it's not a direct self-contradiction as the infinite sphere, as an infinite population is a sensible concept. The latter is a bit more vague, but here I mean e.g. the thermodynamic limit: it does not work because it stipulates an inifite number of particles. However, this is in conflict with the whole idea that the world is made up of molecules. BUT not directly so, as \[[@Shech2013]] points out, it is only a real paradox if we stipulate that statistical mechanics in the thermodynamic limit is a true/accurate representaiton of the world, which we need to justify by e.g. (or i.e.? I don't know of any others) an indispensability argument.
+The former is exemplified by Streven's infinite population example: the main problem is that for an infinite population it is no longer possible to have countable additivity with a uniform distribution, and so you cannot use the Strong Law of Large Numbers and could not say anything about the probability of genetic drift (might be badly paraphrasing): the method itself is no longer useful, but it's not a direct self-contradiction as the infinite sphere, as an infinite population is a sensible concept. The latter is a bit more vague, but here I mean e.g. the thermodynamic limit: it does not work because it stipulates an inifite number of particles. However, this is in conflict with the whole idea that the world is made up of molecules. BUT not directly so, as [@Shech2013] points out, it is only a real paradox if we stipulate that statistical mechanics in the thermodynamic limit is a true/accurate representaiton of the world, which we need to justify by e.g. (or i.e.? I don't know of any others) an indispensability argument.
 
 This is a distinction based on????
 
@@ -165,13 +166,10 @@ I think the order is best explained by this beautiful diagram, the whole box bei
 
 ## Discussion
 
-While these distinctions might appear nitpicky, I think they are vital for making sure we are discussing the correct problem. Additionally, in making these distinctions it became clear that perhaps more distinctions need to be made, such as the specific nature of the contradiction induced, see Section $\ref{sec:orgff730de}$.
+While these distinctions might appear nitpicky, I think they are vital for making sure we are discussing the correct problem. Additionally, in making these distinctions it became clear that perhaps more distinctions need to be made, such as the specific nature of the contradiction induced, see Section X.
 
 What is clear is how infinite idealizations (the interesting ones at least) differ from idealizations in general or simple ones. Infinite idealizations are a subcategory of idealizations, together with simple idealizations (whether they completely fill the category of idealization is left open). However, the distinction between infinite idealizations and simple idealizations does not prove particularly enlightening. Other distinctions will be more fruitful to investigate. I do not think this warrants a change in nomenclature per se, as there is substantial literature on infinite idealizations already. Clarification would be in order though.
 
-# Bib
-
-$\printbibliography$
 
 # Footnotes
 

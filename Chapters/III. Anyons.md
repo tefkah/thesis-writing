@@ -21,8 +21,7 @@ ctime: 20210528160149
 - [ ] `Good line to introduce the chapter`
 
 The main subject of discussion here will be a new class of (quasi-)particles:
-anyons. In undergraduate courses, or, if you're lucky, highschool, we learn that two types of particles exist: fermions and bosons. These particles are distinguished by spin, half-integer and integer spin respectively. Anyons, as their name suggests, break this binary and are allowed _any_ type of spin,
-creating a whole new category of particle.[^4] While anyons are fascinating in their own right, we are interested in them because, according to the canon explanation, anyons are two-dimensional particles. More suggestively, the space they occupy cannot be _approximately_ $2D$, such as a $3D$ space of $1nm$ height,
+anyons. In undergraduate courses, or, if you're lucky, highschool, we learn that two types of particles exist: fermions and bosons. These particles are distinguished by spin, half-integer and integer spin respectively. Anyons, as their name suggests, break this binary and are allowed _any_ type of spin, creating a whole new category of particle.[^4] While anyons are fascinating in their own right, we are interested in them because, according to the canon explanation, anyons are two-dimensional particles. More suggestively, the space they occupy cannot be _approximately_ $2D$, such as a $3D$ space of $1nm$ height,
 but _exactly_ two dimensional: a clear case of an infinite(simal) idealization. Of course, anyons would be just another plaything, were it not that, at the time of writing, anyons have rather strong empirical backing [@Bartolomei2020].
 
 Another reason why anyons present such an interesting case, is that their explanation explicitly requires _topological_ arguments. Topological arguments, as I will show, show up in unexpected places and allow problematic idealizations to sneak in, as they smooth out many of the difficult to solve geometry. By tackling such an explicit use of topology in an infinite idealization, we will be able to use the argumentative structure in our general analysis of infinite idealizations. `The opposite of topology is geometry`
@@ -694,7 +693,7 @@ Now we see that the cone is good.
 
 ## What is the importance of the 2D idealization for the FQHE
 
-The quantum hall effect has also been studied in three dimensions, see \[@Torres2020,Tang2019,Pavlosiuk2017].
+The quantum hall effect has also been studied in three dimensions, see [@Torres2020,@Tang2019,@Pavlosiuk2017].
 
 Apparently it is not as straightforward as I thought, people have constructed the 3D fractional quantum hall effect, but it's rather difficult.
 
@@ -730,7 +729,7 @@ The difference-maker for whether an electron gas is 2D seems to be it's Fermi-su
 
 [^6]: The non-dirty sample just discussed is a great example of taking an idealization too seriously: we cannot explain the phenomena in the idealized setting, and have to retrofit extra physics on top of the idealization in order to get a satisfying explanation, only for us to then show in the limit of no impurities we regain our initial idealization. If this limit would not have been smooth (it fortunately is), we would have wasted all this time!
 
-[^5]: Improved performance of impure 2D materials is an active area of research in material science, see \[[@Wang2020]] for a summary of how impurities enhance the conductivity of graphene.
+[^5]: Improved performance of impure 2D materials is an active area of research in material science, see [@Wang2020] for a summary of how impurities enhance the conductivity of graphene.
 
 [^4]: Or an infinite number of new particle types, depending on one's preference.
 
