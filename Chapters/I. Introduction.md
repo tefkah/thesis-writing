@@ -5,8 +5,6 @@ tags:
   - structure
   - introduction
   - thesis
-latex_header: \usepackage[style=apa, backend=biber]{biblatex}
-latex_header_extra: \addbibresource{../bibliography/Academic.bib}
 id: fc0a61f3-2c05-4c30-ac48-08b84203010a
 mtime: 20220318215804 20210701200531
 ctime: 20210701200531
@@ -14,11 +12,11 @@ ctime: 20210701200531
 
 # I. Introduction
 
-# Introduction/Discretization
+## Introduction/Discretization
 
 As I see it, the chief problem of philosophy is to explicate how, if at all, our language relates to the world. This is not a new thought, but one I wish to explore in this thesis.
 
-## Specifically: words seem to denote a very precise ontological thing, but our epistemological capacities aren't that precise
+### Specifically: words seem to denote a very precise ontological thing, but our epistemological capacities aren't that precise
 
 I believe there exists a massive mismatch between the way we use language (names and/or concepts in particular) and how we conceptualize the ontology of the world. In short it is this: the <u>names</u> we use for objects and <u>concepts</u> in our language are discrete, while the space underlying them is continuous. That is, while we use names and concepts as if they have a definite <u>boundary</u>, there does not seem to be a clear line we can draw between the object and not-object, the concept and not-concept. Their boundary seems to be <u>vague</u>, indeterminate, fuzzy, etc.
 
@@ -35,7 +33,7 @@ The third and final issue with delineating the football is a more familiar matte
 
 This third problem is best conceptualized using the Sorites paradox, which is not specific to names but to properties and concepts more generally as well. The basic idea can be summarized as follows: ten thousand grains of rice makes a heap of rice (or X collection of atoms make up "the football"). 9.999 grains of rice still make up a heap, as does 9,998. It appears that if N grains of rice make up a heap, then N-1 grains of rice also make up a heap. However, by mathematical induction, this would force us to conclude that any x grains of rice makes up a heap, including 1 grain of rice, which is patently false. To combat this, we can postulate that there exists a definite boundary between "being a heap" and "not being a heap". However, since the only way in which we can affect the heap is by adding or subtracting a grain of rice, this would lead to the other false conclusion that there exists an x such that X grains of rice do not make a heap while X+1 grains of rice do make a heap, which goes against the premises of the first argument: a true paradox.
 
-## I don't want to directly tackly meaning/vagueness/boundaries because it's hard. Instead I will look at physics because I know physics, and they sort of do this
+### I don't want to directly tackly meaning/vagueness/boundaries because it's hard. Instead I will look at physics because I know physics, and they sort of do this
 
 These problems are deep and substantial, and while tackling them head on might be an option, I instead wish take a more roundabout route for exploring them by relating them to an area that explicitly deals with making precise denotations of an continuous mess: physics.
 
@@ -53,7 +51,7 @@ However, attempting to evaluate how, if at all, physics represents "reality" dir
 
 Although the nature of idealizations and abstractions (henceforth I will just write idealization) will be spelled out in more detail later, it is worth noting some of its basic features and some similarities with the larger issue of denotation.
 
-(For the moment I will treat idealizations and abstractions as basically being the same thing, idealizations probably being more specific than abstractions. It is important and necessary to determine whether these do amount to the same thing however, see for instance \[[@Shapiro2004]], \[cite//b:@mancosuAbstractionInfinity2016], \[cite//b:@Lutz] or \[cite//b:@Knox2016] or \[cite//b:@2016]
+(For the moment I will treat idealizations and abstractions as basically being the same thing, idealizations probably being more specific than abstractions. It is important and necessary to determine whether these do amount to the same thing however, see for instance [@Shapiro2004,@mancosuAbstractionInfinity2016,@Lutz] or [@Knox2016] or [@2016]
 Although one clear difference does already spring to mind: idealizations are usually strictly false, while abstractions are more akin to generalizations, in that they are not false but simply cover more phenomena. Idealizations might not be a subtype of abstraction, but maybe a feature of it. I might start by introducing abstractions first, then focusing on idealizations later as a way to tackle that, but I am not sure of that step yet.)
 
 ## Why should we pick idealizations
@@ -70,7 +68,7 @@ An infinite idealization is an idealization in which some relevant property is s
 
 ### How does it differ from a normal idealization
 
-Infinite idealizations differ from "normal" or simple idealizations, to borrow \[[@Strevens2019a]] 's terminology, in which a value is simply set to some other value.
+Infinite idealizations differ from "normal" or simple idealizations, to borrow [@Strevens2019a] 's terminology, in which a value is simply set to some other value.
 
 ### What's the goal of an infinite idealization
 
@@ -196,7 +194,7 @@ However, we must be weary of not simpy defining another concept of explanation. 
    1) If they obey all of the criteria, this does not mean that it is a successful explanation per se. The criteria only serve a negative purpose, barring would be explanations from attaining such status, as it provides only necessary conditions, no sufficient ones, by design.
    2) Being arbitrarily normative, or rather begging the question If one were to define exclusion criteria for what ought to count as explanation, we need to watch out that we do not beg the question. We must take great care to justify these exclusion criteria, otherwise it can come across as us simply taking elements from these explanations and labeling them as bad. Furthermore the risk exists of excluding an entire category of explanatory theories, which defeats the point.
 
-      (This might happen for instance when one assumes that a good explanation ought to determine which objects in said explanation "make a difference", see e.g. \[[@DeBianchi2016]] )
+      (This might happen for instance when one assumes that a good explanation ought to determine which objects in said explanation "make a difference", see e.g. [@DeBianchi2016] )
 
 #### TODO Figure out whether the difference maker discussion excludes the DN model or unificationist model
 
@@ -305,7 +303,7 @@ The relevant point here is that in order for the explanation of the fractional q
 
 ## Breaking drops
 
-In his 2005 paper Breaking Drops something something  \[[@Batterman2005]] argues that the breaking off of a droplet from a dripping faucet is an example of a genuine discontinuity in nature. While not mentioning the word "infinite idealization", it is clear that it was he is implying when making the argument.
+In his 2005 paper Breaking Drops something something  [@Batterman2005] argues that the breaking off of a droplet from a dripping faucet is an example of a genuine discontinuity in nature. While not mentioning the word "infinite idealization", it is clear that it was he is implying when making the argument.
 
 The argument is flawed by using weird conceptions of continuity, in particular by taking the infinite limit before the end of the operation.
 
@@ -373,27 +371,26 @@ Overlaps much with the literature I gathered on idealization. I am still missing
 ### Phase transitions [[Phase Transitions (Meta)]]
 
 - [@ech2013]
-- citeMenon2011
-- citeKadanoff2009
-- citeSklar1999
-- citeCallender2001
-- citeArdourel2018
-- citeNorton2012
+- [@Menon2011]
+- [@Kadanoff2009]
+- [@Sklar1999]
+- [@Callender2001]
+- [@Ardourel2018]
+- [@Norton2012]
 
 Overlaps much with the literature on infinite idealizations
 
 ### FQHE [[Fractional Quantum Hall Effect (Meta)]]
 
-- citeShech2019a
-- citeShech2015
-- citeBain2016
-- citesaundersExplanationQuantumStatistics
-- citeTong2016
--
+- [@Shech2019a]
+- [@Shech2015]
+- [@Bain2016]
+- [@saundersExplanationQuantumStatistics]
+- [@Tong2016]
 
 ### Aharonov Bohm Effect
 
 - [@Shech2018b]
-- cite: Tong2016
+- [@Tong2016]
 - [@Earman2019]
 - [@Dougherty2020]
