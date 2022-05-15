@@ -39,13 +39,13 @@ In a standard physics undergraduate program, you learn that there are two types 
 fermions coming in half-integer multiples $(\frac{1}{2}, \frac{3}{2} , ... )$
 and bosons in integer multiples $(0, 1, 2, ...)$. A good starting question for understanding anyons would be: why _do_ we think there are only two types of particles? Why not $1$, or $3$, or infintely many? While many similar questions are as of yet unanswerable, such as why there appear to be only three generations of leptons (e.g. electrons, muons, tauons) or three fundamental forces in mhe standard model (electromagnetic, weak, and strong), this one does have an accepted answer. It is, as always, a combination of experimental results and theory. Fermions and bosons' share few features besides the fact that they are particles, but the important commonality is that they are both_indistinguishable_ particles. Every electron is the exact same as every other electron, and every photon is perfectly identical to the next. There is no way to tell whether two fermions or two bosons have switched places when you weren't looking. We will explore the consequences of this in more detail later, but the important consequence of this fact is that it induces an overdescription of the physical situation: we can mathematically describe two situations, one in which we have electron $1$ on the left and electron $2$ on the left. While mathematically distinct, these situations are physically identical, and in order for our physics to make sense we need to account for this distinction. The reasons for assuming indistinguishability could be a thesis topic in its own right, and the above description does not attempt to do it justice. The important point is _how_ we arrive from this indistinguishability to the fact that there are two types of particles: how does indistinguishability help us distinguish particles, and how do we mathematically distinguish these identical states?
 
-As a warm-up, let us consider a rather handwavey argument. Handwavey, because it relies on the particles still being distinguishable, but it illustrates the point. Say we start with a system $\Psi_0$ of two particles, $x_1$ and $x_2$, each with their own probability distribution $\psi_i$$\Psi_0=\psi_a(x_1)\psi_b(x_2)$
+As a warm-up, let us consider a rather handwavey argument. Handwavey, because it relies on the particles still being distinguishable, but it illustrates the point. Say we start with a system $\Psi_0$ of two particles, $x_1$ and $x_2$, each with their own probability distribution $\psi_{i}$  $$\Psi_0=\psi_a(x_1)\psi_b(x_2)$$
 
 Now, for our next trick, we will exchange the two particles, such that particle$x_1$ is in state $\psi_a$ and particle $x_2$ is in state $\psi_b$. If we suggestively take state $\psi_i$ to be mean something like "having probability $1$ of being found around $x=a$", then this exchange can be the physical exchange of the two particles. Now, of course, we do not know which particle is which, so writing down the 1-exchange wave function would be getting ahead of ourselves, but we do know that if we were to exchange the particles once again we should regain our initial wavefunction $\Psi_0$. To dentote this, we define an exchange operator $P$
 which does just, and say that the wavefunction after exchanging twice (=
 rotating by 360 degrees) is $\psi_{2\pi}=P^2\psi_0=1\psi_0$. To find the wavefunction of the 1-exchange system, we find
 
-$\psi_{\pi}=P\psi_0=\sqrt{1}\psi_0=\pm 1\psi_0$
+$$\psi_{\pi}=P\psi_0=\sqrt{1}\psi_0=\pm 1\psi_0$$
 
 This yields two possibilities for particles: those for with $P=-1$ and those for which $P=1$. The latter are bosons and the former are fermions.[^7]
 
@@ -58,7 +58,9 @@ The main notion of similarity used to explain anyons, namely the topological not
 Returning to anyons, we see that the approach taken for the _explanation_ turns out to be topological, while when actually calculating the phase we need to take into account the _geometry_. Here we will first discuss the topological argument,
 after which we will consider the prequisites for and the geometrical argument itself in Section 3 and 4.
 
-By focussing on the homotopy notion of equivalent paths, we release ourselves from the burden of having to examine each individual path and instead are able to focus on features of the _space_. Specifically, since we only need whether two paths are continuously deformed into one another, we just need to look at whether the space allows for such trickyness. This feature of a space is called its **connectedness**. A space is called **simply connected** iff all _loops_ can be deformed into a point, like in figure ref:fig:connectedness. For our purposes,
+By focussing on the homotopy notion of equivalent paths, we release ourselves from the burden of having to examine each individual path and instead are able to focus on features of the _space_. Specifically, since we only need whether two paths are continuously deformed into one another, we just need to look at whether the space allows for such trickyness. This feature of a space is called its **connectedness**. A space is called **simply connected** iff all _loops_ can be deformed into a point, like in figure ref:fig:connectedness.
+
+For our purposes,
 since we are looking at the position of a particle in spacetime, we can consider a space to be simply connected if it has no holes. Here a hole is a hole that
 "pierces" the space: the handle in the "space" of a coffeecup and the hole in the "space" of a donut are prime examples, while the inside of a bottle or a bubble in a glass of coke do not count as "holes" for the sake of connectedness.
 On the contrary, spaces with such holes are called _multiply-connected_, or sometimes more simply _non-simply-connected_ spaces.
@@ -98,9 +100,7 @@ Our first task is to construct the configuration space for the exchange of $N$
 identical particles in $3D$, after which we will examine its topological properties. The most general configuration space we can construct is one for
 $N$ particles living in $d$ dimensions, which would be
 
-$$
-\mathbb{R}^d_1 \times \mathbb{R}^d_2 ... \times \mathbb{R}^d_N
-$$
+$$\mathbb{R}^d_1 \times \mathbb{R}^d_2 ... \times \mathbb{R}^d_N$$
 
 We shall for now focus on just two particles in $\mathbb{R}^3$, which would be the configuration space occupied by two $3$-dimensional vectors $(r_1, r_2)$ representing two particles$\mathbb{R}^3\times \mathbb{R}^3$
 As we are dealing with identical particles, however, we need to add some extra structure, which results in our configuration space being much smaller than the above.
@@ -123,22 +123,14 @@ Returning back to the configuration space, it appears we have no other choice th
 representation, $\Delta$ consists of the diagonal of points$\mathbf{r_1}=\mathbf{r_2}$, such as $(\mathbf{0}, \mathbf{0})$, $(\mathbf{1},
 \mathbf{1})$ etc. In our current CM/distance representation, in which we only focus on the distance part $\frac{\mathbb{R}^3}{S_2}$, this amount to only excising single point at the origin, so $\Delta=\{\mathbf{0}\}$. Now we are finally able to write down the full configuration space $Q$
 
-$$
-Q=\mathbb{R}^d \times \frac{\mathbb{R}^d -\Delta}{S_2}
-$$
+$$Q=\mathbb{R}^d \times \frac{\mathbb{R}^d -\Delta}{S_2}$$
 
 of which we will only be studying the latter half $Q'$, e.g.
 
-$$
-Q'=\frac{\mathbb{R}^d - \{\mathbf{0}\}}{S_2}
-$$
+$$Q'=\frac{\mathbb{R}^d - \{\mathbf{0}\}}{S_2}$$
 
 Finally we are able to make some clever remarks about the structure of the configuration space, starting (and ultimately ending) with its _connectedness_. As mentioned previously, as space is called _simply connected_
-if, roughly, no holes pierce it. To placate the more mathematically oriented reader and be more precise, a space is called simply connected if
-   it contains no non-trivial loops, meaning that all paths looping back
-  around to itself (a loop) are _homotopy equivalent_ to a point, meaning that we are able to smoothly "close the loop" without it "snagging" behind a
-   point somewhere. The "are able to" does a lot of work here: if there is
-    even _a single_ way to contract the path to point we consider it possible to do so and therefore the _whole_ space simply-connected.
+if, roughly, no holes pierce it. To placate the more mathematically oriented reader and be more precise, a space is called simply connected if it contains no non-trivial loops, meaning that all paths looping back around to itself (a loop) are _homotopy equivalent_ to a point, meaning that we are able to smoothly "close the loop" without it "snagging" behind a point somewhere. The "are able to" does a lot of work here: if there is even _a single_ way to contract the path to point we consider it possible to do so and therefore the _whole_ space simply-connected.
 
 > [!example]
 >
@@ -181,15 +173,11 @@ Therefore there are two different kinds of paths. Now we are truly able to appre
 
 Let us now turn to the actually interesting case of a $2D$ system and how it gives rise to different homotopy equivalent paths. We start off with our CM/distance representation, but this time in 2D, leading to our full configuration space
 
-$$
-Q_2=\mathbb{R}^2\times \frac{\mathbb{R}^2 -\Delta}{S_2}
-$$
+$$Q_2=\mathbb{R}^2\times \frac{\mathbb{R}^2 -\Delta}{S_2}$$
 
 and will be focusing on the latter half,
 
-$$
-Q_2'=\frac{\mathbb{R}^2-\Delta}{S_2}
-$$
+$$Q_2'=\frac{\mathbb{R}^2-\Delta}{S_2}$$
 
 where once again, $\Delta$ is the set of points where $(\mathbf{r_1},\mathbf{r_2})$ intersect, i.e. the set $\{\mathbf{0}\}$, and $\frac{}{S_2}$ indicates the equivocation off all configurations symmetric under permutation invariance, i.e. $(\mathbf{r_1, r_2})=(\mathbf{r_2,r_1}) \quad \forall \mathbf{r_1,r_2}$.
 
@@ -235,11 +223,7 @@ the groups we found are those for $2$ particles, and being able to easily genera
 
 This relating is done through finding an isomorphism between these groups. It turns out that, for $N$ particles, the fundamental groups are
 
-$$
-\pi_1(Q_3')=S_N
-$$$$
-    \pi_1(Q_2')=B_N
-$$
+$$\pi_1(Q_3')=S_N$$$$\pi_1(Q_2')=B_N$$
 
 
 ##### TODO Symmetry group
@@ -255,11 +239,11 @@ The fundamental group of our $2D$ configuration space is isomorphic to the
 _Braid group_, a group often studied in knot theory as braids can be seen as cut knots. The $N$-dimensional Braid group can be seen as all the possible
 _braids_ of $N$ strands, together with the _braiding composition_ $R_i$ and its inverse $R_i^{-1}$, which stand for exchanging braid $i$ and $i+1$
 clockwise and counterclockwise respectively. A braid is a set of strands
-     crossing over and under each other and fixed at either end. Specifically,
-     two braids are the same if the strands can be moved into the same
-     configuration without phasing through each other or moving the endpoints.
-     Because of this, the Braid group fundamentally differs from the symmetry
-     group, as fr the symmetry group $\{123\}$ and $\{231\}$ are the same, they are different elements in the Braid group, see ref:fig:braidvssymmetry
+crossing over and under each other and fixed at either end. Specifically,
+two braids are the same if the strands can be moved into the same
+configuration without phasing through each other or moving the endpoints.
+Because of this, the Braid group fundamentally differs from the symmetry
+group, as fr the symmetry group $\{123\}$ and $\{231\}$ are the same, they are different elements in the Braid group, see ref:fig:braidvssymmetry
 
 - [ ] add figures that show off the difference between braid group and symmetry group
 
@@ -355,15 +339,11 @@ let's just calculate the Berry phase right? Well, sure, but we cannot just calcu
 
 Turns out we have one very promising candidate: the fractional quantum hall effect. To not waste time, let's calculate it:
 
-$$
-e^{i\theta}=\exp{-i\oint_C \mathcal{A}_i(\lambda) d\lambda^i}
-$$
+$$e^{i\theta}=\exp{-i\oint_C \mathcal{A}_i(\lambda) d\lambda^i}$$
 
 where $C$ is the path traversed by the particle through some parameter space, $\lambda^i$ the parameter being varied and $\mathcal{A}_i$ the _[[Berry Connection]]_ for a specific quantum state $\ket{n(R)}$, defined as
 
-$$
-\mathcal{A}=i\bra{n(R)}\nabla_R\ket{n(R)}
-$$
+$$\mathcal{A}=i\bra{n(R)}\nabla_R\ket{n(R)}$$
 
 - [ ] clean up lambdas and Rs
 
@@ -454,9 +434,7 @@ Here we already start to sneak in our idealizations: we will treat this system a
 
 The simplest Hamiltonian for a system of particles moving in a magnetic field is
 
-$$
-H=\frac{1}{2} m(\hat{\mathbf{p}} +e \hat{\mathbf{A}} )^2
-$$
+$$H=\frac{1}{2} m(\hat{\mathbf{p}} +e \hat{\mathbf{A}} )^2$$
 
 The  magnetic field is perpendicular to the $x,y$-plane, so we define the vector potential $\hat{\mathbf{A}}$ using our knowledge that the magnetic field is perpendicular to the plane $\nabla\times\hat{\mathbf{A}}=B \hat{z}$, to be
 
@@ -490,9 +468,7 @@ This can get rather messy, so I will show put the derivation for a single partic
 
 To find the resistivity, we use Ohm's law, which relates the energy of a particle to the current density (current over area)
 
-$$
-\mathbf{E}=\sigma \mathbf{J}
-$$
+$$\mathbf{E}=\sigma \mathbf{J}$$
 
 Our mechanical momentum is$\hat{\mathbf{\pi}}=\hat{\mathbf{p}}+e \hat{\mathbf{A}} = m \hat{\mathbf{\dot{x}}}$
 Classically, the current (for a single particle) is simply $\mathbf{I}=-e\mathbf{\dot{x}}$, but isnce we are working quantum mechanically we take the expectation value
@@ -538,15 +514,11 @@ Correct you are: in general we demand that a) the strength of the disorder
 (which we model as a random potential) ought to be small relative to the Landau level splitting and b) the disorder does not dramatically vary on small scales,
 such that for a particle influenced by it the potential can locally be seen as constant. We can express these as
 
-$$
-V_{disorder}<<\hbar\omega_B
-$$
+$$V_{disorder}<<\hbar\omega_B$$
 
 and
 
-$$
-|\Delta V|<<\frac{\hbar \omega_B}{l_B}
-$$
+$$|\Delta V|<<\frac{\hbar \omega_B}{l_B}$$
 
 where $l_B$ is the magnetic length, `roughly the length scale at which these effects are relevant`
 
@@ -616,7 +588,7 @@ All these constraints add up to the fact that $f(z)=\prod_{j<k}(z_j-z_k)^m$, wit
 
 Well, neat, you might say, but this still just describes fermions, I thought we were going to be talking about anyons! Right you are, things only really get exciting once we start talking about _excitations_ of this ground state.
 
-{*/ I generate the elementary excitations of g by piercing the fluid at z, with an infinitely thin solenoid and passing through it a flux quantum t) cp =- hc/e adiabatically. The effect of this operation on the single-body wave functions is (z-z, ) exp(-4lzl')-(z-z, ) "exp(--'. ~z~'). (») Let us take as approximate representations of these excited states (13) '4 "=&.,''4"(--'Xl, (, l')In(, ——". I(n,.(*, —, )"),*/}
+{/* I generate the elementary excitations of g by piercing the fluid at z, with an infinitely thin solenoid and passing through it a flux quantum t) cp =- hc/e adiabatically. The effect of this operation on the single-body wave functions is (z-z, ) exp(-4lzl')-(z-z, ) "exp(--'. ~z~'). (») Let us take as approximate representations of these excited states (13) '4 "=&.,''4"(--'Xl, (, l')In(, ——". I(n,.(*, —, )"), */}
 
 - The excitations of the FQH state (technically of the state described by the Laughlin wavefunction, which are not exactly alike)
 
@@ -627,7 +599,7 @@ Well, neat, you might say, but this still just describes fermions, I thought we 
 Parallel transport is a bit strange. On a flat Euclidean plane, nothing happens.
 A cone is like a flat Euclidean plane glued together in a weird way, like this
 
-- ![](../media/conefold.png)
+![](../media/conefold.png)
 
 Where side $s$ is glued to side $?$ in order to yield a smooth surface, with the exception of the problematic point $S$.
 
@@ -635,7 +607,7 @@ We can then calculate our parallel transport by simply "doing" the parallel tran
 
 The vector is transport from the one side to the other, eventually reaching the edge $s$, from where it is suddenly teleported to $s$, ending up with a much different angle.
 
-- ![](../media/transport.jpeg)
+![](../media/transport.jpeg)
 
 https://www.physicsforums.com/threads/parallel-transport-and-cone.1000209/
 
@@ -648,7 +620,7 @@ This question proves rather difficult to answer, for two reasons.
 1) The holonomic angle is only defined when the vector returns to its original position, we don't expect thing to be the same when we simply stop the transport somewhere in the middle.
 2) Actual cones are not this pointy.
 
-{*/http://applet-magic.com/paralleltransport.htm */}
+{/*http://applet-magic.com/paralleltransport.htm */}
 
 
 In actuality, when you deform the cone in the figure above, the angle _does_
@@ -687,7 +659,7 @@ Now we see that the cone is good.
 
 ## What is the importance of the 2D idealization for the FQHE
 
-The quantum hall effect has also been studied in three dimensions, see [@Torres2020,@Tang2019,@Pavlosiuk2017].
+The quantum hall effect has also been studied in three dimensions, see [@Torres2020;@Tang2019;@Pavlosiuk2017].
 
 Apparently it is not as straightforward as I thought, people have constructed the 3D fractional quantum hall effect, but it's rather difficult.
 
