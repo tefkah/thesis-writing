@@ -3,10 +3,6 @@ title: III. Anyons
 tags:
   - chapter
   - anyons
-latex_header: \usepackage[style=apa, backend=biber]{biblatex}
-latex_header_extra: \DeclareUnicodeCharacter{2212}{-}
-transclude: "[[id:66aff1d3-bd45-45e5-9d31-d4292d76ae8e][FQHE/anyon
-  chapter:Geometrical Phase]]"
 id: 84c8fdf0-a17d-4610-b644-d298235f699e
 mtime: 20220411171600 20211213124823 20211017163517 20211017163516
 ctime: 20210528160149
@@ -17,8 +13,6 @@ ctime: 20210528160149
 # Intro
 
 ## New intro
-
-- [ ] `Good line to introduce the chapter`
 
 The main subject of discussion here will be a new class of (quasi-)particles:
 anyons. In undergraduate courses, or, if you're lucky, highschool, we learn that two types of particles exist: fermions and bosons. These particles are distinguished by spin, half-integer and integer spin respectively. Anyons, as their name suggests, break this binary and are allowed _any_ type of spin, creating a whole new category of particle.[^4] While anyons are fascinating in their own right, we are interested in them because, according to the canon explanation, anyons are two-dimensional particles. More suggestively, the space they occupy cannot be _approximately_ $2D$, such as a $3D$ space of $1nm$ height,
@@ -123,7 +117,7 @@ Let us return to the constraints. The first constraint is the indistinguishabili
 #### Missing points are hard to justify usually begs the queston (maybe make an argument out of this.)
 
 The second and final constraint is accounting for particles not being able to intersect with each other. The argument for _why_ we ought to, however, is rarely made precise. The general tendency, as expressed by `SOURCES`, tends to justifying the exclusion of these diagonal points by noting that this configuration space needs to account for fermions, which are subject to the Pauli-exclusion principle and thus cannot intersect. However, this argument presupposes the Pauli-exclusion principle and fermions as a distinct category of particles,
-which precisely follow from this very argument! The justification clearly begs the question, but this does not appear to bother most. Some attempts have been made to provide a better justification, for instance using the de Broglie-Bohm pilot wave theory \[[@Brown1999]], but such interpretations have not found their way into the mainstream discussion on anyons. For now we shall follow the herd and accept the excision of the diagonal points from the configuration space, and shall return to such issues later.
+which precisely follow from this very argument! The justification clearly begs the question, but this does not appear to bother most. Some attempts have been made to provide a better justification, for instance using the de Broglie-Bohm pilot wave theory @Brown1999, but such interpretations have not found their way into the mainstream discussion on anyons. For now we shall follow the herd and accept the excision of the diagonal points from the configuration space, and shall return to such issues later.
 
 Returning back to the configuration space, it appears we have no other choice than to excise the points representing the particles occupying the same space from our configuration space, denoted by $\Delta$. In the $(\mathbf{r_1, r_2})$
 representation, $\Delta$ consists of the diagonal of points$\mathbf{r_1}=\mathbf{r_2}$, such as $(\mathbf{0}, \mathbf{0})$, $(\mathbf{1},
@@ -158,9 +152,9 @@ Returning back our example of two indistinguishable particles in three dimension
 3) A hemisphere which behaves strangely at the boundary
 4) A mobius band which also has its "sides" glued together in the same way a regular mobius band is constructed, namely by twisting it once.
 
-20210610<sub>174954screenshot.png</sub>
+![](20210610_174954screenshot.png)
 
-20210610<sub>175017screenshot.png</sub>
+![](20210610_175017screenshot.png)
 
 In our "one-particle-at-the-origin" picture, we can roughly see the points in$RP2$ corresponding with one particle circling the other, with one crucial caveat: when we move particle 2 halfway around the other, performing in effect a
 "half exchange," we return back to the same point, as the particles are indistinguishable from one another and we do not care about where their center of mass lies.
@@ -213,9 +207,9 @@ However, unlike $RP^2$ or the sphere, a 2-exchange in $RP^2$ or the circle is_al
 That is not all however. Since a 2-exchange differs from a point, we can simply add another exchange (4-exchange in our lingo) to create a new loop which is_also_ not homotopy equivalent to a either a point nor a 2-exchange. Moreover, it matters which way we go about exchanging these particles: a clockwise loop and an anti-clockwise loop cannot be smoothly deformed into one another, as the path would have to cross the origin. Therefore we apparently have the same number of possible paths as there are integers\![^11] A bit of a step up from the situation in $3D$: instead of just two types of particles we suddenly have a
 (countable) infinity of them! As we shall see, this will lead to the anyons being able to take on "any" phase.
 
-- [ ] also add why Q<sub>2</sub>' is isomorphic to RP1.
+- [ ] also add why Q_2 is isomorphic to RP1.
 
-#### P Another way of arguing for the same thing is by using the defintiont that phase is the 1D rep of the fundamental group of the spaceh
+#### P Another way of arguing for the same thing is by using the definition that phase is the 1D rep of the fundamental group of the space
 
 While categorizing configuration spaces is all very well and good, it is high time to connect this back to the physics, as we have not yet shown how the equivalence classes of homotopy equivalent paths relate to the number of particles. The way to do so is to extend our collection of equivalence classes slightly and describe what is called the _fundamental group_ of a space. The fundamental group $\pi_1$, also called the _first homotopy group_, of a space is, as the name suggests, a _group_ consisting of the set of equivalence classes of homotopy equivalent paths and path-concatenation as the group action.[^12]
 Path concatenation is what it sounds like: in the fundamental group of $RP^2$ we have two homotopy classes of paths, the 1-exchange and the 2-exchange.
@@ -237,14 +231,16 @@ $$
 for the $2D$ case with $X_0$ being doing nothing, $X_i$ a clockwise $i$-exchange, and $X_{-i}$ a counterclockwise $i$-exchange.
 
 Fantastic, so we are done, right? Well, yes, sort of, however the point of writing down these groups in addition to simply finding the homotopy classes is that hopefully we are able to do slightly more with the former. While that could be possible with these groups, it might be nicer to relate them to some more thoroughly classified groups in order to save ourselves some work. Additionally,
-the groups we found are those for $2$ particles, and being able to easily generalize these groups to any $N$ number of particles. Rigorously deriving these fundamental group of a space is not trivial, the standard references for the fundamental spaces being \[[@Fox1962]] and \[cite//b:@Fadell1962]. Insead of doing this rigorously like mathematicans, we will go about this as physicists: look at the result and then convince ourselves they make sense.
+the groups we found are those for $2$ particles, and being able to easily generalize these groups to any $N$ number of particles. Rigorously deriving these fundamental group of a space is not trivial, the standard references for the fundamental spaces being @Fox1962 and \[cite//b:@Fadell1962]. Insead of doing this rigorously like mathematicans, we will go about this as physicists: look at the result and then convince ourselves they make sense.
 
 This relating is done through finding an isomorphism between these groups. It turns out that, for $N$ particles, the fundamental groups are
 
 $$
-\pi_1(Q_3')&=S_N \\
-    \pi_1(Q_2')&=B_N
+\pi_1(Q_3')=S_N
+$$$$
+    \pi_1(Q_2')=B_N
 $$
+
 
 ##### TODO Symmetry group
 
@@ -299,7 +295,7 @@ We made some good arguments for the existence of an entirely new class of
 (pseudo-)particles! Think of all the new physics we could do: quantum computers,.... that's about it, but nonetheless very exciting! However, it came at a rather severe cost: us accepting a problematic idealization, blech! Is there then no other option? No one to save us? Are we doomed to accept platonism? No, luckily we need not stoop so low.
 
 Even if we accept the 2D idealization, the previous section still left us a little unsatisfied. It provided us with an explanation of the _possibility_ of anyons, but crucially not with the tools to know _what_ phase we should expect from any potential anyon. According to ref:eq:anyonphase, anyons take on an exchange-phase that's a multiple of the number exchanges and which depends on the direction the exchange took place, but not much else. It could be any multiple of the winding-number, which does not provide us with much predictive power if we ever want to perform an experiment looking for these buggers. "But",
-I hear you say, "did \[[@Bartolomei2020]] not definitively show that anyons exist?" We'll get there when we get there, _Jeremy_, but we can ask some annoying questions to get us started.
+I hear you say, "did @Bartolomei2020 not definitively show that anyons exist?" We'll get there when we get there, _Jeremy_, but we can ask some annoying questions to get us started.
 
 Would they simply perform some experiment, somehow measure the phase and see that it is different: would this be convincing enough evidence? No, of course not, we would want to predict the phase beforehand and see how well we measure up to Mother Nature. Furthermore, how did they know where to look? Presumably something 2D-y, but that can be a lot of things: graphene is not very interesting on its own.
 
@@ -329,7 +325,7 @@ does not change the angle one bit! How then? Well, we said _along_ a _surface_, 
 
 ## How does geometrical phase get there
 
-As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical" [@Berry1984]. However, as [@Simon1983]
+As Berry said in his original paper, the occurence of the geometrical phase does indeed appear quite "magical" [@Berry1984]. However, as @Simon1983
 soon thereafter elucidated, the mystery largely disappears we link it to a more general geometric property: [[Holonomy|Holonomy.]]
 
 Holonomy is the phenomenon of a vector (or more generally any mathematical object) not remaining completely invariant after being [[Parallel transport]]ed along some curved surface. An example is in order.
@@ -350,11 +346,9 @@ there is something deeply intuitive about not ending up facing the same directio
 >
 > https://physics.stackexchange.com/questions/235503/why-is-the-phase-picked-up-during-identical-particle-exchange-a-topological-inva?rq=1
 >
-[cite:@Leinaas1977]
-[cite:@Knapp2016]
+[@Leinaas1977]
+[@Knapp2016]
 
-
-## section
 
 Turns out this also works in QM! The berry phase does this for us. So great,
 let's just calculate the Berry phase right? Well, sure, but we cannot just calculate the Berry phase without a Hamiltonian, wavefunction, all that good quantum stuff, for that we need some context.
@@ -373,18 +367,18 @@ $$
 
 - [ ] clean up lambdas and Rs
 
-We have finally reached the point at which we have no choice but to look at an actual physical system, as we need to have an actual wavefunction to measure things by. The system that has historically been ascribed anyons is called the_Fractional Quantum Hall Effect_, which is also the subject of the recent experimental results by \[[@Bartolomei2020]]. Evaluating the merits of the geometrical approach to anyonic phase, then, necessitates a clearer understanding of the FQHE.
+We have finally reached the point at which we have no choice but to look at an actual physical system, as we need to have an actual wavefunction to measure things by. The system that has historically been ascribed anyons is called the_Fractional Quantum Hall Effect_, which is also the subject of the recent experimental results by @Bartolomei2020. Evaluating the merits of the geometrical approach to anyonic phase, then, necessitates a clearer understanding of the FQHE.
 
 # The Quantum Hall Effect
 
 - [ ] Put this somewhere else, preferably at the end
 
 
-- Following \[[@Norton2012]], we know how to interpret this: we can demote an idealization to an approximation if we are able to show that there is a
+- Following @Norton2012, we know how to interpret this: we can demote an idealization to an approximation if we are able to show that there is a
     smooth limit.
-- This is exactly the problem, according to \[[@Shech2019]:] the topological explanation of anyons requires an _exact_ 2D system (or a rather ad-hoc 2D system as we saw).
+- This is exactly the problem, according to @Shech2019 the topological explanation of anyons requires an _exact_ 2D system (or a rather ad-hoc 2D system as we saw).
 - Therefore we cannot call this approximately 2D.
-- According to \[[@Shech2019]], this is a problem for those with nominalist inclinations[^1], as the instantiation of abstract mathematical structures in the real world would be an issue.
+- According to @Shech2019, this is a problem for those with nominalist inclinations[^1], as the instantiation of abstract mathematical structures in the real world would be an issue.
 
   - Such an argument can only be made, however, through the use of the EIA which was discussed in the previous (or next?) chapter.
 - Therefore, it would do such people well to examine the physical effect thoroughly for any signs of this.
@@ -414,10 +408,10 @@ The basics of the effect are rather simple
 - Induces Lorentz force which pushes particles to one side, increasing their concentration and creating a potential difference, inducing a voltage changing the resistivity.
 - This resistivity linearly depends on the voltage, which linearly depends on the concentration difference which linearly depends on the strength of
      the magnetic field, thus yielding a linear dependence of the resistivity
-    to the strenght of the perpendicular magnetic field.
+    to the strength of the perpendicular magnetic field.
 - Looks like figure ref:fig:che
 
-However, as most classical effects, they only hold in a certain regime. When we clean up the materials, lower the temperature dramatically (<2K) and increase the magnetic field strength considerably, we observe the _Quantum Hall Effect_
+However, as most classical effects, they only hold in a certain regime. When we clean up the materials, lower the temperature dramatically ($<2K$) and increase the magnetic field strength considerably, we observe the _Quantum Hall Effect_
 (QHE): rather than a linear dependence on the magnetic field strength, the resistivity shows these strange plateaux at rather consistent values, as inref:fig:qhe. The spacing between these plateaux does not seem to differ between different materials, which is even more curious.
 
 So: why? Why do we see these plateaux, and why at these levels? The short answer (partially) is: the impurities in the sample lift the degeneracy of the
@@ -439,8 +433,8 @@ There are quite some caveats to the above story, but that is the gist of why the
 ## The Integer Quantum Hall Effect
 
 In order to do as little physics as is possibly required, I will skip most of the justification for the quantum formalism of the QHE (quantizing the classical Hamiltonian, finding the commutators) and many of the intermediate steps to arrive at the relevant results. I point the interested reader to
-\[[@Tong2016]\[\[]]] for a quite accessible and to \[cite//b:@Arovas2020] for a more thorough pedagogical discussion of these issues, and to
-\[[@Stone1992]],Prange1987,Doucot2005 for rather complete, less pedagogical sources.
+@Tong2016]\[\[] for a quite accessible and to \[cite//b:@Arovas2020] for a more thorough pedagogical discussion of these issues, and to
+@Stone1992,Prange1987,Doucot2005 for rather complete, less pedagogical sources.
 
 As mentioned previously, the Integer Quantum Hall Effect (IQHE) is the observation of plateaux in the Hall resistivity $\rho_{xy}$ at regular intervals. These intervals happen to be integer multiples of the _quantum of resistance_  $R_q=\frac{2\pi\hbar}{e^2}$. `check whether this is so`
 
