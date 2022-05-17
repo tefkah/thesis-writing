@@ -268,9 +268,9 @@ By taking the $y$-axis to represent time and the $x$-axis the 2D plane the parti
 
 [[If particles cannot be closer than the thickness of the strip, the configuration space is approximately 2D]]
 
-#### TODO Asides: we are now working in projective space, which is very weird. We need to check whether QM still holds
+- [ ] TODO Asides: we are now working in projective space, which is very weird. We need to check whether QM still holds
 
-#### TODO Aside: kets stand to states as (universal) covers stand to normal spaces
+- [ ] TODO Aside: kets stand to states as (universal) covers stand to normal spaces
 
 # Geometric phase?
 
