@@ -1,5 +1,5 @@
 ---
-title: The FQH "Plasma" Is Liquid for m<70 and Solid Above
+title: The FQH "Plasma" Is Liquid for m\<70 and Solid Above
 tags:
   - stub
   - FQHE
@@ -8,4 +8,4 @@ mtime: 20210701195440
 ctime: 20210312121728
 ---
 
-# The FQH 'Plasma' Is Liquid for M<70 and Solid Above
+# The FQH 'Plasma' Is Liquid for M\<70 and Solid Above
