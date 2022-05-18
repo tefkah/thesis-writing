@@ -1,4 +1,4 @@
-name: Add bugs to bugs project
+name: Add issues to project
 
 on:
   pull_request:
@@ -7,6 +7,8 @@ on:
   issues:
     types:
       - opened
+      - labeled
+      - transfered
 
 jobs:
   add-to-project:
