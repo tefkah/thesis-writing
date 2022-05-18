@@ -1,8 +1,10 @@
 # Weird draft
+
 {/** TODO: Figure out where to put this (very incomplete) draft which talks about geometric phase 
     * Really I don't know what the hell I was doing here, looks like I typed this using speech-to-text but it's not very coherent.
     * labels: order 
-    */} 
+    */}
+ 
 
 # geometric phase
 
@@ -32,7 +34,9 @@ this question proves rather difficult to answer, for two reasons.
 1) the holonomic angle is only defined when the vector returns to its original position, we don't expect thing to be the same when we simply stop the transport somewhere in the middle.
 2) actual cones are not this pointy.
 
+
 {/*http://applet-magic.com/paralleltransport.htm */}
+
 
 
 in actuality, when you deform the cone in the figure above, the angle _does_
