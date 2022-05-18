@@ -31,7 +31,8 @@ The FQHE is said to be explained by using quasiparticles interacting with impuri
 
 The precision of the quantized Hall effect is particularly surprising because the hall resistance is normally very sensitive to small changes.
 
-Apparently doesnt care about specifics */}[[universality]]
+Apparently doesnt care about specifics */}
+[[universality]]
 
 \*\*[[the quantum hall effect has two variations, integer and fractional]]
 

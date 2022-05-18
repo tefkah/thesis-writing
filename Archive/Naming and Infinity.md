@@ -22,7 +22,9 @@ $\maketitle$
 
 
 
+
 {/* gls:gloss */}
+
 
 
 
@@ -50,7 +52,11 @@ $\maketitle$
 
 ## Thing left to address
 
+
 {/* [[id:e28cf1ba-433a-46ea-baf2-260df85ba7ec][open questions for my thesis]] */}
+
+
 
 {/* [[id:e28cf1ba-433a-46ea-baf2-260df85ba7ec][open questions for my thesis]]
  */}
+

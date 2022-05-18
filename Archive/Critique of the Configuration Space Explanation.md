@@ -54,11 +54,15 @@ pp 1977
 "Yet, physical systems are not exactly 2D."
 "Thus, it cannot be said that a physical system 'approximately instantiates' the braid group structure necessary for fractional statistics."
 
+
 {/* In short: YOU CANNOT HAVE **BRAID GROUP STRUCTURE* IN 3D. */}
 
 
 
+
+
 {/* I say: YES YOU CAN, IF YOU BELIEVE HARD ENOUGH. */}
+
 
 
 

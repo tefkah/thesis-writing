@@ -12,7 +12,9 @@ defines-react-components: true
 
 # II. Idealizations
 
+
 {/*  turned out larger than expected. */}
+
 
 
 
@@ -27,8 +29,12 @@ As mentioned previously, instead of focusing on the general process of abstracti
 For the purposes at hand, we don't need to identify all the necessary and sufficient conditions for counting something as an idealization. Instead, we can simply focus on a single crucial feature: they _falsely_ represent one or more aspects of the real world in order to ease calculation or reasoning ==(are these all the things people do with models? reasoning is pretty broad so should be safe)==. This mirrors the major issue with boundary drawing/discretization, namely that some boundary is drawn in order to facilitate reasoning about some object or concept, when identifying or justifying that boundary is difficult. The shared difficulty, then, consists in justifying either the use or reality of such simplifications.
 
 However, while one of key features of idealizations is that they intentionally distort some aspect of the target system, 
+
 {/* common descriptions of idealization specifically include the fact that they introduce a _false_ description, */}
-we should not assume that the boundary drawing problem necessarily introduces false descriptions, as doing so would beg the question. Instead we will take the by-now familiar stance of examining _how, if at all_ the use of idealizations is justified {/*in physics?*/}, and hopefully extrapolate from there.
+
+we should not assume that the boundary drawing problem necessarily introduces false descriptions, as doing so would beg the question. Instead we will take the by-now familiar stance of examining _how, if at all_ the use of idealizations is justified 
+{/*in physics?*/}
+, and hopefully extrapolate from there.
 
 ### Characterizations of idealization?
 
@@ -48,15 +54,21 @@ In this example, the difference between an approximation and an idealization is 
 
 [@Strevens2007] puts forth another classification of idealizations, which characterizes idealizations more similarly to how I did above, as deliberate falsifications of reality. Specifically, Strevens conceptualizes idealizations in terms of the operation driving them: setting a parameter to zero, infinity, or some other number.
 
+
 {/** TODO:  Write up a proper analysis of Streven's classification of idealizations.
     * 
     * labels: write, big
     * milestones: 
-    */} 
+    */}
+ 
+
 
 {/* ### Why do we not consider the target system an idealization? It's also a model */}
 
+
+
 {/* ### Is idealization different than abstraction?*/}
+
 
 ## Narrowing
 
@@ -71,16 +83,20 @@ As promised, infinite idealizations run into more obvious problems more quickly:
 ## Characterizations of infinite idealizations
 
 
+
 {/**
 	* TODO: Good introduction of the literature review on infinite idealizations
 	* Specifically, make it clear WHY you are looking at these sources, what you hope to gleam from them, and why doing such a survey is useful to begin with.
 	* labels: write
 	*/}
+
 	
+
 {/**
 	* TODO: Expand the current literature review on infinite idealizations with at least one more source
 	* labels: write 
 	*/}
+
 
 
 ### Norton
@@ -95,10 +111,12 @@ This characterization somewhat goes against the spirit of what Norton intends to
 
 Norton furthermore distinguishes between _well-behaved_ and _ill-behaved idealizations_.[^well-behaved] _Ill-behaved_ idealizations are infinite idealizations whose limit system (the system with the parameter set to zero or infinity) does not match with target system in some way. This mismatch can take two forms [@Norton2012, (3.2, 3.3)]: the limit system might not exist, e.g., an infinite sphere, or the limit system might have a property which conflicts with a property of the target system. For the former, if we define a sphere as all points which are equidistant from some other point, then an infinite sphere does not exist, as there are no points at infinity. ($\mathbb{R}=(-\infty, \infty)$ not $[-\infty,\infty]$) For the latter, Norton imagines modeling an arbitrarily long ellipsoid as an infinite cylinder. While they look similar, the ratio of surface to volume for an ellipsoid is different from that for a cylinder, so the idealization has a fundamental mismatch.
 
+
 {/**
 	* TODO: Create figure which shows the differences between ellipsoid and cylinder volumes
 	* labels: visualization
 */}
+
 
 In short: for Norton infinite idealization simply is the end result of the process of a limiting operation. Furthermore, these idealizations can sometimes be well-behaved, and sometimes ill-behaved.
 
@@ -106,7 +124,11 @@ In short: for Norton infinite idealization simply is the end result of the proce
 
 @Strevens2019a defines infinite idealization (or “asymptotic idealizations” as he calls them, we will stick with infinite here) slightly differently than Norton. Luckily, Strevens does provide a clear definition, which is in contrast to what he calls a “simple” idealization, which "is achieved by the straightforward operation of setting some parameter or parameters in the model to non-actual values, often zero". A clear example is the air-resistance coefficient above. At first, he contrasts this straightforwardly with infinite idealizations in the Nortonian sense, as “in \[infinite\] idealization, by contrast, a fiction is introduced by taking some sort of limit”. We will take this definition to be identical to Norton's.
 
-However, later on in the paper Strevens adds another layer to the definition, {/*TODO: find a good quote for Strevens adding another layer to the definition for idealizations*/} namely that scientists use infinite idealizations when it is not possible to use a simple idealization to directly set the relevant property to zero (or infinity) {/*TODO: Clarify the distinction between infinite and "normal" idealizations for Strevens*/}. Furthermore, he adds, “\[Infinite\] idealization is an interesting proposition, then, only in those cases where a simple substitution cannot be performed, which is to say only in those cases where a veridical model for mathematical reasons falls apart or otherwise behaves badly at the limiting value.” While Strevens later argues why these interesting cases (Norton's mismatches) _do_ make sense, we do not have to concern us with evaluating their correctness just yet, we simply need to note that Strevens makes the same distinction as Norton here. 
+However, later on in the paper Strevens adds another layer to the definition, 
+{/*TODO: find a good quote for Strevens adding another layer to the definition for idealizations*/}
+ namely that scientists use infinite idealizations when it is not possible to use a simple idealization to directly set the relevant property to zero (or infinity) 
+{/*TODO: Clarify the distinction between infinite and "normal" idealizations for Strevens*/}
+. Furthermore, he adds, “\[Infinite\] idealization is an interesting proposition, then, only in those cases where a simple substitution cannot be performed, which is to say only in those cases where a veridical model for mathematical reasons falls apart or otherwise behaves badly at the limiting value.” While Strevens later argues why these interesting cases (Norton's mismatches) _do_ make sense, we do not have to concern us with evaluating their correctness just yet, we simply need to note that Strevens makes the same distinction as Norton here. 
 
 Then, we can define
 
@@ -115,7 +137,9 @@ Then, we can define
 > An infinite idealization is made by performing a limiting operation on a system, taking some "extrapolation" parameter (such as length, number, volume) to either zero or infinity **in order to set some other parameter to zero or infinity.** The infinite idealization is the system with the extrapolation parameter and the relevant paramenter set to either zero or infinity (dont' need to be the same). However, sometimes these systems misbehave, **which is interesting**.
 _(bold to highlight differences with Norton)_
 
+
 {/*Batterman also has some definition but it is rather vague.*/}
+
 
 ### Why this is confusing
 

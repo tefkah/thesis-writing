@@ -147,7 +147,9 @@ $$
 Q= \mathbb{R}^d \times \frac{\mathbb{R}^d  - \Delta }{Z_2}
 $$
 
+
 {/* =just blantantly copied= */}
+
 
 In order to study the phase picked up by the WF of a particle as it moves around the other we need to _classify all possible **closed** paths_ in the configuration space. To make our lives even easier, since we are only interested in the phase of the particles we can "discard" the position of the CM, as this simply shifts their combined position in space which we assume does not change the phase the two particles add acquire. Thus, we can only look at the paths in
 
@@ -199,7 +201,9 @@ The above explanation might be satisfactory to some, but a crucial piece of info
 
 Quantum statistics of a particle are the 1D representation of the [[First homotopy group pi1]]/[[fundamental group]] of the configuration space.
 
+
 {/* (Why are the QS that? Is this a theorem? If so, when does it apply?) */}
+
 
 
 
@@ -209,5 +213,7 @@ For $d=2$ the fundamental group is the Braid group.
 
 The 1D rep of the braid group is $e^{i\theta} \quad \theta\in[0,2\pi]$
 
+
 {/* [[id:9a102d0f-bbd5-421d-af39-854eb34cb8a3][Critique of the configuration space explanation]]
  */}
+

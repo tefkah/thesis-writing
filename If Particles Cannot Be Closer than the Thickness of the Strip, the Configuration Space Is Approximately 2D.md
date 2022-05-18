@@ -70,7 +70,9 @@ Unfortunately, not quite. While assumptions 1. and 2. might be brushed off in th
 
 **(My idea for justifying this was to find a way to express the probability of finding the particle in the z direction and contrast that with the Coulomb force, but I wasn't able to find the former. Shech cites a $10^{-45}$  probability for it, but he doesn't justify or cite it. In the end it does not really matter as this is just a proof of concept, but would be nice to have)**
 
+
 {/* The AB effect also has such a strong idealization. Underscription of idealizations. */}
+
 
 
 
