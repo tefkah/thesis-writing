@@ -20,7 +20,7 @@ This meta-note is intended to create the start of an overview of how this proble
 1) regain my enthousiasm for my thesis. My passion against essentialism transcends my distaste of Platonism and is what I actually want to tackle. Just talking about Platonism is too abstract, I need easier examples
 2) find additional routes to tackle this topic. If this has either been done before very satisfactorily or in a way similar to my goals, it makes no sense at all try and construct myself out of this hole. Good philosophers think of things themselves, great philosophers let others do the thinking for them.
 
-<!---->
+{/**/}
 
 1) know what not to do and which side-tracks to avoid. Although I do not think I will encounter the former that much, as I do not believe there is a strong pro essentialism argument, I do think that it is very easy to get lost in theories of naming etc., which I know will just end with me not doing anything useful.
 

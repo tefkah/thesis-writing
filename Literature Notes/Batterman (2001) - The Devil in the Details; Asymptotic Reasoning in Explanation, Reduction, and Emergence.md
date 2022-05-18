@@ -1,6 +1,5 @@
 ---
-title: "Batterman2001: The Devil in the Details: Asymptotic Reasoning in
-  Explanation, Reduction, and Emergence"
+title: "Batterman2001: The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence"
 roam_key: ""
 tags:
   - reference

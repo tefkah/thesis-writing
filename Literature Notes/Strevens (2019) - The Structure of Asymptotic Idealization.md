@@ -1,5 +1,5 @@
 ---
-title: Strevens2019a: The structure of asymptotic idealization"
+title: "Strevens2019a: The structure of asymptotic idealization"
 tags: 
 	- idealization
 	- infinite_idealization
