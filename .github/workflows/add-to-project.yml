@@ -1,7 +1,7 @@
 name: Add bugs to bugs project
 
 on:
-  pull-requests:
+  pull_request:
     types:
       - opened
   issues:
