@@ -1,5 +1,5 @@
 ---
-title: Strevens (2007) - Why Explanations Lie: Idealization in Explanation
+title: "Strevens (2007) - Why Explanations Lie: Idealization in Explanation"
 tags:
   - reference
   - explanation
@@ -11,7 +11,7 @@ ctime: 20210929153929 20210701195041
 author: Strevens, M.
 ---
 
-# Why Explanations Lie: Idealization in Explanation
+# Strevens (2007) - Why Explanations Lie Idealization in Explanation
 
 ## Why?
 

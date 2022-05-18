@@ -27,7 +27,7 @@ As mentioned previously, instead of focusing on the general process of abstracti
 For the purposes at hand, we don't need to identify all the necessary and sufficient conditions for counting something as an idealization. Instead, we can simply focus on a single crucial feature: they _falsely_ represent one or more aspects of the real world in order to ease calculation or reasoning ==(are these all the things people do with models? reasoning is pretty broad so should be safe)==. This mirrors the major issue with boundary drawing/discretization, namely that some boundary is drawn in order to facilitate reasoning about some object or concept, when identifying or justifying that boundary is difficult. The shared difficulty, then, consists in justifying either the use or reality of such simplifications.
 
 However, while one of key features of idealizations is that they intentionally distort some aspect of the target system, 
-{*/common descriptions of idealization specifically include the fact that they introduce a _false_ description,*/}
+{/* common descriptions of idealization specifically include the fact that they introduce a _false_ description, */}
 we should not assume that the boundary drawing problem necessarily introduces false descriptions, as doing so would beg the question. Instead we will take the by-now familiar stance of examining _how, if at all_ the use of idealizations is justified {/*in physics?*/}, and hopefully extrapolate from there.
 
 ### Characterizations of idealization?
@@ -48,11 +48,15 @@ In this example, the difference between an approximation and an idealization is 
 
 [@Strevens2007] puts forth another classification of idealizations, which characterizes idealizations more similarly to how I did above, as deliberate falsifications of reality. Specifically, Strevens conceptualizes idealizations in terms of the operation driving them: setting a parameter to zero, infinity, or some other number.
 
-- [ ] Write up a proper analysis of Streven's classification.
+{/** TODO:  Write up a proper analysis of Streven's classification of idealizations.
+    * 
+    * labels: write, big
+    * milestones: 
+    */} 
 
-{*/ ### Why do we not consider the target system an idealization? It's also a model */}
+{/* ### Why do we not consider the target system an idealization? It's also a model */}
 
-{*/### Is idealization different than abstraction?*/}
+{/* ### Is idealization different than abstraction?*/}
 
 ## Narrowing
 
@@ -67,13 +71,16 @@ As promised, infinite idealizations run into more obvious problems more quickly:
 ## Characterizations of infinite idealizations
 
 
-{\**
+{/**
 	* TODO: Good introduction of the literature review on infinite idealizations
-	* Specifically, make it clear WHY you are looking at these sources, what you hope to gleam from them, and why doing such a survey is useful to begin with.	
-	*\}
-{\**
-	* TODO: Expand the current literature review on infinite idealizations with at least one more source 
-	*\}
+	* Specifically, make it clear WHY you are looking at these sources, what you hope to gleam from them, and why doing such a survey is useful to begin with.
+	* labels: write
+	*/}
+	
+{/**
+	* TODO: Expand the current literature review on infinite idealizations with at least one more source
+	* labels: write 
+	*/}
 
 
 ### Norton
@@ -90,6 +97,7 @@ Norton furthermore distinguishes between _well-behaved_ and _ill-behaved idealiz
 
 {/**
 	* TODO: Create figure which shows the differences between ellipsoid and cylinder volumes
+	* labels: visualization
 */}
 
 In short: for Norton infinite idealization simply is the end result of the process of a limiting operation. Furthermore, these idealizations can sometimes be well-behaved, and sometimes ill-behaved.

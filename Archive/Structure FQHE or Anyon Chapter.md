@@ -11,15 +11,15 @@ ctime: 20210407150939
 
 # Structure FQHE or Anyon Chapter
 
-<!-- #+startup: latexpreview -->
+{/* #+startup: latexpreview */}
 
 
 
-<!-- #+latex_header: \documentclass{tufte-book} -->
+{/* #+latex_header: \documentclass{tufte-book} */}
 
 # The Fractional quantum hall effect and its discontents
 
-<!-- convince the reader that what you're saying is worthwhile -->
+{/* convince the reader that what you're saying is worthwhile */}
 
 
 So, now that we have gained a high-level idea of idealizations, the question is: which idealizations are worth looking at? We have seen some standard examples such as air resistance, but those turned out to be easily understood as approximations rather than idealizations, for when we want to predict the velocity of a falling ball it does not really matter whether there is no air resistance or $0$ air resistance, so we can freely move between (demote and promote) the idealized model (the ball falling in a vacuum) and the approximate propositions about our actual system (for the first seconds of the fall of the ball its speed $\approx gt$).
@@ -318,8 +318,8 @@ To get a more satisfactory and concrete answer we will have to calculate the fra
 
 ### Berry phase
 
-<!-- #+transclude: t :hlevel 5
-[[id:3dad96b9-a6bf-449f-981e-4e141f865dd5][Berry Connection]] -->
+{/* #+transclude: t :hlevel 5
+[[id:3dad96b9-a6bf-449f-981e-4e141f865dd5][Berry Connection]] */}
 
 
 The Berry phase is the phase that a particle picks up when it is "around" in one of its eigenstates by varying the _parameters_ of the hamiltonian from and back to the eigenstate again. The parameters are usually not the first thing we consider when writing down the Hamiltonian, but could be thought of as, for instance, the specific settings used to prepare the system. Varying these settings slightly (such as the temperature or something) might still keep the system in the same eigenstate, loosely similar to how many statistical mechanical micro-states could give rise to the same macrostate.

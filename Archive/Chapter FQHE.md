@@ -45,11 +45,11 @@ roam Explanations are not as rigid as you think
 
 # The Fractional Quantum Hall Effect
 
-## Part I (Brief, <4k): The motivation for looking at the FQHE gets explained, namely the fact that something appears to be explained with an infinite idealization, with reference to my introduction and Shech's article,
+## Part I (Brief, \<4k): The motivation for looking at the FQHE gets explained, namely the fact that something appears to be explained with an infinite idealization, with reference to my introduction and Shech's article,
 
 ### a. _b_ The FQHE is briefly introduced, namely the weird bumps and a hint of mentioning anyons and that the reason for this is that the config space is 2D
 
-### b. _a_ This 2D explanation is identified as an infinitesimal idealization, one which has been claimed to play a key role in the _explanation_ of the effect, and explanation => existence. It should be clear how weirdly different this explanation is from other more common ones, such as classical ones. Also it should be emphasized how universal this explanation is, such as the fact that the location of the bumps does not even depend on the material.
+### b. _a_ This 2D explanation is identified as an infinitesimal idealization, one which has been claimed to play a key role in the _explanation_ of the effect, and explanation =\> existence. It should be clear how weirdly different this explanation is from other more common ones, such as classical ones. Also it should be emphasized how universal this explanation is, such as the fact that the location of the bumps does not even depend on the material.
 
 ### c. It is argued that if this explanation would succeed in the way described above, we would have a reasonable case for an actual sectioning off of reality? Here it must be clear why this effect is so useful to study, but also what I will do when it does not turn out to be so dramatic, i.e. how I will generalize
 
