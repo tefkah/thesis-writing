@@ -1,9 +1,9 @@
 ---
 title: "Strevens2019a: The structure of asymptotic idealization"
 tags: 
-	- idealization
-	- infinite_idealization
-	- reference
+  - idealization
+  - infinite_idealization
+  - reference
 id: 26cf4180-c383-462c-8a35-2698bc11003a
 citekey: Strevens2019a
 mtime: 20210929153908
