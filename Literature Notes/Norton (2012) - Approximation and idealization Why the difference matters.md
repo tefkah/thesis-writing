@@ -1,7 +1,7 @@
 ---
 citekey: Norton2012
 type: journalArticle
-title: Approximation and idealization: Why the difference matters 
+title: "Approximation and idealization: Why the difference matters"
 author: John D. Norton
 journal: Philosophy of Science
 volume: 79
