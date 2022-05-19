@@ -9,7 +9,7 @@ mtime: 20210701200857
 ctime: 20210114163638
 ---
 
-# supervaluationism
+# Supervaluationism
 
 
 Supervaluationism is a way to deal with [[vagueness]].
@@ -22,7 +22,7 @@ The de dicto reading claims that it is indeterminate whether a person 1.80m in h
 
 The de re reading clamins instead that the set of all bald people has fuzzy boundaries, i.e. it just is the case that there is no fact of the matter where the edges of bald people are.
 
-Supervaluationism is based on the idea that vagueness could be removed under some sort of precisification, e.g. baldness could be precisified as meaning "having less then 1000 hairs on ones head". The problem with this is of course: which precisification is right? This cannot easily be said, but thaat's okay: supervaluationism claims that there are clearish cases of good precifications (<1000 hairs) and clearish cases of bad ones (<100000000 hairs). Supervaluationism then introduces two new concepts: super-truth and super-falsity
+Supervaluationism is based on the idea that vagueness could be removed under some sort of precisification, e.g. baldness could be precisified as meaning "having less then 1000 hairs on ones head". The problem with this is of course: which precisification is right? This cannot easily be said, but thaat's okay: supervaluationism claims that there are clearish cases of good precifications (\<1000 hairs) and clearish cases of bad ones (\<100000000 hairs). Supervaluationism then introduces two new concepts: super-truth and super-falsity
 
 ## Supers
 

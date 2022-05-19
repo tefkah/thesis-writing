@@ -285,18 +285,18 @@ We can express these as
 $$
 \begin{equation}
     V_{disorder}<<\hbar\omega_B
-    \label{eq:disorderconstraint}
 \end{equation} \qquad (5)
 $$
 
 and
 
-\$\$$\begin{equation}$
+$$
 
 |  V | <<$\frac{\hbar \omega_B}{l_B}$ |
 | -- | ------------------------------ |
 
-$\label{eq:}$$\end{equation}$ $\qquad$ (6)\$\$
+
+$$
 
 where $l_B$ is the magnetic length, `roughly the length scale at which these effects are relevant`
 
@@ -370,12 +370,11 @@ The difference-maker for whether an electron gas is 2D seems to be it's Fermi-su
 
 # Citations I still need to use
 
-\[@Shech2015b]
+[@Shech2015b]
 
-\[@Wilczek1982]
+[@Wilczek1982]
 
-\[@Rao2001]
+[@Rao2001]
 
-\[@Knapp2016]
+[@Knapp2016]
 
-$\printbibliography$
