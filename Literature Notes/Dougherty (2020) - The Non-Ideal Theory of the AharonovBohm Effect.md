@@ -20,7 +20,7 @@ noter_page: ""
 
 # Summary
 
-Responds to [@Earman2019] and [@Shech2015b\,Shech2018]   Says that they claim that the _topological_ interpretation of the AB effect is unsatisfactory, and defends it, based on three main points:
+Responds to [@Earman2019] and [@Shech2015b;@Shech2018]   Says that they claim that the _topological_ interpretation of the AB effect is unsatisfactory, and defends it, based on three main points:
 
 - The AB effect does not use a singular limit, unlike what is claimed
 - We don't need to focus on bounrady condiitions that much
@@ -28,7 +28,7 @@ Responds to [@Earman2019] and [@Shech2015b\,Shech2018]   Says that they claim th
 
 # Rough note space
 
-" The perfect shield is used mostly for draa, much like the moon's negligible atmosphere can be used for a striking demonstration of Galileo's law of free fall." ->He thinks that AB effect is non-problematic idealization, as in [[II. Idealizations|What is an infinite idealization (Chapter)]]
+" The perfect shield is used mostly for draa, much like the moon's negligible atmosphere can be used for a striking demonstration of Galileo's law of free fall." -\> He thinks that AB effect is non-problematic idealization, as in [[II. Idealizations|What is an infinite idealization (Chapter)]]
 
 ## Useful summation of other lit
 
@@ -52,7 +52,7 @@ After some faffing about, he replaces the set of 4 propositions by
 1) There is a contractible spacetime region containing the AB apparates.
 2) The AB apparatus displays the AB effect
 3) The AB effect occurs if and only if there is a nontrivial phase factor.
-4) A nontrivial phase factor arises only over a noncontractible region. <- Topological view (according to dougherty )
+4) A nontrivial phase factor arises only over a noncontractible region. \<- Topological view (according to dougherty )
 
    So, _crucially_: Dougherty claims that we shouldn't think about configuration spaces, but about _regions_. Regions can very well differ in their connectedness/contractability, whereas configuration spaces, given that they are global things, are not.
 

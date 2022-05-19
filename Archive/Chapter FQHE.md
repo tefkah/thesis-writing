@@ -217,7 +217,7 @@ We see that it fulfills both requirements, but is that enough?
 
 ### f. The Fractional Statistics are derived using the Berry Connection, making clear the similarities here with the Aharonov Bohm effect. The explanation is given in such a way as to be plausible but biased towards my understanding of the problem, and it is shown how the frac charge etc obtains. Maybe also small comments about how the actual plateaux get there?
 
-## Part III (Brief, <4k): The details of the explanation in II evaluated wrt to the goals of I, and we see that they do not match and that I is much too ambitious and even fallacious, as the mathematics are made too important
+## Part III (Brief, \<4k): The details of the explanation in II evaluated wrt to the goals of I, and we see that they do not match and that I is much too ambitious and even fallacious, as the mathematics are made too important
 
 ### g. The explanation above of the emergence of anyons is recapped, and put next to Shech's (and perhaps others (definitely include others)) account of the same explanation.
 

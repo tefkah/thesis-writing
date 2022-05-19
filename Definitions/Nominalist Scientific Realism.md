@@ -1,8 +1,8 @@
 ---
 tags:
-	- definition
-	- realism
-	- nominalism 
+  - definition
+  - realism
+  - nominalism 
 ---
 # Nominalist Scientific Realism
 
