@@ -11,11 +11,6 @@ ctime: 20210701194946
 
 # II. Idealizations
 
-
-
-
-
-# On Idealizations
 {/*
 *
 * ## Idealization is the salient feature of models 

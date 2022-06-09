@@ -8,7 +8,7 @@ mtime: 20210701195145
 ctime: 20210511111338
 ---
 
-# Parallel transport
+# Parallel Transport
 
 When you **parallel transport** a vector through some curved space, it will, in general, not end up at the exact same angle (wrt to the origin) as it had at the start.
 
