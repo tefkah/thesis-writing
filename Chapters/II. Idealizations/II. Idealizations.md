@@ -18,7 +18,11 @@ ctime: 20210701194946
 
 As mentioned previously, instead of focusing on the general process of abstraction by examining the relation between physical models and "reality", we will look at a specific feature of the practice of modeling which, as I will argue, best exemplifies the problems with drawing boundaries: idealization.
 
+## notes
 
+I should describe what is meant by "system" a lot more in depth, 
+Provide my own examples, Nortons are so esoteric. 
+Make a bigger point of the fact that looking at specific qualities or caring about specific qualities will 
 
 
 
