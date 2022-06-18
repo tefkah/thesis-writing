@@ -276,3 +276,5 @@ TSWLatexianTemp*
 *.lpz
 /.DS_Store
 /bibliography/Refs.json
+
+node_modules

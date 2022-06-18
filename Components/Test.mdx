@@ -1,0 +1,13 @@
+import react from 'https://cdn.skypack.dev/react';
+export const {useState} = react
+export const x = ['hey', 'you','bitch','youre cute']
+
+export default function Test(){
+const [l,setL] = useState(0);
+
+return (<div>
+<button onClick={()=>setL(x=>x+1)}>{l}</button>
+	{x.map(y=><h1 key={y}>{y}</h1>)}
+</div>)
+}
+
