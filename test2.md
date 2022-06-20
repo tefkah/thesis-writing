@@ -1,5 +1,5 @@
 # test2
-import Test from './Test'
+import Test from './Test';
 
 
 <Test></Test>
