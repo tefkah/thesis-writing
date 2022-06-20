@@ -1,194 +1,132 @@
 ---
-title: "Strevens2019a: The structure of asymptotic idealization"
-tags: 
-  - idealization
-  - infinite_idealization
-  - reference
-id: 26cf4180-c383-462c-8a35-2698bc11003a
-citekey: Strevens2019a
-mtime: 20210929153908
-ctime: 20210929153908
-author: Strevens, M.
+citekey: Strevens2019
+type: journalArticle
+title: The structure of asymptotic idealization 
+author: Michael Strevens
+journal: Synthese
+volume: 196
+issue: 5
+pages: 1713-1731
+year: 2019 
+DOI: 10.1007/s11229-017-1646-y
+ISSN: 1573-0964
+keywords: explanation, idealization, philphys
 ---
 
-# Strevens (2019) - The Structure of Asymptotic Idealization
+# Strevens (2019) - The structure of asymptotic idealization
 
-### “asymptotic explanations” (Batterman 2002). Such idealizations, he claims dramatically, though they rest on infinities that do not exist in the physical world, are essential for explaining certain physical behaviors; they do this by revealing emergent qualitative features of the situation that dominate the relevant actual physics and so “constrain and largely determine” what happens, or at least those aspects of what happens that are to be explained.
+> [!abstract]
+> Robert Batterman and others have argued that certain idealizing explanations have an asymptotic form: they account for a state of affairs or behavior by showing that it emerges “in the limit”. Asymptotic idealizations are interesting in many ways, but is there anything special about them as idealizations? To understand their role in science, must we augment our philosophical theories of idealization? This paper uses simple examples of asymptotic idealization in population genetics to argue for an affirmative answer and proposes a general schema for asymptotic idealization, drawing on insights from Batterman’s treatment and from John Norton’s subsequent critique.
 
-### This essay attempts to make a contribution to the topic by posing the following question: is there any interesting difference between the rules that govern idealization in such canonical non-infinitary cases as frictionless planes and ideal gases, on the one hand, and Batterman’s asymptotic cases, on the other?
+## Files and Links
+- **Url**: https://doi.org/10.1007/s11229-017-1646-y
+- **Uri**: http://zotero.org/users/6193144/items/EQU9TBFU
+- **File**: [StrevensM_2019_The_structure_of_asymptotic_idealization.pdf](file:///Users/thomas/OneDrive/Papers/Academic/StrevensM_2019_The_structure_of_asymptotic_idealization.pdf)
+- **Local Library**: [Zotero](zotero://select/library/items/EQU9TBFU)
 
-## 2 Simple idealization
+## Tags and Collections
+- **Keywords**: explanation, idealization, philphys
+- **Collections**: Unread
 
-### These fictions \[false representations in models] are called (at least when deliberate rather than inadvertent) idealizations.
 
-### This streamlining hints at one important function of idealization: it serves the prag- matic end of keeping calculations simple, either by making the mathematics more tractable or by reducing the empirical demands of the
+----
 
+## Comments
 
-### in addition to simplification: idealizations call attention to factors that are explanatorily irrelevant to the target phenomenon
 
-### I will introduce asymptotic idealization by contrasting it with what I will call sim- ple idealization.
 
-#### I say that a simple idealization notionally begins with a non-idealized model of the target phenomenon
+----
 
-#### Now an idealization is made—the veridical model is altered in some way that makes it no longer veridical. In a simple idealization, this is achieved by the straightforward operation of setting some parameter or parameters in the model to non-actual values, often zero.
+## Extracted Annotations
+Annotations(6/20/2022, 10:06:32 PM)
+> *“This essay attempts to make a contribution to the topic by posing the following question: is there any interesting difference between the rules that govern idealization in such canonical non-infinitary cases as frictionless planes and ideal gases, on the one hand, and Batterman’s asymptotic cases, on the other?”* [(Strevens, 2019, p. 1714)](zotero://open-pdf/library/items/3T6DFSVS?page=2&annotation=Y9ZTF86P)
+> *“These fictions are called (at least when deliberate rather than inadvertent) idealizations”* [(Strevens, 2019, p. 1714)](zotero://open-pdf/library/items/3T6DFSVS?page=2&annotation=T8TFBCVE)
+> *“The deliberate falsification of certain details, then, is a way of communicating forcefully the idea that those details do no explanatory work (Strevens 2008, Chap. 8). The infinitely small size of molecules in an ideal gas tells us, for example, that intermolecular collisions (absent in an ideal gas) make no contribution to the explanation of Boyle’s law, while the erasure of wave-like properties in the ray model of light tells us that those properties are irrelevant to the structure of caustics”* [(Strevens, 2019, p. 1715)](zotero://open-pdf/library/items/3T6DFSVS?page=3&annotation=WT5LJZ9S) 
 
-#### . If the idealization is a valid one, the new model is, like the old veridical model, a good model of the target phenomenon
+This seems like such a weird point to me, like surely if you have to make them 0 or infinite for the thing to work then surely they are quite relevant? Maybe in Norton's "good" case like the pill/cylinder this is true, but surely not in asymptotic cases? Maybe he does only want to apply this to "boring" idealizations.
 
-#### Further, the new model will do whatever idealized models are supposed to do: it will ease calculations, or it will effectively spotlight irrelevant factors.
+> *“Because asymptotic idealization is characterized with reference to the process by which an idealized model is created—that is, some sort of limiting process—it will be illuminating to offer a procedural characterization of simple idealization too, identifying it not so much by the structure of the end product, a certain deliberately misrepresenting model, but by the way in which the structure is derived”* [(Strevens, 2019, p. 1715)](zotero://open-pdf/library/items/3T6DFSVS?page=3&annotation=JN92RVWG) 
 
-#### The salient characteristic of a simple idealization, then, is that a simple operation, namely, a change in the parameters of the veridical model, creates a new, partly fictional model that continues to model and indeed to explain the target phenomenon.
+Interesting because rarely are the methods of idealization discussed.
 
-### In asymptotic idealization, by contrast, a fiction is introduced by taking some sort of limit.
+> *“The salient characteristic of a simple idealization, then, is that a simple operation, namely, a change in the parameters of the veridical model, creates a new, partly fictional model that continues to model and indeed to explain the target phenomenon”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=HA6DJ5NF)
+> *“In asymptotic idealization, by contrast, a fiction is introduced by taking some sort of limit. Rather than setting a parameter to zero, for example, a limit is taken as that parameter approaches zero”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=F69JE7JY)
+> *“You could create an ideal gas model by taking the limit of the veridical mode”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=ZN55HC6R) 
 
-#### a limit is taken as that parameter approaches zero. In some cases, taking a limit in this way is merely a roundabout path to a destination that can be more easily reached by simple idealization.
+hehe
 
-#### Asymptotic idealization is an interesting proposition, then, only in those cases where a simple substitution cannot be performed, which is to say only in those cases where a veridical model for mathematical reasons falls apart or otherwise behaves badly at the limiting value.
+> *“but you would merely be showing off.”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=XL76TVAT) 
 
-### Norton (2012) has recently argued, however, that in these “interesting” cases, an asymptotically derived structure cannot be regarded as a genuine explanatory model of the system in question
+%
 
-### To assess Norton’s argument, we need a more precise understanding of asymp- totic idealizing explanation.
+> *“Asymptotic idealization is an interesting proposition, then, only in those cases where a simple substitution cannot be performed, which is to say only in those cases where a veridical model for mathematical reasons falls apart or otherwise behaves badly at the limiting value”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=Q28A5WHT) 
 
-### to counter Norton and to affirm Batterman, showing that not all idealization is simple idealization.
+This is where I get the "interesting" label from
 
-## 3 Population genetics and determinism
+> *“Norton (2012) has recently argued, however, that in these “interesting” cases, an asymptotically derived structure cannot be regarded as a genuine explanatory model of the system in question. At best, such structures must be interpreted as mere aids to calculation”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=3GEQCD2F)
+> *“All purported cases of asymptotic idealization, then, can either be achieved through a more straightforward simple idealization (in cases where the veridical model is well behaved for the idealized values of the parameters in question), or must fail altogether as attempts at asymptotic modeling (though they may have practical uses as mathematical devices)”* [(Strevens, 2019, p. 1716)](zotero://open-pdf/library/items/3T6DFSVS?page=4&annotation=7DAUCELD) 
 
-### In order to “idealize away” drift simply, what is wanted is a parameter in such a probability distribution that can be set to zero (or some other value) to obtain a deterministic process
+%
 
-### But there is, in general, no such parameter. There is no sim- ple idealization, then, that transforms a more realistic, hence stochastic, population genetics model (let alone a veridical model) into a deterministic model.
+> *“What the deterministic models omit, then, is mutation and drift. Such models have purely pedagogical uses,”* [(Strevens, 2019, p. 1717)](zotero://open-pdf/library/items/3T6DFSVS?page=5&annotation=NH2VQA4K) 
 
-### One way forward is to build a deterministic model from scratch, and to rationalize the use of the model to explain by poinyinh out that its behavior closely tracks the behavior of the real system in the relevant aspects.
+He even admits it!
 
-#### This strategy is what Norton calls “approximation”
+> *“In order to “idealize away” drift simply, what is wanted is a parameter in such a probability distribution that can be set to zero (or some other value) to obtain a deterministic process. But there is, in general, no such parameter. There is no simple idealization, then, that transforms a more realistic, hence stochastic, population genetics model (let alone a veridical model) into a deterministic model”* [(Strevens, 2019, p. 1718)](zotero://open-pdf/library/items/3T6DFSVS?page=6&annotation=XZQV94T8) 
 
-### An alternative strategy employed by some population geneticists is, by contrast, explicitly asymptotic
+This is indeed interesting, so properties of the model are not parameters of the model and aren't straightforwardly derived from it
 
-#### Deterministic models can be viewed as derived from more realistic models under the assumption that population size is infinite—since in an infinite population, there is no drift.
+> *“Drift cannot be set to zero directly, then, but it can zeroed indirectly by taking population size, another parameter in stochastic models, to be infinitely large”* [(Strevens, 2019, p. 1718)](zotero://open-pdf/library/items/3T6DFSVS?page=6&annotation=P7ESD6V9) 
 
-#### Drift cannot be set to zero directly, then, but it can zeroed indirectly by taking population size, another parameter in stochastic models, to be infinitely large.
+Damn this guy is just repeating this over and over
 
-### That may sound like a simple idealization. As I will show you in the next section, however, it is not: the population size in a stochastic model cannot be set to infinity, not even by allowing the structure of the model to creep up to infinity by way of a lim- iting process.
+> *“n an infinite population, probability mathematicians therefore turn to limiting frequencies. But a limiting frequency is defined only relative to an ordering of outcomes. Suppose that I have an infinitely big pile of As and an infinitely big pile of Bs. I can alternately take one from each pile and put them in an infinitely long sequence. That gives me a limiting frequency of one-half for the As. But I can equally well build an infinitely long sequence by taking two As for every one B, giving me a limiting frequency of two-thirds for the As. (There is no prospect of running short of As; there are infinitely many.) So the limiting frequency depends on how the objects in question are ordered in a sequence”* [(Strevens, 2019, p. 1721)](zotero://open-pdf/library/items/3T6DFSVS?page=9&annotation=SSAICDI2) 
 
-#### Norton thinks this to be mistake
+Couldn't you just add an extra assumption that either species pair up randomly&nbsp; or in a predictable way, thus have an ordering and thus solve this?
 
-#### I will argue it is not by an alternative construal the infiitie population idealization, on whici i is well funded and has an important scientifitc role to play, especially in idealization.
+> *“Consequently, the infinite population idealization cannot be treated as a simple idealization in which the population is set to infinity”* [(Strevens, 2019, p. 1721)](zotero://open-pdf/library/items/3T6DFSVS?page=9&annotation=XGABNUCK) 
 
-## 4 Interpreting the infinite population idealization
+Aha okay no so he claims it is an asymptotic idealization because it isn't a simple one: you don't just start at the infinite case and call it a day, you start at the finite case and then asymptote from there
 
-### when the population size becomes infinite, the structure over which the models assign probabilities disintegrates.
+> *“Consequently there is no infinitary model, merely a piece of infinitary mathematics that derives certain behaviors of a non-infinitary model. (This is why Norton says that in these cases “there are no infinite idealizations employed”: an infinite idealization by its very nature goes by way of an infinitary model.)”* [(Strevens, 2019, p. 1722)](zotero://open-pdf/library/items/3T6DFSVS?page=10&annotation=VTD4RYPT)
+> *“Population geneticists do not use the deterministic theory as a mere pedagogical or calculating device, then; they use it to construct models that are explanatory in their own right”* [(Strevens, 2019, p. 1722)](zotero://open-pdf/library/items/3T6DFSVS?page=10&annotation=ZEQ6HHKW) 
 
-#### Relative frequencies (other than zero and one) are defined only for finite populations: if there are infinitely many As and infinitely many Bs, there is no determinate ratio of one to the other
+But you just said so otherwise a few pages back!
 
-### In an infinite population, probability mathematicians therefore turn to limiting fre- quencies. But a limiting frequency is defined only relative to an ordering of outcomes
+> *“We must therefore embrace the third option presented above: the infinite population idealization is a genuine idealization, but not a simple idealization. It is an asymptotic idealization”* [(Strevens, 2019, p. 1723)](zotero://open-pdf/library/items/3T6DFSVS?page=11&annotation=FY4CGA9L)
+> *“I now present an account of asymptotic idealization—conceived as a practice that sits alongside, but is distinct from, simple idealization—using the infinite population idealization as a paradigm. Simple idealization is achieved by a simple act of parameter substitution: the scientist takes the veridical model and alters the value of one or more parameters”* [(Strevens, 2019, p. 1723)](zotero://open-pdf/library/items/3T6DFSVS?page=11&annotation=EI6CASFT) 
 
-### Consequently, the infinite population idealization cannot be treated as a simple idealization in which the population is set to infinity. How, then, to understand it? There are three options:
+My earlier hunch, then, was incorrect, and my old self was more correct: simple/asymptotic idealization is not about directly/indirectly setting the target parameter, but about immediately/gradually setting a parameter
 
-#### 1. It is an error. Biologists ought to renounce talk of infinite populations and find some other rationale for the use of deterministic models in population genetics.
+> *“Non-idealized models Extrapolation models n = 25 n = 50 n = 100 ,,, ,,, Idealized model Extrapolation parameter n increasing without bound Limiting structure None Fig. 2 Asymptotic extrapolation. The idealized model is determined solely by (relatively) non-idealized models with finite values for the population size n. The construction does not require anything to occupy the top right corner—it does not require a stochastic model with infinite population size”* [(Strevens, 2019, p. 1725)](zotero://open-pdf/library/items/3T6DFSVS?page=13&annotation=HFMT2RUR) 
 
-#### 2. Biologists are tacitly building additional structure into population genetics models, enabling them to represent limiting frequencies and thus probability distributions over changes in limiting frequencies.
+This is just exactly what norton says but instead of being like "nah fam that's cringe" Strevens' is like "based"Norton would just say "this is an approximation fam, you're just using the assertions not the model. Wonder why Strevens' thinks otherwise
 
-#### 3. The infinite population idealization is a successful idealization, but it is not a simple idealization.
+> *“Look past the formality, however, and what’s there corresponds very closely to population geneticists’ actual, very straightforward reasoning from infinite populations to evolutionary determinism. It captures rather well, in other words, what’s meant when an expositor points to something like Fig. 1 and says: look, as the population increases, drift’s contribution to frequency dynamics decreases, and in the limit as the population goes infinite, drift disappears altogether and you get fully deterministic change in frequencies”* [(Strevens, 2019, p. 1726)](zotero://open-pdf/library/items/3T6DFSVS?page=14&annotation=SQCP365S) 
 
-#### Perhaps the least satisfying feature of this revisionary approach is its implication that no evolutionary events can be properly understood using a deterministic population genetics model—since such a construct is not itself a legitimate model of the system, but is rather only a mathematical heuristic to calculate what a certain legitimate model will predict.
+cringe, now youre back to using super basic examples! Where's Mr. Limiting frequency from a couple of pages ago? This example could be easily explained away by saying: "theyre just wrong"
 
-### The first two interpretations of the infinite population idealization, then, are inad- equate. If my reading is correct, then population geneticists such as Gillespie and Edwards treat deterministic models as genuine models that can be used (when cir- cumstances are right) to explain real events.
+> *“First, it is quite correct to observe that the sequence of extrapolation models is not sufficient in itself to determine a limiting structure and so an idealized model. Also required is what you might call an extrapolation space, a mathematical framework in which to define and compute the limit”* [(Strevens, 2019, p. 1726)](zotero://open-pdf/library/items/3T6DFSVS?page=14&annotation=4V52ALZR) 
 
-### We must therefore embrace the third option presented above: the infinite population idealization is a genuine idealization, but not a simple idealization. It is an asymptotic idealization.
+This kind of argument will almost never work because the people using the idealizations don't care/know about when you can actually define these limits and the people who do know/care about them are little nerds
 
-This doesn't follow at all, he needs to justify this way more, but I guess that's not what's important per se. He needs to justify either why we should take scientists' word on things or why it is a good explanation, both not easy.
+> *“. Asymptotic extrapolation works because the infinite parameter, population size, does not appear explicitly in an extrapolation model, which spells out frequencies but not absolute numbers of genes or organism”* [(Strevens, 2019, p. 1726)](zotero://open-pdf/library/items/3T6DFSVS?page=14&annotation=CYC3LPPA) 
 
-## 5 Infinite populations as asymptotic extrapolations
+It works because instead of making claims you just wiggle your eyebrows a lil and say "you know... 😉"
 
-### Simple idealization is achieved by a simple act of parameter substitution: the scientist takes the veridical model and alters the value of one or more parameters.
+> *“. It is, nevertheless, possible to imagine a Nortonizing voice chiding: What is the point of such a convention? Why insist that population geneticists’ deterministic models falsely assert the population’s infinitude, rather than taking the alternative view that they say nothing about population size, or (a very similar view) that they represent populations of large but finite size? One rationale for insisting on the link to infinitude is simply to do justice to the way that population geneticists such as Gillespie talk”* [(Strevens, 2019, p. 1727)](zotero://open-pdf/library/items/3T6DFSVS?page=15&annotation=4R5NKJTP) 
 
-### Asymptotic idealization is achieved by a more complex process that I will call asymp- totic extrapolation.
+Ah the ol' "i'm just taking what scientists say literally"-moral highground, classic. While I think I get why people do this, I hate it! We're not that different from the scientists! Ideally you'd see yourself as a scientist in the field just doing more thinking than theorizing/experimenting right?? This deferring to scientists authority seems kinda defeatist to me, kinda like "I'm sure they know what they're doing, otherwise why would they be doing it?"
 
-#### First—of course—asymptotic extrapolation applied to a stochastic population genetics model should lead to a derministic model without being illogical.
 
-#### Second, asymptotic extrapolation should go over and above simple idealization: it's not just simple idealization in disguise, as Norton things;
+## 6 Asymptotic extrapolation generalized[ ](zotero://open-pdf/library/items/3T6DFSVS?page=16&annotation=SKGLTMF4)
+> *“Asymptotic extrapolation from a realistic model requires: 1. An extrapolation parameter, that is, a parameter in the model which in the intended idealization goes to zero or infinity or some other extreme value, 2. A template for an extrapolation model, which is derived from the realistic model by assigning a fixed value to the extrapolation parameter and removing all representation of that parameter from the model while retaining the model’s ability to represent behavior relevant to the explanatory task, and 3. An extrapolation space, which provides the mathematical structure for finding the limiting form of the extrapolation models as the extrapolation parameter tends to the extreme value.”* [(Strevens, 2019, p. 1729)](zotero://open-pdf/library/items/3T6DFSVS?page=17&annotation=KUCBAWAX) 
 
-#### Third, asymptotic extrapolation should be to Batterman's liking (I like this one the least)
+in short: limit happens
 
-#### Fourth, the account of asymp- totic extrapolation ought to be compatible with just about any philosophical approach to explanation, idealization, or the nature of scientific models. (I dig this, we shouldn't favor a specific account of explanation)
+> *“The idealized model is the limiting form of the extrapolation models.”* [(Strevens, 2019, p. 1729)](zotero://open-pdf/library/items/3T6DFSVS?page=17&annotation=M6K6G8NW)
+> *“Yet population geneticists no more wrestle with this difficulty than they worry about the order-relativity of limiting frequencies. They have some way of making sense of the “infinity” talk that requires no high-level mathematical maneuvers.”* [(Strevens, 2019, p. 1730)](zotero://open-pdf/library/items/3T6DFSVS?page=18&annotation=3FFUNK8E) 
 
-#### And fifth, the operation should more or less capture the intuitive line of thought, associated with Fig. 1, that leads population geneticists to say that in infinite populations there is no drift. (so there is no option to say that what they're doing is wrong, how boring)
+I think people should make it very clear at the start of a work where they attempt to lay down some sort of definition how normative they take this definition to be. It's very easy to take people to say "this is how it is" or "this is how you should use it", when they want to say "this is how people could be using it sensibly"
 
-### The question, then: in virtue of what ought we to regard such models as repre- senting the behavior of infinite populations? I propose a conventionalist answer: the assumption of infinitude is simply built in to the practice of asymptotic idealization.
-
-### Idealization, I suggest, is a rhetorical strategy to underline a fac- tor’s explanatory irrelevance.
-
-### Mere fiction is, however, not always sufficient to alert the scientific community to an idealization—the falsehood might, after all, be an inadvertent error. There is a certain conventional code, therefore, for indicating deliberate idealizations: where possible, set the parameter in question, or some appropriately related parameter, to zero or infinity.
-
-# Main point
-
-Infinite idealizations are different from "simple" idealizations in the sense that there isn't a limiting case for the infinite idealization: something else changes by doing the limiting thing, discontinuity.
-
-## He has a bad reason for dissuading the first 2 ways of understanding infinite, think more of why
-
-## What is the main difference he posits between the infinite idealizations and simple ones?
-
-### Simple
-
-"The salient characteristic of a simple idealization, then, is that a simple operation, namely, a change in the parameters of the veridical model, creates a new, partly fictional model that continues to model and indeed to explain the target phenomenon."
-
-Indeed, as I thought, the change in the parameter creates a new, "easier" model which differs qualitatively (or relevantly) only in that that parameter is diffferent.
-
-### Asymptotic
-
-"In asymptotic idealization, by contrast, a fiction is introduced by taking some sort of limit."
-I mean, is that the relevant difference though? There are two concepts we should distinguish: the operation and the result. They differ in operation, but that is not what makes them interesting and I think is not what we should categorise idealization models on. What is interesting is the way in which these idealizations are used and what the accomplish. As Streven's says: "Asymptotic idealization is an interesting ppropoisiton only in those ases where a simple substitutiion cannot be performed" i.e. in those cases where the "veridical" or actual good super thorough model behaves badly in the limit. Indeed, we ought to look at this distinction like this, which is sort of the distinction [@Norton2012] makes, see [[Idealization vs Approximation]]. HOwever, Norton also makes this distinction operationally, namely that to posit an idealization is to create a new model, while an approximation is simply to say something inexactly about a system.
-Additionally, his characterization infinite idealizations mostly serve the purpose of explaining them away, so he also has two categories there: inf ids where the idealization matches and where they don't.
-
-I propose that we only distinguish between the _result_ of the idealization operation: does it create a discontinuity or not? This is the relevant part of what we are discussing, and is where the trouble of idealizations lies as far as I am concerned. See [[idealizations should be distinguished by outcome, not by operation]]
-
-### Sum up
-
-The relevant difference between asymptotic/infinite idealizations and simple ones, is that in infinite/asymptotic idealizations ANOTHER parameter is set to zero in order to affect a different one, while in simple idealizations the latter parameter is just set to zero immediately.
-
-(Is this the same distinction I just made between continuous/discontinuous? Does affecting another parameter always lead to a discontinuity in that parameter? )
-
-NO, this is not nexcessarily the same distinction, as this is one of operation rather than of result. I can imagine a model with some property X, which is a parameter of the model, and a more qualitative property Y, which is not a parameter of the model. Nevertheless, it could be that property X and Y are linearly dependent, and that taking a limit of X->0 leads to Y->0 smoothly.
-
-What does make an important difference is that often times this qualitative property Y has a binary value, or at the very least a distinction between "zero" and "non-zero", where the latter could take on many different values.
-
-Furthemore, another relevant case/part of it being considered a "difficult infinite idealization" is when Y might smoothly approach 0, but that X=0 or X= is not a sensible model. I am not sure in what sense this matches my distinction. Furtermore, isn't it always the case that if X=0 or X= the model doesn't make sense? It is already false, it seems kind of arbitrary to decide that for some models this means that the model doesn't exist and for others that it's just false but useful.
-
-Although I do see that "an infinite sphere" is nothing, an infinite population does not per se not make sense, it's just too big to be considered "real". The question then is: what is the relevant distinction to make when deciding whether a specific infinite model "does not make sense"? I can only think of the sphere to be honest, as it is a contradiction in terms, but I could also see that the infinitely small/big model would contradict something we hold to be incontrovertible. However, this latter criterion is not as easily defined, as "being infitely big or zero" can be considered a contradiction already, as things in space can't be zero size or inifninte size.
-
-## in his desiderata, does he assume that what scientists says is true? Even when he says that scientists rarely use explanation
-
-## How important do I think difference making is?
-
-## His goal is to sort of reproduce what is going on in the minds of scientists in a way to make sense.
-
-I think htis is a good goal: ideally we would have a model of idealization that makes sense and also fits with what scientists do. However, the former should always go first, it should not be the case that what scientists do always make sense by definition.
-
-# Thoughts
-
-Strevens has towoo goals in this paper: delineate infiite idealizations (asymptotic idealizations as he caklls them) from "simple" idealizations, and explain how infinte idealizations, contra Norton, make sense.
-
-The first he does rather well I think. His idea is somehwat like the following: simple idealizations simply set the value of a relevant parameter to some value like zero or infinity, and this transition to this value is smooth. Furthermore, the goal of setting this thing to zero is to just say that this paramater is not relevant in general for this model.
-
-Inifinite idealizations on the other hand, set a value to zero or infinity but non smoothly affect other properties of the system in a relevant way. The goal of doing this then, is to set those properties in those relevant ways. So for population models, the goal is to get rid of the stochastic drift, but since there is no "stochastic drift" paramater, we need to tweak the only parameter we have, the size of the population. In contrast, when we set the friction to zero in a blokje on a slope, we do so intentionally to get rid of friction: we tweak the relevant paramater, and it does not matter if we simply set it or smoothly approach it in the limit. Consider on the other hand a model where "friction" is not a parameter we can change (not unrealistic as its not a fundamental force). Then, to get rid of friction, we might have to set the size of molecules to zero or whatever, which is not realistic but makes the friction zero, and we might then construct theories containing molecules of varying sizes and explain the success of our zero friction sliding block model by saying that the molecules are sufficiently small, or something.
-
-## Streven's "asymptotic extrapolation" is (a form of?) abstraction
-
-## The asymptotic extrapolation is just a way of calling Norton's "limit mismatch" justified
-
-It has very similar characteristics. IS the extrapolation a "property" of the non-idealized models? I mean, they are idealized in a way.
-Is "having a probability distribution of the form X" a property? I guess you can call quite a lot of things properties.
-
-# Distinctions:
-
-## Approximation (statement) vs Idealization (model)
-
-## Simple idealization (setting parameter to zero) vs asymptotic idealization (setting another parameter to zero/infty to set another parameter to zero)
-
-## Idealization (model) vs infinite idealization (subclass of model where a limiting operation is performed)
-
-## Continuous operation vs discontinuous operation (idealizing operation which generates a discontinuity in some parameter)
-
-## mismatch because of discontinuity vs mismatch of existence
-
-## abstraction (generalization?) vs idealization (false model)
-
-[[Categorization of idealizations]]
+> *“7 Conclusion”* [(Strevens, 2019, p. 1730)](zotero://open-pdf/library/items/3T6DFSVS?page=18&annotation=5C2FKY49)
