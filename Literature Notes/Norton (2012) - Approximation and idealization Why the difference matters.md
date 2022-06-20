@@ -90,7 +90,7 @@ This is basically the central claim.
 
 > *“An approximation is an inexact description of a target system. It is propositional. An idealization is a real or fictitious system, distinct from the target system, some of whose properties provide an inexact description of some aspects of the target system.”* [(Norton, 2012, p. 209)](zotero://open-pdf/library/items/6X2R2Q4J?page=3) 
 
-While Norton presents this as a somewhat clear distinction, I don't think it&nbsp; works very well as a way to determine which things are idealizations or approximations.
+While Norton presents this as a somewhat clear distinction, I don't think it works very well as a way to determine which things are idealizations or approximations.
 
 
 
