@@ -1,6 +1,6 @@
 ---
-defines-react-components: true
 ---
+defines-react-components:: true
 # Capsule
 ```jsx:component:Capsule
 

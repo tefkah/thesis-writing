@@ -1,6 +1,6 @@
 ---
-defines-react-components: true
 ---
+defines-react-components:: true
 # Infinite Sphere
 ```jsx:component:Slider
 const [val, setVal] = useState(20)

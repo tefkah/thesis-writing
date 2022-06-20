@@ -1,7 +1,7 @@
 ---
 tags: 
-	- definition
-	- idealizations
+  - definition
+  - idealizations
 title: Promotion
 ---
 # Promotion
