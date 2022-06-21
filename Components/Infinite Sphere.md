@@ -1,8 +1,4 @@
----
----
-defines-react-components:: true
 # Infinite Sphere
-```jsx:component:Slider
 const [val, setVal] = useState(20)
 //return <input type="range" min={1} max={10} value={5}/>
 // return <input type="range" value={val} onChange={(e)=>setVal(e.input.value)} min={1} max={10}/>
@@ -16,11 +12,9 @@ return  <div>
 		        style={{width:"100%"}}
 	        />
 	    </div>
-```
 
 
 
-<div><Slider/></div>
 
 
 
