@@ -17,7 +17,6 @@ ISSN: 1573-0964
 keywords: explanation, idealization, philphys
 mtime: 20210929153908
 ctime: 20210929153908
-author: Strevens, M.
 ---
 > [!abstract]
 > Robert Batterman and others have argued that certain idealizing explanations have an asymptotic form: they account for a state of affairs or behavior by showing that it emerges “in the limit”. Asymptotic idealizations are interesting in many ways, but is there anything special about them as idealizations? To understand their role in science, must we augment our philosophical theories of idealization? This paper uses simple examples of asymptotic idealization in population genetics to argue for an affirmative answer and proposes a general schema for asymptotic idealization, drawing on insights from Batterman’s treatment and from John Norton’s subsequent critique.

@@ -1,9 +1,4 @@
----
----
-defines-react-components:: true
 # Capsule
-```jsx:component:Capsule
-
 const [width, setWidth] = useState(0)
 const max = 30
 const factor = 100
@@ -65,14 +60,10 @@ return (
 	</div>
 </div>
 	)
-```
-some text
-
-<Capsule></Capsule>
 
 
 
 
 
 
-shatasht
+

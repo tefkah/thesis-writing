@@ -243,7 +243,6 @@ To find the resistivity, we use Ohm's law, which relates the energy of a particl
 $$
 \begin{equation}
     \mathbf{E}=\sigma \mathbf{J}
-    \label{eq:ohm}
 \end{equation} \qquad (4)
 $$
 
