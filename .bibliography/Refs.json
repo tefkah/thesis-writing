@@ -504,9 +504,7 @@
     "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
     "label": "BetterBibTeX JSON",
     "options": {
-      "exportFileData": false,
-      "exportNotes": true,
-      "keepUpdated": true
+      "exportNotes": true
     },
     "preferences": {
       "DOIandURL": "doi",
@@ -29728,59 +29726,40 @@
       "version": 6339
     },
     {
-      "dateAdded": "2022-04-18T19:58:51Z",
-      "dateModified": "2022-04-18T19:58:51Z",
-      "itemID": 5790,
-      "itemKey": "RPKRA4X2",
-      "itemType": "note",
-      "key": "RPKRA4X2",
-      "libraryID": 1,
-      "note": "",
-      "relations": [],
-      "select": "zotero://select/library/items/RPKRA4X2",
-      "tags": [],
-      "uri": "http://zotero.org/users/6193144/items/RPKRA4X2",
-      "version": 6435
-    },
-    {
-      "accessDate": "2022-06-17T14:08:44Z",
-      "attachments": [
+      "abstractNote": "For cool updated about the future of computing, follow me at https://twitter.com/iamvriad.\n\nClosing keynote at the UIST and SPLASH conferences, October 2014.\nPreface: \n\nhttp://worrydream.com/TheHumaneRepres...\n\nReferences to baby-steps towards some of the concepts mentioned:\n\nDynamic reality (physical responsiveness):\n- The primary work here is Hiroshi Ishii's \"Radical Atoms\": http://tangible.media.mit.edu/project...\n- but also relevant are the \"Soft Robotics\" projects at Harvard: http://softroboticstoolkit.com\n- and at Otherlab: http://youtube.com/watch?v=gyMowPAJwqo\n- and some of the more avant-garde corners of material science and 3D printing\n\nDynamic conversations and presentations:\n- Ken Perlin's \"Chalktalk\" changes daily; here's a recent demo: http://bit.ly/1x5eCOX\n\nContext-sensitive reading material:\n- http://worrydream.com/MagicInk/\n\"Explore-the-model\" reading material:\n- http://worrydream.com/ExplorableExpla...\n- http://worrydream.com/LadderOfAbstrac...\n- http://ncase.me/polygons/\n- http://redblobgames.com/pathfinding/a...\n- http://earthprimer.com/\n\nEvidence-backed models:\n- http://worrydream.com/TenBrighterIdeas/\n\nDirect-manipulation dynamic authoring:\n- http://worrydream.com/StopDrawingDead...\n- http://worrydream.com/DrawingDynamicV...\n- http://tobyschachman.com/Shadershop/\nModes of understanding:\n- Jerome Bruner: http://amazon.com/dp/0674897013\n- Howard Gardner: http://amazon.com/dp/0465024335\n- Kieran Egan: http://amazon.com/dp/0226190390\n\nEmbodied thinking:\n- Edwin Hutchins: http://amazon.com/dp/0262581469\n- Andy Clark: http://amazon.com/dp/0262531569\n- George Lakoff: http://amazon.com/dp/0465037712\n- JJ Gibson: http://amazon.com/dp/0898599598\n- among others: http://en.wikipedia.org/wiki/Embodied...\nI don't know what this is all about:\n- http://worrydream.com/ABriefRantOnThe...\n- http://worrydream.com/ABriefRantOnThe...\n\n---\nAbstract:\n\nNew representations of thought — written language, mathematical notation, information graphics, etc — have been responsible for some of the most significant leaps in the progress of civilization, by expanding humanity’s collectively-thinkable territory.\n\nBut at debilitating cost. These representations, having been invented for static media such as paper, tap into a small subset of human capabilities and neglect the rest. Knowledge work means sitting at a desk, interpreting and manipulating symbols. The human body is reduced to an eye staring at tiny rectangles and fingers on a pen or keyboard.\n\nLike any severely unbalanced way of living, this is crippling to mind and body. But it is also enormously wasteful of the vast human potential. Human beings naturally have many powerful modes of thinking and understanding. Most are incompatible with static media. In a culture that has contorted itself around the limitations of marks on paper, these modes are undeveloped, unrecognized, or scorned.\nWe are now seeing the start of a dynamic medium. To a large extent, people today are using this medium merely to emulate and extend static representations from the era of paper, and to further constrain the ways in which the human body can interact with external representations of thought.\n\nBut the dynamic medium offers the opportunity to deliberately invent a humane and empowering form of knowledge work. We can design dynamic representations which draw on the entire range of human capabilities — all senses, all forms of movement, all forms of understanding — instead of straining a few and atrophying the rest.\nThis talk suggests how each of the human activities in which thought is externalized (conversing, presenting, reading, writing, etc) can be redesigned around such representations.\n\n---\nArt by David Hellman.\nBret Victor -- http://worrydream.com",
+      "accessDate": "2022-06-22T10:40:56Z",
+      "attachments": [],
+      "citationKey": "BretVictor2015",
+      "citekey": "BretVictor2015",
+      "creators": [
         {
-          "dateAdded": "2022-06-17T14:08:58Z",
-          "dateModified": "2022-06-17T14:08:58Z",
-          "itemType": "attachment",
-          "path": "/Users/thomas/Zotero/storage/T67JVS9N/home.html",
-          "relations": [],
-          "tags": [],
-          "title": "Snapshot",
-          "uri": "http://zotero.org/users/6193144/items/T67JVS9N"
+          "creatorType": "director",
+          "name": "Bret Victor"
         }
       ],
-      "citationKey": "zotero-5885",
-      "citekey": "zotero-5885",
-      "creators": [],
-      "dateAdded": "2022-06-17T14:08:43Z",
-      "dateModified": "2022-06-17T14:08:48Z",
-      "itemID": 5885,
-      "itemKey": "DPJNL7E5",
-      "itemType": "webpage",
-      "key": "DPJNL7E5",
-      "language": "en",
+      "date": "2015-06-17",
+      "dateAdded": "2022-06-22T10:40:56Z",
+      "dateModified": "2022-06-22T10:42:09Z",
+      "itemID": 6244,
+      "itemKey": "3PSPTBWZ",
+      "itemType": "videoRecording",
+      "key": "3PSPTBWZ",
+      "libraryCatalog": "YouTube",
       "libraryID": 1,
       "notes": [],
-      "publicationTitle": "Twitter",
       "relations": [],
-      "select": "zotero://select/library/items/DPJNL7E5",
+      "runningTime": "56:21",
+      "select": "zotero://select/library/items/3PSPTBWZ",
       "tags": [
         {
           "tag": "/unread",
           "type": 1
         }
       ],
-      "title": "Home / Twitter",
-      "uri": "http://zotero.org/users/6193144/items/DPJNL7E5",
-      "url": "https://twitter.com/home",
-      "version": 6523
+      "title": "The Humane Representation of Thought",
+      "uri": "http://zotero.org/users/6193144/items/3PSPTBWZ",
+      "url": "https://www.youtube.com/watch?v=agOdP2Bmieg",
+      "version": 6640
     },
     {
       "abstractNote": "Get pricing information for Azure Database for PostgreSQL, a fully-managed database as a service with built-in capabilities.",
