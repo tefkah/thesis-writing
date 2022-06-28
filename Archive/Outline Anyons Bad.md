@@ -272,9 +272,9 @@ Experimental samples are inherently dirty (here meaning: containing other elemen
 1) They (unsurprisingly) break the degeneracy of the Landau levels, resulting in more swept out states as in ref:fig:disorder
 2) They (more surprisingly) turn many _extended_ quantum states into _localized_ ones.
 
-![](./media/broadlandau.png "Figure 1: <<fig:disorder>>Density of states in the IQHE with and without disorder")
+![](./media/broadlandau.png "Figure 1: Density of states in the IQHE with and without disorder")
 
-![](./media/breakdegen.png "Figure 2: <<fig:extended>>Extended to localized states")
+![](./media/breakdegen.png "Figure 2: Extended to localized states")
 
 This might sound all well and good, but certainly there is a limit to the amount of disorder we are allowed to introduce into our system? Surely the spokes of my bicycle should not be able to serve as Quantum Hall systems.
 
@@ -283,7 +283,7 @@ We can express these as
 
 $$
 \begin{equation}
-    V_{disorder}<<\hbar\omega_B
+    V_{disorder}\ll\hbar\omega_B
 \end{equation} \qquad (5)
 $$
 
@@ -291,7 +291,7 @@ and
 
 $$
 
-|  V | <<$\frac{\hbar \omega_B}{l_B}$ |
+|  V | \ll$\frac{\hbar \omega_B}{l_B}$ |
 | -- | ------------------------------ |
 
 
