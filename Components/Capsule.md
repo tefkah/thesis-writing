@@ -1,3 +1,4 @@
+# Capsule
 import {useState} from 'react';
 export const [width, setWidth] = useState(0);
 export const max = 30;
@@ -7,7 +8,7 @@ export const [radius,setRadius] = useState(1);
 export const cylinderSurface = 2*Math.PI * (width +1) * factor * radius + 2*Math.PI * Math.pow(radius,2);
 export const cylinderVolume = Math.PI * Math.pow(radius, 2) * (width + 1) * factor;
 export const capsuleSurface = 2*Math.PI * width * factor * radius + 4*Math.PI*Math.pow(radius,2);
-export const capsuleVolume = Math.PI * Math.pow(radius, 2) * (width) * factor + 4*Math.PI*Math.pow(radius,3)/3:
+export const capsuleVolume = Math.PI * Math.pow(radius, 2) * (width) * factor + 4*Math.PI*Math.pow(radius,3)/3;
 
 
 <div style={{width: '100%', display: 'flex', flexDirection: 'column',gap:'2rem'}}>
