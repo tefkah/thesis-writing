@@ -10,7 +10,7 @@ mtime: 20210701200748
 ctime: 20210416112750
 ---
 
-# Boundary points
+# Boundary Points
 
 Given a [[Metric Space]] $(X,d)$ and a subset $A \subseteq X$, we say that a point $x \in X$ is called a **boundary point for $A$** if
 

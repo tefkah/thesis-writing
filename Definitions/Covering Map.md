@@ -8,6 +8,6 @@ mtime: 20210701200757
 ctime: 20210403182527
 ---
 
-# Covering map
+# Covering Map
 
 A **covering map** is a continuous function $p$ from a [[Topological space]] C to another topological space $X$ such that each point in $X$ has an [[Open neighbourhood]] [[Even cover]] by $p$.

@@ -8,7 +8,7 @@ mtime: 20210701200755
 ctime: 20210403183347
 ---
 
-# Universal cover(ing space)
+# Universal Cover(ing Space)
 
 A [[Covering space]] is called a **universal covering space** if it is [[Simply connected]].
 

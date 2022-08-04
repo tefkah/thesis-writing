@@ -9,7 +9,7 @@ mtime: 20210701200233
 ctime: 20210701200233
 ---
 
-# Four-vector
+# Four-Vector
 
 A **four-vector** is vector-form often used in [[Special Relativity|relativistic]] physics, defined as
 

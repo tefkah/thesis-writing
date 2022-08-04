@@ -10,7 +10,7 @@ mtime: 20210701200837
 ctime: 20210218153905
 ---
 
-# fundamental group
+# Fundamental Group
 
 The fundamental group of a space is the [[First homotopy group Pi1]] of said space.
 
