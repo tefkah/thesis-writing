@@ -8,7 +8,7 @@ mtime: 20210701195617
 ctime: 20210114164133
 ---
 
-# de dicto
+# De Dicto
 
 _de dicto_ (about what is said) means that a statement is read semantically, that the statement is ultimately about our lkinguistic practices, not about the world as it really really is.
 

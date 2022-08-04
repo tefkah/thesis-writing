@@ -8,6 +8,6 @@ mtime: 20210701200801
 ctime: 20210330160709
 ---
 
-# Gauge theory
+# Gauge Theory
 
 A gauge theory is any theory with a [[Gauge symmetry]].

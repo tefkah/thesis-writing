@@ -8,6 +8,6 @@ mtime: 20210701195232
 ctime: 20210427183527
 ---
 
-# Singular Limits
+# Singular Limit
 
 When the sequence of system does not smoothly approach the infinite limit system.

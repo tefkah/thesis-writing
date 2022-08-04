@@ -8,7 +8,7 @@ mtime: 20210701200819
 ctime: 20210311113613
 ---
 
-# The Aharonov Bohm effect
+# The Aharonov Bohm Effect (AB)
 
 The Aharonov Bohm effect is the phenomenon in which particles ONLY sense a [[gauge potential]] field and because of this pick up a [[Berry phase]], which then leads to interference.
 

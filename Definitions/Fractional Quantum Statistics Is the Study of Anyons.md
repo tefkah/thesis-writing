@@ -8,4 +8,4 @@ mtime: 20210701195534
 ctime: 20210218152830
 ---
 
-# fractional quantum statistics is the study of anyons
+# Fractional Quantum Statistics Is the Study of Anyons
