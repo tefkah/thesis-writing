@@ -8,8 +8,6 @@ mtime: 20210701200831
 ctime: 20210223162026
 ---
 
-# The Dimensions of the Hall System Is Set to 2 From the Start
-
 It seems like in the [[derivation of Landau levels for QHE]] , it is _assumed_ that the system is two dimensional from the start. If this is so, this might make [@Shech2019] 's circular.
 
 However, this is not yet clear, as his argument might work the other way around.

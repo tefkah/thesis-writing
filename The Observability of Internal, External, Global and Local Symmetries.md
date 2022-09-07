@@ -7,7 +7,6 @@ mtime: 20210701200805
 ctime: 20210330154142
 ---
 
-# The observability of internal, external, global and local symmetries
 
 | Observation    | Scope                      | ? | [[External Symmetry|External]]                                     | ? | [[internal symmetry|internal]]                   |
 | -------------- | -------------------------- | - | ------------------------------------------------------------------ | - | ------------------------------------------------ |

@@ -7,4 +7,3 @@ mtime: 20210701195531
 ctime: 20210218153716
 ---
 
-# configuration space framework for identical particles

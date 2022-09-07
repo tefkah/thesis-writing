@@ -10,8 +10,6 @@ mtime: 20210701200729
 ctime: 20210511130045
 ---
 
-# Geometric Phase
-
 If a quantum system is adiabatically transported from and back to its original _parameters,_ while keeping the system in the same state, it picks up a [[Phase (quantum)]] called the **geometric phase**.
 
 Here are some examples:![](geophases.png)

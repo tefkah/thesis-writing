@@ -8,7 +8,7 @@ mtime: 20210701200801
 ctime: 20210330162807
 ---
 
-# Physical theories _must_ be [[Global symmetry|Globally]] symmetric, and _can_ be [[Local symmetry|Locally]] symmetric
+Physical theories _must_ be [[Global symmetry|Globally]] symmetric, and _can_ be [[Local symmetry|Locally]] symmetric
 
 This is because we cannot directly observe local symmetries and have to add a dynamical priciple which takes them into account.
 

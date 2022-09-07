@@ -8,4 +8,3 @@ mtime: 20210701195440
 ctime: 20210312121728
 ---
 
-# The FQH 'Plasma' Is Liquid for M\<70 and Solid Above

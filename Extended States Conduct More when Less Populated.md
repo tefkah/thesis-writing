@@ -8,6 +8,5 @@ mtime: 20210701195456
 ctime: 20210302164341
 ---
 
-# extended states conduct more when less populated
 
-# Extended states compensate for being filled less by conducting more
+Extended states compensate for being filled less by conducting more

@@ -8,8 +8,6 @@ mtime: 20210701200732
 ctime: 20210507132839
 ---
 
-# A Space Is Just a Set with some Structure
-
 The word **space** in mathematics always confused me, but I think that you can think of a space as just a [[Set]] with some structure.
 
 Examples are [[Topological space]]s, which are just sets with a topology structure defined on them, [[Metric Space]]s, which are just sets with a [[Vector space]] and metric defined on it, etc etc.

@@ -7,4 +7,3 @@ mtime: 20210701195326
 ctime: 20210403182023
 ---
 
-# The fundamental group records information about loops in a space

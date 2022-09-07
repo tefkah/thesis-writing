@@ -9,8 +9,6 @@ mtime: 20210701200748
 ctime: 20210416113831
 ---
 
-# Closed set
-
 ## Metric space
 
 Given a [[Metric Space]] $(X,d)$, a subset $A\subseteq X$ is called **closed** if its [[Complement]] $A^c$ is an [[Open set]].

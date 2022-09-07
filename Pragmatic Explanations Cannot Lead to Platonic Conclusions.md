@@ -9,8 +9,6 @@ mtime: 20210701200843
 ctime: 20210204162417
 ---
 
-# pragmatic explanations cannot lead to platonic conclusions
-
 # Context
 
 Talk with Guido and Ronnie, also listening to [@Batterman2001] .

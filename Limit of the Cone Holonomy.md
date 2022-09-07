@@ -9,8 +9,6 @@ mtime: 20210701200721
 ctime: 20210513124828
 ---
 
-# Limit of the cone holonomy
-
 # The cone example by Guido
 
 Imagine a vector being parallel transported around a perfect cone. Perfect cones are interesting as they have zero curvature everywhere, but have a singularity at their peak. This leads to all kinds of wacky nonsense.

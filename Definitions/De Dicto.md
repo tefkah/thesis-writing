@@ -8,8 +8,6 @@ mtime: 20210701195617
 ctime: 20210114164133
 ---
 
-# De Dicto
-
 _de dicto_ (about what is said) means that a statement is read semantically, that the statement is ultimately about our lkinguistic practices, not about the world as it really really is.
 
 This distinction can be drawn in a lot of different ways, but the most relevant ones concerns modality and belief. Belief is eaasiest.

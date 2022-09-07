@@ -7,8 +7,6 @@ mtime: 20210701200800
 ctime: 20210330164324
 ---
 
-# It Makes More Sense to Think of Explanation as Graded Rather than Binary
-
 Scientific explanation is usually thought of as a definite predicate, either something is a (good) scientific explanation, or it isn't.
 
 While this way of thinking is tempting, and I myself "fall into" this trap quite often, I `believe` can see that thinking of explanation as having different levels of acceptability to be much more fruitful.

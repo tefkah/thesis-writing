@@ -8,8 +8,6 @@ mtime: 20210701200720
 ctime: 20210516212245
 ---
 
-# Cover
-
 A **cover** $C$ of a space $X$ is a [[Covering space]] together with a [[Covering map]] such that (roughly) there is a map from each one or more points in $C$ to every point $X$.
 
 A cover has to be  [[Surjective  or  Onto|Surjective / Onto]], but is in general not[[Injective  or  one-to-one| Injective / one-to-one]] , because covers usually have more than one point that map onto the same point in $X$.

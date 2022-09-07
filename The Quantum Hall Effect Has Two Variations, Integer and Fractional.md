@@ -7,8 +7,6 @@ mtime: 20210701200835
 ctime: 20210219124712
 ---
 
-# The Quantum Hall Effect Has Two Variations, Integer and Fractional
-
 The Quantum Hall Effect is the observation of plateaux and valleys at multiples of the [[quantum of resistance]] $R_H=h/(e^2*\nu)$  in the transversal and longitudinal resitances measured in the[[The Classical Hall Effect Is Just an Application of the Lorentz Force|classical hall effect]].
 
 This can be observed in this graph.![](./media/fqhe.png)

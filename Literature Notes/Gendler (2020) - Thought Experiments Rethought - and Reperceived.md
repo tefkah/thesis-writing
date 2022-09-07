@@ -9,7 +9,6 @@ ctime: 20211027125141
 citekey: cite:Gendler2004
 ---
 
-# Gendler (2020) - Thought Experiments Rethought - and Reperceived
 
 
 # Rough note space

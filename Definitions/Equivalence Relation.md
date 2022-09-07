@@ -8,8 +8,6 @@ mtime: 20210701200739
 ctime: 20210505152849
 ---
 
-# Equivalence Relation
-
 ## Munkres
 
 An **equivalence relation** on a set $A$ is a [[Relation]] $C$ on $A$ such that

@@ -8,4 +8,3 @@ mtime: 20210701195550
 ctime: 20210204162559
 ---
 
-# an explanation is whatever scientists call an explanation

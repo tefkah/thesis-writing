@@ -4,4 +4,3 @@ tags:
   - idealizations
   - approximation  
 ---
-# Promotion of Approximations

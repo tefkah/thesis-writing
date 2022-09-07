@@ -7,6 +7,4 @@ mtime: 20210701182510
 ctime: 20210316143955
 ---
 
-# Bose-Eistein Statistics
-
 \$<sub>21</sub>=<sub>12</sub>

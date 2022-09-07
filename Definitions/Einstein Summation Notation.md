@@ -9,6 +9,3 @@ mtime: 20210701194950
 ctime: 20210701194950
 ---
 
-# Einstein summation notation
-
-# Examples

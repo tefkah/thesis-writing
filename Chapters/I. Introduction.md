@@ -10,8 +10,6 @@ mtime: 20220318215804 20210701200531
 ctime: 20210701200531
 ---
 
-# I. Introduction
-
 ## Introduction/Discretization
 
 As I see it, the chief problem of philosophy is to explicate how, if at all, our language relates to the world. This is not a new thought, but one I wish to explore in this thesis.

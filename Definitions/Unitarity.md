@@ -8,9 +8,7 @@ mtime: 20210701194908
 ctime: 20210701194908
 ---
 
-# Unitarity
-
 An object $U$ is unitary if $U^\dagger U=I$.
-For matrices, $U^\dagger= U^T^*$
+For matrices, $U^{\dagger}= U^{T^*}$
 
 # Examples

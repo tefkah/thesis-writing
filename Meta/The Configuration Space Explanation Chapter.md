@@ -14,8 +14,6 @@ mtime: 20210701200758
 ctime: 20210402123014
 ---
 
-# The Configuration Space Explanation Chapter
-
 In this section I will give a brief expose of the purported explanation of the possibility/emergence of anyons via the "configuration space framework", mostly based on [@Shech2019], [@Shech2015b], [@Rao2001] and [@Tong2016].
 
 ## The quantum statistics of a particle are the phase factor it obtains under exchange

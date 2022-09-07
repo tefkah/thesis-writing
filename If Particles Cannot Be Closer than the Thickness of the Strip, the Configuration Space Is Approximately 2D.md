@@ -9,8 +9,6 @@ mtime: 20210701200750
 ctime: 20210414134239
 ---
 
-# If Particles Cannot Be Closer than the Thickness of the Strip, the Configuration Space Is Approximately 2D
-
 # An alternative configuration space
 
 According to [@Shech2019] the consequences of the above argument are clear: "anyons can only exist in two dimensions." pageXX. Therefore, since small 3D is not approximately 2D, the 2D idealization is truly indispensible to our explanation of the emergence of anyons and we therefore ought to take it ontologically seriously.

@@ -10,8 +10,6 @@ mtime: 20210701200725
 ctime: 20210511133056
 ---
 
-# Determinant
-
 The determinant of a matrix $A$ is a scalar value of a function of the elements of the matrix.
 
 ## 2x2

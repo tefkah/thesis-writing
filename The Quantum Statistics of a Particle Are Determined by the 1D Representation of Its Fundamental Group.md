@@ -9,6 +9,4 @@ mtime: 20210701200810
 ctime: 20210316151605
 ---
 
-# The Quantum Statistics of a Particle Are Determined by the 1D Representation of Its Fundamental Group
-
 The [[Quantum Statistics]] of the exchange of two identical particles are determined by the [[1D Representation of a Group]]  of the [[fundamental group]] of said exchange.

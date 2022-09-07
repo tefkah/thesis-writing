@@ -15,9 +15,6 @@ noter_document: ""
 noter_page: ""
 ---
 
-# Brown, Sjoqvist & Bacciagaluppi (1999) - Remarks on Identical Particles in De Broglie-Bohm Theory
-
-
 # Interesting
 
 They provide a reason for why to get rid of the points $\Delta$ using de Broglie Bohm theory.

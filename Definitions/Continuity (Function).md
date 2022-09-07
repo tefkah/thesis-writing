@@ -10,8 +10,6 @@ mtime: 20210701200734
 ctime: 20210505163129
 ---
 
-# Continuity (function)
-
 ## Topological definition (Munkres)
 
 Let $X$ and $Y$ be [[Topological space]]s. A function $f: X \rightarrow Y$ is said to be **continuous** if for each [[Open set|open subset]] $V\subseteq Y$, the [[Preimage]] $f^{-1}(V)$ of $V$ is an open subset of $X$.

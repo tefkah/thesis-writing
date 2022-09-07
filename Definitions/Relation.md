@@ -8,8 +8,6 @@ mtime: 20210701200740
 ctime: 20210505152606
 ---
 
-# Relation
-
 ## Munkres
 
 A **relation** on a set $A$ is a subset $C$ of the [[Cartesian Product]] $A \times A$.

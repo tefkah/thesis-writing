@@ -9,8 +9,6 @@ mtime: 20210701200747
 ctime: 20210416114640
 ---
 
-# Closure (set)
-
 The **closure** $\bar{A}$ of a subset $A$ of a [[Metric Space]] $(X,d)$ is the smallest [[Closed set]] containing $A$, which is the union of $A$ and its [[Boundary]].
 
 $$

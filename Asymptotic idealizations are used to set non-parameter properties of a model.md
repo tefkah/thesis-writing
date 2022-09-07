@@ -1,4 +1,3 @@
-# Asymptotic idealizations are used to set non-parameter properties of a model 
 These are cases where we need [[Infinite Idealizations|infinite/asymptotic idealizations]], method wise, as we cannot simply set the parameter to the value we want. 
 
 This idea is due to @Strevens2019a

@@ -9,6 +9,4 @@ mtime: 20210701200727
 ctime: 20210511132817
 ---
 
-# Curl
-
 The **curl**  $\nabla \times\mathbf{x}$ of a vector $\mathbf{x}$ (or more likely a [[Vector space]]) is the [[Cross-product]] of the vector (vector) with the [[Nabla|Nabla operator]]. In a crude way it  represents the amount of "rotation" going on in a certain vector space.

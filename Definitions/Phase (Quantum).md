@@ -8,8 +8,6 @@ mtime: 20210701200730
 ctime: 20210511110338
 ---
 
-# Phase (Quantum)
-
 A **quantum phase** is a complex number $e^{i\phi}$ which is one of the factors by which two states can differ. In general, a _global_ phase added to the "mathematical" representation of a state (the [[Bra ket notation|kets]], as the person below calls them) $|\psi>$ is a [[Gauge symmetry|gauge symmetry]] for the "physical" state, meaning that $e^{i\phi}|\psi>$ and $e^{i\theta}|\psi>$ with $\phi\neq\theta$ still describe the same physical system.
 
 Phases only become important when we start adding states with different phases together, because this will lead to [[Interference|interference]] between the two states and to a novel new state.

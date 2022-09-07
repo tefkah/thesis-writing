@@ -8,8 +8,6 @@ mtime: 20210701200838
 ctime: 20210218151906
 ---
 
-# Descripion of QHE
-
 # Context
 
 This is the start of the train of thought about the (F)QHE

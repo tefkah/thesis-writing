@@ -11,7 +11,6 @@ ctime: 20210929153929 20210701195041
 author: Strevens, M.
 ---
 
-# Strevens (2007) - Why Explanations Lie Idealization in Explanation
 
 ## Why?
 

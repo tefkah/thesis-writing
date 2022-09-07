@@ -8,8 +8,6 @@ mtime: 20210706170919
 ctime: 20210706160326
 ---
 
-# Schrödinger Equation
-
 # Time-dependent Schrödinger equation
 
 # Time-independent Schrödinger equation

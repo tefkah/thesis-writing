@@ -10,8 +10,6 @@ mtime: 20210701200717
 ctime: 20210525170640
 ---
 
-# Underdescription = gauge = cover(ing space)
-
 What philosophers call "underdescription", physicists call [[gauge freedom]], and mathematicians (roughly) call a [[Cover]]: they all describe a larger space which maps onto a smaller space which we actually care about.
 
 This is not completely fair, as underdescription is the most general, gauge is more specific and cover is super specific.

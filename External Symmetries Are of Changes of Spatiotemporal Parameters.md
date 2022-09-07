@@ -7,4 +7,3 @@ mtime: 20210701195408
 ctime: 20210330160354
 ---
 
-# External symmetries are of changes of spatiotemporal parameters

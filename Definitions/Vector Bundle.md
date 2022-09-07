@@ -10,6 +10,4 @@ mtime: 20210701200728
 ctime: 20210511130921
 ---
 
-# Vector bundle
-
 A **vector** bundle is a 'family' of [[Vector space|Vector spaces]]

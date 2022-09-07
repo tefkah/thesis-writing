@@ -9,9 +9,6 @@ mtime: 20210701200843
 ctime: 20210210115635
 ---
 
-# Phase Transitions (Meta)
-
-
 # Bibliography note on phase transitions
 
 ## Philosophy

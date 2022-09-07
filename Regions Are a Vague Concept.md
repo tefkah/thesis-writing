@@ -10,8 +10,6 @@ mtime: 20210701182524
 ctime: 20210503132021
 ---
 
-# Regions Are a Vague Concept
-
 ## What a "spacetime region" is is vague
 
 This is relevant for [@Dougherty2020b] 's claim that the topological explanation of the AB effect just requires a "region" of non-multiply connectedness, not a whole configuration space.

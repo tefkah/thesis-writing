@@ -8,8 +8,6 @@ mtime: 20210701195447
 ctime: 20210311100054
 ---
 
-# idealizations employed in the FQHE
-
 # Strip is thought of as infinite
 
 ## Where

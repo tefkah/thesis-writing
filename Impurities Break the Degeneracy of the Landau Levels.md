@@ -5,8 +5,6 @@ mtime: 20210701195457
 ctime: 20210302155202
 ---
 
-# Impurities Break the Degeneracy of the Landau Levels
-
 The Landau levels in the IQHE "ideally" look like this
 ```
 ----

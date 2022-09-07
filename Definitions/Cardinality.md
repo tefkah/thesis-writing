@@ -9,8 +9,6 @@ mtime: 20210701200348
 ctime: 20210701200348
 ---
 
-# Cardinality
-
 The **cardinality** of a [[Set]] describes the size of said set.
 
 # Examples

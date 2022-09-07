@@ -8,6 +8,4 @@ mtime: 20210701195459
 ctime: 20210302154219
 ---
 
-# Edge Modes
-
 Edge modes are the ways systems behave at their boundaries.

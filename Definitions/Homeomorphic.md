@@ -8,8 +8,6 @@ mtime: 20210701200709
 ctime: 20210611132449
 ---
 
-# Homeomorphic
-
 **Homeomorphic** means "topologically-equivalent". It is an [[Isomporphism]] for [[Topological space|Topological spaces]], meaning that two spaces which are homeomorphic to one another have all the same topological qualities such as connectedness and orientability.
 
 More formally, two topological spaces $X$ and $Y$ are **homeomorphic** iff there exists a **homeomorphism** $f: X\rightarrow Y$ such that

@@ -13,8 +13,6 @@ ISSN: 1572-9613
 keywords: explanation, idealization, thought experiments
 ---
 
-# Kadanoff (2009) - More is the Same; Phase Transitions and Mean Field Theories
-
 > [!abstract]
 > This paper is the first in a series that will look at the theory of phase transitions from the perspectives of physics and the philosophy of science. The series will consider a group of related concepts derived from condensed matter and statistical physics. The key technical ideas go under the names of “singularity”, “order parameter”, “mean field theory”, “variational method”, “correlation length”, “universality class”, “scale changes”, and “renormalization”. The first four of these will be considered here.
 

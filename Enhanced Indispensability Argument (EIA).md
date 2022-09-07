@@ -9,8 +9,6 @@ mtime: 20210701195551
 ctime: 20210204161810
 ---
 
-# Enhanced Indispensability Argument (EIA)
-
 1) We ought rationally to believe in the existence of any entity that plays an indispensable _explanatory_ role in our best scientific theories.
 2) Mathematical objects play an indispensable explanatory role in science.
 3) Hence, we ought to believe in the existence of mathematical objects.

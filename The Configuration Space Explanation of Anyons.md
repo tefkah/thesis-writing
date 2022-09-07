@@ -7,8 +7,6 @@ mtime: 20210701200806
 ctime: 20210327154504
 ---
 
-# The Configuration Space Framework explanation of anyons
-
 ## Step 1: Construct the configuration space for the exchange of N identical particles in $d$ dimensions.
 
 .

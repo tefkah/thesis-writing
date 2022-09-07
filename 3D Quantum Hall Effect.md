@@ -9,8 +9,6 @@ mtime: 20210701200716
 ctime: 20210601145016
 ---
 
-# 3D Quantum Hall Effect
-
 In addition to the general [[the quantum hall effect has two variations, integer and fractional|quantum hall effect,]] which is, alledgedly, a completely 2D phenomenon, physicsts also appear to be interested in the **3 dimensional quantum hall effect**.
 
 Originally proposed by [@Halperin1987], lately some experimental success has been had with it [@Tang2019].

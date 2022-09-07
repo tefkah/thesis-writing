@@ -12,8 +12,6 @@ author: Cohen, E., Larocque, H., Bouchard, Fr\'ed\'eric, Nejadsattari, F.,
   Gefen, Y., & Karimi, E.
 ---
 
-# Cohen et al. (2019) - Geometric Phase From Aharonov-Bohm to PancharatnamBerry and Beyond
-
 # Summary
 
 # Rough note space

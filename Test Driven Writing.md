@@ -9,8 +9,6 @@ mtime: 20210911183407
 ctime: 20210911173330
 ---
 
-# Test Driven Writing
-
 I really like the idea of [[Test Driven Development]].
 One of the reasons I usually struggle with writing is that it is hard to see whether I am making any progress, and whether what I am writing fulfills the "requirements" of what I want to do. In fact, even outlining these requirements is pretty hard, but the fact that there is no way to check whether my writing "performs well" makes it extremely easy to give up.
 

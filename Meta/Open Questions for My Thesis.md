@@ -8,8 +8,6 @@ mtime: 20210701200055
 ctime: 20210701200055
 ---
 
-# Open Questions for My Thesis
-
 # Context
 
 Whilst working on my thesis I occasionally come across things I cannot quite seem to answer. I want to keep track of those here, and possibly incorporate these into my agenda/actionables through a shortcut.

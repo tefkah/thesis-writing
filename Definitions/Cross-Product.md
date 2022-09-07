@@ -9,6 +9,4 @@ mtime: 20210701200726
 ctime: 20210511133012
 ---
 
-# Cross-Product
-
 The cross product of two vectors $x\times y$ is the [[Determinant]] of the vector product of those vectors, giving rise to a new vector $z$ which is perpendicular to both.

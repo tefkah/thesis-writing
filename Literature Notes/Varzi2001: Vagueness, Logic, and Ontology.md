@@ -8,8 +8,6 @@ mtime: 20220407144329 20220318220353 20210701195945
 ctime: 20210701195945
 ---
 
-# Varzi2001: Vagueness, Logic, and Ontology
-
 # Vagueness, Logic, and Ontology
 
 # Key takeways

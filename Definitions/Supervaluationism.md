@@ -9,9 +9,6 @@ mtime: 20210701200857
 ctime: 20210114163638
 ---
 
-# Supervaluationism
-
-
 Supervaluationism is a way to deal with [[vagueness]].
 
 It is a [[De Dicto]] account of vagueness, meaning that it ascribes a de dicto reading to vague statements such as

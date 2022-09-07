@@ -9,8 +9,6 @@ mtime: 20210701200853
 ctime: 20210119144549
 ---
 
-# Categorization of idealizations
-
 Nicer version [[II. Idealizations|small sample on infinite vs normal idealization]]
 
 # Good distinciton

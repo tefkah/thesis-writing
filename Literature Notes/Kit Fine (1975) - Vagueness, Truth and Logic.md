@@ -5,7 +5,6 @@ authors: Kit Fine
 year: 1975
 ---
 
-# Kit Fine (1975) - Vagueness, Truth and Logic
 
 
 

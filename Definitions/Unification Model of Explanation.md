@@ -8,8 +8,6 @@ mtime: 20210701194909
 ctime: 20210701194909
 ---
 
-# Unification model of explanation
-
 Thought up by Kitcher and another guy, the unification model of explanation is a rather exact model with a broad message: an explanation is better than another explanation if it _unifies_ more phenomena under it.
 
 # Examples

@@ -8,6 +8,4 @@ mtime: 20210701195219
 ctime: 20210505153946
 ---
 
-# Intersection
-
 The **intersection** of two sets $A$, $A'$, denoted by $A \cap A'$, is the set of shared elements between $A$ and $A'$.

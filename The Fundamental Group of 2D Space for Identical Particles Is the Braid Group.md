@@ -8,4 +8,3 @@ mtime: 20210701195530
 ctime: 20210218154202
 ---
 
-# the fundamental group of 2D space for identical particles is the braid group
