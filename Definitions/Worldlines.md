@@ -10,6 +10,4 @@ mtime: 20210701195426
 ctime: 20210316144720
 ---
 
-# Worldlines
-
- A worldline is the 4D path a physical object traces out
+A worldline is the 4D path a physical object traces out

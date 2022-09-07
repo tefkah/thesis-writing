@@ -16,8 +16,6 @@ noter_document: ""
 noter_page: ""
 ---
 
-# Dougherty (2020) - The Non-Ideal Theory of the AharonovBohm Effect
-
 # Summary
 
 Responds to [@Earman2019] and [@Shech2015b;@Shech2018]   Says that they claim that the _topological_ interpretation of the AB effect is unsatisfactory, and defends it, based on three main points:

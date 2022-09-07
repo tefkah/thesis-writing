@@ -8,4 +8,3 @@ mtime: 20210701195424
 ctime: 20210316151908
 ---
 
-# 1D Representation of a Group

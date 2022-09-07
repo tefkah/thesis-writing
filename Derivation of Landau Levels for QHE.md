@@ -7,8 +7,6 @@ mtime: 20210701200832
 ctime: 20210223160810
 ---
 
-# Derivation of Landau Levels for QHE
-
 The [[the Fractional quantum hall effect (FQHE)]] and the [[the Integer quantum hall effect (IQHE)]]'s energy levels are derived as follows (roughly)
 
 Start with the [[general Hamiltonian for a free particle in a magnetic field]]

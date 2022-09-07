@@ -9,7 +9,6 @@ mtime: 20210701200818
 ctime: 20210311184105
 ---
 
-# The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation
 
 In order to get a grip on the FQHE, people resort to looking at [[The Laughlin Wavefunction]]  as a plasma, because while the Laughlin WF is easy to write down, it is hard to calculate with.
 

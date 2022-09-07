@@ -9,8 +9,6 @@ mtime: 20210701200049
 ctime: 20210701200049
 ---
 
-# Proper Time
-
 **Proper time** $\Delta\tau=\Delta t-\Delta x-\Delta y -\Delta z$[^1] is the invariant quantity in [[Special Relativity]] and the way distance is measured in [[Minkowski Spacetime]].
 
 Using the [[Einstein summation notation]], we can cleverly write this as

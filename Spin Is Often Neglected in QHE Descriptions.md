@@ -7,8 +7,6 @@ mtime: 20210701200834
 ctime: 20210223151818
 ---
 
-# spin is often neglected in QHE descriptions
-
 In [[descripion of QHE]],[[spin]] is often completely left out of the picture, which one might think cause concern about the legitamicy of such issues.
 
 The reason this is done is because under the influence of a strong magnetic field, [[Zeeman splitting]] occurs.

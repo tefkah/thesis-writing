@@ -10,8 +10,6 @@ mtime: 20211211110037 20210701195633
 ctime: 20201221144612
 ---
 
-# Relevant papers for discrete continuous transition
-
 # Context
 
 I am not the first person to have thought of this "problem" of reasoning about discrete entities against a continuous background, although I am one of the few to put it into those words.

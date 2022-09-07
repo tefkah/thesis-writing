@@ -7,8 +7,6 @@ mtime: 20210701195636
 ctime: 20201218180308
 ---
 
-# Confusing Approximations and Idealizations
-
  While Norton attempts to clear up this distinction, it is usually not so straightforward to distinguish between the two, because idealizations are extremely prevalent (especially in physics)
 
  Idealizations are often taken to already be the approximation, which leads people to forget that what we are interested in is the actual target system, not the idealization

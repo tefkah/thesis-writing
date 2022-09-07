@@ -9,8 +9,6 @@ mtime: 20210701200812
 ctime: 20210315121005
 ---
 
-# FQHE Only Requires Intertwined Worldlines, Not 2D
-
 [@Shech2019] claims the following:
 
 [[Shech's argument for FQHE Requires EXACT 2D]]

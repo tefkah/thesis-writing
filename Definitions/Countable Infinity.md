@@ -7,8 +7,6 @@ mtime: 20210701194952
 ctime: 20210701194952
 ---
 
-# Countable infinity
-
 A set is said to be **countably infinite** if it can be brought into one-to-one correspondence with the $\mathbb{N}$
 
 # Examples

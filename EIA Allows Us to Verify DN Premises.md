@@ -8,8 +8,6 @@ mtime: 20210701200754
 ctime: 20210405144616
 ---
 
-# EIA Allows Us to Verify DN Premises
-
 [[The Deductive-Nomological Model of Explanation]] is like
 
 1) True events

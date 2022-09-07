@@ -9,8 +9,6 @@ mtime: 20211211105937 20210701200736
 ctime: 20210505161024
 ---
 
-# Surjective / Onto
-
 A [[function or mapping|function/mapping]] $f:A \rightarrow B$ is called **surjective** or **onto** if every element in $B$ is the [[Image]] of some element in $A$.
 
 $\forall b\in B \quad \exists a \in A:\quad b=f(a)$

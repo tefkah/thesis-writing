@@ -7,8 +7,6 @@ mtime: 20210701200903
 ctime: 20201214205310
 ---
 
-# What is the difference between infinite idealizations and normal ones/
-
 # Context: For my next meeting with Ronnie I have to figure out what the difference is between idealizations and infinite idealizations.
 
 "Solved" this here [[Categorization of idealizations]]

@@ -8,6 +8,4 @@ mtime: 20210701200720
 ctime: 20210516213310
 ---
 
-# Double Cover
-
 A **double cover** $C$ of a space $X$ is a [[Cover]] which identifies two points in $C$ with one in $X$.

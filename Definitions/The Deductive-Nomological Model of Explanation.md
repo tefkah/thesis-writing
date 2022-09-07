@@ -9,8 +9,6 @@ mtime: 20210701195406
 ctime: 20210330165010
 ---
 
-# The deductive-nomological model of explanation
-
 # The deductive-nomological model
 
 Explanation qua derivation. A phenomena $E$ is said to be explained if and only if it is the result of a deductive argument which contains at least one law of nature.

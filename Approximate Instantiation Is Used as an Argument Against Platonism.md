@@ -9,8 +9,6 @@ mtime: 20211022125753 20210701195547
 ctime: 20210210141222
 ---
 
-# Approximate Instantiation Is Used as an Argument Against Platonism
-
 [@Leng2012] tries to argue against Platonism being a valid way to explicate infinite idealization by saying that mathematical structures can be approximately instantiated.
 
 I think this is the right approach, but it has some pitfalls and can be criticized by pointing out that not all mathematical structures can be approximately instantiated, as [@Shech2019] does (or at least tries to do) with anyons.

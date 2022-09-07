@@ -10,6 +10,4 @@ mtime: 20210701194931
 ctime: 20210701194931
 ---
 
-# Lorentz Group
-
 # Examples

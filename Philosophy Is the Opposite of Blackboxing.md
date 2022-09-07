@@ -8,8 +8,6 @@ ctime: 20211016023159
 mtime: 20211016023202
 ---
 
-# Philosophy is the opposite of blackboxing
-
 I really like blackboxing things: you don't need to know how things work if you just know what you need to put in and get out of them for them to be of use to you.[[Black-boxing in academia is very useful for creating predictions]]
 
 This might also explain part of my difficulty with getting deep into philosophy, as philosophy is all about not accepting that certain input leads to certain output. Philosophers always want to ask: why, or what does that _really_ mean?

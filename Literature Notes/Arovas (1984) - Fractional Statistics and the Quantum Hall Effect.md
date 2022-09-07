@@ -13,8 +13,6 @@ doi: http://dx.doi.org/10.1103/PhysRevLett.53.722
 author: Arovas, D., Schrieffer, J. R., & Wilczek, F.
 ---
 
-# Arovas (1984) - Fractional Statistics and the Quantum Hall Effect
-
 # Summary
 
 The original paper which deduces the [[fractional quantum statistics]] of the _quasiparticles_ which enter in to the [[the Fractional quantum hall effect (FQHE)]]

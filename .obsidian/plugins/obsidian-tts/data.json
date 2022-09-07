@@ -1,0 +1,14 @@
+{
+  "defaultVoice": "Alex",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 1,
+  "speakLinks": true,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "languageVoices": [],
+  "stopPlaybackWhenNoteChanges": true
+}

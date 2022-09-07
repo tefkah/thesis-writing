@@ -4,7 +4,10 @@
     "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
     "label": "BetterBibTeX JSON",
     "options": {
-      "exportNotes": true
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false,
+      "worker": true
     },
     "preferences": {
       "DOIandURL": "doi",
@@ -78,7 +81,7 @@
       "quickCopySelectLink": "zotero",
       "rawImports": false,
       "rawLaTag": "#LaTeX",
-      "relativeFilePaths": true,
+      "relativeFilePaths": false,
       "retainCache": false,
       "scrubDatabase": false,
       "separatorList": "and",
@@ -91,8 +94,7 @@
       "testing": false,
       "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc,groups",
       "warnBulkModify": 0,
-      "warnTitleCased": false,
-      "worker": true
+      "warnTitleCased": false
     }
   },
   "items": [
@@ -4072,7 +4074,7 @@
       ],
       "title": "A PRIMER OF INFINITESIMAL ANALYSIS SECOND EDITION",
       "uri": "http://zotero.org/users/6193144/items/62NHW84B",
-      "version": 6855
+      "version": 6938
     },
     {
       "ISBN": "978-3-030-18706-4 978-3-030-18707-1",
@@ -27387,10 +27389,10 @@
       "select": "zotero://select/library/items/X6N5JUJC",
       "tags": [
         {
-          "tag": "anyons"
+          "tag": "archived"
         },
         {
-          "tag": "archived"
+          "tag": "anyons"
         },
         {
           "tag": "FQHE"
@@ -27619,7 +27621,7 @@
       ],
       "date": "2010",
       "dateAdded": "2022-06-22T10:53:17Z",
-      "dateModified": "2022-06-22T10:57:24Z",
+      "dateModified": "2022-08-01T19:47:51Z",
       "extra": "Citation Key: Weber2010\nJSTOR: 25764453",
       "issue": "6",
       "itemID": 7252,
@@ -27635,15 +27637,11 @@
       "tags": [
         {
           "tag": "vagueness"
-        },
-        {
-          "tag": "/unread",
-          "type": 1
         }
       ],
       "title": "A topological sorites",
       "uri": "http://zotero.org/users/6193144/items/8KZLJDIB",
-      "version": 6895,
+      "version": 6940,
       "volume": "107"
     },
     {
@@ -28814,10 +28812,159 @@
       ],
       "uri": "http://zotero.org/users/6193144/items/PH85A2FU",
       "version": 6899
+    },
+    {
+      "abstractNote": "It is a standard view in quantum mechanics that two wave functions that differ only in the global phase represent the same physical state. In this paper, I argue that this standard view is wrong, and the global phase is real in psi-ontic theories such as the de Broglie-Bohm theory, the many-worlds interpretation and collapse theories of quantum mechanics.",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-04T13:23:20Z",
+          "dateModified": "2022-08-04T13:23:20Z",
+          "itemType": "attachment",
+          "path": "/Users/thomas/OneDrive/Papers/Academic/Gao_2022_A_simple_proof_that_the_global_phase_is_real.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Gao_2022_A_simple_proof_that_the_global_phase_is_real.pdf",
+          "uri": "http://zotero.org/users/6193144/items/RFWF57Q4"
+        }
+      ],
+      "citationKey": "pittphilsci20971",
+      "citekey": "pittphilsci20971",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shan",
+          "lastName": "Gao"
+        }
+      ],
+      "date": "July 2022",
+      "dateAdded": "2022-08-04T13:22:36Z",
+      "dateModified": "2022-08-04T13:23:42Z",
+      "extra": "Citation Key: pittphilsci20971\narchive:https://web.archive.org/web/20220727130628/http://philsci-archive.pitt.edu/20971/",
+      "itemID": 8246,
+      "itemKey": "NZSHVMW7",
+      "itemType": "document",
+      "key": "NZSHVMW7",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-08-04T13:23:37Z",
+          "dateModified": "2022-08-04T13:23:37Z",
+          "itemType": "note",
+          "key": "GIDRNZZB",
+          "note": "Version URL: &lt;a href=\"https://web.archive.org/web/20220727130628/http://philsci-archive.pitt.edu/20971/\" data-originalurl=\"http://philsci-archive.pitt.edu/20971/\" data-versiondate=\"2022-07-27T13:06:28Z\"&gt;Robust Link for: http://philsci-archive.pitt.edu/20971/&lt;/a&gt;",
+          "parentItem": "NZSHVMW7",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/6193144/items/GIDRNZZB",
+          "version": 6944
+        }
+      ],
+      "relations": [],
+      "select": "zotero://select/library/items/NZSHVMW7",
+      "tags": [
+        {
+          "tag": "archived"
+        },
+        {
+          "tag": "global phase"
+        },
+        {
+          "tag": "physical state"
+        },
+        {
+          "tag": "quantum mechanics"
+        }
+      ],
+      "title": "A simple proof that the global phase is real",
+      "uri": "http://zotero.org/users/6193144/items/NZSHVMW7",
+      "url": "http://philsci-archive.pitt.edu/20971/",
+      "version": 6944
+    },
+    {
+      "ISBN": "978-3-030-45153-0",
+      "abstractNote": "This monograph offers a survey of philosophical theories of the relation between models and their targets. The authors provide a map of the conceptual landscape surrounding the question of scientific representation, arguing that it consists of multiple intertwined problems.",
+      "accessDate": "2022-08-04T13:51:36Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-04T13:52:14Z",
+          "dateModified": "2022-08-04T13:52:14Z",
+          "itemType": "attachment",
+          "path": "/Users/thomas/OneDrive/Papers/Academic/Modelling_Nature.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Modelling_Nature.pdf",
+          "uri": "http://zotero.org/users/6193144/items/IGDYRYA2"
+        },
+        {
+          "dateAdded": "2022-08-04T13:51:44Z",
+          "dateModified": "2022-08-04T13:51:44Z",
+          "itemType": "attachment",
+          "path": "/Users/thomas/Zotero/storage/S4IQTR4I/978-3-030-45153-0.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6193144/items/S4IQTR4I"
+        }
+      ],
+      "citationKey": "Frigg2020a",
+      "citekey": "Frigg2020a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roman",
+          "lastName": "Frigg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Nguyen"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2022-08-04T13:51:36Z",
+      "dateModified": "2022-08-04T13:55:05Z",
+      "edition": "1",
+      "extra": "archive:https://web.archive.org/web/20220804135146/https://link.springer.com/book/10.1007/978-3-030-45153-0\nDOI:10.1007/978-3-030-45153-0",
+      "itemID": 8250,
+      "itemKey": "Z3IWYDWV",
+      "itemType": "book",
+      "key": "Z3IWYDWV",
+      "language": "en",
+      "libraryCatalog": "link.springer.com",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-08-04T13:51:54Z",
+          "dateModified": "2022-08-04T13:51:54Z",
+          "itemType": "note",
+          "key": "HL7IBP36",
+          "note": "Version URL: &lt;a href=\"https://web.archive.org/web/20220804135146/https://link.springer.com/book/10.1007/978-3-030-45153-0\" data-originalurl=\"https://link.springer.com/book/10.1007/978-3-030-45153-0\" data-versiondate=\"2022-08-04T13:51:46Z\"&gt;Robust Link for: https://link.springer.com/book/10.1007/978-3-030-45153-0&lt;/a&gt;",
+          "parentItem": "Z3IWYDWV",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/6193144/items/HL7IBP36",
+          "version": 6951
+        }
+      ],
+      "numPages": "XVI, 241",
+      "publisher": "Springer Nature Switzerland",
+      "relations": [],
+      "select": "zotero://select/library/items/Z3IWYDWV",
+      "series": "Synthese Library",
+      "shortTitle": "Modelling Nature",
+      "tags": [
+        {
+          "tag": "archived"
+        }
+      ],
+      "title": "Modelling Nature: An Opinionated Introduction to Scientific Representation",
+      "uri": "http://zotero.org/users/6193144/items/Z3IWYDWV",
+      "url": "https://link.springer.com/book/10.1007/978-3-030-45153-0",
+      "version": 6963
     }
   ],
   "version": {
-    "bbt": "6.7.17",
-    "zotero": "6.0.12-beta.2+fc0f6157d"
+    "bbt": "6.7.21",
+    "zotero": "6.0.11"
   }
 }

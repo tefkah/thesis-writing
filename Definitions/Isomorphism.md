@@ -8,6 +8,5 @@ mtime: 20210701194934
 ctime: 20210701194934
 ---
 
-# Isomorphism
 Like, equivalence, but mathematically.
 # Examples

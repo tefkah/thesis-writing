@@ -8,8 +8,6 @@ mtime: 20210701195234
 ctime: 20210421144503
 ---
 
-# LWF hole
-
 # Hole version of LWF
 
 If we excite the LWF with a hole (by threading a flux through it for instance) we get the wavefunction

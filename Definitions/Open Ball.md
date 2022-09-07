@@ -10,8 +10,6 @@ mtime: 20210701200749
 ctime: 20210416111824
 ---
 
-# Open ball
-
 Given a [[Metric Space]] $r(X,d)$, an **open ball** $B_\epsilon(x)$ is the set of all points for which are "within" a certain distance of $x$, such that
 
 $$

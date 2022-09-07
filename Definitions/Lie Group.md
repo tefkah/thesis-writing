@@ -7,8 +7,6 @@ mtime: 20210701200220
 ctime: 20210701200220
 ---
 
-# Lie Group
-
 A **Lie Group** is a [[Group]] describing continuous rather than discrete symmetries, roughly meaning that the [[Cardinality]] of the group is $\aleph_1$ i.e. it has uncountably many elements.
 
 # Examples

@@ -8,6 +8,4 @@ mtime: 20210701195427
 ctime: 20210316144058
 ---
 
-# Fermi-Dirac Statistics
-
 $\Psi_{21}=-\Psi{12}$

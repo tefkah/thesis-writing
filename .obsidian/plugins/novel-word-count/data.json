@@ -1,0 +1,1658 @@
+{
+  "settings": {
+    "countType": "word",
+    "abbreviateDescriptions": true
+  },
+  "cachedCounts": {
+    "3D Braids Do Not Get Intertwined.md": {
+      "wordCount": 15,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662551541078
+    },
+    "You Can only Generalize From Specific Case Studies if You Have Sufficient Data From Said Case Studies.md": {
+      "wordCount": 175,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551912091
+    },
+    "What Is the Difference Between Infinite Idealizations and Normal Ones or .md": {
+      "wordCount": 360,
+      "pageCount": 2,
+      "createdDate": 1652891052000,
+      "modifiedDate": 1662551906026
+    },
+    "Wavefunctions Are Waves and Do Wave Things.md": {
+      "wordCount": 201,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551901805
+    },
+    "Underdescription = Gauge = Cover(ing Space).md": {
+      "wordCount": 111,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551887434
+    },
+    "Transitions From Continuity to the Discrete Are Not Possible.md": {
+      "wordCount": 1094,
+      "pageCount": 4,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551885055
+    },
+    "Topological Explanation Merely Requires Multiply-Connected Regions, Not Configurations Spaces.md": {
+      "wordCount": 55,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551882471
+    },
+    "The Wavefunction with Phase Covers the Wavefunction Squared.md": {
+      "wordCount": 104,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551880005
+    },
+    "The Wavefunction of the FQHE Is GUESSED From General Grounds.md": {
+      "wordCount": 104,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551877302
+    },
+    "The Value of the QHE Plateaux Are Independent of the Sample.md": {
+      "wordCount": 33,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551873823
+    },
+    "The Strength of a Local Symmetry Is a Variable Function over Spacetime.md": {
+      "wordCount": 24,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551871116
+    },
+    "The Standard Model Is Wrong because We Observed Neutrinon Oscillation.md": {
+      "wordCount": 62,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551870103
+    },
+    "The Quantum Statistics of a Particle Are Determined by the 1D Representation of Its Fundamental Group.md": {
+      "wordCount": 56,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551867536
+    },
+    "The Quantum Hall Effect Has Two Variations, Integer and Fractional.md": {
+      "wordCount": 158,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551864556
+    },
+    "The Practice or Theory Mixup Problems of Infinite Idealization Occur in Science in General as Well.md": {
+      "wordCount": 95,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551860945
+    },
+    "The Observability of Internal, External, Global and Local Symmetries.md": {
+      "wordCount": 215,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551856208
+    },
+    "The Laughlin WF only Applies to v=1 or M.md": {
+      "wordCount": 56,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551853171
+    },
+    "The Fundamental Group of 2D Space for Identical Particles Is the Braid Group.md": {
+      "wordCount": 27,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551847728
+    },
+    "The Fundamental Group Records Information About Loops in a Space.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551849787
+    },
+    "The Filling Factor Is Integer by Definition Because Quantum of Resistance Is Defined by QH Experiments.md": {
+      "wordCount": 82,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551839527
+    },
+    "The FQH State Is Interpreted as a Plasma to Allow for Intuitions and Computation.md": {
+      "wordCount": 103,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551844640
+    },
+    "The FQH 'Plasma' Is Liquid for M<70 and Solid Above.md": {
+      "wordCount": 24,
+      "pageCount": 1,
+      "createdDate": 1652892124000,
+      "modifiedDate": 1662551842475
+    },
+    "The Explanation of FQHE Is an After the Fact Justification Rather Than a Straightforward Derivation.md": {
+      "wordCount": 156,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551836748
+    },
+    "The Discretization of Quantum States Is the Biggest Discontinuity in Physics.md": {
+      "wordCount": 89,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551833778
+    },
+    "The Configuration Space Explanation of Anyons.md": {
+      "wordCount": 197,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551826433
+    },
+    "The Dimensions of the Hall System Is Set to 2 From the Start.md": {
+      "wordCount": 76,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551829689
+    },
+    "The Configuration Space Explanation Approach Requires a Certain Stance on the Ontology of Symmetries.md": {
+      "wordCount": 70,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551823391
+    },
+    "The Configuration Space Approach Explains the Possibility of Anyons, Not Their Occurence.md": {
+      "wordCount": 201,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551820890
+    },
+    "The Best Explanations Are the Ones that Made You Understand.md": {
+      "wordCount": 27,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551815258
+    },
+    "The Classical Hall Effect Is Just an Application of the Lorentz Force.md": {
+      "wordCount": 125,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551818559
+    },
+    "The Adiabatic Theorem Might Not Be an Inf Id because It only Guarantees Something that Might Happen Anyway.md": {
+      "wordCount": 107,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551812597
+    },
+    "Test Driven Writing.md": {
+      "wordCount": 212,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551809797
+    },
+    "Symmetry Arguments Are More Interesting than Symmetry Properties.md": {
+      "wordCount": 165,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551807176
+    },
+    "Spin Is Often Neglected in QHE Descriptions.md": {
+      "wordCount": 139,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551803099
+    },
+    "Shech's Argument for FQHE Requires EXACT 2D.md": {
+      "wordCount": 140,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551799740
+    },
+    "Setting a parameter to 0 or infinity means it doesn't carry explanatory power.md": {
+      "wordCount": 288,
+      "pageCount": 1,
+      "createdDate": 1655715234000,
+      "modifiedDate": 1662551796110
+    },
+    "Relevant Papers for Discrete Continuous Transition.md": {
+      "wordCount": 1195,
+      "pageCount": 4,
+      "createdDate": 1652892124000,
+      "modifiedDate": 1662551791977
+    },
+    "Regions Are a Vague Concept.md": {
+      "wordCount": 88,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551788581
+    },
+    "Reasoning of FQHE Is Less Rigorous than IQHE.md": {
+      "wordCount": 80,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551786496
+    },
+    "Quasi-Things Have Charge E or M.md": {
+      "wordCount": 199,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551783458
+    },
+    "Quantum Hall Effects Show Broken Time-Reversal Symmetry, Which Is Interesting.md": {
+      "wordCount": 56,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551779917
+    },
+    "Proponents and Opponents of Thermodynamic Limit.md": {
+      "wordCount": 49,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551777268
+    },
+    "Promotion of Approximations.md": {
+      "wordCount": 9,
+      "pageCount": 1,
+      "createdDate": 1650454223000,
+      "modifiedDate": 1662551773828
+    },
+    "Pragmatic Explanations Cannot Lead to Platonic Conclusions.md": {
+      "wordCount": 133,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551771052
+    },
+    "Position Is the Geometric Phase Parameter in Exchange-Statistics.md": {
+      "wordCount": 123,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551768667
+    },
+    "Physicist See Real Systems Deviations From Theory, Instead of Theoretical Models as Idealizations From Real Systems.md": {
+      "wordCount": 100,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551766418
+    },
+    "Physical Theories Must Be Globally Symmetric and Can Be Locally Symmetric.md": {
+      "wordCount": 62,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551763560
+    },
+    "Philosophy Is the Opposite of Blackboxing.md": {
+      "wordCount": 152,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551754713
+    },
+    "Philosophy Is Best Used Negatively or Therapeutically.md": {
+      "wordCount": 15,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551751336
+    },
+    "Philosophers Never Agree with DN but Always Use It.md": {
+      "wordCount": 40,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551747482
+    },
+    "Philosopheren Kun Je Leren.md": {
+      "wordCount": 136,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551744747
+    },
+    "Objects and Concepts Share Similar Problems of Definition.md": {
+      "wordCount": 20,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551742164
+    },
+    "My Main Goal Is to Show How the Berry Phase Approximates Topological Phase.md": {
+      "wordCount": 153,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551738322
+    },
+    "Monodromy Is an Infinite Idealization of Holonomy.md": {
+      "wordCount": 88,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551732737
+    },
+    "Meta/Stuck in My Thesis Hub.md": {
+      "wordCount": 182,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551529758
+    },
+    "Meta/The Configuration Space Explanation Chapter.md": {
+      "wordCount": 1850,
+      "pageCount": 7,
+      "createdDate": 1652892124000,
+      "modifiedDate": 1662551534853
+    },
+    "Meta/Phase Transitions (Meta).md": {
+      "wordCount": 48,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551525833
+    },
+    "Meta/Open Questions for My Thesis.md": {
+      "wordCount": 336,
+      "pageCount": 2,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551521486
+    },
+    "Local Internal Symmetries Are Not Directly Observable.md": {
+      "wordCount": 57,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551729981
+    },
+    "Literature Notes/Varzi2001: Vagueness, Logic, and Ontology.md": {
+      "wordCount": 169,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551515598
+    },
+    "Literature Notes/Tong (2016) - Lectures on the Quantum Hall Effect.md": {
+      "wordCount": 71,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1652892123000
+    },
+    "Literature Notes/Thesis Sources.md": {
+      "wordCount": 603,
+      "pageCount": 3,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551508199
+    },
+    "Literature Notes/Strevens (2019) - bad.md": {
+      "wordCount": 2961,
+      "pageCount": 10,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1655842411000
+    },
+    "Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md": {
+      "wordCount": 2122,
+      "pageCount": 8,
+      "createdDate": 1658406559000,
+      "modifiedDate": 1662551511932
+    },
+    "Literature Notes/Strevens (2007) - Why Explanations Lie Idealization in Explanation.md": {
+      "wordCount": 407,
+      "pageCount": 2,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551499579
+    },
+    "Literature Notes/Shech (2019) - Infinitesimal idealization, easy road nominalism, and fractional quantum statistics.md": {
+      "wordCount": 2253,
+      "pageCount": 8,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551491147
+    },
+    "Literature Notes/Shech (2015) - Two Approaches to Fractional Statistics in the Quantum Hall Effect; Idealizations and the Curious Case of the Anyon.md": {
+      "wordCount": 87,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551487285
+    },
+    "Literature Notes/Norton (2012) - Approximation and idealization Why the difference matters.md": {
+      "wordCount": 2097,
+      "pageCount": 7,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1655712654000
+    },
+    "Literature Notes/Kit Fine (1975) - Vagueness, Truth and Logic.md": {
+      "wordCount": 14,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551257337
+    },
+    "Literature Notes/Cohen et al. (2019) - Geometric Phase From Aharonov-Bohm to PancharatnamBerry and Beyond.md": {
+      "wordCount": 108,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551273595
+    },
+    "Literature Notes/Kadanoff (2009) - More is the Same; Phase Transitions and Mean Field Theories.md": {
+      "wordCount": 1446,
+      "pageCount": 5,
+      "createdDate": 1658406728000,
+      "modifiedDate": 1662551296581
+    },
+    "Literature Notes/Gendler (2020) - Thought Experiments Rethought - and Reperceived.md": {
+      "wordCount": 1625,
+      "pageCount": 6,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551292409
+    },
+    "Literature Notes/Fractional Quantum Hall Effect (Meta).md": {
+      "wordCount": 40,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551282238
+    },
+    "Literature Notes/Dougherty (2020) - The Non-Ideal Theory of the AharonovBohm Effect.md": {
+      "wordCount": 731,
+      "pageCount": 3,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551277730
+    },
+    "Literature Notes/Brown, Sjoqvist & Bacciagaluppi (1999) - Remarks on Identical Particles in De Broglie-Bohm Theory.md": {
+      "wordCount": 68,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551269824
+    },
+    "Literature Notes/Batterman (2001) - The Devil in the Details; Asymptotic Reasoning in Explanation, Reduction, and Emergence.md": {
+      "wordCount": 74,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551266603
+    },
+    "Literature Notes/Arovas (1984) - Fractional Statistics and the Quantum Hall Effect.md": {
+      "wordCount": 117,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551262512
+    },
+    "Limit of the Cone Holonomy.md": {
+      "wordCount": 209,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551727417
+    },
+    "Landau States Have a Large Degeneracy.md": {
+      "wordCount": 63,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551724629
+    },
+    "It Makes More Sense to Think of Explanation as Graded Rather than Binary.md": {
+      "wordCount": 212,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551721134
+    },
+    "Is 'Braids Are Not Getting Untangled' a Good Enough FQHE Explanation?.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551718104
+    },
+    "Interwined Worldlines Lead to Fractional Statistics.md": {
+      "wordCount": 134,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551712652
+    },
+    "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md": {
+      "wordCount": 397,
+      "pageCount": 2,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551709535
+    },
+    "Impurities Turn Many Quantum States From Extended to Localized.md": {
+      "wordCount": 87,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1650044360000
+    },
+    "Impurities Cause IQHE Plateaux.md": {
+      "wordCount": 210,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1650044360000
+    },
+    "Impurities Break the Degeneracy of the Landau Levels.md": {
+      "wordCount": 88,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551704241
+    },
+    "If You Cant Loop Back to Your Introduction, Make Shit up in Your Conclusion.md": {
+      "wordCount": 187,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551700575
+    },
+    "If Particles Cannot Be Closer than the Thickness of the Strip, the Configuration Space Is Approximately 2D.md": {
+      "wordCount": 1499,
+      "pageCount": 5,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551698197
+    },
+    "Idealizations Should Be Distinguished by Outcome, Not by Operation.md": {
+      "wordCount": 520,
+      "pageCount": 2,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551694463
+    },
+    "Idealizations Employed in the FQHE.md": {
+      "wordCount": 97,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551690305
+    },
+    "IQHE Has No Electron Interactions, FQHE Does.md": {
+      "wordCount": 132,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551715631
+    },
+    "IBE Is a Special Case of EIA.md": {
+      "wordCount": 41,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551686639
+    },
+    "Holonomy Arises Through the Curvature of Parameter Space.md": {
+      "wordCount": 72,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551680191
+    },
+    "General Lagrangian for Free Particles in a Magnetic Field.md": {
+      "wordCount": 40,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551676785
+    },
+    "Fractional Statistics Can only Be Calculated Using Adiabaticity.md": {
+      "wordCount": 122,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551674752
+    },
+    "FQHE Only Requires Intertwined Worldlines, Not 2D.md": {
+      "wordCount": 184,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551672635
+    },
+    "External Symmetries Are of Changes of Spatiotemporal Parameters.md": {
+      "wordCount": 20,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551669421
+    },
+    "Extended vs Localized States Is Another Vague Dichotomy.md": {
+      "wordCount": 81,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551667254
+    },
+    "Extended States Conduct More when Less Populated.md": {
+      "wordCount": 31,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551663902
+    },
+    "Experiment Showing AB Effect.md": {
+      "wordCount": 99,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551655758
+    },
+    "Excitations of the LWF Ground State Give Rise to Quasi-Holes or Particles.md": {
+      "wordCount": 74,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551652039
+    },
+    "Every QH WF Must Have the Form F-z(z1...zn)exp(-Sum|zi|2).md": {
+      "wordCount": 35,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551646908
+    },
+    "Equivalence Classes Are Either Disjoint or Equal.md": {
+      "wordCount": 23,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551642520
+    },
+    "Enhanced Indispensability Argument (EIA).md": {
+      "wordCount": 65,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551639403
+    },
+    "Edge Modes Determine the Values of the IQHE Plateaux.md": {
+      "wordCount": 21,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551628311
+    },
+    "EIA Needs to Be Tackled on Both Premise 1 and 2.md": {
+      "wordCount": 269,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551636579
+    },
+    "EIA Allows Us to Verify DN Premises.md": {
+      "wordCount": 80,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551632272
+    },
+    "Draft.md": {
+      "wordCount": 2,
+      "pageCount": 1,
+      "createdDate": 1655886543000,
+      "modifiedDate": 1655889506000
+    },
+    "Disordered Systems Exhibit IQHE MORE Strongly.md": {
+      "wordCount": 70,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551624361
+    },
+    "Dimensionality of an Electron Gas Is Determined by Fermi Surface Topology.md": {
+      "wordCount": 126,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551621157
+    },
+    "Derivation of Landau Levels for QHE.md": {
+      "wordCount": 116,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662551617161
+    },
+    "Derivation of Landau Level Wavefunctions.md": {
+      "wordCount": 83,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551614473
+    },
+    "Definitions/Worldlines.md": {
+      "wordCount": 30,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552495847
+    },
+    "Definitions/Vector Bundle.md": {
+      "wordCount": 30,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552489381
+    },
+    "Definitions/Universal Explanation.md": {
+      "wordCount": 81,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552486628
+    },
+    "Definitions/Universal Cover(ing Space).md": {
+      "wordCount": 43,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552483766
+    },
+    "Definitions/Unitarity.md": {
+      "wordCount": 29,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552478639
+    },
+    "Definitions/Unification Model of Explanation.md": {
+      "wordCount": 55,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552462315
+    },
+    "Definitions/U(1).md": {
+      "wordCount": 84,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552459379
+    },
+    "Definitions/Topology.md": {
+      "wordCount": 86,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552456831
+    },
+    "Definitions/Topological Space.md": {
+      "wordCount": 115,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552454324
+    },
+    "Definitions/The Laughlin Wavefunction.md": {
+      "wordCount": 48,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552452287
+    },
+    "Definitions/The Integer Quantum Hall Effect (IQHE).md": {
+      "wordCount": 186,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552449949
+    },
+    "Definitions/The Fractional Quantum Hall Effect (FQHE).md": {
+      "wordCount": 82,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552447471
+    },
+    "Definitions/The Deductive-Nomological Model of Explanation.md": {
+      "wordCount": 113,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552445214
+    },
+    "Definitions/The Aharonov Bohm Effect (AB).md": {
+      "wordCount": 127,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552442415
+    },
+    "Definitions/Surjective  or  Onto.md": {
+      "wordCount": 113,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552439155
+    },
+    "Definitions/Supervaluationism.md": {
+      "wordCount": 377,
+      "pageCount": 2,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552435728
+    },
+    "Definitions/Sorites Paradox.md": {
+      "wordCount": 280,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552432603
+    },
+    "Definitions/Singular Limit.md": {
+      "wordCount": 29,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552427033
+    },
+    "Definitions/Simply Connected.md": {
+      "wordCount": 26,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552424468
+    },
+    "Definitions/Shannon Entropy.md": {
+      "wordCount": 17,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552409522
+    },
+    "Definitions/Set.md": {
+      "wordCount": 15,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552347237
+    },
+    "Definitions/Schrödinger Equation.md": {
+      "wordCount": 25,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552344306
+    },
+    "Definitions/SO(2).md": {
+      "wordCount": 120,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552430103
+    },
+    "Definitions/Representation.md": {
+      "wordCount": 17,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552340586
+    },
+    "Definitions/Relation.md": {
+      "wordCount": 45,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552337090
+    },
+    "Definitions/Proper Time.md": {
+      "wordCount": 85,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552333669
+    },
+    "Definitions/Promotion.md": {
+      "wordCount": 91,
+      "pageCount": 1,
+      "createdDate": 1655454292000,
+      "modifiedDate": 1662552331136
+    },
+    "Definitions/Preimage.md": {
+      "wordCount": 47,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552328850
+    },
+    "Definitions/Phase (Quantum).md": {
+      "wordCount": 197,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552326338
+    },
+    "Definitions/Path.md": {
+      "wordCount": 57,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552324467
+    },
+    "Definitions/Parallel Transport.md": {
+      "wordCount": 94,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552322047
+    },
+    "Definitions/Open Set.md": {
+      "wordCount": 100,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552318997
+    },
+    "Definitions/Open Ball.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552315767
+    },
+    "Definitions/O(2).md": {
+      "wordCount": 70,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552313352
+    },
+    "Definitions/Nominalist Scientific Realism.md": {
+      "wordCount": 51,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552308347
+    },
+    "Definitions/Noether's Theorem.md": {
+      "wordCount": 20,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552304494
+    },
+    "Definitions/Monodromy.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552301596
+    },
+    "Definitions/Minkowski Spacetime.md": {
+      "wordCount": 67,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552298323
+    },
+    "Definitions/Minkowski Metric.md": {
+      "wordCount": 119,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552296094
+    },
+    "Definitions/Metric.md": {
+      "wordCount": 65,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552289735
+    },
+    "Definitions/Metric Space.md": {
+      "wordCount": 90,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552293269
+    },
+    "Definitions/Magnetic Length.md": {
+      "wordCount": 37,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552286153
+    },
+    "Definitions/Lorentz Group.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552281484
+    },
+    "Definitions/Local Symmetry.md": {
+      "wordCount": 28,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552277298
+    },
+    "Definitions/Lie Group.md": {
+      "wordCount": 63,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552274663
+    },
+    "Definitions/Lie Algebra.md": {
+      "wordCount": 33,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552271231
+    },
+    "Definitions/Landau Levels.md": {
+      "wordCount": 141,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552269276
+    },
+    "Definitions/LWF Hole.md": {
+      "wordCount": 47,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552283825
+    },
+    "Definitions/Isomorphism.md": {
+      "wordCount": 21,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552267128
+    },
+    "Definitions/Inverse Function.md": {
+      "wordCount": 69,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552263283
+    },
+    "Definitions/Invariance.md": {
+      "wordCount": 41,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552259499
+    },
+    "Definitions/Intersection.md": {
+      "wordCount": 37,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552255465
+    },
+    "Definitions/Internal Symmetry.md": {
+      "wordCount": 27,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552253184
+    },
+    "Definitions/Interference.md": {
+      "wordCount": 53,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552249566
+    },
+    "Definitions/Injective  or  One-to-One.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552244336
+    },
+    "Definitions/Infinite Idealizations.md": {
+      "wordCount": 211,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552240724
+    },
+    "Definitions/Image.md": {
+      "wordCount": 58,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552235931
+    },
+    "Definitions/Homeomorphic.md": {
+      "wordCount": 89,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552232471
+    },
+    "Definitions/Holonomy.md": {
+      "wordCount": 48,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552230030
+    },
+    "Definitions/Hard road nominalism.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552227035
+    },
+    "Definitions/Group.md": {
+      "wordCount": 76,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552224600
+    },
+    "Definitions/Geometric Phase.md": {
+      "wordCount": 217,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552221370
+    },
+    "Definitions/Gauge Theory.md": {
+      "wordCount": 26,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552218013
+    },
+    "Definitions/Gauge Symmetry.md": {
+      "wordCount": 56,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552214518
+    },
+    "Definitions/Fundamental Group.md": {
+      "wordCount": 45,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552211339
+    },
+    "Definitions/Function or Mapping.md": {
+      "wordCount": 58,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552208241
+    },
+    "Definitions/Fractional Quantum Statistics.md": {
+      "wordCount": 89,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552201176
+    },
+    "Definitions/Fractional Quantum Statistics Is the Study of Anyons.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552205167
+    },
+    "Definitions/Four-Vector.md": {
+      "wordCount": 85,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552198137
+    },
+    "Definitions/Fermi-Dirac Statistics.md": {
+      "wordCount": 17,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552195303
+    },
+    "Definitions/External Symmetry.md": {
+      "wordCount": 24,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552192602
+    },
+    "Definitions/Even Cover.md": {
+      "wordCount": 16,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552189547
+    },
+    "Definitions/Equivalence Relation.md": {
+      "wordCount": 73,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552187251
+    },
+    "Definitions/Equivalence Class.md": {
+      "wordCount": 57,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552180128
+    },
+    "Definitions/Empty Set.md": {
+      "wordCount": 27,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552175737
+    },
+    "Definitions/Einstein Summation Notation.md": {
+      "wordCount": 19,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552172850
+    },
+    "Definitions/Eigenvalues.md": {
+      "wordCount": 17,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552170067
+    },
+    "Definitions/Edge Modes.md": {
+      "wordCount": 26,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552167859
+    },
+    "Definitions/Easy road nominalism.md": {
+      "wordCount": 31,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552165119
+    },
+    "Definitions/Dynamical Phase Factor.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552161565
+    },
+    "Definitions/Double Cover.md": {
+      "wordCount": 37,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552159061
+    },
+    "Definitions/Disjoint.md": {
+      "wordCount": 33,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552156687
+    },
+    "Definitions/Determinant.md": {
+      "wordCount": 111,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552153374
+    },
+    "Definitions/Descripion of QHE.md": {
+      "wordCount": 214,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552150583
+    },
+    "Definitions/Descripion of FQHE.md": {
+      "wordCount": 149,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552147849
+    },
+    "Definitions/Demotion.md": {
+      "wordCount": 57,
+      "pageCount": 1,
+      "createdDate": 1655454656000,
+      "modifiedDate": 1662552145112
+    },
+    "Definitions/Degeneracy.md": {
+      "wordCount": 18,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552140804
+    },
+    "Definitions/De Dicto.md": {
+      "wordCount": 210,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552137537
+    },
+    "Definitions/Curl.md": {
+      "wordCount": 59,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552134569
+    },
+    "Definitions/Cross-Product.md": {
+      "wordCount": 47,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552131276
+    },
+    "Definitions/Covering Space.md": {
+      "wordCount": 33,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552128760
+    },
+    "Definitions/Covering Map.md": {
+      "wordCount": 48,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552125671
+    },
+    "Definitions/Cover.md": {
+      "wordCount": 120,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552123390
+    },
+    "Definitions/Countable Infinity.md": {
+      "wordCount": 35,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552121011
+    },
+    "Definitions/Continuous at a Point.md": {
+      "wordCount": 86,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552117699
+    },
+    "Definitions/Continuity (Function).md": {
+      "wordCount": 125,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552114707
+    },
+    "Definitions/Connection.md": {
+      "wordCount": 80,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552110638
+    },
+    "Definitions/Complement.md": {
+      "wordCount": 63,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552107440
+    },
+    "Definitions/Commutation.md": {
+      "wordCount": 40,
+      "pageCount": 1,
+      "createdDate": 1652892123000,
+      "modifiedDate": 1662552101025
+    },
+    "Definitions/Closure (Set).md": {
+      "wordCount": 58,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552097462
+    },
+    "Definitions/Closure (Group).md": {
+      "wordCount": 29,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552094537
+    },
+    "Definitions/Closed Set.md": {
+      "wordCount": 65,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552090871
+    },
+    "Definitions/Classical Hall Effect.md": {
+      "wordCount": 111,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552087835
+    },
+    "Definitions/Chern Number.md": {
+      "wordCount": 14,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552084979
+    },
+    "Definitions/Causal-Mechanical Explanation.md": {
+      "wordCount": 46,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552082164
+    },
+    "Definitions/Cardinality.md": {
+      "wordCount": 91,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552078181
+    },
+    "Definitions/Boundary.md": {
+      "wordCount": 43,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552070806
+    },
+    "Definitions/Boundary Points.md": {
+      "wordCount": 80,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552075240
+    },
+    "Definitions/Bose-Eistein Statistics.md": {
+      "wordCount": 15,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552067574
+    },
+    "Definitions/Bijective or One-to-One-Correspondence.md": {
+      "wordCount": 69,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552064714
+    },
+    "Definitions/Berry Phase.md": {
+      "wordCount": 118,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552062771
+    },
+    "Definitions/Berry Curvature.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552060644
+    },
+    "Definitions/Berry Connection.md": {
+      "wordCount": 32,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552057597
+    },
+    "Definitions/Associativity.md": {
+      "wordCount": 41,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552054503
+    },
+    "Definitions/Adiabatic Theorem (Quantum).md": {
+      "wordCount": 170,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552051394
+    },
+    "Definitions/Abelian Group.md": {
+      "wordCount": 40,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552047098
+    },
+    "Definitions/A Knot Is a Braid Connected Back to Itself.md": {
+      "wordCount": 50,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552045040
+    },
+    "Definitions/1D Representation of a Group.md": {
+      "wordCount": 19,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552040334
+    },
+    "Confusing Approximations and Idealizations.md": {
+      "wordCount": 244,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1662551610260
+    },
+    "Configuration Space Framework for Identical Particles.md": {
+      "wordCount": 18,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551603861
+    },
+    "Condition of Adequacy for Approximate Instantiation.md": {
+      "wordCount": 246,
+      "pageCount": 1,
+      "createdDate": 1652891051000,
+      "modifiedDate": 1662551600516
+    },
+    "Components/Infinite Sphere.md": {
+      "wordCount": 33,
+      "pageCount": 1,
+      "createdDate": 1655455265000,
+      "modifiedDate": 1655842658000
+    },
+    "Components/Capsule.md": {
+      "wordCount": 211,
+      "pageCount": 1,
+      "createdDate": 1655461828000,
+      "modifiedDate": 1656428159000
+    },
+    "Chapters/III. Anyons/Weird draft.md": {
+      "wordCount": 622,
+      "pageCount": 3,
+      "createdDate": 1652891362000,
+      "modifiedDate": 1652891362000
+    },
+    "Chapters/III. Anyons/III. Anyons.md": {
+      "wordCount": 24,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1652892122000
+    },
+    "Chapters/III. Anyons/Anyons Todos.md": {
+      "wordCount": 82,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1652892122000
+    },
+    "Chapters/III. Anyons/3. Geometric phase.md": {
+      "wordCount": 1593,
+      "pageCount": 6,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662551956981
+    },
+    "Chapters/III. Anyons/2. Topology and Anyons.md": {
+      "wordCount": 5229,
+      "pageCount": 18,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662551951897
+    },
+    "Chapters/III. Anyons/1. Why Anyons?.md": {
+      "wordCount": 643,
+      "pageCount": 3,
+      "createdDate": 1652771195000,
+      "modifiedDate": 1662551949253
+    },
+    "Chapters/II. Idealizations/II. Idealizations.md": {
+      "wordCount": 122,
+      "pageCount": 1,
+      "createdDate": 1655287968000,
+      "modifiedDate": 1659617390000
+    },
+    "Chapters/II. Idealizations/4. Discussion.md": {
+      "wordCount": 144,
+      "pageCount": 1,
+      "createdDate": 1654762423000,
+      "modifiedDate": 1662551943529
+    },
+    "Chapters/II. Idealizations/3. A New Categorization of Idealization.md": {
+      "wordCount": 1197,
+      "pageCount": 4,
+      "createdDate": 1654762284000,
+      "modifiedDate": 1662551941314
+    },
+    "Chapters/II. Idealizations/2. Previous work on infinite idealizations.md": {
+      "wordCount": 1510,
+      "pageCount": 6,
+      "createdDate": 1654762170000,
+      "modifiedDate": 1662551938699
+    },
+    "Chapters/II. Idealizations/1. What Is Idealization, and Why Do We Care?.md": {
+      "wordCount": 638,
+      "pageCount": 3,
+      "createdDate": 1654762362000,
+      "modifiedDate": 1662551933002
+    },
+    "Chapters/I. Introduction.md": {
+      "wordCount": 7043,
+      "pageCount": 24,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1662552029895
+    },
+    "Categorization of Idealizations.md": {
+      "wordCount": 878,
+      "pageCount": 3,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551596912
+    },
+    "Braided Worldlines Cannot Be Disentangled in 2D.md": {
+      "wordCount": 277,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551589349
+    },
+    "Attack Shech's CF Approach  by Showing His Commitments, or by Defending My Premise.md": {
+      "wordCount": 178,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551582399
+    },
+    "Asymptotic idealizations are used to set non-parameter properties of a model.md": {
+      "wordCount": 260,
+      "pageCount": 1,
+      "createdDate": 1655714138000,
+      "modifiedDate": 1662551578508
+    },
+    "Archive/Thesis Ideas.md": {
+      "wordCount": 164,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1650020388000
+    },
+    "Archive/The Problem with 'Discrete Concepts' in Other Fields.md": {
+      "wordCount": 268,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1650044364000
+    },
+    "Archive/The Fallacy of Mathematics (WIP).md": {
+      "wordCount": 56,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1650453823000
+    },
+    "Archive/Structure FQHE or Anyon Chapter.md": {
+      "wordCount": 4002,
+      "pageCount": 14,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1652892122000
+    },
+    "Archive/Problems with the DN Model.md": {
+      "wordCount": 45,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1650453841000
+    },
+    "Archive/Outline Anyons Bad.md": {
+      "wordCount": 6610,
+      "pageCount": 23,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1656428884000
+    },
+    "Archive/On Computing the Geometric Phase in the FQHE.md": {
+      "wordCount": 946,
+      "pageCount": 4,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1650453986000
+    },
+    "Archive/Notes on Shechs Description of FQHE.md": {
+      "wordCount": 805,
+      "pageCount": 3,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1650454474000
+    },
+    "Archive/Notes on FQHE.md": {
+      "wordCount": 799,
+      "pageCount": 3,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1650453896000
+    },
+    "Archive/Naming and Infinity.md": {
+      "wordCount": 120,
+      "pageCount": 1,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1652892122000
+    },
+    "Archive/Idealization vs Approximation.md": {
+      "wordCount": 146,
+      "pageCount": 1,
+      "createdDate": 1649762144000,
+      "modifiedDate": 1650029443000
+    },
+    "Archive/FQHE Intro to Show Ronnie and Guido.md": {
+      "wordCount": 842,
+      "pageCount": 3,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1650453739000
+    },
+    "Archive/Finding a Way to Approximately Calculate Anyons.md": {
+      "wordCount": 104,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1650453868000
+    },
+    "Archive/Critique of the Configuration Space Explanation.md": {
+      "wordCount": 2334,
+      "pageCount": 8,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1652892122000
+    },
+    "Archive/Explanation Is Asymmetric.md": {
+      "wordCount": 21,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1650453806000
+    },
+    "Archive/Chapter Phase Transitions.md": {
+      "wordCount": 95,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1650020387000
+    },
+    "Archive/Chapter FQHE.md": {
+      "wordCount": 2088,
+      "pageCount": 7,
+      "createdDate": 1652892122000,
+      "modifiedDate": 1652951684000
+    },
+    "Approximate Instantiation Is Used as an Argument Against Platonism.md": {
+      "wordCount": 88,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551575156
+    },
+    "Anyonic Exchange in the FQHE Is Not the Same as AB Oscillation.md": {
+      "wordCount": 94,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551563855
+    },
+    "An Internal Symmetry Is Not of a Change in Spatiotemporal Parameters.md": {
+      "wordCount": 25,
+      "pageCount": 1,
+      "createdDate": 1649762147000,
+      "modifiedDate": 1662551560193
+    },
+    "An Explanation Is Whatever Scientists Call an Explanation.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "createdDate": 1649762146000,
+      "modifiedDate": 1662551557826
+    },
+    "Ambiguity About the Ontic or Epistemic Stance Towards Explanations Leads to Confusion.md": {
+      "wordCount": 73,
+      "pageCount": 1,
+      "createdDate": 1649762148000,
+      "modifiedDate": 1662551555831
+    },
+    "A Space Is Just a Set with some Structure.md": {
+      "wordCount": 83,
+      "pageCount": 1,
+      "createdDate": 1652891051000,
+      "modifiedDate": 1662551552534
+    },
+    "3D Quantum Hall Effect.md": {
+      "wordCount": 178,
+      "pageCount": 1,
+      "createdDate": 1652891051000,
+      "modifiedDate": 1662551549344
+    }
+  }
+}

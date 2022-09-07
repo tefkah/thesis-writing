@@ -1,4 +1,3 @@
-# Setting a parameter to 0 or infinity means it doesn't carry explanatory power
 This is a claim due to Strevens, eg 
 
 > The deliberate falsification of certain details, then, is a way of communicating forcefully the idea that those details do no explanatory work (Strevens 2008, Chap. 8). The infinitely small size of molecules in an ideal gas tells us, for example, that intermolecular collisions (absent in an ideal gas) make no contribution to the explanation of Boyle’s law, while the erasure of wave-like properties in the ray model of light tells us that those properties are irrelevant to the structure of caustics

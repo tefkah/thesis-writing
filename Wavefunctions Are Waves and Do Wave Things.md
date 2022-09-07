@@ -9,8 +9,6 @@ mtime: 20210701200729
 ctime: 20210511115926
 ---
 
-# Wavefunctions Are Waves and Do Wave Things
-
 This is such a dumb thing that I'm almost embarrassed to admit it, but it's easy to forget that wavefunctions are, in fact, waves, and the terms which describe them are related if not identical to the terms describing waves.
 
 The biggest one is [[Phase (quantum)]]. For a long time I thought of phase as this strange, esoteric quantum property, like spin, but actually it's similar if not the same as regular ol' wave phase: the offset of a wave wrt to the origin.

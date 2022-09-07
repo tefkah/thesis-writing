@@ -7,8 +7,6 @@ mtime: 20210701195245
 ctime: 20210416113423
 ---
 
-# Complement
-
 # Complement of a set
 
 Given a set $X$, we can define the **complement** of the subset $A \subseteq X$, denoted $A^c$, as

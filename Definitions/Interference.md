@@ -11,8 +11,6 @@ mtime: 20210701200730
 ctime: 20210511115231
 ---
 
-# Interference
-
 When two waves with different periods or [[Phase (quantum)|phases]] are linearly combined (as you have in QM), the waves will **interfere** with one another and combine in a new, cool way.
 
 ![](./media/interferenc.png)

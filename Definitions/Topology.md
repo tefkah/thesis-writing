@@ -9,8 +9,6 @@ mtime: 20210701200733
 ctime: 20210506162317
 ---
 
-# Topology
-
 ## Munkres
 
 A **topology** on a set $X$ is a collection $T$ of subsets of $X$ such that

@@ -14,8 +14,6 @@ doi: http://dx.doi.org/10.1093/0195146476.001
 author: Batterman, R. W.
 ---
 
-# Batterman (2001) - The Devil in the Details; Asymptotic Reasoning in Explanation, Reduction, and Emergence
-
 # Summary
 
 Infinite/asymptotic idealizations are good, actually.

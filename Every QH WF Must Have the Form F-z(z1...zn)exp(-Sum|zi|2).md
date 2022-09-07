@@ -5,8 +5,6 @@ mtime: 20210701195442
 ctime: 20210311183548
 ---
 
-# Every QH WF Must Have the Form F-z(z1...zn)exp(-Sumzi2)
-
 # Every QH WF must look like this
 
 $$

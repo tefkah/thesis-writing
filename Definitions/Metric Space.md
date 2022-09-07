@@ -10,8 +10,6 @@ mtime: 20210701195253
 ctime: 20210416111039
 ---
 
-# Metric Space
-
 A **metric space** $M$ is a tuple containing a set $X$ and a **metric** $d$ which measures distances. The metric is defined as
 
 $$

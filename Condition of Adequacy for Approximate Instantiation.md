@@ -8,8 +8,6 @@ mtime: 20210711223538
 ctime: 20210210135331
 ---
 
-# Condition of Adequacy for Approximate Instantiation
-
 # Context
 
 In [@Shech2019], Shech proposes a "condition of adequacy" for something to count as an approximate instantiation in [@Leng2012] 's sense, see [[Approximate instantiation is used as an argument against Platonism|approximate instantiation as an argument against Platonism]]

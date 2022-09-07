@@ -8,8 +8,6 @@ mtime: 20211022125310 20210701195536
 ctime: 20210218152105
 ---
 
-# The Classical Hall Effect Is Just an Application of the Lorentz Force
-
 The Hall voltage $V_h$ happens when a magnetic field perpendicular to a thin, current carrying conductor induces a Lorentz force and thus a potential difference across said conductor.
 
 This is the <u>Hall Effect</u>. It is a classical effect and the voltage thus increases linearly according to Ohms law R=V/I

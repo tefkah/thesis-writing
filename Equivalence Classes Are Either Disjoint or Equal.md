@@ -8,6 +8,4 @@ mtime: 20210701200738
 ctime: 20210505153756
 ---
 
-# Equivalence classes are either disjoint or equal
-
 [[Equivalence Class]][[Disjoint]]

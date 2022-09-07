@@ -9,8 +9,6 @@ mtime: 20210701200806
 ctime: 20210327153604
 ---
 
-# The configuration space approach explains the possibility of anyons, not their occurence
-
 # The configuration space approach to quantum statistics does not (aim) to explain _when_ anyons _will_ occur, just that they can/have to occur in two dimensions.
 
 I was very confused about the role of the use of the [[configuration space framework for identical particles]] for describing anyons/the quantum hall effect, as it felt superfluous when the _appearance_ of [[fractional quantum statistics]] in  [[the Fractional quantum hall effect (FQHE)]] is justified/calculated using the [[Berry Connection]], which has no real clear tie to the configuration space framework.

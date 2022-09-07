@@ -8,8 +8,6 @@ mtime: 20210701200821
 ctime: 20210309161322
 ---
 
-# Reasoning of FQHE Is Less Rigorous than IQHE
-
 Basically, with interaction taken into account, it won't be possible to use [[perturbation theory]] and thus to calculate the wavefunctions somewhat precisely.
 
 Instead, [[The wavefunction of the FQHE is GUESSED from general grounds|the wavefunction of the FQHE is GUESSED]]

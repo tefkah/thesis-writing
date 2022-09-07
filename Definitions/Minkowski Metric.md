@@ -8,8 +8,6 @@ mtime: 20210701200207
 ctime: 20210701200207
 ---
 
-# Minkowski Metric
-
 The **Minkowski Metric** $\eta$ is a [[Metric]]   describing how to measure distances in [[Minkowski Spacetime]], which is the standard spacetime [[Special Relativity]] is set in. It is defined as
 
 $$

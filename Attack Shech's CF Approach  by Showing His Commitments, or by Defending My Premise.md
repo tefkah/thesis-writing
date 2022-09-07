@@ -9,8 +9,6 @@ mtime: 20210701200805
 ctime: 20210330144824
 ---
 
-# Attack Shech's CF approach  by showing his commitments, or by defending my premise
-
 # I can either attack [@Shech2019]   [[The configuration space explanation of anyons]] by showing that he has a certain commitment that he's not saying, or by convincing the reader that my way of viewing the problem is better
 
 [[The configuration space explanation approach requires a certain stance on the ontology of symmetries]]

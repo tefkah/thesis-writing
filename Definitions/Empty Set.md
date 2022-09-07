@@ -8,6 +8,4 @@ mtime: 20210701195218
 ctime: 20210505154117
 ---
 
-# Empty set
-
 The empty set $\emptyset$ is the set with no elements, $\{\}$

@@ -9,8 +9,6 @@ mtime: 20210701200749
 ctime: 20210416112309
 ---
 
-# Open set
-
 ## Functional analysis definition
 
 Given a [[Metric Space]] $(X,d)$, a set $A\subseteq X$ is called an **open set** if

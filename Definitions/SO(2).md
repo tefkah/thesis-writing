@@ -10,8 +10,6 @@ mtime: 20210701200042
 ctime: 20210701200042
 ---
 
-# SO(2)
-
 The special orthogonal group **SO(2)** is the [[Group]] of all [[Orthogonal]]  $2x2$  matrices with [[Determinant]] $1$ under matrix multiplications.
 
 The group composes all matrices which are orthogonal, i.e. $O^T O =1$, and $\det(O)=+!$

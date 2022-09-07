@@ -10,8 +10,6 @@ mtime: 20210706172502
 ctime: 20210706155520
 ---
 
-# Adiabatic Theorem (Quantum)
-
 # Statement
 
 Given a Hamiltonian with a discrete spectrum, the **adiabatic theorem** states that if the parameters of the Hamiltonian are varied slowly enough and the system is in a particular eigenstate, the system will end up in a new eigenstate equal to the old one times some phase factor, which can be decoupled into the [[Dynamical Phase Factor]] $e^{iEt/\hbar}$and the [[Geometric Phase]] factor $e^{i\gamma}$ .

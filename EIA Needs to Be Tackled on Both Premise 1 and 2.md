@@ -9,8 +9,6 @@ mtime: 20210701200843
 ctime: 20210204161710
 ---
 
-# EIA needs to be tackled on both premise 1 and 2
-
 # Context
 
 My thesis for a large part consists of trying to undermine the [[enhanced indispensability argument (EIA)]]. However, I have been unsure about how to tackle this, because tackling the first premise of the argument can quickly lead to discussions of realism in general, but tackling the second premise is too limited in scope.

@@ -10,6 +10,4 @@ mtime: 20210706155934
 ctime: 20210706155905
 ---
 
-# Dynamical Phase factor
-
 $e^{iEt/\hbar}$

@@ -8,8 +8,6 @@ mtime: 20211211110219 20210701195016
 ctime: 20210701195016
 ---
 
-# Causal-mechanical explanation
-
 The **causal-mechanical** model of explanation says that a good explanation is a causal story from some fundamental thing to the phenomena in question.
 
 It is very granular and local.

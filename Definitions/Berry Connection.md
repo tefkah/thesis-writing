@@ -9,8 +9,6 @@ mtime: 20210701200816
 ctime: 20210312130104
 ---
 
-# Berry Connection
-
 $$
 \mathcal{A}_{\eta_i} = -\frac{i}{2m}\sum_{j\neq i} \frac{1}{\eta_i-\eta_j}+\frac{i\bar{\eta}_i}{4ml_B^2}
 $$

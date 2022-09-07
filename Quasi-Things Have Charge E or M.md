@@ -9,8 +9,6 @@ mtime: 20210701200816
 ctime: 20210312123300
 ---
 
-# Quasi-things Have Charge e/m
-
 # Quasi-holes/particles carry charge e/m
 
 ## Intuition

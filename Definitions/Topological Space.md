@@ -8,8 +8,6 @@ mtime: 20210701200756
 ctime: 20210403182645
 ---
 
-# Topological Space
-
 ## Munkres
 
 A **topological space** is an ordered pair $(X, T)$ consiisting of any set $X$ which has a [[Topology]] $T$ specified on it.

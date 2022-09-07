@@ -7,6 +7,4 @@ mtime: 20210701195320
 ctime: 20210403185137
 ---
 
-# Associativity
-
 An operation $\cdot$ is said to be **associative** for the elements $a, b, c$ under consideration iff$a \cdot ( b \cdot c ) =(a \cdot b) \cdot c$

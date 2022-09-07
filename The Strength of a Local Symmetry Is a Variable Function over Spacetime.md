@@ -7,4 +7,3 @@ mtime: 20210701195408
 ctime: 20210330160106
 ---
 
-# The strength of a local symmetry is a variable function over spacetime

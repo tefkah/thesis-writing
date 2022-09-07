@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{authorString}} ({{year}}) - {{title}}",
+  "literatureNoteFolder": "/Users/thomas/Notes/thesis-writing/Literature notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\ncitekey: {{citekey}}\nauthors: {{authorString}}\nyear: {{year}}\n{{#if doi}}\ndoi: {{DOI}}\n{{/if}}\n{{#if url}}\nurl: {{url}}\n{{/if}}\n---\n\n# {{title}}\n\n{{#if abstract}}\n> [!abstract]\n> {{abstract}}\n\n{{/if}}\n{{note}}\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/thomas/Notes/thesis-writing/.bibliography/Academic.bib"
+}

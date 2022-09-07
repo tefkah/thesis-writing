@@ -10,8 +10,6 @@ mtime: 20210701200727
 ctime: 20210511132727
 ---
 
-# Berry Curvature
-
 The **Berry Curvature** is the [[Curl]] of the [[Berry Connection]]
 
 $$

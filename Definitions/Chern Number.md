@@ -7,4 +7,3 @@ mtime: 20210701195501
 ctime: 20210223172219
 ---
 
-# Chern number

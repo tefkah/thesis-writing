@@ -5,6 +5,4 @@ mtime: 20210701195705
 ctime: 20201105155943
 ---
 
-# Shannon Entropy
-
-$H(p) = -\sum_{i=1}^np_i}\log p_i$
+$H(p) = -\Sigma_{i=1}^{n} p_{i} \log p_i$

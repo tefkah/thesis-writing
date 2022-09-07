@@ -9,9 +9,7 @@ mtime: 20210701195318
 ctime: 20210405145102
 ---
 
-# IBE is a special case of EIA
-
-# Inference to the best explanation is a special case of the indispensability argument
+Inference to the best explanation is a special case of the indispensability argument
 
 # Ref
 

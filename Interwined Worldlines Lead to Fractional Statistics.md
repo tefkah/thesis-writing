@@ -9,8 +9,6 @@ mtime: 20210701200810
 ctime: 20210316150917
 ---
 
-# Interwined Worldlines Lead to Fractional Statistics
-
 # Not being able to smoothly disentangle your worldline leads to Fractional Statistics (somehow)
 
 We know that in [[Braided Worldlines Cannot be Disentangled in 2D]], and in that because of this particles seemingly "remember" there path through spacetime, but how does this yield [[Fractional Quantum Statistics]]?

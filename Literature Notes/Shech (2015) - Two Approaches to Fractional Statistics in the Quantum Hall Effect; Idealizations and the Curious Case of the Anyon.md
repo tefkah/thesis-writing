@@ -19,8 +19,6 @@ noter_document: ""
 noter_page: ""
 ---
 
-# Shech (2015) - Two Approaches to Fractional Statistics in the Quantum Hall Effect; Idealizations and the Curious Case of the Anyon
-
 # Summary
 
 Where Shech destroys my self confidence in seconds! This is exactly what I wanted to do but he already did it and then changed his mind, apparently.

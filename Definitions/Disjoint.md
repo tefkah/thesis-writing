@@ -8,8 +8,6 @@ mtime: 20210701200738
 ctime: 20210505153840
 ---
 
-# Disjoint
-
 Two [[Set]]s are **disjoint** if they share no elements, i.e. their [[Intersection]] is the [[Empty set]].
 
 $A\cap A'=\emptyset$

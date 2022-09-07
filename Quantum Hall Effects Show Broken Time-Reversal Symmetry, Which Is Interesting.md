@@ -8,8 +8,6 @@ mtime: 20210701200433
 ctime: 20210511135143
 ---
 
-# Quantum Hall Effects Show Broken Time-Reversal Symmetry, Which Is Interesting
-
 This is a good reason to bring up why [[descripion of QHE|QHE]] are interested beyond the people who are immediately interested in condensed matter physics.
 
 This is claimed in [@Cohen2019 p. 445].

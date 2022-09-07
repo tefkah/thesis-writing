@@ -9,8 +9,6 @@ mtime: 20210911175644
 ctime: 20210309144912
 ---
 
-# Stuck in My Thesis Hub
-
 This meta note is here in order to get me back on track when I forget what my thesis is about and what the hell I'm doing even.
 
 # This is what you are interested in:

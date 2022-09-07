@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "cb81979b2ca2806d",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d2917ea235aef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612f42ed39dc176c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Worldlines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9e342d64fc0aeb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c7207f034df7ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f0750ab72462b2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b29f9a0690cc499",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7da6afb596019754",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "117019b943b068f7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 488.5
+  },
+  "right": {
+    "id": "ad7b0c3a5267c6a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "98c5b56b8585cb01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209ff83893a34560",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Definitions/Worldlines.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c561e7432f30e8b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Definitions/Worldlines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c782eba282d095a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c1c0b6417558523",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Definitions/Worldlines.md"
+              }
+            }
+          },
+          {
+            "id": "1a3f682eb6b369bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "floating": {
+    "id": "cbf4d79f89d8a359",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4592c6affa245175",
+        "type": "window",
+        "children": [
+          {
+            "id": "e1486ea8fde0fbc8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82681deedb0e0d75",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "460735ff256d731a",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "0.16.2"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 780,
+        "y": 455,
+        "width": 1584,
+        "height": 1027,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "612f42ed39dc176c",
+  "lastOpenFiles": [
+    "Definitions/Vector Bundle.md",
+    "Definitions/Universal Explanation.md",
+    "Definitions/Universal Cover(ing Space).md",
+    "Definitions/Unitarity.md",
+    "Definitions/Unification Model of Explanation.md",
+    "Definitions/U(1).md",
+    "Definitions/Topology.md",
+    "Definitions/Topological Space.md",
+    "Definitions/The Laughlin Wavefunction.md",
+    "Definitions/The Integer Quantum Hall Effect (IQHE).md"
+  ]
+}

@@ -8,8 +8,6 @@ mtime: 20210701200724
 ctime: 20210512155809
 ---
 
-# Position is the geometric phase parameter in exchange-statistics
-
 # The relevant parameter for the geometric phase is position in exchange statistics
 
 The [[Geometric Phase]] arises when you vary the parameters of the Hamiltonian of the system slowly from and back to their original starting point, tracing out a path in parameter space.

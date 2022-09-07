@@ -9,8 +9,6 @@ mtime: 20210701200854
 ctime: 20210119122414
 ---
 
-# Idealizations should be distinguished by outcome, not by operation
-
 When idealization is discussed by for instance [[Strevens (2019) - The Structure of Asymptotic Idealization]] or [@Norton2012] , I have difficulty knowing what they are exactly talking about, see [[Confusing Approximations and Idealizations]]. This note is an attempt to clarify what the problem is and how to tackle it.
 
 The problem with Streven's, Norton's and perhaps Batterman's discussions about infinite idealizations or asymptotic idealizations, is that they distinguish infinite idealizations from other things, be that normal idealizations or approximations, by the operation by which they are achieved, BUT then discuss the merits or results of that operation, which then invariably introduces another distinction: between infinite idealizations which do not smoothly approach the limit, and everything else. The latter is generally seen to be unproblematic, at least in the sense that scientific representation or modelling is assumed to be unproblematic. The former is where the difficulties lie and where disagreement arises, at least in the context of the discussion on infinite idealizations. Few people would disagree with Norton by saying that approximations are something else, they disagree that all infinite idealizations can be explained away as approximations, namely those infinite idealizations that do not smoothly approach the limit.

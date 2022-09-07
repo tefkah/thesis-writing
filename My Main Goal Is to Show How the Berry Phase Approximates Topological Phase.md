@@ -10,10 +10,6 @@ mtime: 20210701200724
 ctime: 20210512160337
 ---
 
-# My main goal is to show how the Berry phase approximates topological phase
-
-# The main goal of my case study on FQHE is to show that the Berry phase can approximate the topological phase
-
 In my chapter [[FQHE or anyon chapter|Structure FQHE/anyon chapter]], I am talking a lot of bullshit, which makes me forget my main goal:
 Show how to approximate the [[The configuration space explanation of anyons]] using the  [[Geometric Phase]]/[[Berry phase]].
 
