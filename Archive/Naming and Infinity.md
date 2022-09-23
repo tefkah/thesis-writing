@@ -32,7 +32,7 @@ $\maketitle$
 
 ## Introduction
 
-[[I. Introduction|Introduction Chapter]]
+[[Intro|Introduction Chapter]]
 
 ## Infinite Idealization
 

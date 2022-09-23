@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Previous work on infinite idealizations",
+      "path": "Chapters/II. Idealizations/2. Previous work on infinite idealizations.md"
+    },
+    {
+      "basename": "3. A New Categorization of Idealization",
+      "path": "Chapters/II. Idealizations/3. A New Categorization of Idealization.md"
+    },
+    {
+      "basename": "1. What Is Idealization, and Why Do We Care?",
+      "path": "Chapters/II. Idealizations/1. What Is Idealization, and Why Do We Care?.md"
+    },
+    {
+      "basename": "4. Discussion",
+      "path": "Chapters/II. Idealizations/4. Discussion.md"
+    },
+    {
+      "basename": "Impurities Break the Degeneracy of the Landau Levels",
+      "path": "Impurities Break the Degeneracy of the Landau Levels.md"
+    },
+    {
+      "basename": "Derivation of Landau Levels for QHE",
+      "path": "Derivation of Landau Levels for QHE.md"
+    },
+    {
+      "basename": "If Particles Cannot Be Closer than the Thickness of the Strip, the Configuration Space Is Approximately 2D",
+      "path": "If Particles Cannot Be Closer than the Thickness of the Strip, the Configuration Space Is Approximately 2D.md"
+    },
+    {
+      "basename": "3D Braids Do Not Get Intertwined",
+      "path": "3D Braids Do Not Get Intertwined.md"
+    },
+    {
+      "basename": "A Space Is Just a Set with some Structure",
+      "path": "A Space Is Just a Set with some Structure.md"
+    },
+    {
+      "basename": "Geometric Phase",
+      "path": "Definitions/Geometric Phase.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "Chapters/I. Introduction/Intro.md"
+    },
+    {
       "basename": "Worldlines",
       "path": "Definitions/Worldlines.md"
+    },
+    {
+      "basename": "The Aharonov Bohm Effect (AB)",
+      "path": "Definitions/The Aharonov Bohm Effect (AB).md"
+    },
+    {
+      "basename": "Impurities Turn Many Quantum States From Extended to Localized",
+      "path": "Impurities Turn Many Quantum States From Extended to Localized.md"
+    },
+    {
+      "basename": "Open Questions for My Thesis",
+      "path": "Meta/Open Questions for My Thesis.md"
     },
     {
       "basename": "Vector Bundle",
@@ -51,10 +107,6 @@
     {
       "basename": "The Deductive-Nomological Model of Explanation",
       "path": "Definitions/The Deductive-Nomological Model of Explanation.md"
-    },
-    {
-      "basename": "The Aharonov Bohm Effect (AB)",
-      "path": "Definitions/The Aharonov Bohm Effect (AB).md"
     },
     {
       "basename": "Surjective  or  Onto",
@@ -147,58 +199,6 @@
     {
       "basename": "Monodromy",
       "path": "Definitions/Monodromy.md"
-    },
-    {
-      "basename": "Minkowski Spacetime",
-      "path": "Definitions/Minkowski Spacetime.md"
-    },
-    {
-      "basename": "Minkowski Metric",
-      "path": "Definitions/Minkowski Metric.md"
-    },
-    {
-      "basename": "Metric Space",
-      "path": "Definitions/Metric Space.md"
-    },
-    {
-      "basename": "Metric",
-      "path": "Definitions/Metric.md"
-    },
-    {
-      "basename": "Magnetic Length",
-      "path": "Definitions/Magnetic Length.md"
-    },
-    {
-      "basename": "LWF Hole",
-      "path": "Definitions/LWF Hole.md"
-    },
-    {
-      "basename": "Lorentz Group",
-      "path": "Definitions/Lorentz Group.md"
-    },
-    {
-      "basename": "Local Symmetry",
-      "path": "Definitions/Local Symmetry.md"
-    },
-    {
-      "basename": "Lie Group",
-      "path": "Definitions/Lie Group.md"
-    },
-    {
-      "basename": "Lie Algebra",
-      "path": "Definitions/Lie Algebra.md"
-    },
-    {
-      "basename": "Landau Levels",
-      "path": "Definitions/Landau Levels.md"
-    },
-    {
-      "basename": "Isomorphism",
-      "path": "Definitions/Isomorphism.md"
-    },
-    {
-      "basename": "Inverse Function",
-      "path": "Definitions/Inverse Function.md"
     }
   ],
   "omittedPaths": [],
