@@ -10,15 +10,16 @@ mtime: 20220318215804 20210701200531
 ctime: 20210701200531
 ---
 
-## Introduction/Discretization
+# Introduction/Discretization
 
 As I see it, the chief problem of philosophy is to explicate how, if at all, our language relates to the world. This is not a new thought, but one I wish to explore in this thesis.
 
-### Specifically: words seem to denote a very precise ontological thing, but our epistemological capacities aren't that precise
+Specifically: words seem to denote a very precise ontological thing, but our epistemological capacities aren't that precise
 
 I believe there exists a massive mismatch between the way we use language (names and/or concepts in particular) and how we conceptualize the ontology of the world. In short it is this: the <u>names</u> we use for objects and <u>concepts</u> in our language are discrete, while the space underlying them is continuous. That is, while we use names and concepts as if they have a definite <u>boundary</u>, there does not seem to be a clear line we can draw between the object and not-object, the concept and not-concept. Their boundary seems to be <u>vague</u>, indeterminate, fuzzy, etc.
 
 (this is not really a good example, I could start with "human" or "the human that X" or something. It's a much more familiar and vivid example, but it does veer into philosophy of biology more easily, so I'm weary to use it as a starting off point. Ideally I'd use a physics example but I don't have one that's quite so vidid as "human")
+
 Names and the objects they refer to are discrete in the way that one definite signifier is intented to represent one definite object or kind of object (natural kinds, I think): it is implied that the name refers to something with a definite spatio-temporal boundary. The problem of vagueness arises from the contrast between this proposed definiteness of boundary with the actual continuity of space, which does not lend itself to having distinct, point-like boundaries. In some cases this is more apparent than others. Take the name "the football used in the 2016 world cup finals" and the object it refers to, the actual football. The name implies, by use of "the", that there is one unique object, the actual football, it describes.
 
 At first glance this appears uncontroversial: there is only one football which was used during the final, no exchanges were made and no "multi-ball" rule was suddenly introduced. The issue however is that we do not believe that footballs are fundamental constituents of reality, were there to be such things as fundamental consituents of reality. Instead we think that footballs are composed of smaller objects which may be fundamental consituents of reality, such as molecules, atoms, protons, quarks, and so forth. This fact leads to there not being a one to one mapping between the name "the football used in the 2016 World Cup finals" and a definite set of fundamental consituents of reality in a number of ways.
