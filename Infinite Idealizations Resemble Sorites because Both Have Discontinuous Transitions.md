@@ -15,7 +15,7 @@ My thesis heavily centers around two topics: [[Infinite Idealizations]] and [[va
 # Similarity
  Infinite Idealizations are similar to Sorites paradoxes because both are mathematical/logical reasons for why common explanations of phenomena don't (immediately) work out
 
-Vagueness/Sorites paradox is having a continuous or discrete transition from one concept/object/... to another, where at the one end a predicate is true and at the other a predicate is false, and there being equally good reasons for believing that neither predicate actually can change.
+Vagueness/Sorites paradox is having a continuous or discrete transition from one concept/object/... to another, where at the one end a predicate is true and at the other a predicate is false and it’s not obvious where the transition point lies. This leads to a paradox where either there is and isn’t a transition point, or the predicate is and is not true at any point.
 
 Example:
 
@@ -38,8 +38,7 @@ Now for Inf Ids.
 2) If the configuration space is 3D at n thickness/magnetic field strength, then the configuration space is 3D at n/2 thickness/ 2n magnetic field strength.
 
 ...
-
-1) We never observe the FQHE
+3) We never observe the FQHE
 
 Or, other way around again
 
@@ -57,3 +56,9 @@ Or, other way around again
 So if the vagueness paradox is a problem for baldness than it is also a problem for this.
 
 Ah. But then I can't use this as a counter argument
+
+# Problems
+
+Two problems arise:
+1. [[(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity]]
+2. [[Physical systems modeled by infinite idealizations do display limiting behavior at non-infinitary points]]

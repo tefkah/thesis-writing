@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "04-10-2022",
+      "path": "Streams/04-10-2022.md"
+    },
+    {
+      "basename": "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity",
+      "path": "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md"
+    },
+    {
+      "basename": "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions",
+      "path": "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md"
+    },
+    {
+      "basename": "Sorites Paradox",
+      "path": "Definitions/Sorites Paradox.md"
+    },
+    {
+      "basename": "23-09-2022",
+      "path": "Streams/23-09-2022.md"
+    },
+    {
+      "basename": "ballspace",
+      "path": "media/ballspace.png"
+    },
+    {
+      "basename": "Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation",
+      "path": "Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md"
+    },
+    {
+      "basename": "Next stream",
+      "path": "Next stream.md"
+    },
+    {
+      "basename": "ballspace",
+      "path": "media/ballspace.svg"
+    },
+    {
+      "basename": "3dexchange",
+      "path": "media/3dexchange.png"
+    },
+    {
+      "basename": "2dexchange",
+      "path": "media/2dexchange.png"
+    },
+    {
+      "basename": "2. Topology and Anyons",
+      "path": "Chapters/III. Anyons/2. Topology and Anyons.md"
+    },
+    {
+      "basename": "3. Geometric phase",
+      "path": "Chapters/III. Anyons/3. Geometric phase.md"
+    },
+    {
+      "basename": "Weird draft",
+      "path": "Chapters/III. Anyons/Weird draft.md"
+    },
+    {
+      "basename": "1. Why Anyons?",
+      "path": "Chapters/III. Anyons/1. Why Anyons?.md"
+    },
+    {
+      "basename": "Anyons Todos",
+      "path": "Chapters/III. Anyons/Anyons Todos.md"
+    },
+    {
+      "basename": "Infinite Sphere",
+      "path": "Components/Infinite Sphere.md"
+    },
+    {
+      "basename": "Capsule",
+      "path": "Components/Capsule.md"
+    },
+    {
       "basename": "2. Previous work on infinite idealizations",
       "path": "Chapters/II. Idealizations/2. Previous work on infinite idealizations.md"
     },
@@ -117,10 +189,6 @@
       "path": "Definitions/Supervaluationism.md"
     },
     {
-      "basename": "Sorites Paradox",
-      "path": "Definitions/Sorites Paradox.md"
-    },
-    {
       "basename": "SO(2)",
       "path": "Definitions/SO(2).md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Simply Connected",
       "path": "Definitions/Simply Connected.md"
-    },
-    {
-      "basename": "Shannon Entropy",
-      "path": "Definitions/Shannon Entropy.md"
-    },
-    {
-      "basename": "Set",
-      "path": "Definitions/Set.md"
-    },
-    {
-      "basename": "Schrödinger Equation",
-      "path": "Definitions/Schrödinger Equation.md"
-    },
-    {
-      "basename": "Representation",
-      "path": "Definitions/Representation.md"
-    },
-    {
-      "basename": "Relation",
-      "path": "Definitions/Relation.md"
-    },
-    {
-      "basename": "Proper Time",
-      "path": "Definitions/Proper Time.md"
-    },
-    {
-      "basename": "Promotion",
-      "path": "Definitions/Promotion.md"
-    },
-    {
-      "basename": "Preimage",
-      "path": "Definitions/Preimage.md"
-    },
-    {
-      "basename": "Phase (Quantum)",
-      "path": "Definitions/Phase (Quantum).md"
-    },
-    {
-      "basename": "Path",
-      "path": "Definitions/Path.md"
-    },
-    {
-      "basename": "Parallel Transport",
-      "path": "Definitions/Parallel Transport.md"
-    },
-    {
-      "basename": "Open Set",
-      "path": "Definitions/Open Set.md"
-    },
-    {
-      "basename": "Open Ball",
-      "path": "Definitions/Open Ball.md"
-    },
-    {
-      "basename": "O(2)",
-      "path": "Definitions/O(2).md"
-    },
-    {
-      "basename": "Nominalist Scientific Realism",
-      "path": "Definitions/Nominalist Scientific Realism.md"
-    },
-    {
-      "basename": "Noether's Theorem",
-      "path": "Definitions/Noether's Theorem.md"
-    },
-    {
-      "basename": "Monodromy",
-      "path": "Definitions/Monodromy.md"
     }
   ],
   "omittedPaths": [],

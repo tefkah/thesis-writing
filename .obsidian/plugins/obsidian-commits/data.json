@@ -402,7 +402,7 @@
     "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md": {
       "size": 2384,
       "tags": 3,
-      "links": 4
+      "links": 6
     },
     "Landau States Have a Large Degeneracy.md": {
       "size": 517,
@@ -1378,14 +1378,39 @@
       "size": 43003,
       "tags": 4,
       "links": 2
+    },
+    "Streams/23-09-2022.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Next stream.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Streams/04-10-2022.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md": {
+      "size": 3097,
+      "tags": 0,
+      "links": 4
+    },
+    "Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 17,
-      "Create": 2,
-      "Link": 0,
-      "Expand": 0
+      "Refactor": 18,
+      "Create": 7,
+      "Link": 5,
+      "Expand": 3
     }
   },
   "dailyCommits": {
@@ -1401,15 +1426,15 @@
       "8": 0,
       "9": 0,
       "10": 0,
-      "11": 0,
+      "11": 2,
       "12": 0,
-      "13": 6,
+      "13": 16,
       "14": 4,
       "15": 0,
       "16": 9,
       "17": 0,
       "18": 0,
-      "19": 0,
+      "19": 2,
       "20": 0,
       "21": 0,
       "22": 0,
@@ -1419,20 +1444,29 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 9,
+      "Tue": 21,
       "Wed": 10,
       "Thu": 0,
-      "Fri": 0,
+      "Fri": 2,
       "Sat": 0,
       "Sun": 0
     }
   },
   "recentCommits": {
     "/": {
-      "Expanded": [],
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>"
+      ],
       "Created": [
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Chapters/I. Introduction/I. Introduction.md\"> I. Introduction </a>"
+        "<a class=\"internal-link\" href=\"Chapters/I. Introduction/I. Introduction.md\"> I. Introduction </a>",
+        "<a class=\"internal-link\" href=\"Streams/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md\"> Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3D Braids Do Not Get Intertwined.md\"> 3D Braids Do Not Get Intertwined </a>",
@@ -1441,7 +1475,8 @@
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Introduction.md\"> Introduction </a>",
         "<a class=\"internal-link\" href=\"Chapters/Introduction/Introduction.md\"> Introduction </a>",
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Introduction.md\"> Introduction </a>",
-        "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Intro.md\"> Intro </a>"
+        "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Intro.md\"> Intro </a>",
+        "<a class=\"internal-link\" href=\"Streams/04-10-2022.md\"> 04-10-2022 </a>"
       ],
       "Tagged": [],
       "Refactored": [],
@@ -1457,7 +1492,13 @@
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Introduction.md\"> Introduction </a>",
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/I. Introduction.md\"> I. Introduction </a>"
       ],
-      "Linked": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md\"> Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions </a>",
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md\"> Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation </a>",
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>"
+      ],
       "Removed Tags from": [],
       "Removed Links from": []
     }

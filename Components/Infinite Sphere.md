@@ -1,4 +1,3 @@
-# Infinite Sphere
 import {useState} from 'react';
 
 const [val, setVal] = useState(20)
