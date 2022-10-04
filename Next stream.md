@@ -1,0 +1,4 @@
+- [ ] Talk about vagueness
+- [ ] Go through Colyvan and maybe one other
+- [ ] Draw some parallells
+- [ ] Apply weirdness of vagueness to here to confuse everyone harharhar
