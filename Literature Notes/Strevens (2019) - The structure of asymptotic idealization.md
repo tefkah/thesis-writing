@@ -11,6 +11,7 @@ year: 2019
 DOI: 10.1007/s11229-017-1646-y
 ISSN: 1573-0964
 keywords: explanation, idealization, philphys
+"annotation-target": file:///Users/thomas/OneDrive/Papers/Academic/StrevensM_2019_The_structure_of_asymptotic_idealization.pdf
 ---
 
 
@@ -129,3 +130,48 @@ in short: limit happens
 I think people should make it very clear at the start of a work where they attempt to lay down some sort of definition how normative they take this definition to be. It's very easy to take people to say "this is how it is" or "this is how you should use it", when they want to say "this is how people could be using it sensibly"
 
 > *“7 Conclusion”* [(Strevens, 2019, p. 1730)](zotero://open-pdf/library/items/3T6DFSVS?page=18&annotation=5C2FKY49)
+
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-04T12:29:37.252Z","text":"He's so fucking hawt","updated":"2022-10-04T12:29:37.252Z","document":{"title":"The structure of asymptotic idealization","link":[{"href":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4"}],"documentFingerprint":"330881738ef411c18ab881fb1c2d0ad4"},"uri":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4","target":[{"source":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4","selector":[{"type":"TextPositionSelector","start":3048,"end":3290},{"type":"TextQuoteSelector","exact":"I will lay out a straightforward characterization of the rules that apply to the non-infinitary cases—the rules of what I will call “simple idealization”—and then askwhether such rules can be used to deal with every case involving infinities.","prefix":" to justify that assertion here.","suffix":" The answeris that they can cope"}]}]}
+>```
+>%%
+>*%%PREFIX%%to justify that assertion here.%%HIGHLIGHT%% ==I will lay out a straightforward characterization of the rules that apply to the non-infinitary cases—the rules of what I will call “simple idealization”—and then askwhether such rules can be used to deal with every case involving infinities.== %%POSTFIX%%The answeris that they can cope*
+>%%LINK%%[[#^ac7chgqe3o|show annotation]]
+>%%COMMENT%%
+>He's so fucking hawt
+>%%TAGS%%
+>
+^ac7chgqe3o
+
+asotenashot
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-05T10:18:07.042Z","updated":"2022-10-05T10:18:07.042Z","document":{"title":"The structure of asymptotic idealization","link":[{"href":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4"}],"documentFingerprint":"330881738ef411c18ab881fb1c2d0ad4"},"uri":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4","target":[{"source":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4","selector":[{"type":"TextPositionSelector","start":53214,"end":53907},{"type":"TextQuoteSelector","exact":"Asymptotic extrapolation from a realistic model requires:1. An extrapolation parameter, that is, a parameter in the model which in the intendedidealization goes to zero or infinity or some other extreme value,2. A template for an extrapolation model, which is derived from the realistic modelby assigning a fixed value to the extrapolation parameter and removing all repre-sentation of that parameter from the model while retaining the model’s ability torepresent behavior relevant to the explanatory task, and3. An extrapolation space, which provides the mathematical structure for finding thelimiting form of the extrapolation models as the extrapolation parameter tends tothe extreme value.","prefix":"nthese (2019) 196:1713–1731 1729","suffix":"The idealized model is the limit"}]}]}
+>```
+>%%
+>*%%PREFIX%%nthese (2019) 196:1713–1731 1729%%HIGHLIGHT%% ==Asymptotic extrapolation from a realistic model requires:1. An extrapolation parameter, that is, a parameter in the model which in the intendedidealization goes to zero or infinity or some other extreme value,2. A template for an extrapolation model, which is derived from the realistic modelby assigning a fixed value to the extrapolation parameter and removing all repre-sentation of that parameter from the model while retaining the model’s ability torepresent behavior relevant to the explanatory task, and3. An extrapolation space, which provides the mathematical structure for finding thelimiting form of the extrapolation models as the extrapolation parameter tends tothe extreme value.== %%POSTFIX%%The idealized model is the limit*
+>%%LINK%%[[#^6jba39herrx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6jba39herrx
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-05T10:20:48.281Z","updated":"2022-10-05T10:20:48.281Z","document":{"title":"The structure of asymptotic idealization","link":[{"href":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4"}],"documentFingerprint":"330881738ef411c18ab881fb1c2d0ad4"},"uri":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4","target":[{"source":"urn:x-pdf:330881738ef411c18ab881fb1c2d0ad4","selector":[{"type":"TextPositionSelector","start":59098,"end":59288},{"type":"TextQuoteSelector","exact":"It would be noble and fitting at this point to return to Batterman’s more complexcases of asymptotic idealization in physics, to see whether they can be regarded asasymptotic extrapolations.","prefix":"ite straightforward.7 Conclusion","suffix":" That is, however, more than can"}]}]}
+>```
+>%%
+>*%%PREFIX%%ite straightforward.7 Conclusion%%HIGHLIGHT%% ==It would be noble and fitting at this point to return to Batterman’s more complexcases of asymptotic idealization in physics, to see whether they can be regarded asasymptotic extrapolations.== %%POSTFIX%%That is, however, more than can*
+>%%LINK%%[[#^gutsp3cwru|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gutsp3cwru

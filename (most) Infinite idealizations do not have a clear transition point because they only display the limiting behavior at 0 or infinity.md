@@ -51,7 +51,8 @@ This is *also* not true in the ballspace example, let’s construct it:
 >
 > 1. At thickness 1km the space is simply connected
  2. If a system of thickness N does not display the thing, then the system of thickness N-1nm also does not display the thing
-    C. There does not exist a thickness N that is multiply connected
+>
+> C. There does not exist a thickness N that is multiply connected
 
  
 ## So all hope is lost?
