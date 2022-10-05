@@ -325,9 +325,9 @@
       "links": 3
     },
     "Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md": {
-      "size": 16208,
+      "size": 21019,
       "tags": 0,
-      "links": 0
+      "links": 3
     },
     "Literature Notes/Strevens (2007) - Why Explanations Lie Idealization in Explanation.md": {
       "size": 2717,
@@ -1177,7 +1177,7 @@
     "Chapters/III. Anyons/1. Why Anyons?.md": {
       "size": 4039,
       "tags": 1,
-      "links": 0
+      "links": 1
     },
     "Chapters/II. Idealizations/II. Idealizations.md": {
       "size": 807,
@@ -1392,7 +1392,7 @@
     "Streams/04-10-2022.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md": {
       "size": 3097,
@@ -1403,14 +1403,24 @@
       "size": 0,
       "tags": 0,
       "links": 1
+    },
+    "something.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Streams/2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 18,
-      "Create": 7,
-      "Link": 5,
-      "Expand": 3
+      "Refactor": 20,
+      "Create": 9,
+      "Link": 11,
+      "Expand": 4
     }
   },
   "dailyCommits": {
@@ -1426,10 +1436,10 @@
       "8": 0,
       "9": 0,
       "10": 0,
-      "11": 2,
-      "12": 0,
+      "11": 6,
+      "12": 3,
       "13": 16,
-      "14": 4,
+      "14": 8,
       "15": 0,
       "16": 9,
       "17": 0,
@@ -1444,8 +1454,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 21,
-      "Wed": 10,
+      "Tue": 25,
+      "Wed": 17,
       "Thu": 0,
       "Fri": 2,
       "Sat": 0,
@@ -1457,7 +1467,8 @@
       "Expanded": [
         "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
         "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
-        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>"
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md\"> Strevens (2019) - The structure of asymptotic idealization </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Untitled.md\"> Untitled </a>",
@@ -1466,7 +1477,9 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
-        "<a class=\"internal-link\" href=\"Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md\"> Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation </a>"
+        "<a class=\"internal-link\" href=\"Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md\"> Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"3D Braids Do Not Get Intertwined.md\"> 3D Braids Do Not Get Intertwined </a>",
@@ -1476,9 +1489,13 @@
         "<a class=\"internal-link\" href=\"Chapters/Introduction/Introduction.md\"> Introduction </a>",
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Introduction.md\"> Introduction </a>",
         "<a class=\"internal-link\" href=\"Chapters/I. Introduction/Intro.md\"> Intro </a>",
-        "<a class=\"internal-link\" href=\"Streams/04-10-2022.md\"> 04-10-2022 </a>"
+        "<a class=\"internal-link\" href=\"Streams/04-10-2022.md\"> 04-10-2022 </a>",
+        "<a class=\"internal-link\" href=\"2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴.md\"> 2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴 </a>",
+        "<a class=\"internal-link\" href=\"Streams/2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴.md\"> 2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴 </a>"
       ],
-      "Tagged": [],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"something.md\"> something </a>"
+      ],
       "Refactored": [],
       "Deleted": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -1497,7 +1514,12 @@
         "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
         "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
         "<a class=\"internal-link\" href=\"Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md\"> Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation </a>",
-        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>"
+        "<a class=\"internal-link\" href=\"(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md\"> (most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity </a>",
+        "<a class=\"internal-link\" href=\"Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md\"> Strevens (2019) - The structure of asymptotic idealization </a>",
+        "<a class=\"internal-link\" href=\"something.md\"> something </a>",
+        "<a class=\"internal-link\" href=\"Streams/04-10-2022.md\"> 04-10-2022 </a>",
+        "<a class=\"internal-link\" href=\"Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md\"> Strevens (2019) - The structure of asymptotic idealization </a>",
+        "<a class=\"internal-link\" href=\"Chapters/III. Anyons/1. Why Anyons?.md\"> 1. Why Anyons? </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

@@ -6,14 +6,25 @@
       {
         "id": "48d2917ea235aef3",
         "type": "tabs",
+        "dimension": 60.543580131209,
         "children": [
+          {
+            "id": "63126f0d4f063fe9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Literature Notes/Norton (2012) - Approximation and idealization Why the difference matters.md"
+              }
+            }
+          },
           {
             "id": "0f93cb7095db2b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streams/23-09-2022.md",
+                "file": "Chapters/III. Anyons/1. Why Anyons?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,15 +32,12 @@
             }
           },
           {
-            "id": "63126f0d4f063fe9",
+            "id": "f2666391b7c01a5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Streams/04-10-2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md"
               }
             }
           }
@@ -39,6 +47,7 @@
       {
         "id": "2ae2bdba00ce0d35",
         "type": "tabs",
+        "dimension": 39.456419868791,
         "children": [
           {
             "id": "1d8a4e0095e86f03",
@@ -47,6 +56,19 @@
               "type": "image",
               "state": {
                 "file": "media/ballspace.png"
+              }
+            }
+          },
+          {
+            "id": "9b4b212dd9b24a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Streams/2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -83,7 +105,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -139,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streams/04-10-2022.md",
+                "file": "Chapters/III. Anyons/1. Why Anyons?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Streams/04-10-2022.md",
+                "file": "Chapters/III. Anyons/1. Why Anyons?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,37 +201,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streams/04-10-2022.md"
+                "file": "Chapters/III. Anyons/1. Why Anyons?.md"
               }
-            }
-          },
-          {
-            "id": "1a3f682eb6b369bb",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1a3f682eb6b369bb",
+  "active": "0f93cb7095db2b09",
   "lastOpenFiles": [
+    "Streams/2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴.md",
+    "Chapters/III. Anyons/1. Why Anyons?.md",
+    "Literature Notes/Norton (2012) - Approximation and idealization Why the difference matters.md",
+    "Chapters/III. Anyons/2. Topology and Anyons.md",
+    "Chapters/II. Idealizations/3. A New Categorization of Idealization.md",
+    "Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md",
     "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md",
-    "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md",
+    "something.md",
     "Streams/04-10-2022.md",
-    "Definitions/Sorites Paradox.md",
-    "Streams/23-09-2022.md",
-    "media/ballspace.png",
-    "Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation.md",
-    "Next stream.md",
-    "media/ballspace.svg",
-    "media/3dexchange.png"
+    "Streams/23-09-2022.md"
   ]
 }

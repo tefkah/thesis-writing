@@ -12,7 +12,6 @@
   "footlinks",
   "obsidian-footnotes",
   "obsidian-frontmatter-tag-suggest",
-  "graph-analysis",
   "highlightr-plugin",
   "obsidian-icon-folder",
   "obsidian-icons-plugin",
@@ -28,7 +27,6 @@
   "obsidian-prettier",
   "url-into-selection",
   "obsidian-pocket",
-  "obsidian-plugin-prettier",
   "quick-latex",
   "recent-files-obsidian",
   "obsidian-regex-replace",
@@ -44,5 +42,8 @@
   "better-fn",
   "alx-folder-note-folderv",
   "alx-folder-note",
-  "obsidian-react-components"
+  "obsidian-annotator",
+  "dataview",
+  "obsidian-minimal-settings",
+  "obsidian-contextual-typography"
 ]

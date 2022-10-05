@@ -42,5 +42,14 @@
       ],
       "key": "P"
     }
+  ],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "Tab"
+    }
   ]
 }

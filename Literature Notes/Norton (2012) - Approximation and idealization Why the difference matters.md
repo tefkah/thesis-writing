@@ -11,6 +11,7 @@ year: 2012
 DOI: 10.1086/664746
 ISSN: 00318248
 keywords: approximation, explanation, idealization, thermodynamic_limit, thermodynamics
+"annotation-target": file:///Users/thomas/OneDrive/Papers/Academic/NortonJ_2012_Approximation_and_idealization.pdf
 ---
 
 # Norton (2012) - Approximation and idealization Why the difference matters

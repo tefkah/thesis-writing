@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "04-10-2022",
-      "path": "Streams/04-10-2022.md"
+      "basename": "1. Why Anyons?",
+      "path": "Chapters/III. Anyons/1. Why Anyons?.md"
+    },
+    {
+      "basename": "2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴",
+      "path": "Streams/2022-10-05 🔴TOPOLOGY TUESDAYS ♾️RISE N GRIND♾️HOT NOTE TAKING ACTION🔴.md"
+    },
+    {
+      "basename": "Norton (2012) - Approximation and idealization Why the difference matters",
+      "path": "Literature Notes/Norton (2012) - Approximation and idealization Why the difference matters.md"
+    },
+    {
+      "basename": "2. Topology and Anyons",
+      "path": "Chapters/III. Anyons/2. Topology and Anyons.md"
+    },
+    {
+      "basename": "3. A New Categorization of Idealization",
+      "path": "Chapters/II. Idealizations/3. A New Categorization of Idealization.md"
+    },
+    {
+      "basename": "Strevens (2019) - The structure of asymptotic idealization",
+      "path": "Literature Notes/Strevens (2019) - The structure of asymptotic idealization.md"
     },
     {
       "basename": "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity",
       "path": "(most) Infinite idealizations do not have a clear transition point because they only display the limiting behavior at 0 or infinity.md"
     },
     {
-      "basename": "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions",
-      "path": "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md"
+      "basename": "something",
+      "path": "something.md"
     },
     {
-      "basename": "Sorites Paradox",
-      "path": "Definitions/Sorites Paradox.md"
+      "basename": "04-10-2022",
+      "path": "Streams/04-10-2022.md"
     },
     {
       "basename": "23-09-2022",
@@ -23,6 +43,14 @@
     {
       "basename": "ballspace",
       "path": "media/ballspace.png"
+    },
+    {
+      "basename": "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions",
+      "path": "Infinite Idealizations Resemble Sorites because Both Have Discontinuous Transitions.md"
+    },
+    {
+      "basename": "Sorites Paradox",
+      "path": "Definitions/Sorites Paradox.md"
     },
     {
       "basename": "Sorites paradox requires the predicate to have multiple false points and multiple true points along the axis of variation",
@@ -45,20 +73,12 @@
       "path": "media/2dexchange.png"
     },
     {
-      "basename": "2. Topology and Anyons",
-      "path": "Chapters/III. Anyons/2. Topology and Anyons.md"
-    },
-    {
       "basename": "3. Geometric phase",
       "path": "Chapters/III. Anyons/3. Geometric phase.md"
     },
     {
       "basename": "Weird draft",
       "path": "Chapters/III. Anyons/Weird draft.md"
-    },
-    {
-      "basename": "1. Why Anyons?",
-      "path": "Chapters/III. Anyons/1. Why Anyons?.md"
     },
     {
       "basename": "Anyons Todos",
@@ -75,10 +95,6 @@
     {
       "basename": "2. Previous work on infinite idealizations",
       "path": "Chapters/II. Idealizations/2. Previous work on infinite idealizations.md"
-    },
-    {
-      "basename": "3. A New Categorization of Idealization",
-      "path": "Chapters/II. Idealizations/3. A New Categorization of Idealization.md"
     },
     {
       "basename": "1. What Is Idealization, and Why Do We Care?",
@@ -183,22 +199,6 @@
     {
       "basename": "Surjective  or  Onto",
       "path": "Definitions/Surjective  or  Onto.md"
-    },
-    {
-      "basename": "Supervaluationism",
-      "path": "Definitions/Supervaluationism.md"
-    },
-    {
-      "basename": "SO(2)",
-      "path": "Definitions/SO(2).md"
-    },
-    {
-      "basename": "Singular Limit",
-      "path": "Definitions/Singular Limit.md"
-    },
-    {
-      "basename": "Simply Connected",
-      "path": "Definitions/Simply Connected.md"
     }
   ],
   "omittedPaths": [],
