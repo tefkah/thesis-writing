@@ -1,9 +1,0 @@
-{
-  "serverUrl": "https://api.languagetool.org",
-  "urlMode": "standard",
-  "glassBg": true,
-  "shouldAutoCheck": true,
-  "pickyMode": true,
-  "ruleOtherCategories": "TON_ACADEMIC,TEXT_ANALYSIS",
-  "ruleOtherRules": "EN_REPEATEDWORDS,READABILITY_RULE_SIMPLE,READABILITY_RULE_DIFFICULT"
-}
